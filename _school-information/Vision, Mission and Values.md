@@ -11,7 +11,7 @@ Every ACSian a young man of character, capability and creativity
 Anglo-Chinese School (Primary) believes in providing an all-round education in an environment which seeks to bring out the potential in every pupil to the fullest, and to develop in him a strong moral character, imbued with Christian values and principles to guide and prepare him for life ahead.
 
 ##### **Our Shared Values**
-**_i**_ntegrity, **H**umility, **O**bedience, **P**erseverance, **E**mpathy, **F**aithfulness, **U**nity and **L**oyalty (_i_ HOPEFUL)
+**_i_**ntegrity, **H**umility, **O**bedience, **P**erseverance, **E**mpathy, **F**aithfulness, **U**nity and **L**oyalty (_i_ HOPEFUL)
 
 ##### **Our Motto**
 The Best Is Yet To Be
