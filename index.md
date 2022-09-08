@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Anglo Chinese School (Primary)
-      subtitle: Hero subtitle
+      title: Anglo Chinese School
+      subtitle: Primary
       background: /images/hero-banner.png
       key_highlights:
         - title: Affective
