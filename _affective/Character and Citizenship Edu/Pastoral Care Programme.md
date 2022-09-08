@@ -22,4 +22,3 @@ L: Loyalty
 
 ##### **b) Morning Assembly Programme**
 Staff, partners and pupils take turns to share about the _i_ HOPEFUL values during the daily morning assembly. Pupils also share results of achievements and prize giving with the school and share about the school values learnt from the experience.
-
