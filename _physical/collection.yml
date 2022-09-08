@@ -1,0 +1,4 @@
+collections:
+  physical:
+    output: true
+    order: []
