@@ -5,7 +5,8 @@ description: ""
 ---
 ### **School Information**
 
-<img align="left" style="width:35%;margin-right:15px;" src="/images/sch%20info.jpg">##### **General Information**
+<img src="/images/sch%20info.jpg" style="width:30%;margin-right:15px;" align="left">
+##### **General Information**
 **Office hours (School Term)**<br>
 Our General office will remain open from&nbsp;<br>
 Mondays to Fridays,&nbsp;**7.00am to 5.00pm**.
