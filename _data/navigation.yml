@@ -1,6 +1,67 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: School Information
+    url: /school-information/
+    sublinks:
+      - title: School Information
+        url: /school-information/
+      - title: Vision, Mission and Values
+        url: /school-information/vision-mission-values/
+      - title: School History
+        url: /school-information/school-history/
+      - title: School Anthem
+        url: /school-information/school-anthem/
+      - title: The ACS House System
+        url: /school-information/the-acs-house-system/
+      - title: Campus Map
+        url: /school-information/campus-map/
+      - title: School Crest
+        url: /school-information/school-crest/
+      - title: Staff List
+        url: /school-information/staff-list/
+      - title: Form Teachers 2022
+        url: /school-information/form-teachers-2022/
+      - title: Gallery
+        url: /school-information/gallery/
+      - title: News
+        url: /school-information/news/
+      - title: School Rules
+        url: /school-information/school-rules/
+      - title: Personal Data Protect'n Policy
+        url: /school-information/pdlp/
+      - title: Privacy Policy
+        url: /school-information/privacy-policy/
+  - title: Admin Matters
+    url: /admin-matters/learning-management-system/
+    sublinks:
+      - title: Learning Management System
+        url: /admin-matters/learning-management-system/
+      - title: Bookshop
+        url: /admin-matters/bookshop/
+      - title: Calender
+        url: /admin-matters/calender/
+      - title: Dental Clinic
+        url: /admin-matters/dental-clinic/
+      - title: Transit Link Hotline
+        url: /admin-matters/transit-link-hotline/
+      - title: Forms
+        url: /admin-matters/forms/
+      - title: School Uniform
+        url: /admin-matters/school-uniform/
+      - title: School Bus
+        url: /admin-matters/school-bus/
+  - title: Partners
+    url: /partners/introduction/
+    sublinks:
+      - title: Introduction
+        url: /partners/introduction/
+      - title: The ACS Family of Schools
+        url: /partners/acs-family-of-schools/
+      - title: ACS Old Boys' Association
+        url: /partners/acs-old-boys-association/
+      - title: Barker Road Methodist Church
+        url: http://brmc.org.sg/
+      - title: Parent Support Group
+        url: http://acspripsg.net/
+      - title: The ACS Foundation
+        url: http://www.theacsfoundation.org/
