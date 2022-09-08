@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Anglo Chinese School
       subtitle: Primary
-      background: /images/hero-banner.png
+      background: /images/banner2.jpg
       key_highlights:
         - title: Affective
           description: ""
