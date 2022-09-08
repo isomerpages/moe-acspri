@@ -2,4 +2,5 @@ collections:
   publications:
     output: true
     order:
+      - ECHO.md
       - School Magazine.md
