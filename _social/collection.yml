@@ -2,4 +2,5 @@ collections:
   social:
     output: true
     order:
+      - Leadership Development Programme.md
       - Values In Action Programmes.md
