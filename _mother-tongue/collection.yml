@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Chinese/.keep
+      - Malay/Programmes.md
       - Malay/Assessment Matters.md
       - Malay/Others.md
       - Malay/.keep
