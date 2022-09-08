@@ -2,4 +2,5 @@ collections:
   cognitive:
     output: true
     order:
+      - Science/.keep
       - Social Studies/.keep
