@@ -2,5 +2,6 @@ collections:
   cognitive:
     output: true
     order:
+      - Mother Tongue/.keep
       - Science/.keep
       - Social Studies/.keep
