@@ -2,5 +2,6 @@ collections:
   admin-matters:
     output: true
     order:
+      - Forms.md
       - School Uniform.md
       - School Bus.md
