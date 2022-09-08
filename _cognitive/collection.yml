@@ -2,6 +2,7 @@ collections:
   cognitive:
     output: true
     order:
+      - Infocomm Technology/.keep
       - Mathematics/.keep
       - Mother Tongue/.keep
       - Science/.keep
