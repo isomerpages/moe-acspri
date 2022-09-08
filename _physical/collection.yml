@@ -2,4 +2,5 @@ collections:
   physical:
     output: true
     order:
+      - Physical Education/.keep
       - Programme for Active Learning (PAL).md
