@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Staff List.md
       - Form Teachers 2022.md
       - Gallery.md
       - News/2021 News.md
