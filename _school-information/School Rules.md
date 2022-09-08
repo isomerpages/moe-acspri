@@ -46,11 +46,20 @@ A student’s personal conduct contributes to his success in school and to a con
 
 <img src="/images/schrulepic1.jpg" 
      style="width:65%">
+		 
+*   Hair should be short, properly combed and kept neat to present a smart appearance. It should be sloped and not touch the ears and the collar. The fringe should not fall on the forehead or touch the eyebrows
+*   Extreme hairstyles, the use of hair colouring or hair gel are not allowed.
+*   Fingernails must be kept short and clean. Personal Attire An ACSian’s pride in the school is represented by his personal appearance. It is expected of all students always to be neat and proper in their appearance as a mark of respect for the school.
 
+##### **Personal Attire**
+ An ACSian’s pride in the school is represented by his personal appearance. It is expected of all students always to be neat and proper in their appearance as a mark of respect for the school. 
 
+##### **Wearing of Prescribed School Uniform**
+*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed. 
+*    Students are to attend school and school functions in the prescribed school uniform. 
+*    The name tag must be sewn directly above the shirt pocket. Those with leadership appointments e.g. prefects, monitors, sports leaders and subject representatives must wear the badge above the name tag.
 
+<img src="/images/schrulepic2.jpg" 
+     style="width:45%">
 
-
-
-
-
+	 
