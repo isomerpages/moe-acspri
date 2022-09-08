@@ -65,3 +65,12 @@ links:
         url: http://acspripsg.net/
       - title: The ACS Foundation
         url: http://www.theacsfoundation.org/
+  - title: Publications
+    url: /publications/echo/
+    sublinks:
+      - title: ECHO
+        url: /publications/echo/
+      - title: School Magazine
+        url: /publications/school-magazine/
+  - title: Home-Based Learning
+    url: /home-based-learning/
