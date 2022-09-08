@@ -2,6 +2,7 @@ collections:
   cognitive:
     output: true
     order:
+      - Aesthetics/Programmes.md
       - Aesthetics/.keep
       - English Language/English Language.md
       - English Language/Organisation Chart.md
