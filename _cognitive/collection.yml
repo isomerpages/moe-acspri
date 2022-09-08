@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
+      - English Language/Others.md
       - English Language/.keep
       - Gifted Education/Gifted Education.md
       - Gifted Education/Organisation Chart.md
