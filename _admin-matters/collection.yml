@@ -2,6 +2,7 @@ collections:
   admin-matters:
     output: true
     order:
+      - Transit Link Hotline.md
       - Forms.md
       - School Uniform.md
       - School Bus.md
