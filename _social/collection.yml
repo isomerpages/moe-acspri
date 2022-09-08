@@ -2,5 +2,6 @@ collections:
   social:
     output: true
     order:
+      - Co Curricular Activities (CCA)/.keep
       - Leadership Development Programme.md
       - Values In Action Programmes.md
