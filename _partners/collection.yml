@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - The ACS Family of Schools.md
       - ACS Old Boys' Association.md
