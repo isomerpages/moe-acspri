@@ -69,3 +69,13 @@ At ACS (Primary), the following lessons from the Growing Years Programme will be
 | Friends or Foes  |  Is it all safe? | - know that some information (like pornography) received through the Internet may be harmful<br>- know ways to keep themselves safe when using the Internet  | Term 4  |  |
 | How do I keep myself safe?  | Main Task  | - Description of the Main Task:<br>- Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. <br>- These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.  | Term 4   | 
 |
+
+##### **INFORMATION FOR PARENTS**
+
+Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.  
+
+Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents via Parents Gateway.  
+  
+Parents can contact the school at 62501633 (Attn: Mr Vijay) for discussion or to seek clarification about the school’s sexuality education programme.  
+  
+Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
