@@ -4,7 +4,7 @@ permalink: /school-information/school-history/
 description: ""
 ---
 ### **School History**
-##### **How we came about**
+#### **How we came about**
 
 <img src="/images/sch%20history.jpg" style="width:30%;margin-right:15px;" align = "left">
 
@@ -101,4 +101,3 @@ With Mr Koh’s move, Dr Irene Ng, was posted in and took over the headship from
 
 With Jesus Christ at the head of the school and with Bishop Oldham's vision firmly intact, ACS(P) is an embodiment of its school motto, 
 "The Best Is Yet to Be".
-
