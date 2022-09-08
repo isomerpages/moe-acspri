@@ -37,27 +37,27 @@ This Data Protection Policy is intended to assist you in understanding how we co
 
 2.1.9   Supporting Anglo-Chinese School (Primary) functions including, but not restricted to, the teaching and personal and professional development of students, research and administration of Anglo-Chinese School (Primary); 
 
-        2.1.10	Processing and administering applications for overseas exchange programmes, summer school, overseas internships and other overseas activities and administering such programmes including disclosure of information to overseas universities, employing and training organisations; 
+            2.1.10	Processing and administering applications for overseas exchange programmes, summer school, overseas internships and other overseas activities and administering such programmes including disclosure of information to overseas universities, employing and training organisations; 
 
-        2.1.11	Processing, administering and conferring awards of prizes, medals, scholarships, classes of honours and other marks of distinction, and student or graduation status, and publication or releasing of information on the same;
+            2.1.11	Processing, administering and conferring awards of prizes, medals, scholarships, classes of honours and other marks of distinction, and student or graduation status, and publication or releasing of information on the same;
 
-        2.1.12	Engaging alumni including but not limited to notification on Anglo-Chinese School (Primary) and alumni-related initiatives and activities, invitation to Anglo-Chinese School (Primary) and alumni- related events, updating of alumni information, invitation to participate in alumni surveys and sending of communication collaterals; 
+            2.1.12	Engaging alumni including but not limited to notification on Anglo-Chinese School (Primary) and alumni-related initiatives and activities, invitation to Anglo-Chinese School (Primary) and alumni- related events, updating of alumni information, invitation to participate in alumni surveys and sending of communication collaterals; 
 
-        2.1.13	Processing applications and enrolment activities related to health, life and travel insurance and service provision as well as concession cards, and campus accommodation and administering matters related to use of these services;
+            2.1.13	Processing applications and enrolment activities related to health, life and travel insurance and service provision as well as concession cards, and campus accommodation and administering matters related to use of these services;
 
-        2.1.14	Processing applications for and administering local and overseas career related activities, events, programmes, internships, employment opportunities, and career coaching, and sharing information with companies (whether local or overseas) for purposes of recruitment, internship , industrial attachment, job placement and research support;
+            2.1.14	Processing applications for and administering local and overseas career related activities, events, programmes, internships, employment opportunities, and career coaching, and sharing information with companies (whether local or overseas) for purposes of recruitment, internship , industrial attachment, job placement and research support;
 
-        2.1.15	Facilitating participation in student life and alumni development opportunities which may include social, cultural, athletic, and educational activities, events, volunteering and training programmes, student membership and leadership positions in clubs, societies, halls and residences, and orientation/reception activities; 
+            2.1.15	Facilitating participation in student life and alumni development opportunities which may include social, cultural, athletic, and educational activities, events, volunteering and training programmes, student membership and leadership positions in clubs, societies, halls and residences, and orientation/reception activities; 
 
-        2.1.16	Taking of photographs and/or videos (whether by Anglo-Chinese School (Primary) staff or third party photographers and/or videographers) during school programmes, events or seminars organised by Anglo-Chinese School (Primary) or its affiliates for publicity purposes; 
+            2.1.16	Taking of photographs and/or videos (whether by Anglo-Chinese School (Primary) staff or third party photographers and/or videographers) during school programmes, events or seminars organised by Anglo-Chinese School (Primary) or its affiliates for publicity purposes; 
 
-        2.1.17	For record keeping (including and not limited to campus video surveillance, visitor registration);
+            2.1.17	For record keeping (including and not limited to campus video surveillance, visitor registration);
 
-        2.1.18	To provide updates on Anglo-Chinese School (Primary) events;
+            2.1.18	To provide updates on Anglo-Chinese School (Primary) events;
 
-        2.1.19	If consented to in the registration form and/or other methods of consent notification, providing marketing, advertising and promotional information via postal mail, electronic mail, SMS or MMS, fax and/or voice calls; 
+            2.1.19	If consented to in the registration form and/or other methods of consent notification, providing marketing, advertising and promotional information via postal mail, electronic mail, SMS or MMS, fax and/or voice calls; 
 
-        2.1.20	Any other purposes which Anglo-Chinese School (Primary) may inform you of in writing from time to time, but for which Anglo-Chinese School (Primary) will seek your separate consent.
+            2.1.20	Any other purposes which Anglo-Chinese School (Primary) may inform you of in writing from time to time, but for which Anglo-Chinese School (Primary) will seek your separate consent.
 
 2.2   In order to conduct our operations more smoothly, we may also be disclosing the Personal Data you have provided to us to our third party service providers, agents and/or our affiliates or related corporations, which may be sited locally or outside of Singapore, for one or more of the above-stated Purposes. This is because such third party service providers, agents and/or affiliates or related corporations would be processing your Personal Data on our behalf for one or more of the above-stated Purposes.
 
@@ -66,19 +66,19 @@ This Data Protection Policy is intended to assist you in understanding how we co
 
 3.2	In that regard, we will not disclose any of your Personal Data to any third parties without first obtaining your express consent permitting us to do so. However, please note that we may disclose your Personal Data to third parties without first obtaining your consent in certain situations, including, without limitation, the following:
 
-            3.2.1	  Situations in which the disclosure is required based on the applicable laws and/or regulations;
+            3.2.1	  Situations in which the disclosure is required based on the applicable laws and/or regulations;
 
-            3.2.2	  Situations in which the purpose of such disclosure is clearly in your interests and consent cannot be obtained in a timely way;
+            3.2.2	  Situations in which the purpose of such disclosure is clearly in your interests and consent cannot be obtained in a timely way;
 
-            3.2.3	  Situations in which the disclosure is necessary to respond to an emergency that threatens the life, health or safety of yourself or another individual;
+            3.2.3	  Situations in which the disclosure is necessary to respond to an emergency that threatens the life, health or safety of yourself or another individual;
 
-            3.2.4   There are reasonable grounds to believe that the health or safety of yourself or another individual will be seriously affected and consent for the disclosure of the data cannot be obtained in a timely way, provided that we shall, as soon as may be practicable, notify you of the disclosure and the purposes of the disclosure;
+            3.2.4   There are reasonable grounds to believe that the health or safety of yourself or another individual will be seriously affected and consent for the disclosure of the data cannot be obtained in a timely way, provided that we shall, as soon as may be practicable, notify you of the disclosure and the purposes of the disclosure;
 
-            3.2.5	  Situations in which the disclosure is necessary for any investigation or proceedings;
+            3.2.5	  Situations in which the disclosure is necessary for any investigation or proceedings;
 
-            3.2.6	  Situations in which the Personal Data is disclosed to any officer of a prescribed law enforcement agency, upon production of written authorisation signed by the head or director of that law enforcement agency or a person of a similar rank, certifying that the Personal Data is necessary for the purposes of the functions or duties of the officer; and/or
+            3.2.6	  Situations in which the Personal Data is disclosed to any officer of a prescribed law enforcement agency, upon production of written authorisation signed by the head or director of that law enforcement agency or a person of a similar rank, certifying that the Personal Data is necessary for the purposes of the functions or duties of the officer; and/or
 
-            3.2.7  Situations in which the disclosure is to a public agency and such disclosure is necessary in the public interest.
+            3.2.7  Situations in which the disclosure is to a public agency and such disclosure is necessary in the public interest.
 
 3.3    Where Personal Data is disclosed to third parties with your express consent, we will provide for adequate forms of protection over such Personal Data and employ our best efforts to require such third parties to protect your Personal Data in compliance with the PDPA and our data protection policies.
 
@@ -124,4 +124,3 @@ This Data Protection Policy is intended to assist you in understanding how we co
 7.3     We will certainly aim to deal with any complaint, grievance or feedback that you may have efficiently and fairly.  
 
 Last updated on 1st January 2018
-
