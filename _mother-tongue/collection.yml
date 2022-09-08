@@ -4,5 +4,6 @@ collections:
     order:
       - Chinese/.keep
       - Malay/.keep
+      - Tamil/Assessment Matters.md
       - Tamil/Others.md
       - Tamil/.keep
