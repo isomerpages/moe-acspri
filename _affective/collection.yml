@@ -2,4 +2,5 @@ collections:
   affective:
     output: true
     order:
+      - Affective.md
       - Affective Overview/.keep
