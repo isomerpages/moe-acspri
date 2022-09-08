@@ -4,30 +4,29 @@ title: Anglo-Chinese School (Primary)
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Anglo Chinese School (Primary)
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Affective
+          description: ""
+          url: /affective/
+        - title: Cognitive
+          description: ""
+          url: /cognitive/
+        - title: Social
+          description: ""
+          url: /social/
+        - title: Physical
+          description: ""
+          url: /physical/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: The ACS(P) Brand of Education
+      description: "The ACS(P) brand of education is anchored on our Founder, Bishop
+        Oldham’s vision of the ACS philosophy of education. "
+      button: click here
+      url: /acs-brand-of-education/
 ---
-
-
