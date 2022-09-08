@@ -14,6 +14,11 @@ description: ""
 | # | Ms Eileen Seow<br>Vice-Principal<br>(Administr |
 |
 
+![](/images/cher1.jpg)
+![](/images/cher2.jpg)
+![](/images/cher3.jpg)
+![](/images/cher4.jpg)
+
 ##### **Heads of Department/Year Heads**
 
 |  |  |
@@ -33,6 +38,23 @@ description: ""
 | # | Mr Koh Yee Lee<br>Year Head/Upper Primary |
 | # | Mdm Teresa Liew<br>Year Head/Upper Primary |
 |
+
+![](/images/cher5.jpg)
+![](/images/cher6.jpg)
+![](/images/cher7.jpg)
+![](/images/cher8.jpg)
+![](/images/cher9.jpg)
+![](/images/cher10.jpg)
+![](/images/cher11.jpg)
+![](/images/cher12.jpg)
+![](/images/cher13.jpg)
+![](/images/cher14.jpg)
+![](/images/cher15.jpg)
+![](/images/cher16.jpg)
+![](/images/cher17.jpg)
+![](/images/cher18.jpg)
+![](/images/cher41.jpg)
+**uploaded 1-41.**
 
 ##### **Assistant Year Heads/Level Heads/Subject Heads**
 
@@ -187,3 +209,4 @@ description: ""
 |  | Mr Desmond LiewSenior School Counsellor  |
 |  # | Mdm Chan Chee HarPart-time School Counsellor  |
 |
+
