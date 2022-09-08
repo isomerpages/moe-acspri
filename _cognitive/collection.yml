@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
+      - English Language/English Language.md
       - English Language/Organisation Chart.md
       - English Language/Programmes.md
       - English Language/Assessment Matters.md
