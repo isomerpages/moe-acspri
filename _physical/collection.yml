@@ -2,6 +2,7 @@ collections:
   physical:
     output: true
     order:
+      - Physical Education/Physical Education.md
       - Physical Education/Organisation Chart.md
       - Physical Education/Programmes.md
       - Physical Education/Others.md
