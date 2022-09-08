@@ -2,6 +2,7 @@ collections:
   admin-matters:
     output: true
     order:
+      - Calender.md
       - Dental Clinic.md
       - Transit Link Hotline.md
       - Forms.md
