@@ -4,10 +4,9 @@ permalink: /school-information/
 description: ""
 ---
 ### **School Information**
-
-<img align="left" style="width:25%;margin-right:15px;" src="/images/sch%20info.jpg"> 
 ##### **General Information**
-**Office hours (School Term)**<br>
+<img src="/images/sch%20info.jpg" style="width:25%;margin-right:15px;" align="left"> 
+<b>Office hours (School Term)</b><br>
 Our General office will remain open from&nbsp;<br>
 Mondays to Fridays,&nbsp;**7.00am to 5.00pm**.
 
