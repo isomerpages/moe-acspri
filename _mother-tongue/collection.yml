@@ -1,4 +1,5 @@
 collections:
   mother-tongue:
     output: true
-    order: []
+    order:
+      - Tamil/.keep
