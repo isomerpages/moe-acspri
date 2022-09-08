@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Chinese/Chinese.md
       - Chinese/Organisation Chart.md
       - Chinese/Programmes.md
       - Chinese/Assessment Matters.md
