@@ -1,4 +1,5 @@
 collections:
   cognitive:
     output: true
-    order: []
+    order:
+      - Social Studies/.keep
