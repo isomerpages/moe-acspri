@@ -3,7 +3,6 @@ title: Home Based Learning
 permalink: /home-based-learning/
 description: ""
 ---
-
 ### **Home Based Learning**
 ##### **Daily Log In Time**
 
@@ -16,7 +15,7 @@ Please refer to the email sent by the teachers for the daily log in details. 
 
 Should the teacher require you to log in to SLS, please click the link below:
 
-* Singapore Student Learning Space (SLS) Login Window: [SLS Login Window](https://vle.learning.moe.edu.sg/login)
+* Singapore Student Learning Space (SLS) Login Window: [SLS Login Window](https://vle.learning.moe.edu.sg/login)
 
 * [Parents' Guide to Device Use for Home-Based Learning (HBL) & Guide for Zoom Video Conferencing](/files/2021%20Parent%20Guide%20to%20Device%20Use%20for%20Home-Based%20Learning%20ACSP%20website.pdf)
 
