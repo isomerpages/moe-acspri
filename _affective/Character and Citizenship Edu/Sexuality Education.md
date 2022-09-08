@@ -45,7 +45,7 @@ At ACS (Primary), the following lessons from the Growing Years Programme will be
 
 **Primary 5**
 
-| UNIT | LESSONS/ DURATION | Lesson Objectives<br>-<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |  |
+| UNIT | LESSONS/ DURATION | Lesson Objectives<br><br>At the end of the lesson, pupils will be able to: | TIME PERIOD |  |
 |:---:|:---:|:---:|:---:|---|
 | Gosh! I Am Changing	 | What Is Happening To Me? | - know what puberty is<br>- identify the physical changes during puberty | Term 1 |  |
 |  |  What Can I Do? (Part 1) | - identify the stresses caused by physical changes during puberty<br>- describe ways to manage the stresses caused by physical changes during puberty | Term 1 |  |
@@ -57,3 +57,15 @@ At ACS (Primary), the following lessons from the Growing Years Programme will be
 |   | Stop It! Run! Tell! | - protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult<br>- know their responsibilities in minimising the risk of sexual harm  |   Term 4 |  |
 |
 
+**Primary 6**
+
+| UNIT | LESSONS/ DURATION | Lesson Objectives<br><br>At the end of the lesson, pupils will be able to: | TIME PERIOD |  |
+|:---:|:---:|:---:|:---:|---|
+| Are We More Than Friends? | Who Are My Friends? | - identify the qualities of a healthy friendship<br>- recognise the importance of making wise choices in friendship | Term 1 |  |
+|  | Am I A Good Friend? | - identify the qualities that they have as a friend<br>- recognise the importance of developing in oneself the qualities of a good friend | Term 1 |  |
+|   | What is Love?  | - identify the characteristics of love and infatuation<br>- distinguish between the characteristics of love versus infatuation  | Term 2  |  |
+|   |  Am I Falling In Love? | - identify strong feelings arising from infatuation. <br>- manage strong feelings arising from infatuation<br>- identify ways to manage and cope with teasing from peers  |  Term 2 |  |
+|   | Main Task  | - Description of the Main Task:Pupils are to play a game to learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. <br>- They will consider the issues that their peers would face  | Term 3  |  |
+| Friends or Foes  |  Is it all safe? | - know that some information (like pornography) received through the Internet may be harmful<br>- know ways to keep themselves safe when using the Internet  | Term 4  |  |
+| How do I keep myself safe?  | Main Task  | - Description of the Main Task:<br>- Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. <br>- These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.  | Term 4   | 
+|
