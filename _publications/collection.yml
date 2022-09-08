@@ -1,4 +1,5 @@
 collections:
   publications:
     output: true
-    order: []
+    order:
+      - School Magazine.md
