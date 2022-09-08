@@ -60,7 +60,7 @@ A student’s personal conduct contributes to his success in school and to a con
 *    The name tag must be sewn directly above the shirt pocket. Those with leadership appointments e.g. prefects, monitors, sports leaders and subject representatives must wear the badge above the name tag.
 
 <img src="/images/schrulepic2.jpg" 
-     style="width:45%">
+     style="width:35%">
 		 
 ##### **Accessories**
 *    No jewellery, talisman or any form of adornment is to be worn in school. If necessary, it must be kept in the wallet or pocket.
