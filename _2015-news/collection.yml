@@ -1,4 +1,5 @@
 collections:
   2015-news:
     output: true
-    order: []
+    order:
+      - 2015 News Overview.md
