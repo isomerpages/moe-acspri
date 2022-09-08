@@ -2,6 +2,7 @@ collections:
   physical:
     output: true
     order:
+      - Physical Education/Programmes.md
       - Physical Education/Others.md
       - Physical Education/.keep
       - Programme for Active Learning (PAL).md
