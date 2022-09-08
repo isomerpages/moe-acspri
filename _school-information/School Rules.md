@@ -93,7 +93,7 @@ A student’s personal conduct contributes to his success in school and to a con
 
 9\.    The school has the right to remove the student’s privilege to bring his mobile phone/smartwatch to school if he misuses his mobile phone/smartwatch within school premises.
 
-10\. A change in mobile phone/smartwatch will require a new registration. 
+10\. A change in mobile phone/smartwatch will require a [new registration](/files/device%20registration.pdf). 
 
 11\. The school will not be responsible for any loss or damage of the student’s mobile phone/smartwatch.
 
