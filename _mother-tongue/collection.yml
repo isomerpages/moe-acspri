@@ -2,4 +2,5 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Malay/.keep
       - Tamil/.keep
