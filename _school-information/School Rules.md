@@ -61,5 +61,54 @@ A student’s personal conduct contributes to his success in school and to a con
 
 <img src="/images/schrulepic2.jpg" 
      style="width:45%">
+		 
+##### **Accessories**
+*    No jewellery, talisman or any form of adornment is to be worn in school. If necessary, it must be kept in the wallet or pocket.
+*    The school tie must be worn by P5 and P6 students on Mondays. They are to wear it with their uniform - during lessons, from morning assembly till recess. In addition, they are required to wear their tie at all formal school functions.  
+*   House tank tops must be worn during PE lessons.
+*    Corporate T-shirts may be worn on Wednesdays.
+*    Appropriate CCA attire may be worn on days when there are CCA meetings.
+*    All tops must be tucked into the school shorts. P1 and P2 students are allowed to wear Velcro-strapped white shoes. P3 to P6 students must wear white-laced white shoes. Shoes are to be white without other colours on them. Slippers, sandals and track shoes are prohibited for normal school functions unless permission has been granted.
 
-	 
+##### **Mobile Phone / Smartwatch^**
+**^ refers to those that have similar functions as mobile phones.**
+
+**The student must comply with the rules below; failure to do so might result in the removal of the student’s privilege to bring his mobile phone/smartwatch to school.**
+
+1\.    Only mobile phones/smartwatches that are registered with the school are allowed to be used within the school premises.
+
+2\.    Registered mobile phone/smartwatch will be issued with a label by the school. The school has the right to prohibit the usage of any unregistered or unlabelled device.
+
+3\.    The mobile phone/smartwatch must be switched off at all times and kept out of sight during all school activities (i.e lessons, chapel, recess, CCAs and excursions). No mobile phones/ smartwatches are allowed in the examination rooms.
+
+4\.    The student must seek his teacher’s permission before using his mobile phone/smartwatch during school hours.
+
+5\.    The student can only use his mobile phone/smartwatch solely for communicating with his parents / caretakers when allowed to during school hours, or after school hours.
+
+6\.    The student is not allowed to use his mobile phone/smartwatch to take photos or video within the school premises. Gaming and surfing the internet are not allowed.
+
+7\.    Students who fail to abide by the rules will have their mobile phones (including SIM card) /smartwatches confiscated. Confiscated mobile phones/smartwatches can only be collected by student’s parents.
+
+8\.    The school has the right to access the content of the mobile phone/smartwatch in the presence of the student if the school suspects that he has misused his mobile phone/smartwatch.
+
+9\.    The school has the right to remove the student’s privilege to bring his mobile phone/smartwatch to school if he misuses his mobile phone/smartwatch within school premises.
+
+10\. A change in mobile phone/smartwatch will require a new registration. 
+
+11\. The school will not be responsible for any loss or damage of the student’s mobile phone/smartwatch.
+
+##### **Early Release**<br>**Request for Early Release from School**
+
+Pupils may seek for early release from school only for the following reasons:  
+
+*   When he is not feeling well
+*   A special request from his Parent/Guardian 
+*   Participation in Inter-School/National Tournaments and Special Duties
+
+A Parent/Guardian must fill in the details and sign in the “Early Release From School” record book before the pupil can be released.
+
+##### **Early Release from School When Pupil Is Not Feeling Well**
+The pupil first seeks permission from his subject teacher in class. He will then be escorted to the General Office by the Monitor or by a fellow classmate assigned by the teacher. His parents will then be contacted. A pupil who is granted permission to leave school to seek medical attention is required to obtain a medical certificate dated on the day of his early release from school. The medical certificate is to be submitted to his Form Teacher when he returns to school.
+
+##### **Early Release from School by Special Request from Parents/ Guardian**
+Parents/Guardian must write to the Principal to ask for permission for the pupil to be released early from school. The school does not encourage medical appointments during school hours unless it is an emergency.
