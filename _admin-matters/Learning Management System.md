@@ -31,7 +31,3 @@ Saturdays: 9:00 am - 9:00 pm<br>
 Alternatively, students can email the SLS Helpdesk at  [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com).
 
 When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
-
-
-
-
