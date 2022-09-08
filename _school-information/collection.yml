@@ -2,4 +2,5 @@ collections:
   school-information:
     output: true
     order:
+      - Personal Data Protection Policy.md
       - Privacy Policy.md
