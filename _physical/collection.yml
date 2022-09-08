@@ -1,4 +1,5 @@
 collections:
   physical:
     output: true
-    order: []
+    order:
+      - Programme for Active Learning (PAL).md
