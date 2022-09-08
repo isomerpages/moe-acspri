@@ -2,6 +2,7 @@ collections:
   social:
     output: true
     order:
+      - 6 Year Lifeskill Programme.md
       - Citizenship Programme.md
       - Co Curricular Activities (CCA)/.keep
       - Leadership Development Programme.md
