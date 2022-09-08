@@ -1,4 +1,5 @@
 collections:
   admin-matters:
     output: true
-    order: []
+    order:
+      - School Bus.md
