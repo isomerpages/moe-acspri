@@ -16,13 +16,15 @@ The ACSian lies at the heart of the ACS(P) brand of education; every programme 
 To realise our vision, the school hopes to develop in our young ACS(P) gentlemen four traits; these are the _i_HOPEFUL Leader, a Creative Learner, an Effective Communicator and a Community Collaborator.
 
 At ACS (Primary), we also offer the [Gifted Education Programme](https://acspri.moe.edu.sg/cognitive/gifted-education) that covers the mainstream core syllabus in greater depth and breadth, providing enrichment in terms of the content, process, product and learning environment to develop intellectual rigour and character.  
-<p><a href="https://scmobile.moe.edu.sg/login">
+<p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2020/">
 <img style="width:25%" src="/images/news.jpg">
 </a></p>
 
-<p><a href="https://scmobile.moe.edu.sg/login">
+<p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/gallery/">
 <img style="width:25%" src="/images/gallery.jpg">
 </a></p>
+
+Please click [here](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/gallery/) for Gallery
 
 ![](/images/news.jpg)
 ![](/images/gallery.jpg)
