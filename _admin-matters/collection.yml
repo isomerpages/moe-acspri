@@ -1,0 +1,4 @@
+collections:
+  admin-matters:
+    output: true
+    order: []
