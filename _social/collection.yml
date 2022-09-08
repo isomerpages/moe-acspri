@@ -1,4 +1,5 @@
 collections:
   social:
     output: true
-    order: []
+    order:
+      - Values In Action Programmes.md
