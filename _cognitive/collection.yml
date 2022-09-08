@@ -2,6 +2,7 @@ collections:
   cognitive:
     output: true
     order:
+      - Aesthetics/.keep
       - English Language/.keep
       - Gifted Education/.keep
       - Infocomm Technology/.keep
