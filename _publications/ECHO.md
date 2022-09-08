@@ -9,5 +9,5 @@ ECHO is a quarterly publication which provides parents and stakeholders with per
 Click on the icon below to view the digital copies.
 
 <p><a href="https://acsecho.com/">
-<img style="width:35%" src="/images/Digital%20Echo%20Icon.jpg" align=left>
+<img style="width:25%" src="/images/Digital%20Echo%20Icon.jpg" align=left>
 </a></p>
