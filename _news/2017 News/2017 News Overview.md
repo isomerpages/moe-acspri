@@ -42,7 +42,7 @@ third_nav_title: 2017 News
   
 [Football News](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2017/football-news/)
   
-[National Primary Schools Swimming Championships 2017](**miss out**
+[National Primary Schools Swimming Championships 2017](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2017/national-primary-schools-swimming-championships/)
   
 [National Spelling Championship 2017](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2017/national-spelling-championship-2017/)
   
