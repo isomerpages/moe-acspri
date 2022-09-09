@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - P1 Orientation 2018.md
       - 2021 News.md
       - 2020 News.md
       - 2017 News/.keep
