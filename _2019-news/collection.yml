@@ -1,4 +1,5 @@
 collections:
   2019-news:
     output: true
-    order: []
+    order:
+      - Financial Literacy Programme for P4.md
