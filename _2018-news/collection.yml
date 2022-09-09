@@ -2,6 +2,7 @@ collections:
   2018-news:
     output: true
     order:
+      - Racial Harmony Day 2018.md
       - English Language Fortnight.md
       - Thanksgiving Dinner 2018.md
       - International Friendship Day 2018.md
