@@ -22,7 +22,7 @@ sections:
           url: /social/
         - title: Physical
           description: ""
-          url: /physical/pe/
+          url: /physical/
   - infobar:
       title: The ACS(P) Brand of Education
       description: "The ACS(P) brand of education is anchored on our Founder, Bishop
