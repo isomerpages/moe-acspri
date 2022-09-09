@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - National Day Celebrations.md
       - The National Education (NE) Show 2018.md
       - Racial Harmony Day 2018.md
       - English Language Fortnight.md
