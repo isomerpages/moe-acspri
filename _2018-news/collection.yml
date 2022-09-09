@@ -2,6 +2,7 @@ collections:
   2018-news:
     output: true
     order:
+      - Prefect's Investiture 2018.md
       - CARE Week 2018.md
       - P1 Orientation 2018.md
       - 2018 News/.keep
