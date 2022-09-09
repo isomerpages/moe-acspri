@@ -30,20 +30,20 @@ The cognitive domain involves knowledge and the development of intellectual skil
 <img style="width:26%" src="/images/cognitive.jpg" align=left>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/mathematics/">
-<img style="width:28%" src="images/mathematics.jpg" align=left>
+<img style="width:28%" src="/images/math.jpg" align=left>
 </a></p>
 
 <br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/mother-tongue/chinese/">
-<img style="width:25%" src="images/mother%20tongue.jpg" align=left>
+<img style="width:25%" src="/images/mtl.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/science/">
-<img style="width:25.5%" src="images/science.jpg" align=left>
+<img style="width:25.5%" src="/images/sci.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/social-studies/">
-<img style="width:28%" src="images/social%20studies.jpg" align=left>
+<img style="width:28%" src="/images/social%20studies.jpg" align=left>
 </a></p>
