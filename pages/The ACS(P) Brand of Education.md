@@ -19,11 +19,11 @@ At ACS (Primary), we also offer the [Gifted Education Programme](https://staging
 
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2021/">
-<img style="width:25%" src="/images/news.jpg" align=left>
+<img style="width:30%" src="/images/news.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/gallery/">
-<img style="width:25%" src="/images/gallery.jpg" align=left>
+<img style="width:30%" src="/images/gallery.jpg" align=left>
 </a></p>
 
 <br>
