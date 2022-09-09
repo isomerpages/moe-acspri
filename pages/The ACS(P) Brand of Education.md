@@ -17,8 +17,7 @@ To realise our vision, the school hopes to develop in our young ACS(P) gentlemen
 
 At ACS (Primary), we also offer the [Gifted Education Programme](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/gifted-education/) that covers the mainstream core syllabus in greater depth and breadth, providing enrichment in terms of the content, process, product and learning environment to develop intellectual rigour and character.  
 
-<p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2021/">
-<img style="width:25%" src="/images/news.jpg"align=left>
+<p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2021/"><img style="width:25%" src="/images/news.jpg"align=left>
 </a></p>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/gallery/">
