@@ -12,3 +12,6 @@ ACS(P) VIA programme consists of age-appropriate activities for all the pupils t
 *  Peer/School
 * Community/Nation/World
 
+<img style="width:75%" src="/images/via1.jpg">
+
+
