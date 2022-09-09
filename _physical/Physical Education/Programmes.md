@@ -32,4 +32,4 @@ Pupils who display greater potential will be invited to join the Bowling (School
 *   The Sports and Games module aims to develop communicative skills and teamwork among P2 pupils through various enjoyable games.
 
 ##### **Programme for Active Learning (Outdoor Education)**
-The Outdoor Education module emphasises on development of interpersonal skills, relationship management and responsible decision-making competencies for P1 pupils.
+* The Outdoor Education module emphasises on development of interpersonal skills, relationship management and responsible decision-making competencies for P1 pupils.
