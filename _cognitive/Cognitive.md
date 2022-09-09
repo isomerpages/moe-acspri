@@ -28,7 +28,7 @@ The cognitive domain involves knowledge and the development of intellectual skil
 </a></p>
 
 <img style="width:32.5%" src="/images/cognitive.jpg" align=left>
-
+<br>
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/mathematics/">
 <img style="width:34.5%" src="images/mathematics.jpg" align=left>
 </a></p>
