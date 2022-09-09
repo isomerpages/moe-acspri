@@ -2,6 +2,7 @@ collections:
   2019-news:
     output: true
     order:
+      - 2019 News/2019 News Overview.md
       - 2019 News/A Safe, Strong Singapore.md
       - 2019 News/MTL Fortnight and Concert.md
       - 2019 News/Our ACS Ties Abroad.md
