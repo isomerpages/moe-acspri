@@ -2,6 +2,7 @@ collections:
   2019-news:
     output: true
     order:
+      - A Safe, Strong Singapore.md
       - MTL Fortnight and Concert.md
       - Our ACS Ties Abroad.md
       - Learning Journey on Road Safety.md
