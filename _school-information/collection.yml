@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - News/.keep
       - School Information.md
       - Vision, Mission and Values.md
       - School History.md
@@ -13,6 +12,7 @@ collections:
       - Staff List.md
       - Form Teachers 2022.md
       - Gallery.md
+      - News/.keep
       - School Rules.md
       - Personal Data Protection Policy.md
       - Privacy Policy.md
