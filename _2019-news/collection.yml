@@ -2,4 +2,5 @@ collections:
   2019-news:
     output: true
     order:
+      - 133rd Founder's Day.md
       - Financial Literacy Programme for P4.md
