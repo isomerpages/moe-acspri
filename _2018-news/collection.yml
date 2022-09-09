@@ -1,5 +1,5 @@
 collections:
-  news:
+  2018-news:
     output: true
     order:
       - 2018 News/.keep
