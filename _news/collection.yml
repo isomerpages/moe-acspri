@@ -1,5 +1,5 @@
 collections:
-  2019-news:
+  news:
     output: true
     order:
       - 2019 News/2019 News Overview.md
