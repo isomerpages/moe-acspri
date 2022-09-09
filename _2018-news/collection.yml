@@ -2,6 +2,7 @@ collections:
   2018-news:
     output: true
     order:
+      - Thanksgiving Dinner 2018.md
       - International Friendship Day 2018.md
       - ACS Jakarta P5 Exchange Programme.md
       - Visit by KB Filosofia School.md
