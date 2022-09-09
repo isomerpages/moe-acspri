@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - News/.keep
       - School Information.md
       - Vision, Mission and Values.md
       - School History.md
