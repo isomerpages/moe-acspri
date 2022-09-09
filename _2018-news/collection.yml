@@ -2,6 +2,7 @@ collections:
   2018-news:
     output: true
     order:
+      - 50th Annual Swimming Meet.md
       - Prefect's Investiture 2018.md
       - CARE Week 2018.md
       - P1 Orientation 2018.md
