@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - ACS Jakarta P5 Exchange Programme.md
       - Visit by KB Filosofia School.md
       - 132nd Founders' Day and Ground Blessing Service.md
       - Lunar New Year Celebrations 2018.md
