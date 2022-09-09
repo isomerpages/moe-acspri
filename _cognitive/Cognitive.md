@@ -9,43 +9,41 @@ The cognitive domain involves knowledge and the development of intellectual skil
 <img style="width:75%" src="/images/cognitive%20framework.jpg">
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/aesthetics/">
-<img style="width:32.5%" src="/images/aesthetics.jpg" align=left>
+<img style="width:25%" src="/images/aesthetics.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/english-language/">
-<img style="width:32.5%" src="/images/english.jpg" align=left>
+<img style="width:25%" src="/images/english.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/gifted-education/">
-<img style="width:34%" src="/images/gifted%20edu.jpg" align=left>
+<img style="width:26.5%" src="/images/gifted%20edu.jpg" align=left>
 </a></p>
 
 <br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/infocomm-technology/">
-<img style="width:32.5%" src="/images/ict.jpg" align=left>
+<img style="width:25%" src="/images/ict.jpg" align=left>
 </a></p>
 
-<img style="width:32.5%" src="/images/cognitive.jpg" align=left>
-<br>
+<img style="width:26%" src="/images/cognitive.jpg" align=left>
+
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/mathematics/">
-<img style="width:34.5%" src="images/mathematics.jpg" align=left>
+<img style="width:28%" src="images/mathematics.jpg" align=left>
 </a></p>
 
 <br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/mother-tongue/chinese/">
-<img style="width:32.5%" src="images/mother%20tongue.jpg" align=left>
+<img style="width:25%" src="images/mother%20tongue.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/science/">
-<img style="width:32.5%" src="images/science.jpg" align=left>
+<img style="width:25.5%" src="images/science.jpg" align=left>
 </a></p>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/social-studies/">
-<img style="width:35%" src="images/social%20studies.jpg" align=left>
+<img style="width:28%" src="images/social%20studies.jpg" align=left>
 </a></p>
-
-
