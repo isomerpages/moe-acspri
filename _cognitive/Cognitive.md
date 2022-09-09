@@ -21,7 +21,6 @@ The cognitive domain involves knowledge and the development of intellectual skil
 </a></p>
 
 <br><br><br>
-<br><br><br>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/infocomm-technology/">
 <img style="width:25%" src="/images/ict.jpg" align=left>
@@ -33,7 +32,6 @@ The cognitive domain involves knowledge and the development of intellectual skil
 <img style="width:28%" src="/images/math.jpg" align=left>
 </a></p>
 
-<br><br><br>
 <br><br><br>
 
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/mother-tongue/chinese/">
