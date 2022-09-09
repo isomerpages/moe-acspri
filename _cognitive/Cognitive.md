@@ -47,3 +47,5 @@ The cognitive domain involves knowledge and the development of intellectual skil
 <p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/social-studies/">
 <img style="width:35%" src="images/social%20studies.jpg" align=left>
 </a></p>
+
+
