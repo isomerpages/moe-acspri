@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2021 News.md
-      - 2020 News.md
       - 2019 News/.keep
       - 2019 News/2019 News Overview.md
       - 2019 News/A Safe, Strong Singapore.md
