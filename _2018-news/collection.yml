@@ -2,6 +2,7 @@ collections:
   2018-news:
     output: true
     order:
+      - Lunar New Year Celebrations 2018.md
       - Total Defence Day 2018.md
       - 50th Annual Swimming Meet.md
       - Prefect's Investiture 2018.md
