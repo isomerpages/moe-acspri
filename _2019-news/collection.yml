@@ -2,9 +2,6 @@ collections:
   2019-news:
     output: true
     order:
-      - Lunar New Year.md
-      - 133rd Founder's Day.md
-      - Financial Literacy Programme for P4.md
       - 2019 News Overview.md
       - A Safe, Strong Singapore.md
       - MTL Fortnight and Concert.md
@@ -14,3 +11,6 @@ collections:
       - Prefects' Investiture.md
       - P4 GE SS Learning Journey to Fort Canning.md
       - 51st Annual Swimming Meet.md
+      - Lunar New Year.md
+      - 133rd Founder's Day.md
+      - Financial Literacy Programme for P4.md
