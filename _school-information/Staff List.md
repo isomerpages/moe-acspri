@@ -7,7 +7,7 @@ description: ""
 ##### **School Leaders**
 
 |  	|  	|
-|---	|---	|
+|---|---|
 | <img src="/images/cher1.jpg" style="width:20%"> 	| [Mrs Leong- Ho Hil May](mailto:ho_hil_may@schools.gov.sg)<br>Principal 	|
 | <img src="/images/cher2.jpg" style="width:20%"> 	| [Mrs Celia Lau](mailto:celia_choh@schools.gov.sg)<br>Vice-Principal 	|
 | <img src="/images/cher3.jpg" style="width:20%"> 	| [Mr Max Chua](mailto:chua_thian_keong@schools.gov.sg)<br>Vice-Principal 	|
