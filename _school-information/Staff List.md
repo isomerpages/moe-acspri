@@ -47,6 +47,39 @@ description: ""
 </tbody>
 </table>
 
+<style type="text/css">  
+.tg  {border-collapse:collapse;border-spacing:0;}  
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;  
+  overflow:hidden;padding:10px 5px;word-break:normal;}  
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;  
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}  
+.tg .tg-abkp{background-color:#F5F5F5;color:#4B4B4B;text-align:left;vertical-align:top}  
+.tg .tg-9t3f{background-color:#F5F5F5;color:#4B4B4B;text-align:center;vertical-align:top}  
+.tg .tg-fh0b{background-color:#F5F5F5;color:#9A0000;text-align:left;vertical-align:top}  
+</style>  
+<table class="tg">  
+<thead>  
+  <tr>  
+    <th class="tg-9t3f"><img src="[https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/DSC05954.jpg](https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/DSC05954.jpg)" alt="DSC05954.jpg" width="123"></th>  
+    <th class="tg-fh0b"><a href="mailto:[ho\_hil\_may@schools.gov.sg](mailto:ho_hil_may@schools.gov.sg)"><span style="text-decoration:none;color:#9A0000">Mrs Leong- Ho Hil May</span></a><br>Principal<br></th>  
+  </tr>  
+</thead>  
+<tbody>  
+  <tr>  
+    <td class="tg-9t3f"><img src="[https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2002%20MRS%20CELIA%20LAU.jpg](https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2002%20MRS%20CELIA%20LAU.jpg)" alt="SCHOOL LEADERS 02 MRS CELIA LAU.jpg" width="123"></td>  
+    <td class="tg-abkp"><br><a href="mailto:[celia\_choh@schools.gov.sg](mailto:celia_choh@schools.gov.sg)"><span style="text-decoration:none;color:#9A0000">Mrs Celia Lau</span></a><br>Vice-Principal</td>  
+  </tr>  
+  <tr>  
+    <td class="tg-9t3f"><img src="[https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2003%20MR%20MAX%20CHUA.jpg](https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2003%20MR%20MAX%20CHUA.jpg)" alt="SCHOOL LEADERS 03 MR MAX CHUA.jpg" width="123"></td>  
+    <td class="tg-fh0b"><a href="mailto:[chua\_thian\_keong@schools.gov.sg](mailto:chua_thian_keong@schools.gov.sg)"><span style="text-decoration:none;color:#9A0000">Mr Max Chua</span></a><br>Vice-Principal</td>  
+  </tr>  
+  <tr>  
+    <td class="tg-9t3f"><img src="[https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2004%20MS%20SEOW%20LAY%20YEN%20EILEEN.jpg](https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2004%20MS%20SEOW%20LAY%20YEN%20EILEEN.jpg)" alt="SCHOOL LEADERS 04 MS SEOW LAY YEN EILEEN.jpg" width="123"></td>  
+    <td class="tg-fh0b"><a href="mailto:[seow\_lay\_yen@schools.gov.sg](mailto:seow_lay_yen@schools.gov.sg)"><span style="text-decoration:none;color:#9A0000">Ms Eileen Seow</span></a><br>Vice-Principal<br>(Administration)</td>  
+  </tr>  
+</tbody>  
+</table>
+
 ##### **Heads of Department/Year Heads**
 
 |  |  |
