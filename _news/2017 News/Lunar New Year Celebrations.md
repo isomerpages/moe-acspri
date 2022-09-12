@@ -11,4 +11,3 @@ Pupils came in traditional Chinese costumes to celebrate the Lunar New Year. The
   
 Mr Ang Ong Whee<br>
 Teacher-in-charge
-
