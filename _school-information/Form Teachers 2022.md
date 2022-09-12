@@ -53,14 +53,89 @@ description: ""
 
 ##### **Primary 3**
 
-
+| Class | Name & Email | Photo |
+|:---:|:---:|:---:|
+| 3A | Mr Colin Sim <br> [sim_yaowen_colin@moe.edu.sg](mailto:sim_yaowen_colin@moe.edu.sg)   | # |
+| 3A | Miss Ho Yong Ying <br> [ho_yong_ying@moe.edu.sg](mailto:ho_yong_ying@moe.edu.sg)    | # |
+| 3B | Ms Jessica Goh <br> [goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg)  | # |
+| 3B | Ms Jessica Lai <br> [jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)  | # |
+| 3B | Mr Goh Teoh Chuan (Richard) <br> [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg) | # |
+| 3C | Mr Lau Mun Yip Benny <br> [lau_mun_yip_benny@moe.edu.sg](mailto:lau_mun_yip_benny@moe.edu.sg)  | # |
+| 3C  | Mdm Teo Chin Wen<br>  [teo_chin_wen@moe.edu.sg](mailto:teo_chin_wen@moe.edu.sg) | # |
+| 3D | Mr Vijayakumaran G <br> [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  | # |
+| 3D  | Ms Huang Li <br> [Huang_li@moe.edu.sg](mailto:Huang_li@moe.edu.sg)  | # |
+| 3E | Mr Adrian Kum <br> [kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg) | # |
+| 3E | Mr Caleb Chua <br> [caleb_chua@moe.edu.sg](mailto:caleb_chua@moe.edu.sg) | # |
+| 3F | Mrs Dawn Wee <br> [wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg) | # |
+| 3F | Ms  Angeline Ong <br> [ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg) | # |
+| 
 
 ##### **Primary 4**
 
-
+| Class | Name & Email | Photo |
+|:---:|:---:|:---:|
+|  4A | Mrs Angeline Yung <br> [chan_xiuwen@moe.edu.sg](mailto:chan_xiuwen@moe.edu.sg) | # |
+|  4A | Miss Tam Xin Yi <br> [tam_xin_yi@moe.edu.sg](mailto:tam_xin_yi@moe.edu.sg) | # |
+|  4A | Ms	Lum Yick Thim <br> [lum_yick_thim@moe.edu.sg](mailto:lum_yick_thim@moe.edu.sg) | # |
+|  4B | Mrs Gladys Lim <br>  [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) | # |
+|  4B | Miss Ho Hui Xin <br> [ho_hui_xin@moe.edu.sg](mailto:ho_hui_xin@moe.edu.sg) | # |
+| 4C | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | # |
+|  4C | Mrs Vanessa Lim <br> [lee_hui_cher_vanessa@moe.edu.sg](mailto:lee_hui_cher_vanessa@moe.edu.sg) | # |
+|  4D | Mrs Yap Sharron <br> [tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg) | # |
+|  4D | Mr Tan Poo Loy <br> [tan_poo_loy@moe.edu.sg](mailto:tan_poo_loy@moe.edu.sg) | # |
+|  4E | Miss Mazeedah M Azmi <br> [mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg) | # |
+|  4E | Mr	Benedict Yap <br> [benedict_yap_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg) | # |
+|  4F | Mdm Punitha Kasipandy <br> [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)  | # |
+|  4F | Mdm Loh Su Hian <br> [loh_su_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg) | # |
+|  4G | Mdm Renuka Devi Windersalam<br>  [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | # |
+|  4G | Miss Fong Wui Yen <br> [fong_wui_yen_a@moe.edu.sg](mailto:fong_wui_yen_a@moe.edu.sg) | # |
+|  4H |  Mdm Li Chunju <br> [li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg) | # |
+|  4H | Mr Stanley Yeo <br> [yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg) | # |
+| 
 
 ##### **Primary 5**
 
-
+| Class | Name & Email | Photo |
+|:---:|:---:|:---:|
+|  5A | Mr	Ho Shin Hoo <br> ho_shin_hoo@moe.edu.sg  | # |
+|  5A | Mrs Jess Teng <br> jess_teng-chong_su_hwa@moe.edu.sg | # |
+|  5A | Mr Tan Yew Chai <br> tan_yew_chai@moe.edu.sg | # |
+|  5B | Mrs Koay Gui Mei <br> he_guimei@moe.edu.sg      | # |
+|  5B | Mr	Lim Wee Meng Kelvin <br> lim_wee_meng_kelvin@moe.edu.sg  | # |
+|  5C | Mdm Jenn Ang <br> jenn_ang@moe.edu.sg | # |
+|  5C | Mr	Seow Kian Yong <br> seow_kian_yong@moe.edu.sg | # |
+|  5D | Mdm Ida Nonanseh Abdul Rahman <br> ida_nonanseh_abdul_rahman@moe.edu.sg | # |
+|  5D | Mrs Christina Tan <br> lim_peck_hwee_christina@moe.edu.sg | # |
+| 5E | Ms Siti Nurjannah <br> siti_nurjannah_saaet@moe.edu.sg  | # |
+|  5E | Mrs Geraldine Ortega <br> geraldine_ortega@moe.edu.sg | # |
+|  5F | Mdm Heng Siok Pheng <br> heng_siok_pheng@moe.edu.sg | # |
+|  5F | Mr Kelvin Chan Yong Meng <br> kelvin_chan_yong_meng@moe.edu.sg | # |
+|  5G | Mdm Chiew Hwee Ling <br> chiew_hwee_ling@moe.edu.sg | # |
+| 5G | Mdm Jillianne Chew <br>  jillianne_chew_li_ing@moe.edu.sg  | # |
+|  5H | Ms Luo Cuixin <br> luo_cuixin@moe.edu.sg  | # |
+|  5H | Mr Chan Tai Yao <br> chan_tai_yao@moe.edu.sg  | # |
+| 
 
 ##### **Primary 6**
+
+| Class | Name & Email | Photo |
+|:---:|:---:|:---:|
+| 6A | Ms	Ong Aubrey <br> ong_pei_khim_aubrey@moe.edu.sg   | # |
+| 6A | Ms	Woon Yuet Meng <br>  woon_yuet_meng@moe.edu.sg | # |
+| 6B | Miss Kogilavani Vathumalai <br> kogilavani_vathumalai@moe.edu.sg  | # |
+| 6B | Miss Tay Kwee Hong (Diana) <br> tay_kwee_hong@moe.edu.sg  | # |
+| 6C | Mrs Toh Shirley<br> katherine_shirley_shanti_doray@moe.edu.sg | # |
+| 6C | Mdm Suzanna Hashim <br> suzanna_hashim@moe.edu.sg | # |
+|  6D | Mrs Farisa Hussain<br>  farisa_begame_abdul_salam@moe.edu.sg  | # |
+|  6D | Mr	Leon Ho Yoong Kian <br> ho_yoong_kian@moe.edu.sg | # |
+|  6E | Mr Tan Loon Kiat Edwin<br> tan_loon_kiat_edwin@moe.edu.sg | # |
+| 6E  | Mr	Koh Chaik Khoon <br> koh_chaik_khoon@moe.edu.sg  | # |
+|  6E  | Mdm Tan Yoke Joo<br>  tan_yoke_joo@moe.edu.sg | # |
+|  6F | Mdm Anna Asha Mohan <br> anna_asha_mohan@moe.edu.sg | # |
+| 6F |  Mdm Chui Yuen Phun<br> chui_yuen_phun@moe.edu.sg    | # |
+|  6F | Ms	Tan Bee Choo Vanessa <br> tan_bee_choo_b@moe.edu.sg  | # |
+| 6G | Mr Wan Mohamed <br> wan_mohamed@moe.edu.sg  | # |
+| 6G | Mdm Jasmine Kaur <br> jasmine_kaur@moe.edu.sg  | # |
+| 6H  | Mdm Chan Wai Kin <br> chan_wai_kin@moe.edu.sg | # |
+|  6H | Ms Chua Nyap Kin Aminda <br> aminda_chua_nyap_kin@moe.edu.sg  | # |
+|
