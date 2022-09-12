@@ -54,7 +54,7 @@ description: ""
 ![](/images/cher17.jpg)
 ![](/images/cher18.jpg)
 ![](/images/cher41.jpg)
-<img src="/images/cher41.jpg" style="width:15%">
+<img src="/images/cher41.jpg" style="width:20%">
 ![](/images/cher102.jpeg)
 
 
