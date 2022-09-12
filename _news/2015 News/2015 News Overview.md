@@ -27,6 +27,8 @@ third_nav_title: 2015 News
   
 [The Standard Chartered Bank - Singapore Rugby Union Under 11 Tournament 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/scb-singapore-rugby/)
   
+[Earth Day 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/)	
+	
 [Green Wave 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/green-wave/)
   
 [Innergy Award 2015 - P1 and P2 Fun Day](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/innergy-award/)
