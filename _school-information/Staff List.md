@@ -58,6 +58,7 @@ description: ""
 ![](/images/cher102.jpeg)
 <img src="/images/cher102.jpeg" style="width:25%">
 
+![](/images/cher112.jpg)
 
 
 
@@ -184,6 +185,11 @@ description: ""
 | # | Mr Richard Goh<br>AED/T&L |
 |
 
+![](/images/cher113.jpg)
+![](/images/cher114.jpg)
+![](/images/cher115.jpg)
+![](/images/cher116.jpg)
+
 ##### **Executive and Administration Staff**
 
 |  |  |
@@ -207,6 +213,9 @@ description: ""
 | #<br> | Ms Asiah Bibi Binte Ali<br>Corporate Support Officer  |
 |
 
+![](/images/admin1.jpg)
+![](/images/admin17.jpg)
+
 ##### **School Counsellor**
 
 |  |  |
@@ -214,3 +223,6 @@ description: ""
 |  | Mr Desmond LiewSenior School Counsellor  |
 |  # | Mdm Chan Chee HarPart-time School Counsellor  |
 |
+
+![](/images/counsellor1.jpg)
+![](/images/counsellor2.jpg)
