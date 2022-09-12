@@ -14,6 +14,8 @@ third_nav_title: 2015 News
 [Future Problem Solving Programme (FPSP) Singapore Finals 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/fpsp/)
   
 [Children's Day Celebration 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/cdc/)
+
+[Teacher's Day Celebration 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/teachers-day-celebration/)
   
 [National Day Celebrations 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/ndp/)
   
@@ -92,4 +94,3 @@ third_nav_title: 2015 News
 [THEN & NOW – A ONE ACS SG50 ACtS Initiative (2015)](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/acs-sg50-initiative/)
   
 [47th Annual Swim Meet 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/47th-annual-swim-meet/)
-
