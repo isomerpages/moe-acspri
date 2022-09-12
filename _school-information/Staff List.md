@@ -8,10 +8,10 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-|<img src="/images/cher1.jpg" style="width:10%"> 	| [Mrs Leong- Ho Hil May](mailto:ho_hil_may@schools.gov.sg)<br>Principal 	|
-|<img src="/images/cher2.jpg" style="width:10%"> 	| [Mrs Celia Lau](mailto:celia_choh@schools.gov.sg)<br>Vice-Principal 	|
-|<img src="/images/cher3.jpg" style="width:10%"> 	| [Mr Max Chua](mailto:chua_thian_keong@schools.gov.sg)<br>Vice-Principal 	|
-|<img src="/images/cher4.jpg" style="width:10%"> 	| [Ms Eileen Seow](mailto:seow_lay_yen@schools.gov.sg)<br>Vice-Principal<br>(Administr 	|
+| <img src="/images/cher1.jpg" style="width:20%"> 	| [Mrs Leong- Ho Hil May](mailto:ho_hil_may@schools.gov.sg)<br>Principal 	|
+| <img src="/images/cher2.jpg" style="width:20%"> 	| [Mrs Celia Lau](mailto:celia_choh@schools.gov.sg)<br>Vice-Principal 	|
+| <img src="/images/cher3.jpg" style="width:20%"> 	| [Mr Max Chua](mailto:chua_thian_keong@schools.gov.sg)<br>Vice-Principal 	|
+| <img src="/images/cher4.jpg" style="width:20%"> 	| [Ms Eileen Seow](mailto:seow_lay_yen@schools.gov.sg)<br>Vice-Principal<br>(Administr 	|
 |  	|  	|
 
 ##### **Heads of Department/Year Heads**
@@ -42,15 +42,15 @@ description: ""
 
 |  |  |
 |---|---|
-|  | Mrs Janis Pavia<br>Assistant Year Head/Lower Primary |
-| # | Ms Aubrey Ong<br>Assistant Year Head/Upper Primary |
-| # | Miss Tam Xin Yi<br>Assistant Year Head/Upper Primary |
-| # | Mdm Chiew Hwee Ling<br>Level Head/Chinese Language |
-| # | Mdm Jasmine Kaur<br>Level Head/English |
-| # | Mdm Anna Asha MohanSubject Head/Aesthetics |
-| # | Mr Edwin Tan<br>Subject Head/CCA |
-| # | Ms Jessica Goh <br>Subject Head/Math |
-| # | Mdm Chan Wai Kin<br>Level Head/Chinese Language |
+|  | [Mrs Janis Pavia](mailto:lau_kah_ling_janis@moe.edu.sg)<br>Assistant Year Head/Lower Primary |
+| # |[Ms Aubrey Ong](mailto:ong_pei_khim_aubrey@moe.edu.sg)<br>Assistant Year Head/Upper Primary |
+| # | [Miss Tam Xin Yi](mailto:tam_xin_yi@moe.edu.sg)<br>Assistant Year Head/Upper Primary |
+| # |[Mdm Chiew Hwee Ling](mailto:chiew_hwee_ling@moe.edu.sg)<br>Level Head/Chinese Language |
+| # | [Mdm Jasmine Kaur](mailto:jasmine_kaur@moe.edu.sg)<br>Level Head/English |
+| # | [Mdm Anna Asha Mohan](mailto:anna_asha_mohan@moe.edu.sg)<br>Subject Head/Aesthetics |
+| # | [Mr Edwin Tan](mailto:tan_loon_kiat_edwin@moe.edu.sg)<br>Subject Head/CCA |
+| # | [Ms Jessica Goh](mailto:goh_siow_hwee@schools.gov.sg) <br>Subject Head/Math |
+| # | [Mdm Chan Wai Kin](mailto:chan_wai_kin@moe.edu.sg)<br>Level Head/Chinese Language |
 |
 
 <img src="/images/cher19.jpg" style="width:20%">
@@ -60,16 +60,16 @@ description: ""
 
 |  |  |
 |---|---|
-|  | Mdm Chui Yuen Phun<br>Lead Teacher/English |
-| # | Mr Terry Tan<br>Lead Teacher/Mathematics |
-| # | Miss Kogilavani Vathumalai<br>Lead Teacher/Tamil Language |
-| # | Mrs Sharron Yap<br>Senior Teacher/Art |
-| # | Mdm Ida Nonanseh Abdul Rahman<br>Senior Teacher/English |
-| # | Mrs Farisa Hussain<br>Senior Teacher/Mathematics |
-| # | Mr Wan Mohamed Nazrith<br>Senior Teacher/Science |
-|  # | Ms Aminda Chua<br>Senior Teacher/Science  |
-| # | Mrs Gladys Lim<br>Senior Teacher/SEN |
-| # | Mdm Tan Yoke Joo<br>Senior Teacher/High Ability Learners |
+|  | [Mdm Chui Yuen Phun](chui_yuen_phun@moe.edu.sg)<br>Lead Teacher/English |
+| # | [Mr Terry Tan](mailto:tan_chee_liang_terry@moe.edu.sg)<br>Lead Teacher/Mathematics |
+| # | [Miss Kogilavani Vathumalai](mailto:kogilavani_vathumalai@moe.edu.sg)<br>Lead Teacher/Tamil Language |
+| # | [Mrs Sharron Yap](mailto:tan_jian_horng@moe.edu.sg)<br>Senior Teacher/Art |
+| # | [Mdm Ida Nonanseh Abdul Rahman](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg)<br>Senior Teacher/English |
+| # | [Mrs Farisa Hussain](mailto:farisa_begame_abdul_salam@moe.edu.sg)<br>Senior Teacher/Mathematics |
+| # | [Mr Wan Mohamed Nazrith](mailto:wan_mohamed@moe.edu.sg)<br>Senior Teacher/Science |
+|  # |[Ms Aminda Chua](mailto:aminda_chua_nyap_kin@moe.edu.sg)<br>Senior Teacher/Science  |
+| # | [Mrs Gladys Lim](mailto:ng_siew_may_gladys@moe.edu.sg)<br>Senior Teacher/SEN |
+| # | [Mdm Tan Yoke Joo](mailto:tan_yoke_joo@moe.edu.sg)<br>Senior Teacher/High Ability Learners |
 |
 
 <img src="/images/cher27.jpg" style="width:20%">
@@ -79,23 +79,23 @@ description: ""
 
 |  |  |
 |---|---|
-|  | Ms Adeline Goh<br>Teacher |
-|  # | Mr Adrian Kum<br>Teacher  |
-|  # | Ms Tan Bee PoTeacher  |
-|  # | Mr Chan Tai Yao<br>Science Coordinator  |
-|  # | Mr Benedict Yap<br>Teacher  |
-| #  | Mr Benny Lau<br>Teacher  |
-| # | Mr Caleb Chua<br>Teacher<br> |
-| # | Mr Chhoa Kok Kheng<br>Teacher |
-|  # |  Mr Koh Chaik Khoon<br>Teacher  |
-| #   |  Mr Colin Sim<br>Teacher |
-|  # | Mr Charles Zhang<br>Teacher |
-|  # | Mr Daniel Chua<br>Teacher  |
-| #  |  Mrs Dawn Wee<br>Teacher  |
-|  # | Mdm Divya DharshiniTeacher  |
-|  # | Mr Edmund Wu<br>Teacher   |
-|  # |  Mrs Gomathi Ravindra<br>Teacher |
-| #  |  Miss Ngoh Gek Luan<br>Teacher |
+|  | [Ms Adeline Goh](mailto:adeline_goh_pei_yin@moe.edu.sg)<br>Teacher |
+|  # | [Mr Adrian Kum](mailto:kum_kin_meng@moe.edu.sg)<br>Teacher  |
+|  # | [Ms Tan Bee Po](mailto:tan_bee_po@moe.edu.sg)<br>Teacher  |
+|  # | [Mr Chan Tai Yao](mailto:chan_tai_yao@moe.edu.sg)<br>Science Coordinator  |
+|  # | [Mr Benedict Yap](mailto:benedict_yap_hsien-min@moe.edu.sg)<br>Teacher  |
+| #  | [Mr Benny Lau](mailto:lau_mun_yip_benny@moe.edu.sg)<br>Teacher  |
+| # | [Mr Caleb Chua](mailto:caleb_chua@moe.edu.sg)<br>Teacher<br> |
+| # | [Mr Chhoa Kok Kheng](mailto:chhoa_kok_kheng@moe.edu.sg)<br>Teacher |
+|  # |   [Mr Koh Chaik Khoon](mailto:koh_chaik_khoon@moe.edu.sg)<br>Teacher  |
+| #   |   [Mr Colin Sim](mailto:sim_yaowen_colin@moe.edu.sg)<br>Teacher |
+|  # | [Mr Charles Zhang](mailto:zhang_zong_yang_charles@moe.edu.sg)<br>Teacher |
+|  # | [Mr Daniel Chua](mailto:chua_hoe_leong@moe.edu.sg)<br>Teacher  |
+| #  |   [Mrs Dawn Wee](mailto:wong_seow_seah_dawn@moe.edu.sg)<br>Teacher  |
+|  # | [Mdm Divya Dharshini](mailto:divya_dharshini_harikrishan@moe.edu.sg)<br>Teacher  |
+|  # | [Mr Edmund Wu](mailto:edmund_wu_kok_ming@moe.edu.sg)<br>Teacher   |
+|  # |   [Mrs Gomathi Ravindra](mailto:gomathi_ravindra@moe.edu.sg)<br>Teacher |
+| #  |   [Miss Ngoh Gek Luan](mailto:ngoh_gek_luan@moe.edu.sg)<br>Teacher |
 | #   | Mrs Geraldine Ortega<br>Teacher   |
 | #   | Mr George Mui Seng Chiu<br>Teacher  |
 | #   | Mrs Jasmine LimTeacher   |
