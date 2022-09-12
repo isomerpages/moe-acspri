@@ -22,3 +22,6 @@ First - Brandon Wee Wen Xing 6A,Tan Hong Xun Dillon 6F, Cody Koh Lishan 5B & E
 **Masters Event**<br>
 First - Brandon Wee Wen Xing 6A<br>
 Third - Eugene Yeo Hanjie 5D
+
+<img src="/images/National%20Age%20Group_School%20Team%20Bowling.jpg" 
+     style="width:65%">
