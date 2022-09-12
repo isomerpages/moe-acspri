@@ -164,10 +164,10 @@ description: ""
 
 |  |  |
 |---|---|
-|  | Miss Daphne Heng<br>AED/LBS |
-| # | Mr Muhammad Jumadi<br>Senior AED/LBS |
-| # | Ms Jane Chong<br>AED/LBS |
-| # | Mr Richard Goh<br>AED/T&L |
+|  | [Miss Daphne Heng](mailto:heng_syn_yee_daphne@moe.edu.sg)<br>AED/LBS |
+| # | [Mr Muhammad Jumadi](mailto:muhammad_jumadi_jamaludin@moe.edu.sg)<br>Senior AED/LBS |
+| # | [Ms Jane Chong](mailto:chong_mee_fong_jane@moe.edu.sg)<br>AED/LBS |
+| # | [Mr Richard Goh](mailto:goh_teoh_chuan@moe.edu.sg)<br>AED/T&L |
 |
 
 <img src="/images/cher113.jpg" style="width:20%">
@@ -177,22 +177,22 @@ description: ""
 
 |  |  |
 |---|---|
-|   | Mr Lee Yong Yiang<br>Operations Manager |
-|  # | Mr Keith ChongOperations Manager  |
-|  <br># | Mr Ernest Fu Admin Manager  |
-| #  | Miss Lim Siew LayAdmin Manager  |
-| #  | Ms Chia Siang Keng<br> Corporate Support Officer |
-| #  | Mdm Vasundara DeviCorporate Support Office  |
-|  <br># | Ms AnupriyaAdmin Assistant  |
-| #  | Ms MarsythaLaboratory Assistant  |
-|  # | Ms Abidah Bte HusseinLibrarian  |
-| #  | Mr Muhd FuadOperations Support Officer6250 1633  |
-|  # | Mr Jahroni KaradiOperations Support Officer6250 1633  |
-|  # | Mr Juhari EminOperations Support Officer6250 1633  |
-|  # | Mdm Letchimi AOperations Support Officer6250 1633  |
-|  # | Mdm SaeyahOperations Support Officer  |
-| #  | Mr Lee Byung Woo ICT Manager  |
-|  # | Ms Angelinea TanAdmin Executive  |
+|   | [Mr Lee Yong Yiang](mailto:lee_yong_yiang@moe.edu.sg)<br>Operations Manager |
+|  # | [Mr Keith Chong](mailto:Keith%20Chong%20%3Ckeith_chong@acsp.sg%3E)<br>Operations Manager  |
+|# | [Mr Ernest Fu](mailto:Ernest_Fu@schools.gov.sg)<br>Admin Manager  |
+| #  | [Miss Lim Siew Lay](mailto:lim_siew_lay_a@schools.gov.sg)<br>Admin Manager  |
+| #  | [Ms Chia Siang Keng](mailto:chia_siang_keng@moe.edu.sg)<br> Corporate Support Officer |
+| #  | [Mdm Vasundara Devi](mailto:vasundara_devi@moe.edu.sg)<br>Corporate Support Office  |
+|  <br># | Ms Anupriya<br>Admin Assistant  |
+| #  | Ms Marsytha<br>Laboratory Assistant  |
+|  # | Ms Abidah Bte Hussein<br>Librarian  |
+| #  | Mr Muhd Fuad<br>Operations Support Officer<br>6250 1633  |
+|  # | Mr Jahroni Karadi<br>Operations Support Officer<br>6250 1633  |
+|  # | Mr Juhari Emin<br>Operations Support Officer<br>6250 1633  |
+|  # | Mdm Letchimi A<br>Operations Support Officer<br>6250 1633  |
+|  # | Mdm Saeyah<br>Operations Support Officer  |
+| #  | [Mr Lee Byung Woo](mailto:Lee_Byung_Woo@moe.edu.sg)<br> ICT Manager  |
+|  # | [Ms Angelinea Tan](mailto:Tan_Qian_Ning_Angelina@schools.gov.sg)<br>Admin Executive  |
 | #<br> | Ms Asiah Bibi Binte Ali<br>Corporate Support Officer  |
 |
 
@@ -203,8 +203,8 @@ description: ""
 
 |  |  |
 |---|---|
-|  | Mr Desmond LiewSenior School Counsellor  |
-|  # | Mdm Chan Chee HarPart-time School Counsellor  |
+|  | [Mr Desmond Liew](mailto:liew_shuh_onn@moe.edu.sg)<br>Senior School Counsellor  |
+|  # | [Mdm Chan Chee Har](mailto:chan_chee_har@acsp.sg)<br>Part-time School Counsellor  |
 |
 
 <img src="/images/counsellor1.jpg" style="width:20%">
