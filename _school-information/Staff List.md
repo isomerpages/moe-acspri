@@ -54,7 +54,9 @@ description: ""
 ![](/images/cher17.jpg)
 ![](/images/cher18.jpg)
 ![](/images/cher41.jpg)
+<img src="/images/cher41.jpg" style="width:15%">
 **uploaded 1-41.**
+
 
 ##### **Assistant Year Heads/Level Heads/Subject Heads**
 
@@ -209,4 +211,3 @@ description: ""
 |  | Mr Desmond LiewSenior School Counsellor  |
 |  # | Mdm Chan Chee HarPart-time School Counsellor  |
 |
-
