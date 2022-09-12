@@ -9,9 +9,9 @@ description: ""
 | | |
 |---|---|
 | <img src="/images/cher1.jpg" style="width:20%" align = left> | [Mrs Leong- Ho Hil May](mailto:ho_hil_may@schools.gov.sg)<br>Principal |
-| <img src="/images/cher2.jpg" style="width:20%"> | <br>Mrs Celia Lau<br>Vice-Principal |
-| <img src="/images/cher3.jpg" style="width:20%"> | Mr Max Chua<br>Vice-Principal |
-| <img src="/images/cher4.jpg" style="width:20%"> | Ms Eileen Seow<br>Vice-Principal<br>(Administr |
+| <img src="/images/cher2.jpg" style="width:20%"> | [Mrs Celia Lau](mailto:celia_choh@schools.gov.sg)<br>Vice-Principal |
+| <img src="/images/cher3.jpg" style="width:20%"> | [Mr Max Chua](mailto:chua_thian_keong@schools.gov.sg)<br>Vice-Principal |
+| <img src="/images/cher4.jpg" style="width:20%"> | [Ms Eileen Seow](mailto:seow_lay_yen@schools.gov.sg)<br>Vice-Principal<br>(Administr |
 |
 
 ##### **Heads of Department/Year Heads**
