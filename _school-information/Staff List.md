@@ -7,17 +7,12 @@ description: ""
 ##### **School Leaders**
 
 | | |
-|:---:|:---:|
-| # | [Mrs Leong- Ho Hil May](mailto:ho_hil_may@schools.gov.sg)<br>Principal |
-| # | <br>Mrs Celia Lau<br>Vice-Principal |
-| # | Mr Max Chua<br>Vice-Principal |
-| # | Ms Eileen Seow<br>Vice-Principal<br>(Administr |
+|---|---|
+| <img src="/images/cher1.jpg" style="width:20%" align = left> | [Mrs Leong- Ho Hil May](mailto:ho_hil_may@schools.gov.sg)<br>Principal |
+| <img src="/images/cher2.jpg" style="width:20%"> | <br>Mrs Celia Lau<br>Vice-Principal |
+| <img src="/images/cher3.jpg" style="width:20%"> | Mr Max Chua<br>Vice-Principal |
+| <img src="/images/cher4.jpg" style="width:20%"> | Ms Eileen Seow<br>Vice-Principal<br>(Administr |
 |
-
-![](/images/cher1.jpg)
-![](/images/cher2.jpg)
-![](/images/cher3.jpg)
-![](/images/cher4.jpg)
 
 ##### **Heads of Department/Year Heads**
 
@@ -56,7 +51,7 @@ description: ""
 ![](/images/cher41.jpg)
 <img src="/images/cher41.jpg" style="width:20%">
 ![](/images/cher102.jpeg)
-<img src="/images/cher102.jpeg" style="width:25%">
+<img src="/images/cher102.jpeg" style="width:20%">
 
 ![](/images/cher112.jpg)
 
