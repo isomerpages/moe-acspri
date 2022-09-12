@@ -96,65 +96,65 @@ description: ""
 |  # | [Mr Edmund Wu](mailto:edmund_wu_kok_ming@moe.edu.sg)<br>Teacher   |
 |  # |   [Mrs Gomathi Ravindra](mailto:gomathi_ravindra@moe.edu.sg)<br>Teacher |
 | #  |   [Miss Ngoh Gek Luan](mailto:ngoh_gek_luan@moe.edu.sg)<br>Teacher |
-| #   | Mrs Geraldine Ortega<br>Teacher   |
-| #   | Mr George Mui Seng Chiu<br>Teacher  |
-| #   | Mrs Jasmine LimTeacher   |
-|  # |  Mdm Jeannie Yeo<br>Teacher |
-| #  |  Mdm Jessica Lai<br>Teacher |
-|  # |  Mrs Jess Teng<br>Teacher |
-| #   |  Mdm Jovina Tan<br>Teacher |
-| # | Mr Kelvin Chan Yong Meng <br>Teacher  |
-|  # |  Mr Leon Ho Yoong Kian <br>Teacher |
-| #  | Mdm Leong Lilian<br>Teacher  |
-| #   |  Mdm Li Chunju<br>Teacher  |
-| #   |  Ms Luo Cuixin<br>Teacher  |
-| #  | Mrs Neo Lin Li<br>Discipline Co-ordinator |
-| #   | Ms Ho Lim Hwei<br>Teacher  |
-|  # | Mr Mark LeongTeacher  |
-|  # | Miss Mazeedah M Azmi<br>Teacher |
-|  # |  Mdm Wong Mei Kuen<br>Teacher |
-| #  | Mdm Najuma Banu<br>Teacher  |
-| #  | Mdm Norharyati Harun<br>Teacher  |
-|  # | Miss Patricia Lim<br>Teacher |
-| #  |  Mr Tan Poo Loy<br>Teacher |
-| #  | Mdm Punita K<br>Teacher  |
-| #  |  Mdm Renuka Devi Windersalam<br>Teacher |
-|  # |  Mr Seow Kian Yong<br>Teacher |
-| # | Mr Ho Shin Hoo<br>Teacher |
-|  # |  Mrs Shirley Toh<br>Teacher |
-|  # |  Mdm Cheong Sinh Mei<br>Teacher |
-|  # |  Mdm Siti Karmila Abu<br>Teacher |
-|  # | Ms Siti Masyita<br>Teacher  |
-| #   | Ms Siti Nurjannah<br>EL Co-ordinator |
-|   # | Mdm Sarah Su<br>Teacher |
-| #  | Mdm Chan Soo Ping<br>Teacher   |
-| #  | Mdm Sri Dewi Md Hashim<br>Teacher  |
-| #  | Mr Stanley YeoTeacher  |
-| #   | Mdm Loh Su Hian<br>Teacher  |
-| #   | Mrs Suja AnbazhaganTeacher  |
-|  # | Mrs Lee Ting Ting<br>Teacher  |
-|  # | Mrs Vanessa Lim<br>Teacher  |
-| #  | Mr Vijayakumaran G<br>Teacher  |
-|  # |  Mdm Wendy Tan<br>Teacher |
-| # | Mrs Hoong  Xiu Qin<br>Teacher |
-| # | Ms Lum Yick Thim<br>Teacher |
-|  # |  Miss Tay Ying Ying<br>Teacher |
-| # | Ms Tay Yu Juan<br>Teacher |
-|  # | Ms Woon Yuet Meng<br> Teacher |
-| # | Mdm Zahara Osman<br>Teacher |
-| # | Mdm Zarinah Md Eunos<br>Teacher |
-|  # | Ms Zubaidah Bte Sheik Md Ishak<br>Teacher  |
-| # | Miss Fong Wui Yen<br>Teacher |
-| # | Mdm Sheryn Pang<br>Teacher |
-| # | Ms Huang Li<br>Teacher |
-| # | Mr Tan Yew Chai<br>Teacher |
-| # | Mrs Christina Tan<br>Teacher |
-| # | Mdm Teo Chin Wen<br>Teacher<br> |
-| #<br><br><br> | Miss Ho Hui Xin <br>Teacher |
-| #<br> | Mdm Jenn Ang <br>Teacher |
-| #<br><br><br> | Mrs  Koay Guimei <br>Teacher |
-| #  |  Miss Ong Jia Qi<br>Teacher  |
-| # | Mr Chong Kek Shin<br>Editor |
+| #   | [Mrs Geraldine Ortega](mailto:geraldine_ortega@moe.edu.sg)<br>Teacher   |
+| #   | [Mr George Mui Seng Chiu](mailto:george_mui_seng_chiu@moe.edu.sg)<br>Teacher  |
+| #   | [Mrs Jasmine Lim](mailto:ong_cui_yun@moe.edu.sg)<br>Teacher   |
+|  # |   [Mdm Jeannie Yeo](mailto:yeo_mui_chng_jeannie@moe.edu.sg)<br>Teacher |
+| #  |   [Mdm Jessica Lai](mailto:jessica_lai_kit_mun@moe.edu.sg)<br>Teacher |
+|  # |   [Mrs Jess Teng](mailto:jess_teng-chong_su_hwa@moe.edu.sg)<br>Teacher |
+| #   |   [Mdm Jovina Tan](mailto:jovina_tan_chai_hong@moe.edu.sg)<br>Teacher |
+| # | [Mr Kelvin Chan Yong Meng](mailto:kelvin_chan_yong_meng@moe.edu.sg)<br>Teacher  |
+|  # |   [Mr Leon Ho Yoong Kian](mailto:ho_yoong_kian@moe.edu.sg)<br>Teacher |
+| #  | [Mdm Leong Lilian](mailto:leong_lilian@moe.edu.sg)<br>Teacher  |
+| #   |   [Mdm Li Chunju](mailto:li_chunju@moe.edu.sg)<br>Teacher  |
+| #   |   [Ms Luo Cuixin](mailto:luo_cuixin@moe.edu.sg)<br>Teacher  |
+| #  | [Mrs Neo Lin Li](mailto:tan_lin_li@moe.edu.sg)<br>Discipline Co-ordinator |
+| #   | [Ms Ho Lim Hwei](mailto:ho_lim_hwei@moe.edu.sg)<br>Teacher  |
+|  # | [Mr Mark Leong](mailto:mark%20leong_bao_wen_mark@moe.edu.sg)<br>Teacher  |
+|  # | [Miss Mazeedah M Azmi](mailto:mazeedah_mohamed_azmi@moe.edu.sg)<br>Teacher |
+|  # |   [Mdm Wong Mei Kuen](mailto:wong_mei_kuen@moe.edu.sg)<br>Teacher |
+| #  | [Mdm Najuma Banu](mailto:najuma_banu@moe.edu.sg)<br>Teacher  |
+| #  | [Mdm Norharyati Harun](mailto:norharyati_harun@moe.edu.sg)<br>Teacher  |
+|  # | [Miss Patricia Lim](mailto:natasha_patricia_lim@moe.edu.sg)<br>Teacher |
+| #  |   [Mr Tan Poo Loy](mailto:tan_poo_loy@moe.edu.sg)<br>Teacher |
+| #  | [Mdm Punita K](mailto:punitha_kasipandy@moe.edu.sg)<br>Teacher  |
+| #  |   [Mdm Renuka Devi Windersalam](mailto:windersalam_renuka_devi@moe.edu.sg)<br>Teacher |
+|  # |   [Mr Seow Kian Yong](mailto:seow_kian_yong@moe.edu.sg)<br>Teacher |
+| # | [Mr Ho Shin Hoo](mailto:ho_shin_hoo@moe.edu.sg)<br>Teacher |
+|  # |   [Mrs Shirley Toh](mailto:katherine_shirley_shanti_doray@moe.edu.sg)<br>Teacher |
+|  # |   [Mdm Cheong Sinh Mei](mailto:cheong_sinh_mei@acsp.sg)<br>Teacher |
+|  # |   [Mdm Siti Karmila Abu](mailto:siti_karmila_abu@moe.edu.sg)<br>Teacher |
+|  # | [Ms Siti Masyita](mailto:siti_masyita_mohammad_ali@moe.edu.sg)<br>Teacher  |
+| #   | [Ms Siti Nurjannah](mailto:siti_nurjannah_saaet@moe.edu.sg)<br>EL Co-ordinator |
+|   # | [Mdm Sarah Su](mailto:su_xinhui_sarah@moe.edu.sg)<br>Teacher |
+| #  | [Mdm Chan Soo Ping](mailto:chan_soo_ping@moe.edu.sg)<br>Teacher   |
+| #  | [Mdm Sri Dewi Md Hashim](mailto:sri_dewi_mohamed_hashim@moe.edu.sg)<br>Teacher  |
+| #  | [Mr Stanley Yeo](mailto:yeo_hwee_meng_stanley@moe.edu.sg)<br>Teacher  |
+| #   | [Mdm Loh Su Hian](mailto:loh_su_hian@moe.edu.sg)<br>Teacher  |
+| #   | [Mrs Suja Anbazhagan](mailto:anbazhagansuja_a@moe.edu.sg)<br>Teacher  |
+|  # | [Mrs Lee Ting Ting](mailto:foo_ting_ting@moe.edu.sg)<br>Teacher  |
+|  # | [Mrs Vanessa Lim](mailto:lee_hui_cher_vanessa@moe.edu.sg)<br>Teacher  |
+| #  | [Mr Vijayakumaran G](mailto:vijayakumaran_govindasamy@moe.edu.sg)<br>Teacher  |
+|  # |   [Mdm Wendy Tan](mailto:tan_poh_yee@moe.edu.sg)<br>Teacher |
+| # | [Mrs Hoong  Xiu Qin](mailto:hoong_xiu_qin@moe.edu.sg)<br>Teacher |
+| # | [Ms Lum Yick Thim](mailto:lum_yick_thim@moe.edu.sg)<br>Teacher |
+|  # |   [Miss Tay Ying Ying](mailto:tay_ying_ying@moe.edu.sg)<br>Teacher |
+| # | [Ms Tay Yu Juan](mailto:tay_yu_juan@moe.edu.sg)<br>Teacher |
+|  # | [Ms Woon Yuet Meng](mailto:woon_yuet_meng@moe.edu.sg)<br> Teacher |
+| # | [Mdm Zahara Osman](mailto:zahara_osman@moe.edu.sg)<br>Teacher |
+| # | [Mdm Zarinah Md Eunos](mailto:zarinah_mohamed_eunos@moe.edu.sg)<br>Teacher |
+|  # | [Ms Zubaidah Bte Sheik Md Isha](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)k<br>Teacher  |
+| # | [Miss Fong Wui Yen](mailto:fong_wui_yen@moe.edu.sg)<br>Teacher |
+| # | [Mdm Sheryn Pang](mailto:pang_shing_hsiu@moe.edu.sg)<br>Teacher |
+| # | [Ms Huang Li](mailto:Huang_li@moe.edu.sg)<br>Teacher |
+| # | [Mr Tan Yew Chai](mailto:tan_yew_chai@moe.edu.sg)<br>Teacher |
+| # | [Mrs Christina Tan](mailto:lim_peck_hwee_christina@moe.edu.sg)<br>Teacher |
+| # | [Mdm Teo Chin Wen](mailto:Teo_Chin_Wen@moe.edu.sg)<br>Teacher<br> |
+| # | [Miss Ho Hui Xin](mailto:ho_hui_xin@moe.edu.sg)<br>Teacher |
+| #<br> | [Mdm Jenn Ang](mailto:jenn_ang@moe.edu.sg)<br>Teacher |
+| #<br><br><br> | [Mrs  Koay Guimei](http://he_guimei@moe.edu.sg/) <br>Teacher |
+| #  |   [Miss Ong Jia Qi](mailto:ong_jia_qi@acsp.sg)<br>Teacher  |
+| # | [Mr Chong Kek Shin](mailto:chong.kek.shin@acsp.sg)<br>Editor |
 |
 
 <img src="/images/cher112.jpg" style="width:20%">
