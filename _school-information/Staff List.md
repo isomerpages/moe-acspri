@@ -18,43 +18,24 @@ description: ""
 
 |  |  |
 |---|---|
-|  | Ms Vanessa Tan<br>School Staff Developer |
-| # | Mdm Jillianne Chew<br>HOD/Aesthetics |
-| # | Mrs Christine Ho<br>HOD/Character and Citizenship Education |
-| # | Mdm Suzanna Hashim<br>HOD/English |
-| # | Mdm See Kwan Hui Josephine<br>HOD/GEP (Humanities) |
-| # | Mdm Heng Siok Pheng<br>HOD/ICT |
-| # | Ms Kathleen Chan<br>HOD/GEP (Mathematics & Science) |
-| # | Miss Tay Kwee Hong Diana<br>HOD/Mathematics |
-| # | Ms Angeline Ong<br>HOD/Mother Tongue Languages |
-| # | Mrs Angeline Yung<br>HOD/SEN&VIA<br> |
-| # | Mr Lim Wee Meng Kelvin<br>HOD/PE & CCA |
-| # | Mrs Lee Chi Loo<br>Year Head/Lower Primary |
-| # | Mr Koh Yee Lee<br>Year Head/Upper Primary |
-| # | Mdm Teresa Liew<br>Year Head/Upper Primary |
+|  | [Ms Vanessa Tan](mailto:tan_bee_choo_b@moe.edu.sg)<br>School Staff Developer |
+| # | [Mdm Jillianne Chew](mailto:jillianne_chew_li_ing@moe.edu.sg)<br>HOD/Aesthetics |
+| # | [Mrs Christine Ho](mailto:tan_lay_hoon_christine@moe.edu.sg)<br>HOD/Character and Citizenship Education |
+| # | [Mdm Suzanna Hashim](mailto:suzanna_hashim@moe.edu.sg)<br>HOD/English |
+| # | [Mdm See Kwan Hui Jo](mailto:see_kwan_hui_josephine@moe.edu.sg)[sephine](mailto:see_kwan_hui_josephine@moe.edu.sg)<br>HOD/GEP (Humanities) |
+| # | [Mdm Heng Siok Pheng](mailto:heng_siok_pheng@moe.edu.sg)<br>HOD/ICT |
+| # | [Ms Kathleen Chan](mailto:chan_yin_hong_kathleen@moe.edu.sg)<br>HOD/GEP (Mathematics & Science) |
+| # | [Miss Tay Kwee Hong Diana](mailto:tay_kwee_hong@moe.edu.sg)<br>HOD/Mathematics |
+| # | [Ms Angeline Ong](mailto:ong_ghim_muay@moe.edu.sg)<br>HOD/Mother Tongue Languages |
+| # | [Mrs Angeline Yung](mailto:chan_xiuwen@moe.edu.sg)<br>HOD/SEN&VIA<br> |
+| # | [Mr Lim Wee Meng Kelvin](mailto:lim_wee_meng_kelvin@moe.edu.sg)<br>HOD/PE & CCA |
+| # | [Mrs Lee Chi Loo](mailto:teo_chi_loo@moe.edu.sg)<br>Year Head/Lower Primary |
+| # | [Mr Koh Yee Lee](mailto:koh_yee_lee@moe.edu.sg)<br>Year Head/Upper Primary |
+| # | [Mdm Teresa Liew](mailto:liew_sin_tong_teresa@moe.edu.sg)<br>Year Head/Upper Primary |
 |
 
-![](/images/cher5.jpg)
-![](/images/cher6.jpg)
-![](/images/cher7.jpg)
-![](/images/cher8.jpg)
-![](/images/cher9.jpg)
-![](/images/cher10.jpg)
-![](/images/cher11.jpg)
-![](/images/cher12.jpg)
-![](/images/cher13.jpg)
-![](/images/cher14.jpg)
-![](/images/cher15.jpg)
-![](/images/cher16.jpg)
-![](/images/cher17.jpg)
-![](/images/cher18.jpg)
-![](/images/cher41.jpg)
-<img src="/images/cher41.jpg" style="width:20%">
-![](/images/cher102.jpeg)
-<img src="/images/cher102.jpeg" style="width:20%">
-
-![](/images/cher112.jpg)
-
+<img src="/images/cher5.jpg" style="width:20%">
+<img src="/images/cher18.jpg" style="width:20%">
 
 
 ##### **Assistant Year Heads/Level Heads/Subject Heads**
@@ -72,6 +53,9 @@ description: ""
 | # | Mdm Chan Wai Kin<br>Level Head/Chinese Language |
 |
 
+<img src="/images/cher19.jpg" style="width:20%">
+<img src="/images/cher26.jpg" style="width:20%">
+
 ##### **Lead Teachers/Senior Teachers**
 
 |  |  |
@@ -87,6 +71,9 @@ description: ""
 | # | Mrs Gladys Lim<br>Senior Teacher/SEN |
 | # | Mdm Tan Yoke Joo<br>Senior Teacher/High Ability Learners |
 |
+
+<img src="/images/cher27.jpg" style="width:20%">
+<img src="/images/cher36.jpg" style="width:20%">
 
 ##### **Teaching Staff**
 
@@ -170,6 +157,9 @@ description: ""
 | # | Mr Chong Kek Shin<br>Editor |
 |
 
+<img src="/images/cher112.jpg" style="width:20%">
+
+
 ##### **Allied Educators**
 
 |  |  |
@@ -180,10 +170,8 @@ description: ""
 | # | Mr Richard Goh<br>AED/T&L |
 |
 
-![](/images/cher113.jpg)
-![](/images/cher114.jpg)
-![](/images/cher115.jpg)
-![](/images/cher116.jpg)
+<img src="/images/cher113.jpg" style="width:20%">
+<img src="/images/cher116.jpg" style="width:20%">
 
 ##### **Executive and Administration Staff**
 
@@ -208,8 +196,8 @@ description: ""
 | #<br> | Ms Asiah Bibi Binte Ali<br>Corporate Support Officer  |
 |
 
-![](/images/admin1.jpg)
-![](/images/admin17.jpg)
+<img src="/images/admin1.jpg" style="width:20%">
+<img src="/images/admin17.jpg" style="width:20%">
 
 ##### **School Counsellor**
 
@@ -219,5 +207,5 @@ description: ""
 |  # | Mdm Chan Chee HarPart-time School Counsellor  |
 |
 
-![](/images/counsellor1.jpg)
-![](/images/counsellor2.jpg)
+<img src="/images/counsellor1.jpg" style="width:20%">
+<img src="/images/counsellor2.jpg" style="width:20%">
