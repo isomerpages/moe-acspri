@@ -14,6 +14,39 @@ description: ""
 | <img src="/images/cher4.jpg" style="width:20%"> 	| [Ms Eileen Seow](mailto:seow_lay_yen@schools.gov.sg)<br>Vice-Principal<br>(Administr 	|
 |  	|  	|
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-abkp{background-color:#F5F5F5;color:#4B4B4B;text-align:left;vertical-align:top}
+.tg .tg-9t3f{background-color:#F5F5F5;color:#4B4B4B;text-align:center;vertical-align:top}
+.tg .tg-fh0b{background-color:#F5F5F5;color:#9A0000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9t3f"><img src="/images/cher1.jpg" style="width:20%"></th>
+    <th class="tg-fh0b"><a href="mailto:ho_hil_may@schools.gov.sg"><span style="text-decoration:none;color:#9A0000">Mrs Leong- Ho Hil May</span></a><br>Principal<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9t3f"><img src="/images/cher2.jpg" style="width:20%"></td>
+    <td class="tg-abkp"><br><a href="mailto:celia_choh@schools.gov.sg"><span style="text-decoration:none;color:#9A0000">Mrs Celia Lau</span></a><br>Vice-Principal</td>
+  </tr>
+  <tr>
+    <td class="tg-9t3f"><img src="/images/cher3.jpg" style="width:20%"></td>
+    <td class="tg-fh0b"><a href="mailto:chua_thian_keong@schools.gov.sg"><span style="text-decoration:none;color:#9A0000">Mr Max Chua</span></a><br>Vice-Principal</td>
+  </tr>
+  <tr>
+    <td class="tg-9t3f"><img src="/images/cher4.jpg" style="width:20%"></td>
+    <td class="tg-fh0b"><a href="mailto:seow_lay_yen@schools.gov.sg"><span style="text-decoration:none;color:#9A0000">Ms Eileen Seow</span></a><br>Vice-Principal<br>(Administration)</td>
+  </tr>
+</tbody>
+</table>
+
 ##### **Heads of Department/Year Heads**
 
 |  |  |
