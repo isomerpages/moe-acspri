@@ -70,6 +70,8 @@ third_nav_title: 2015 News
 [South Zone Primary School Rugby Championship 2015 Junior Division](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/south-zone-primary-school-rugby-championship-juniour-division/)
   
 [National Primary School Tennis Championships 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/national-primary-school-tennis-championships/)
+
+[Standard Chartered Bank U11/U13 Mini Rugby Tournament 2014](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/scb-u11-u13-mini-rugby-tournament/)
   
 [The National Story Challenge Tournament (Chinese Language) 2015](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2015/national-story-challenge-tournament/)
   
