@@ -38,19 +38,16 @@ description: ""
 
 |  |  |
 |---|---|
-|  [Mrs Janis Pavia](mailto:lau_kah_ling_janis@moe.edu.sg)<br>Assistant Year Head/Lower Primary |  |
-| [Ms Aubrey Ong](mailto:ong_pei_khim_aubrey@moe.edu.sg)<br>Assistant Year Head/Upper Primary  | |
-| [Miss Tam Xin Yi](mailto:tam_xin_yi@moe.edu.sg)<br>Assistant Year Head/Upper Primary |  |
-| [Mdm Chiew Hwee Ling](mailto:chiew_hwee_ling@moe.edu.sg)<br>Level Head/Chinese Language | |
-| [Mdm Jasmine Kaur](mailto:jasmine_kaur@moe.edu.sg)<br>Level Head/English |  |
-|  [Mdm Anna Asha Mohan](mailto:anna_asha_mohan@moe.edu.sg)<br>Subject Head/Aesthetics | |
-| [Mr Edwin Tan](mailto:tan_loon_kiat_edwin@moe.edu.sg)<br>Subject Head/CCA |  |
-| [Ms Jessica Goh](mailto:goh_siow_hwee@schools.gov.sg) <br>Subject Head/Math |  |
-| [Mdm Chan Wai Kin](mailto:chan_wai_kin@moe.edu.sg)<br>Level Head/Chinese Language  | |
+|  [Mrs Janis Pavia](mailto:lau_kah_ling_janis@moe.edu.sg)<br>Assistant Year Head/Lower Primary | <img src="/images/cher19.jpg" style="width:25%"> |
+| [Ms Aubrey Ong](mailto:ong_pei_khim_aubrey@moe.edu.sg)<br>Assistant Year Head/Upper Primary  | <img src="/images/cher20.jpg" style="width:25%"> |
+| [Miss Tam Xin Yi](mailto:tam_xin_yi@moe.edu.sg)<br>Assistant Year Head/Upper Primary | <img src="/images/cher21.jpg" style="width:25%"> |
+| [Mdm Chiew Hwee Ling](mailto:chiew_hwee_ling@moe.edu.sg)<br>Level Head/Chinese Language |<img src="/images/cherchiew.jpg" style="width:25%">|
+| [Mdm Jasmine Kaur](mailto:jasmine_kaur@moe.edu.sg)<br>Level Head/English | <img src="/images/cher22.jpg" style="width:25%"> |
+|  [Mdm Anna Asha Mohan](mailto:anna_asha_mohan@moe.edu.sg)<br>Subject Head/Aesthetics | <img src="/images/cher23.jpg" style="width:25%"> |
+| [Mr Edwin Tan](mailto:tan_loon_kiat_edwin@moe.edu.sg)<br>Subject Head/CCA | <img src="/images/cher24.jpg" style="width:25%"> |
+| [Ms Jessica Goh](mailto:goh_siow_hwee@schools.gov.sg) <br>Subject Head/Math | <img src="/images/cherjessica.jpg" style="width:25%"> |
+| [Mdm Chan Wai Kin](mailto:chan_wai_kin@moe.edu.sg)<br>Level Head/Chinese Language  | <img src="/images/cher26.jpg" style="width:25%"> |
 |
-
-<img src="/images/cher19.jpg" style="width:25%">
-<img src="/images/cher26.jpg" style="width:25%">
 
 ##### **Lead Teachers/Senior Teachers**
 
