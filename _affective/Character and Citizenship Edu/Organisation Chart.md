@@ -6,7 +6,9 @@ third_nav_title: Character and Citizenship Edu
 ---
 ### **Organisation Chart**
 
-| Character & Citizenship Education (CCE) Department |  |
+##### **Character & Citizenship Education (CCE) Department**
+
+|  |  |
 |:---:|:---:|
 | <img src="/images/cce1.jpg" style="width:30%"> | Mrs Christine Ho <br>Head of Department/Character and Citizenship Education<br> [tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg) |
 | <img src="/images/cce2.jpg" style="width:30%"> | Mrs Angeline Yung <br>Head of Department Special Needs & VIA<br>   [chan_xiuwen@moe.edu.sg](mailto:chan_xiuwen@moe.edu.sg) |
