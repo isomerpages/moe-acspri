@@ -123,7 +123,7 @@ description: ""
 |  [Mdm Loh Su Hian](mailto:loh_su_hian@moe.edu.sg)<br>Teacher   | <img src="/images/cher88.jpg" style="width:25%"> |
 | [Mrs Suja Anbazhagan](mailto:anbazhagansuja_a@moe.edu.sg)<br>Teacher    | <img src="/images/cher89.jpg" style="width:25%"> |
 | [Mrs Lee Ting Ting](mailto:foo_ting_ting@moe.edu.sg)<br>Teacher  | <img src="/images/cher90.jpg" style="width:25%">  |
-|  [Mrs Vanessa Lim](mailto:lee_hui_cher_vanessa@moe.edu.sg)<br>Teacher | <img src="/images/cher91.jpg" style="width:25%">  |
+|  [Mrs Vanessa Lim](mailto:lee_hui_cher_vanessa@moe.edu.sg)<br>Teacher | <img src="/images/chervanessa.jpg" style="width:25%">  |
 |  [Mr Vijayakumaran G](mailto:vijayakumaran_govindasamy@moe.edu.sg)<br>Teacher | <img src="/images/cher92.jpg" style="width:25%">  |
 |  [Mdm Wendy Tan](mailto:tan_poh_yee@moe.edu.sg)<br>Teacher   | <img src="/images/cher93.jpg" style="width:25%"> |
 | [Mrs Hoong  Xiu Qin](mailto:hoong_xiu_qin@moe.edu.sg)<br>Teacher | <img src="/images/cher94.jpg" style="width:25%"> |
@@ -134,7 +134,7 @@ description: ""
 | [Mdm Zahara Osman](mailto:zahara_osman@moe.edu.sg)<br>Teacher | <img src="/images/cher99.jpg" style="width:25%"> |
 | [Mdm Zarinah Md Eunos](mailto:zarinah_mohamed_eunos@moe.edu.sg)<br>Teacher | <img src="/images/cher100.jpg" style="width:25%"> |
 |  [Ms Zubaidah Bte Sheik Md Isha](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)k<br>Teacher | <img src="/images/cher101.jpg" style="width:25%">  |
-| [Miss Fong Wui Yen](mailto:fong_wui_yen@moe.edu.sg)<br>Teacher | <img src="/images/cher102.jpg" style="width:25%"> |
+| [Miss Fong Wui Yen](mailto:fong_wui_yen@moe.edu.sg)<br>Teacher | <img src="/images/cherfong.jpeg" style="width:25%"> |
 | [Mdm Sheryn Pang](mailto:pang_shing_hsiu@moe.edu.sg)<br>Teacher | <img src="/images/cher103.jpg" style="width:25%"> |
 | [Ms Huang Li](mailto:Huang_li@moe.edu.sg)<br>Teacher | <img src="/images/cher104.jpg" style="width:25%"> |
 | [Mr Tan Yew Chai](mailto:tan_yew_chai@moe.edu.sg)<br>Teacher | <img src="/images/cher105.jpg" style="width:25%"> |
