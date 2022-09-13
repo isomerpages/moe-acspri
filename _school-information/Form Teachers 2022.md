@@ -74,23 +74,23 @@ description: ""
 
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
-|  4A | Mrs Angeline Yung <br> [chan_xiuwen@moe.edu.sg](mailto:chan_xiuwen@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4A | Miss Tam Xin Yi <br> [tam_xin_yi@moe.edu.sg](mailto:tam_xin_yi@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4A | Ms	Lum Yick Thim <br> [lum_yick_thim@moe.edu.sg](mailto:lum_yick_thim@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4B | Mrs Gladys Lim <br>  [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4B | Miss Ho Hui Xin <br> [ho_hui_xin@moe.edu.sg](mailto:ho_hui_xin@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-| 4C | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4C | Mrs Vanessa Lim <br> [lee_hui_cher_vanessa@moe.edu.sg](mailto:lee_hui_cher_vanessa@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4D | Mrs Yap Sharron <br> [tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4D | Mr Tan Poo Loy <br> [tan_poo_loy@moe.edu.sg](mailto:tan_poo_loy@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4E | Miss Mazeedah M Azmi <br> [mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4E | Mr	Benedict Yap <br> [benedict_yap_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4F | Mdm Punitha Kasipandy <br> [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)  | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4F | Mdm Loh Su Hian <br> [loh_su_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4G | Mdm Renuka Devi Windersalam<br>  [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4G | Miss Fong Wui Yen <br> [fong_wui_yen_a@moe.edu.sg](mailto:fong_wui_yen_a@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4H |  Mdm Li Chunju <br> [li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
-|  4H | Mr Stanley Yeo <br> [yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg) | <img src="/images/p4cher.jpg" style="width:30%"> |
+|  4A | Mrs Angeline Yung <br> [chan_xiuwen@moe.edu.sg](mailto:chan_xiuwen@moe.edu.sg) | <img src="/images/p4cher1.jpg" style="width:30%"> |
+|  4A | Miss Tam Xin Yi <br> [tam_xin_yi@moe.edu.sg](mailto:tam_xin_yi@moe.edu.sg) | <img src="/images/p4cher2.jpg" style="width:30%"> |
+|  4A | Ms	Lum Yick Thim <br> [lum_yick_thim@moe.edu.sg](mailto:lum_yick_thim@moe.edu.sg) | <img src="/images/p4cher3.jpg" style="width:30%"> |
+|  4B | Mrs Gladys Lim <br>  [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) | <img src="/images/p4cher4.jpg" style="width:30%"> |
+|  4B | Miss Ho Hui Xin <br> [ho_hui_xin@moe.edu.sg](mailto:ho_hui_xin@moe.edu.sg) | <img src="/images/p4cher5.jpg" style="width:30%"> |
+| 4C | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher6.jpg" style="width:30%"> |
+|  4C | Mrs Vanessa Lim <br> [lee_hui_cher_vanessa@moe.edu.sg](mailto:lee_hui_cher_vanessa@moe.edu.sg) | <img src="/images/p4cher7.jpg" style="width:30%"> |
+|  4D | Mrs Yap Sharron <br> [tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg) | <img src="/images/p4cher8.jpg" style="width:30%"> |
+|  4D | Mr Tan Poo Loy <br> [tan_poo_loy@moe.edu.sg](mailto:tan_poo_loy@moe.edu.sg) | <img src="/images/p4cher9.jpg" style="width:30%"> |
+|  4E | Miss Mazeedah M Azmi <br> [mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg) | <img src="/images/p4cher10.jpg" style="width:30%"> |
+|  4E | Mr	Benedict Yap <br> [benedict_yap_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg) | <img src="/images/p4cher11.jpg" style="width:30%"> |
+|  4F | Mdm Punitha Kasipandy <br> [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)  | <img src="/images/p4cher12.jpg" style="width:30%"> |
+|  4F | Mdm Loh Su Hian <br> [loh_su_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg) | <img src="/images/p4cher13.jpg" style="width:30%"> |
+|  4G | Mdm Renuka Devi Windersalam<br>  [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | <img src="/images/p4cher14.jpg" style="width:30%"> |
+|  4G | Miss Fong Wui Yen <br> [fong_wui_yen_a@moe.edu.sg](mailto:fong_wui_yen_a@moe.edu.sg) | <img src="/images/p4cher15.jpg" style="width:30%"> |
+|  4H |  Mdm Li Chunju <br> [li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg) | <img src="/images/p4cher16.jpg" style="width:30%"> |
+|  4H | Mr Stanley Yeo <br> [yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg) | <img src="/images/p4cher17.jpg" style="width:30%"> |
 | 
 
 ##### **Primary 5**
