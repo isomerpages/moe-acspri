@@ -120,22 +120,22 @@ description: ""
 
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
-| 6A | Ms	Ong Aubrey <br> ong_pei_khim_aubrey@moe.edu.sg   | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6A | Ms	Woon Yuet Meng <br>  woon_yuet_meng@moe.edu.sg | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6B | Miss Kogilavani Vathumalai <br> kogilavani_vathumalai@moe.edu.sg  | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6B | Miss Tay Kwee Hong (Diana) <br> tay_kwee_hong@moe.edu.sg  | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6C | Mrs Toh Shirley<br> katherine_shirley_shanti_doray@moe.edu.sg | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6C | Mdm Suzanna Hashim <br> suzanna_hashim@moe.edu.sg | <img src="/images/p6cher.jpg" style="width:30%"> |
-|  6D | Mrs Farisa Hussain<br>  farisa_begame_abdul_salam@moe.edu.sg  | <img src="/images/p6cher.jpg" style="width:30%"> |
-|  6D | Mr	Leon Ho Yoong Kian <br> ho_yoong_kian@moe.edu.sg | <img src="/images/p6cher.jpg" style="width:30%"> |
-|  6E | Mr Tan Loon Kiat Edwin<br> tan_loon_kiat_edwin@moe.edu.sg | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6E  | Mr	Koh Chaik Khoon <br> koh_chaik_khoon@moe.edu.sg  | <img src="/images/p6cher.jpg" style="width:30%"> |
-|  6E  | Mdm Tan Yoke Joo<br>  tan_yoke_joo@moe.edu.sg | <img src="/images/p6cher.jpg" style="width:30%"> |
-|  6F | Mdm Anna Asha Mohan <br> anna_asha_mohan@moe.edu.sg | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6F |  Mdm Chui Yuen Phun<br> chui_yuen_phun@moe.edu.sg    | <img src="/images/p6cher.jpg" style="width:30%"> |
-|  6F | Ms	Tan Bee Choo Vanessa <br> tan_bee_choo_b@moe.edu.sg  | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6G | Mr Wan Mohamed <br> wan_mohamed@moe.edu.sg  | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6G | Mdm Jasmine Kaur <br> jasmine_kaur@moe.edu.sg  | <img src="/images/p6cher.jpg" style="width:30%"> |
-| 6H  | Mdm Chan Wai Kin <br> chan_wai_kin@moe.edu.sg | <img src="/images/p6cher.jpg" style="width:30%"> |
-|  6H | Ms Chua Nyap Kin Aminda <br> aminda_chua_nyap_kin@moe.edu.sg  | <img src="/images/p6cher.jpg" style="width:30%"> |
+| 6A | Ms	Ong Aubrey <br> ong_pei_khim_aubrey@moe.edu.sg   | <img src="/images/p6cher1.jpg" style="width:30%"> |
+| 6A | Ms	Woon Yuet Meng <br>  woon_yuet_meng@moe.edu.sg | <img src="/images/p6cher2.jpg" style="width:30%"> |
+| 6B | Miss Kogilavani Vathumalai <br> kogilavani_vathumalai@moe.edu.sg  | <img src="/images/p6cher3.jpg" style="width:30%"> |
+| 6B | Miss Tay Kwee Hong (Diana) <br> tay_kwee_hong@moe.edu.sg  | <img src="/images/p6cher4.jpg" style="width:30%"> |
+| 6C | Mrs Toh Shirley<br> katherine_shirley_shanti_doray@moe.edu.sg | <img src="/images/p6cher5.jpg" style="width:30%"> |
+| 6C | Mdm Suzanna Hashim <br> suzanna_hashim@moe.edu.sg | <img src="/images/p6cher6.jpg" style="width:30%"> |
+|  6D | Mrs Farisa Hussain<br>  farisa_begame_abdul_salam@moe.edu.sg  | <img src="/images/p6cher7.jpg" style="width:30%"> |
+|  6D | Mr	Leon Ho Yoong Kian <br> ho_yoong_kian@moe.edu.sg | <img src="/images/p6cher8.jpg" style="width:30%"> |
+|  6E | Mr Tan Loon Kiat Edwin<br> tan_loon_kiat_edwin@moe.edu.sg | <img src="/images/p6cher9.jpg" style="width:30%"> |
+| 6E  | Mr	Koh Chaik Khoon <br> koh_chaik_khoon@moe.edu.sg  | <img src="/images/p6cher10.jpg" style="width:30%"> |
+|  6E  | Mdm Tan Yoke Joo<br>  tan_yoke_joo@moe.edu.sg | <img src="/images/p6cher11.jpg" style="width:30%"> |
+|  6F | Mdm Anna Asha Mohan <br> anna_asha_mohan@moe.edu.sg | <img src="/images/p6cher12.jpg" style="width:30%"> |
+| 6F |  Mdm Chui Yuen Phun<br> chui_yuen_phun@moe.edu.sg    | <img src="/images/p6cher13.jpg" style="width:30%"> |
+|  6F | Ms	Tan Bee Choo Vanessa <br> tan_bee_choo_b@moe.edu.sg  | <img src="/images/p6cher14.jpg" style="width:30%"> |
+| 6G | Mr Wan Mohamed <br> wan_mohamed@moe.edu.sg  | <img src="/images/p6cher15.jpg" style="width:30%"> |
+| 6G | Mdm Jasmine Kaur <br> jasmine_kaur@moe.edu.sg  | <img src="/images/p6cher16.jpg" style="width:30%"> |
+| 6H  | Mdm Chan Wai Kin <br> chan_wai_kin@moe.edu.sg | <img src="/images/p6cher17.jpg" style="width:30%"> |
+|  6H | Ms Chua Nyap Kin Aminda <br> aminda_chua_nyap_kin@moe.edu.sg  | <img src="/images/p6cher18.jpg" style="width:30%"> |
 |
