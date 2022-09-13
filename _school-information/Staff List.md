@@ -53,20 +53,17 @@ description: ""
 
 |  |  |
 |---|---|
-|  | [Mdm Chui Yuen Phun](chui_yuen_phun@moe.edu.sg)<br>Lead Teacher/English |
-| # | [Mr Terry Tan](mailto:tan_chee_liang_terry@moe.edu.sg)<br>Lead Teacher/Mathematics |
-| # | [Miss Kogilavani Vathumalai](mailto:kogilavani_vathumalai@moe.edu.sg)<br>Lead Teacher/Tamil Language |
-| # | [Mrs Sharron Yap](mailto:tan_jian_horng@moe.edu.sg)<br>Senior Teacher/Art |
-| # | [Mdm Ida Nonanseh Abdul Rahman](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg)<br>Senior Teacher/English |
-| # | [Mrs Farisa Hussain](mailto:farisa_begame_abdul_salam@moe.edu.sg)<br>Senior Teacher/Mathematics |
-| # | [Mr Wan Mohamed Nazrith](mailto:wan_mohamed@moe.edu.sg)<br>Senior Teacher/Science |
-|  # |[Ms Aminda Chua](mailto:aminda_chua_nyap_kin@moe.edu.sg)<br>Senior Teacher/Science  |
-| # | [Mrs Gladys Lim](mailto:ng_siew_may_gladys@moe.edu.sg)<br>Senior Teacher/SEN |
-| # | [Mdm Tan Yoke Joo](mailto:tan_yoke_joo@moe.edu.sg)<br>Senior Teacher/High Ability Learners |
+| [Mdm Chui Yuen Phun](chui_yuen_phun@moe.edu.sg)<br>Lead Teacher/English | <img src="/images/cher27.jpg" style="width:25%"> |
+| [Mr Terry Tan](mailto:tan_chee_liang_terry@moe.edu.sg)<br>Lead Teacher/Mathematics | <img src="/images/cher28.jpg" style="width:25%"> |
+| [Miss Kogilavani Vathumalai](mailto:kogilavani_vathumalai@moe.edu.sg)<br>Lead Teacher/Tamil Language | <img src="/images/cher29.jpg" style="width:25%"> |
+| [Mrs Sharron Yap](mailto:tan_jian_horng@moe.edu.sg)<br>Senior Teacher/Art | <img src="/images/cher30.jpg" style="width:25%"> |
+| [Mdm Ida Nonanseh Abdul Rahman](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg)<br>Senior Teacher/English | <img src="/images/cher31.jpg" style="width:25%"> |
+| [Mrs Farisa Hussain](mailto:farisa_begame_abdul_salam@moe.edu.sg)<br>Senior Teacher/Mathematics | <img src="/images/cher32.jpg" style="width:25%"> |
+| [Mr Wan Mohamed Nazrith](mailto:wan_mohamed@moe.edu.sg)<br>Senior Teacher/Science | <img src="/images/cher33.jpg" style="width:25%"> |
+| [Ms Aminda Chua](mailto:aminda_chua_nyap_kin@moe.edu.sg)<br>Senior Teacher/Science | <img src="/images/cher34.jpg" style="width:25%"> |
+| [Mrs Gladys Lim](mailto:ng_siew_may_gladys@moe.edu.sg)<br>Senior Teacher/SEN | <img src="/images/cher35.jpg" style="width:25%"> |
+| [Mdm Tan Yoke Joo](mailto:tan_yoke_joo@moe.edu.sg)<br>Senior Teacher/High Ability Learners | <img src="/images/cher36.jpg" style="width:25%"> |
 |
-
-<img src="/images/cher27.jpg" style="width:20%">
-<img src="/images/cher36.jpg" style="width:20%">
 
 ##### **Teaching Staff**
 
