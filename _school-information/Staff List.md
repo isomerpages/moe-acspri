@@ -14,95 +14,25 @@ description: ""
  [Ms Eileen Seow](mailto:seow_lay_yen@schools.gov.sg)<br>Vice-Principal<br>(Administr | <img src="/images/cher4.jpg" style="width:25%">|	
 |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-abkp{background-color:#F5F5F5;color:#4B4B4B;text-align:left;vertical-align:top}
-.tg .tg-9t3f{background-color:#F5F5F5;color:#4B4B4B;text-align:center;vertical-align:top}
-.tg .tg-fh0b{background-color:#F5F5F5;color:#9A0000;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9t3f"><img src="/images/cher1.jpg" style="width:20%"></th>
-    <th class="tg-fh0b"><a href="mailto:ho_hil_may@schools.gov.sg"><span style="text-decoration:none;color:#9A0000">Mrs Leong- Ho Hil May</span></a><br>Principal<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9t3f"><img src="/images/cher2.jpg" style="width:20%"></td>
-    <td class="tg-abkp"><br><a href="mailto:celia_choh@schools.gov.sg"><span style="text-decoration:none;color:#9A0000">Mrs Celia Lau</span></a><br>Vice-Principal</td>
-  </tr>
-  <tr>
-    <td class="tg-9t3f"><img src="/images/cher3.jpg" style="width:20%"></td>
-    <td class="tg-fh0b"><a href="mailto:chua_thian_keong@schools.gov.sg"><span style="text-decoration:none;color:#9A0000">Mr Max Chua</span></a><br>Vice-Principal</td>
-  </tr>
-  <tr>
-    <td class="tg-9t3f"><img src="/images/cher4.jpg" style="width:20%"></td>
-    <td class="tg-fh0b"><a href="mailto:seow_lay_yen@schools.gov.sg"><span style="text-decoration:none;color:#9A0000">Ms Eileen Seow</span></a><br>Vice-Principal<br>(Administration)</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">  
-.tg  {border-collapse:collapse;border-spacing:0;}  
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;  
-  overflow:hidden;padding:10px 5px;word-break:normal;}  
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;  
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}  
-.tg .tg-abkp{background-color:#F5F5F5;color:#4B4B4B;text-align:left;vertical-align:top}  
-.tg .tg-9t3f{background-color:#F5F5F5;color:#4B4B4B;text-align:center;vertical-align:top}  
-.tg .tg-fh0b{background-color:#F5F5F5;color:#9A0000;text-align:left;vertical-align:top}  
-</style>  
-<table class="tg">  
-<thead>  
-  <tr>  
-    <th class="tg-9t3f"><img src="[https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/DSC05954.jpg](https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/DSC05954.jpg)" alt="DSC05954.jpg" width="123"></th>  
-    <th class="tg-fh0b"><a href="mailto:[ho\_hil\_may@schools.gov.sg](mailto:ho_hil_may@schools.gov.sg)"><span style="text-decoration:none;color:#9A0000">Mrs Leong- Ho Hil May</span></a><br>Principal<br></th>  
-  </tr>  
-</thead>  
-<tbody>  
-  <tr>  
-    <td class="tg-9t3f"><img src="[https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2002%20MRS%20CELIA%20LAU.jpg](https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2002%20MRS%20CELIA%20LAU.jpg)" alt="SCHOOL LEADERS 02 MRS CELIA LAU.jpg" width="123"></td>  
-    <td class="tg-abkp"><br><a href="mailto:[celia\_choh@schools.gov.sg](mailto:celia_choh@schools.gov.sg)"><span style="text-decoration:none;color:#9A0000">Mrs Celia Lau</span></a><br>Vice-Principal</td>  
-  </tr>  
-  <tr>  
-    <td class="tg-9t3f"><img src="[https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2003%20MR%20MAX%20CHUA.jpg](https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2003%20MR%20MAX%20CHUA.jpg)" alt="SCHOOL LEADERS 03 MR MAX CHUA.jpg" width="123"></td>  
-    <td class="tg-fh0b"><a href="mailto:[chua\_thian\_keong@schools.gov.sg](mailto:chua_thian_keong@schools.gov.sg)"><span style="text-decoration:none;color:#9A0000">Mr Max Chua</span></a><br>Vice-Principal</td>  
-  </tr>  
-  <tr>  
-    <td class="tg-9t3f"><img src="[https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2004%20MS%20SEOW%20LAY%20YEN%20EILEEN.jpg](https://acspri.moe.edu.sg/qql/slot/u532/School%20Information/Staff%20List/2022%20Staff%20Pics/SL/SCHOOL%20LEADERS%2004%20MS%20SEOW%20LAY%20YEN%20EILEEN.jpg)" alt="SCHOOL LEADERS 04 MS SEOW LAY YEN EILEEN.jpg" width="123"></td>  
-    <td class="tg-fh0b"><a href="mailto:[seow\_lay\_yen@schools.gov.sg](mailto:seow_lay_yen@schools.gov.sg)"><span style="text-decoration:none;color:#9A0000">Ms Eileen Seow</span></a><br>Vice-Principal<br>(Administration)</td>  
-  </tr>  
-</tbody>  
-</table>
-
 ##### **Heads of Department/Year Heads**
 
 |  |  |
 |---|---|
-|  | [Ms Vanessa Tan](mailto:tan_bee_choo_b@moe.edu.sg)<br>School Staff Developer |
-| # | [Mdm Jillianne Chew](mailto:jillianne_chew_li_ing@moe.edu.sg)<br>HOD/Aesthetics |
-| # | [Mrs Christine Ho](mailto:tan_lay_hoon_christine@moe.edu.sg)<br>HOD/Character and Citizenship Education |
-| # | [Mdm Suzanna Hashim](mailto:suzanna_hashim@moe.edu.sg)<br>HOD/English |
-| # | [Mdm See Kwan Hui Jo](mailto:see_kwan_hui_josephine@moe.edu.sg)[sephine](mailto:see_kwan_hui_josephine@moe.edu.sg)<br>HOD/GEP (Humanities) |
-| # | [Mdm Heng Siok Pheng](mailto:heng_siok_pheng@moe.edu.sg)<br>HOD/ICT |
-| # | [Ms Kathleen Chan](mailto:chan_yin_hong_kathleen@moe.edu.sg)<br>HOD/GEP (Mathematics & Science) |
-| # | [Miss Tay Kwee Hong Diana](mailto:tay_kwee_hong@moe.edu.sg)<br>HOD/Mathematics |
-| # | [Ms Angeline Ong](mailto:ong_ghim_muay@moe.edu.sg)<br>HOD/Mother Tongue Languages |
-| # | [Mrs Angeline Yung](mailto:chan_xiuwen@moe.edu.sg)<br>HOD/SEN&VIA<br> |
-| # | [Mr Lim Wee Meng Kelvin](mailto:lim_wee_meng_kelvin@moe.edu.sg)<br>HOD/PE & CCA |
-| # | [Mrs Lee Chi Loo](mailto:teo_chi_loo@moe.edu.sg)<br>Year Head/Lower Primary |
-| # | [Mr Koh Yee Lee](mailto:koh_yee_lee@moe.edu.sg)<br>Year Head/Upper Primary |
-| # | [Mdm Teresa Liew](mailto:liew_sin_tong_teresa@moe.edu.sg)<br>Year Head/Upper Primary |
+| [Ms Vanessa Tan](mailto:tan_bee_choo_b@moe.edu.sg)<br>School Staff Developer | <img src="/images/cher5.jpg" style="width:25%"> |
+| [Mdm Jillianne Chew](mailto:jillianne_chew_li_ing@moe.edu.sg)<br>HOD/Aesthetics | <img src="/images/cher6.jpg" style="width:25%"> |
+| [Mrs Christine Ho](mailto:tan_lay_hoon_christine@moe.edu.sg)<br>HOD/Character and Citizenship Education | <img src="/images/cher7.jpg" style="width:25%"> |
+| [Mdm Suzanna Hashim](mailto:suzanna_hashim@moe.edu.sg)<br>HOD/English | <img src="/images/cher8.jpg" style="width:25%"> |
+| [Mdm See Kwan Hui Jo](mailto:see_kwan_hui_josephine@moe.edu.sg)[sephine](mailto:see_kwan_hui_josephine@moe.edu.sg)<br>HOD/GEP (Humanities) | <img src="/images/cher9.jpg" style="width:25%"> |
+| [Mdm Heng Siok Pheng](mailto:heng_siok_pheng@moe.edu.sg)<br>HOD/ICT | <img src="/images/cher10.jpg" style="width:25%"> |
+| [Ms Kathleen Chan](mailto:chan_yin_hong_kathleen@moe.edu.sg)<br>HOD/GEP (Mathematics & Science) | <img src="/images/cher11.jpg" style="width:25%"> |
+| [Miss Tay Kwee Hong Diana](mailto:tay_kwee_hong@moe.edu.sg)<br>HOD/Mathematics | <img src="/images/cher12.jpg" style="width:25%"> |
+| [Ms Angeline Ong](mailto:ong_ghim_muay@moe.edu.sg)<br>HOD/Mother Tongue Languages | <img src="/images/cher13.jpg" style="width:25%"> |
+| [Mrs Angeline Yung](mailto:chan_xiuwen@moe.edu.sg)<br>HOD/SEN&VIA<br> | <img src="/images/cher14.jpg" style="width:25%"> |
+| [Mr Lim Wee Meng Kelvin](mailto:lim_wee_meng_kelvin@moe.edu.sg)<br>HOD/PE & CCA | <img src="/images/cher15.jpg" style="width:25%"> |
+| [Mrs Lee Chi Loo](mailto:teo_chi_loo@moe.edu.sg)<br>Year Head/Lower Primary| <img src="/images/cher16.jpg" style="width:25%">  |
+| [Mr Koh Yee Lee](mailto:koh_yee_lee@moe.edu.sg)<br>Year Head/Upper Primary | <img src="/images/cher17.jpg" style="width:25%"> |
+| [Mdm Teresa Liew](mailto:liew_sin_tong_teresa@moe.edu.sg)<br>Year Head/Upper Primary | <img src="/images/cher18.jpg" style="width:25%"> |
 |
-
-<img src="/images/cher5.jpg" style="width:20%">
-<img src="/images/cher18.jpg" style="width:20%">
-
 
 ##### **Assistant Year Heads/Level Heads/Subject Heads**
 
