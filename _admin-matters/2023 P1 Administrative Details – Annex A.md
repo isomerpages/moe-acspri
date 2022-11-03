@@ -15,9 +15,9 @@ description: ""
 
 [7\. ACS(P) NameTag 2023](/files/ACSP%20NameTag%202023.pdf)
   
-[7\. ACS(P) School Uniform - P1 2023](https://acspri.moe.edu.sg/qql/slot/u532/2022_addtion/7.%20ACSP%20School%20Uniform%20-%20P1%202023.pdf)  
-  
-[8. 2023 ACS(P) School Bus Registration TnC P1](https://acspri.moe.edu.sg/qql/slot/u532/2022_addtion/8.%202023%20ACSP%20School%20Bus%20Registration%20TnC%20P1.pdf)  
+[7\. ACS(P) School Uniform - P1 2023](/files/ACSP%20School%20Uniform%20-%20P1%202023.pdf)
+
+[8\. 2023 ACS(P) School Bus Registration TnC P1](/files/2023%20ACSP%20School%20Bus%20Registration%20TnC%20P1.pdf)
   
 [10. Handbook for Parents](https://acspri.moe.edu.sg/qql/slot/u532/2022_addtion/10.%20Handbook%20for%20Parents.pdf)  
   
