@@ -2,9 +2,9 @@ collections:
   admin-matters:
     output: true
     order:
-      - 2023 P1 Administrative Details – Annex A.md
       - Learning Management System.md
       - Bookshop.md
+      - 2023 P1 Administrative Details – Annex A.md
       - Calender.md
       - Dental Clinic.md
       - Transit Link Hotline.md
