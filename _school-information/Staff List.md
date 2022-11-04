@@ -154,7 +154,7 @@ description: ""
 | [Mr Muhammad Jumadi](mailto:muhammad_jumadi_jamaludin@moe.edu.sg)<br>Senior SEN Officer | <img src="/images/cher114.jpg" style="width:25%"> |
 | [Miss Daphne Heng](mailto:heng_syn_yee_daphne@moe.edu.sg)<br>SEN Officer | <img src="/images/cher113.jpg" style="width:25%"> |
 | [Ms Jane Chong](mailto:chong_mee_fong_jane@moe.edu.sg)<br>SEN Officer | <img src="/images/cher115.jpg" style="width:25%"> |
-| [Ms Jane Chong](mailto:chong_mee_fong_jane@moe.edu.sg)<br>SEN Officer | <img src="/images/Stephanie%20Hooi%20IC%20photo.jpg" style="width:25%"> |
+| [Miss Stephanie Hooi](mailto:hooi_li_qiong_stephanie@moe.edu.sg)<br>SEN Officer | <img src="/images/Stephanie%20Hooi%20IC%20photo.jpg" style="width:25%"> |
 | [Mr Richard Goh](mailto:goh_teoh_chuan@moe.edu.sg)<br>Senior AED/T&L | <img src="/images/cher116.jpg" style="width:25%"> |
 |
 
