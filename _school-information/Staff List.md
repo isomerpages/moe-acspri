@@ -171,15 +171,14 @@ description: ""
 |  [Mdm Vasundara Devi](mailto:vasundara_devi@moe.edu.sg)<br>Corporate Support Office | <img src="/images/admin6.jpg" style="width:25%">  |
 | Ms Anupriya<br>Admin Assistant  | <img src="/images/admin7.jpg" style="width:25%">  |
 | Ms Marsytha<br>Laboratory Assistant  | <img src="/images/admin8.jpg" style="width:25%">  |
-|  Ms Abidah Bte Hussein<br>Librarian | <img src="/images/admin9.jpg" style="width:25%">  |
 |  Mr Muhd Fuad<br>Operations Support Officer<br>6250 1633 | <img src="/images/admin10.jpg" style="width:25%">  |
 | Mr Jahroni Karadi<br>Operations Support Officer<br>6250 1633   | <img src="/images/admin11.jpg" style="width:25%"> |
 | Mr Juhari Emin<br>Operations Support Officer<br>6250 1633  |  <img src="/images/admin12.jpg" style="width:25%"> |
 | Mdm Letchimi A<br>Operations Support Officer<br>6250 1633  | <img src="/images/admin13.jpg" style="width:25%">  |
 | Mdm Saeyah<br>Operations Support Officer  | <img src="/images/admin14.jpg" style="width:25%">  |
 |  [Mr Lee Byung Woo](mailto:Lee_Byung_Woo@moe.edu.sg)<br> ICT Manager | <img src="/images/admin15.jpg" style="width:25%">  |
-| [Ms Angelinea Tan](mailto:Tan_Qian_Ning_Angelina@schools.gov.sg)<br>Admin Executive  |  <img src="/images/admin6.jpg" style="width:25%"> |
-| Ms Asiah Bibi Binte Ali<br>Corporate Support Officer | <img src="/images/admin17.jpg" style="width:25%">  |
+| [Ms Angelinea Tan](mailto:Tan_Qian_Ning_Angelina@schools.gov.sg)<br>Admin Executive  |  <img src="/images/admin16.jpg" style="width:25%"> |
+| [Ms Asiah Bibi Binte Ali](mailto:Asiah_Bibi_Ali@schools.gov.sg)<br>Corporate Support Officer | <img src="/images/admin17.jpg" style="width:25%">  |
 |
 
 ##### **School Counsellor**
