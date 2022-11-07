@@ -1,0 +1,13 @@
+collections:
+  admin-matters:
+    output: true
+    order:
+      - Learning Management System.md
+      - Bookshop.md
+      - 2023 P1 Administrative Details – Annex A.md
+      - Calender.md
+      - Dental Clinic.md
+      - Transit Link Hotline.md
+      - Forms.md
+      - School Uniform.md
+      - School Bus.md

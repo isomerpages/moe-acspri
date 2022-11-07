@@ -1,0 +1,22 @@
+collections:
+  mother-tongue:
+    output: true
+    order:
+      - Chinese/Chinese.md
+      - Chinese/Organisation Chart.md
+      - Chinese/Programmes.md
+      - Chinese/Assessment Matters.md
+      - Chinese/Others.md
+      - Chinese/.keep
+      - Malay/Malay.md
+      - Malay/Organisation Chart.md
+      - Malay/Programmes.md
+      - Malay/Assessment Matters.md
+      - Malay/Others.md
+      - Malay/.keep
+      - Tamil/Tamil.md
+      - Tamil/Organisation Chart.md
+      - Tamil/Programmes.md
+      - Tamil/Assessment Matters.md
+      - Tamil/Others.md
+      - Tamil/.keep

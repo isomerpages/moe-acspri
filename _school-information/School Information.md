@@ -1,0 +1,24 @@
+---
+title: School Information
+permalink: /school-information/
+description: ""
+---
+### **School Information**
+##### **General Information**
+<img src="/images/sch%20info.jpg" style="width:25%;margin-right:15px;" align="left"> 
+<b>Office hours (School Term)</b><br>
+Our General office will remain open from&nbsp;<br>
+Mondays to Fridays,&nbsp;**7.00am to 5.00pm**.
+
+To align with the national Safe Management Measures, we would like to encourage you to come to school only when you need to, for example to collect your son's /ward's learning materials.&nbsp;
+<br><br><br><br>
+If there is any payment to be made, please pay via SAM [Instructions on SAM](/files/Instructions%20on%20SAM.pdf)or send us a cheque.
+
+Telephone: 6250 1633<br>
+Fax: 6353 1366<br>
+Email: [acps@moe.edu.sg](mailto:acps@moe.edu.sg)<br>
+Address: 50 Barker Road . Singapore 309918
+
+##### **Location**
+Bus Services are 48, 66, 67, 170, 972M and 960.  <br>
+The nearest MRT stations are Newton, Novena and Stevens.
