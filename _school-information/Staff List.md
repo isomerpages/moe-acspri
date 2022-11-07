@@ -31,7 +31,7 @@ description: ""
 | [Mr Lim Wee Meng Kelvin](mailto:lim_wee_meng_kelvin@moe.edu.sg)<br>HOD/PE & CCA | <img src="/images/cher15.jpg" style="width:25%"> |
 | [Mrs Lee Chi Loo](mailto:teo_chi_loo@moe.edu.sg)<br>Year Head/Lower Primary| <img src="/images/cher16.jpg" style="width:25%">  |
 | [Mr Koh Yee Lee](mailto:koh_yee_lee@moe.edu.sg)<br>Year Head/Upper Primary | <img src="/images/cher17.jpg" style="width:25%"> |
-| [Mdm Teresa Liew](mailto:liew_sin_tong_teresa@moe.edu.sg)<br>Year Head/Upper Primary | <img src="/images/cher18.jpg" style="width:25%"> |
+| [Mdm Teresa Liew](mailto:liew_sin_tong_teresa@moe.edu.sg)<br>Year Head/Middle Primary | <img src="/images/cher18.jpg" style="width:25%"> |
 |
 
 ##### **Assistant Year Heads/Level Heads/Subject Heads**
@@ -40,7 +40,7 @@ description: ""
 |---|---|
 |  [Mrs Janis Pavia](mailto:lau_kah_ling_janis@moe.edu.sg)<br>Assistant Year Head/Lower Primary | <img src="/images/cher19.jpg" style="width:25%"> |
 | [Ms Aubrey Ong](mailto:ong_pei_khim_aubrey@moe.edu.sg)<br>Assistant Year Head/Upper Primary  | <img src="/images/cher20.jpg" style="width:25%"> |
-| [Miss Tam Xin Yi](mailto:tam_xin_yi@moe.edu.sg)<br>Assistant Year Head/Upper Primary | <img src="/images/cher21.jpg" style="width:25%"> |
+| [Miss Tam Xin Yi](mailto:tam_xin_yi@moe.edu.sg)<br>Assistant Year Head/Middle Primary | <img src="/images/cher21.jpg" style="width:25%"> |
 | [Mdm Chiew Hwee Ling](mailto:chiew_hwee_ling@moe.edu.sg)<br>Level Head/Chinese Language |<img src="/images/cherchiew.jpg" style="width:25%">|
 | [Mdm Jasmine Kaur](mailto:jasmine_kaur@moe.edu.sg)<br>Level Head/English | <img src="/images/cher22.jpg" style="width:25%"> |
 |  [Mdm Anna Asha Mohan](mailto:anna_asha_mohan@moe.edu.sg)<br>Subject Head/Aesthetics | <img src="/images/cher23.jpg" style="width:25%"> |
@@ -128,8 +128,7 @@ description: ""
 |  [Mdm Wendy Tan](mailto:tan_poh_yee@moe.edu.sg)<br>Teacher   | <img src="/images/cher93.jpg" style="width:25%"> |
 | [Mrs Hoong  Xiu Qin](mailto:hoong_xiu_qin@moe.edu.sg)<br>Teacher | <img src="/images/cher94.jpg" style="width:25%"> |
 | [Ms Lum Yick Thim](mailto:lum_yick_thim@moe.edu.sg)<br>Teacher | <img src="/images/cher95.jpg" style="width:25%"> |
-| [Miss Tay Ying Ying](mailto:tay_ying_ying@moe.edu.sg)<br>Teacher  | <img src="/images/cher96.jpg" style="width:25%">   |
-| [Ms Tay Yu Juan](mailto:tay_yu_juan@moe.edu.sg)<br>Teacher | <img src="/images/cher97.jpg" style="width:25%"> |
+| [Miss Tay Ying Ying](mailto:tay_ying_ying@moe.edu.sg)<br>Teacher  | <img src="/images/cher96.jpg" style="width:25%"> 
 | [Ms Woon Yuet Meng](mailto:woon_yuet_meng@moe.edu.sg)<br> Teacher  | <img src="/images/cher98.jpg" style="width:25%"> |
 | [Mdm Zahara Osman](mailto:zahara_osman@moe.edu.sg)<br>Teacher | <img src="/images/cher99.jpg" style="width:25%"> |
 | [Mdm Zarinah Md Eunos](mailto:zarinah_mohamed_eunos@moe.edu.sg)<br>Teacher | <img src="/images/cher100.jpg" style="width:25%"> |
@@ -167,7 +166,7 @@ description: ""
 | [Mr Keith Chong](mailto:Keith%20Chong%20%3Ckeith_chong@acsp.sg%3E)<br>Operations Manager  | <img src="/images/admin2.jpg" style="width:25%">  |
 | [Mr Ernest Fu](mailto:Ernest_Fu@schools.gov.sg)<br>Admin Manager | <img src="/images/admin3.jpg" style="width:25%">  |
 | [Miss Lim Siew Lay](mailto:lim_siew_lay_a@schools.gov.sg)<br>Admin Manager  |  <img src="/images/admin4.jpg" style="width:25%"> |
-| [Ms Chia Siang Keng](mailto:chia_siang_keng@moe.edu.sg)<br> Corporate Support Officer  | <img src="/images/admin5.jpg" style="width:25%"> |
+| [Mdm Chia Siang Keng](mailto:chia_siang_keng@moe.edu.sg)<br> Corporate Support Officer  | <img src="/images/admin5.jpg" style="width:25%"> |
 |  [Mdm Vasundara Devi](mailto:vasundara_devi@moe.edu.sg)<br>Corporate Support Office | <img src="/images/admin6.jpg" style="width:25%">  |
 | Ms Anupriya<br>Admin Assistant  | <img src="/images/admin7.jpg" style="width:25%">  |
 | Ms Marsytha<br>Laboratory Assistant  | <img src="/images/admin8.jpg" style="width:25%">  |
@@ -177,7 +176,7 @@ description: ""
 | Mdm Letchimi A<br>Operations Support Officer<br>6250 1633  | <img src="/images/admin13.jpg" style="width:25%">  |
 | Mdm Saeyah<br>Operations Support Officer  | <img src="/images/admin14.jpg" style="width:25%">  |
 |  [Mr Lee Byung Woo](mailto:Lee_Byung_Woo@moe.edu.sg)<br> ICT Manager | <img src="/images/admin15.jpg" style="width:25%">  |
-| [Ms Angelinea Tan](mailto:Tan_Qian_Ning_Angelina@schools.gov.sg)<br>Admin Executive  |  <img src="/images/admin16.jpg" style="width:25%"> |
+| [Ms Angelina Tan](mailto:Tan_Qian_Ning_Angelina@schools.gov.sg)<br>Admin Executive  |  <img src="/images/admin16.jpg" style="width:25%"> |
 | [Ms Asiah Bibi Binte Ali](mailto:Asiah_Bibi_Ali@schools.gov.sg)<br>Corporate Support Officer | <img src="/images/admin17.jpg" style="width:25%">  |
 |
 
