@@ -140,6 +140,7 @@ description: ""
 | [Mrs Christina Tan](mailto:lim_peck_hwee_christina@moe.edu.sg)<br>Teacher | <img src="/images/cher106.jpg" style="width:25%"> |
 | [Mdm Teo Chin Wen](mailto:Teo_Chin_Wen@moe.edu.sg)<br>Teacher<br> | <img src="/images/cher107.jpg" style="width:25%"> |
 | [Miss Ho Hui Xin](mailto:ho_hui_xin@moe.edu.sg)<br>Teacher | <img src="/images/cher108.jpg" style="width:25%"> |
+| [Miss Ho Hui Xin](mailto:ho_hui_xin@moe.edu.sg)<br>Teacher | <img src="/images/cher108.jpg" style="width:25%"> |
 | [Mdm Jenn Ang](mailto:jenn_ang@moe.edu.sg)<br>Teacher | <img src="/images/cher109.jpg" style="width:25%"> |
 | [Mrs  Koay Guimei](http://he_guimei@moe.edu.sg/) <br>Teacher | <img src="/images/cher110.jpg" style="width:25%"> |
 | [Miss Ong Jia Qi](mailto:ong_jia_qi@acsp.sg)<br>Teacher  |  <img src="/images/cher111.jpg" style="width:25%">   |
