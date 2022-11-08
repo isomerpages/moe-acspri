@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Sc_uni_Log.jpg
+      background: /images/General.jpg
       key_highlights:
         - title: Affective
           description: ""
