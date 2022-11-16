@@ -12,24 +12,22 @@ Opening Hours: Students can purchase books and stationery items during the openi
 
 Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
-[2022 P1 Book List](/files/P1%202022%20Booklist.pdf)
+[2023 P2 Book List](/files/2023_Book_List/P2.pdf)
 
-[2022 P2 Book List](/files/P2%202022%20Booklist.pdf)
+[2023 P3 Book List](/files/2023_Book_List/P3.pdf)
 
-[2022 P3 Book List](/files/P3%202022%20Booklist.pdf)
+[2023 P4 Book List](/files/2023_Book_List/P4.pdf)
 
-[2022 P4 Book List](/files/P4%202022%20Booklist.pdf)
+[2023 P4 GEP Book List](/files/2023_Book_List/P4_GEP.pdf)
 
-[2022 P4 GEP Book List](/files/P4%20GEP%20%202022%20Booklist.pdf)
+[2023 P5 Book List](/files/2023_Book_List/P5.pdf)
 
-[2022 P5 Book List](/files/P5%202022%20Booklist.pdf)
+[2023 P5 FDN Book List](/files/2023_Book_List/P5_FDN.pdf)
 
-[2022 P5 FDN Book List](/files/P5%20FDN%20Booklist.pdf)
+[2023 P5 GEP Book List](/files/2023_Book_List/P5_GEP.pdf)
 
-[2022 P5 GEP Book List](/files/P5%20GEP%20Booklist.pdf)
+[2023 P6 Book List](/files/2023_Book_List/P6.pdf)
 
-[2022 P6 Book List](/files/P6%20Booklist.pdf)
+[2023 P6 FDN Book List](/files/2023_Book_List/P6_FDN.pdf)
 
-[2022 P6 FDN Book List](/files/P6%20FDN%20Booklist.pdf)
-
-[2022 P6 GEP Book List](/files/P6%20GEP%20Booklist.pdf)
+[2023 P6 GEP Book List](/files/2023_Book_List/P6_GEP.pdf)
