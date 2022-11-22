@@ -14,18 +14,16 @@ locations:
         description: Closed on Public Holidays
     maps_link: ""
     title: General Office
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: Map
 contacts:
   - content:
       - phone: +65 6535 1366
       - email: acps@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
       - other: Bus Services are 48, 66, 67, 170, 972M and 960. The nearest MRT stations
           are Newton, Novena and Stevens.
-    title: General Enquiries & Feedback
+    title: "Bus Services "
 ---
