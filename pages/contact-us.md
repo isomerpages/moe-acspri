@@ -14,6 +14,13 @@ locations:
         description: Closed on Public Holidays
     maps_link: ""
     title: General Office
+  - address:
+      - ""
+      - ""
+      - ""
+    title: Map
+    operating_hours: []
+    maps_link: ""
 contacts:
   - content:
       - phone: +65 6535 1366
