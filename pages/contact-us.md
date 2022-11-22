@@ -18,6 +18,7 @@ contacts:
   - content:
       - phone: +65 6535 1366
       - email: acps@moe.edu.sg
-      - other: ""
+      - other: Bus Services are 48, 66, 67, 170, 972M and 960. The nearest MRT stations
+          are Newton, Novena and Stevens.
     title: General Enquiries & Feedback
 ---
