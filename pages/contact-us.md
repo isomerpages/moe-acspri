@@ -18,9 +18,9 @@ locations:
       - ""
       - ""
       - ""
-    title: Map
     operating_hours: []
     maps_link: ""
+    title: Map
 contacts:
   - content:
       - phone: +65 6535 1366
