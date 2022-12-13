@@ -35,7 +35,6 @@ description: ""
 |  2A | Miss Patricia Lim <br> [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)     | <img src="/images/p2cher2.jpg" style="width:30%"> |
 |  2B |  Mrs Gomathi Ravindra <br> [gomathi_ravindra@moe.edu.sg](mailto:gomathi_ravindra@moe.edu.sg)   | <img src="/images/p2cher3.jpg" style="width:30%"> |
 |  2B |  Miss Cheong Sinh Mei <br> [cheong_sinh_mei@acsp.sg](mailto:cheong_sinh_mei@acsp.sg)   | <img src="/images/p2cher4.jpg" style="width:30%"> |
-|  2C | Mdm Adeline Goh <br> [adeline_goh_pei_yin@moe.edu.sg](mailto:adeline_goh_pei_yin@moe.edu.sg)   | <img src="/images/p2cher5.jpg" style="width:30%"> |
 |  2C |  Mr Daniel Chua <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)  | <img src="/images/p2cher6.jpg" style="width:30%"> |
 | 2C | Ms Zubaidah <br> [zubaidah_sheik_mohamed_ishak@moe.edu.sg](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)  | <img src="/images/p2cher7.jpg" style="width:30%"> |
 | 2D |   Mdm Sheryn Pang <br> [pang_shing_hsiu@moe.edu.sg](mailto:pang_shing_hsiu@moe.edu.sg)   | <img src="/images/p2cher8.jpg" style="width:30%"> |
@@ -47,7 +46,6 @@ description: ""
 |  2G | Mrs Janis Pavia <br> [lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg) | <img src="/images/p2cher14.jpg" style="width:30%"> |
 |  2G | Mdm Wendy Tan <br> [tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg) | <img src="/images/p2cher15.jpg" style="width:30%"> |
 |  2G  |   Miss Ong Jia Qi <br> [ong_jia_qi@acsp.sg](mailto:ong_jia_qi@acsp.sg)| <img src="/images/p2cher16.jpg" style="width:30%"> |
-|   2H | Miss Tay Ying Ying <br> [tay_ying_ying@moe.edu.sg](mailto:tay_ying_ying@moe.edu.sg) | <img src="/images/p2cher17.jpg" style="width:30%"> |
 |  2H | Mdm Foo Ting Ting <br> [foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg) | <img src="/images/p2cher18.jpg" style="width:30%"> |
 |
 
@@ -60,10 +58,8 @@ description: ""
 | 3B | Ms Jessica Goh <br> [goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg)  | <img src="/images/p3cher3.jpeg" style="width:30%"> |
 | 3B | Ms Jessica Lai <br> [jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)  | <img src="/images/p3cher4.jpg" style="width:30%"> |
 | 3B | Mr Goh Teoh Chuan (Richard) <br> [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg) | <img src="/images/p3cher5.jpg" style="width:30%"> |
-| 3C | Mr Lau Mun Yip Benny <br> [lau_mun_yip_benny@moe.edu.sg](mailto:lau_mun_yip_benny@moe.edu.sg)  | <img src="/images/p3cher6.jpg" style="width:30%"> |
 | 3C  | Mdm Teo Chin Wen<br>  [teo_chin_wen@moe.edu.sg](mailto:teo_chin_wen@moe.edu.sg) | <img src="/images/p3cher7.jpg" style="width:30%"> |
 | 3D | Mr Vijayakumaran G <br> [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  | <img src="/images/p3cher8.jpg" style="width:30%"> |
-| 3D  | Ms Huang Li <br> [Huang_li@moe.edu.sg](mailto:Huang_li@moe.edu.sg)  | <img src="/images/p3cher9.jpg" style="width:30%"> |
 | 3E | Mr Adrian Kum <br> [kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg) | <img src="/images/p3cher10.jpg" style="width:30%"> |
 | 3E | Mr Caleb Chua <br> [caleb_chua@moe.edu.sg](mailto:caleb_chua@moe.edu.sg) | <img src="/images/p3cher11.jpg" style="width:30%"> |
 | 3F | Mrs Dawn Wee <br> [wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg) | <img src="/images/p3cher12.jpg" style="width:30%"> |
@@ -75,20 +71,16 @@ description: ""
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
 |  4A | Mrs Angeline Yung <br> [chan_xiuwen@moe.edu.sg](mailto:chan_xiuwen@moe.edu.sg) | <img src="/images/p4cher1.jpg" style="width:30%"> |
-|  4A | Miss Tam Xin Yi <br> [tam_xin_yi@moe.edu.sg](mailto:tam_xin_yi@moe.edu.sg) | <img src="/images/p4cher2.jpg" style="width:30%"> |
-|  4A | Ms	Lum Yick Thim <br> [lum_yick_thim@moe.edu.sg](mailto:lum_yick_thim@moe.edu.sg) | <img src="/images/p4cher3.jpg" style="width:30%"> |
 |  4B | Mrs Gladys Lim <br>  [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) | <img src="/images/p4cher4.jpg" style="width:30%"> |
 |  4B | Miss Ho Hui Xin <br> [ho_hui_xin@moe.edu.sg](mailto:ho_hui_xin@moe.edu.sg) | <img src="/images/p4cher5.jpg" style="width:30%"> |
 | 4C | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher6.jpg" style="width:30%"> |
 |  4C | Mrs Vanessa Lim <br> [lee_hui_cher_vanessa@moe.edu.sg](mailto:lee_hui_cher_vanessa@moe.edu.sg) | <img src="/images/p4cher7.jpg" style="width:30%"> |
 |  4D | Mrs Yap Sharron <br> [tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg) | <img src="/images/p4cher8.jpg" style="width:30%"> |
-|  4D | Mr Tan Poo Loy <br> [tan_poo_loy@moe.edu.sg](mailto:tan_poo_loy@moe.edu.sg) | <img src="/images/p4cher9.jpg" style="width:30%"> |
 |  4E | Miss Mazeedah M Azmi <br> [mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg) | <img src="/images/p4cher10.jpg" style="width:30%"> |
 |  4E | Mr	Benedict Yap <br> [benedict_yap_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg) | <img src="/images/p4cher11.jpg" style="width:30%"> |
 |  4F | Mdm Punitha Kasipandy <br> [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)  | <img src="/images/p4cher12.jpg" style="width:30%"> |
 |  4F | Mdm Loh Su Hian <br> [loh_su_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg) | <img src="/images/p4cher13.jpg" style="width:30%"> |
 |  4G | Mdm Renuka Devi Windersalam<br>  [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | <img src="/images/p4cher14.jpg" style="width:30%"> |
-|  4G | Miss Fong Wui Yen <br> [fong_wui_yen_a@moe.edu.sg](mailto:fong_wui_yen_a@moe.edu.sg) | <img src="/images/p4cher15.jpg" style="width:30%"> |
 |  4H |  Mdm Li Chunju <br> [li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg) | <img src="/images/p4cher16.jpg" style="width:30%"> |
 |  4H | Mr Stanley Yeo <br> [yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg) | <img src="/images/p4cher17.jpg" style="width:30%"> |
 | 
@@ -112,7 +104,6 @@ description: ""
 |  5F | Mr Kelvin Chan Yong Meng <br> [kelvin_chan_yong_meng@moe.edu.sg](mailto:kelvin_chan_yong_meng@moe.edu.sg) | <img src="/images/p5cher13.jpg" style="width:30%"> |
 |  5G | Mdm Chiew Hwee Ling <br> [chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) | <img src="/images/p5cher14.jpg" style="width:30%"> |
 | 5G | Mdm Jillianne Chew <br>  [jillianne_chew_li_ing@moe.edu.sg](mailto:jillianne_chew_li_ing@moe.edu.sg)  | <img src="/images/p5cher15.jpg" style="width:30%"> |
-|  5H | Ms Luo Cuixin <br> [luo_cuixin@moe.edu.sg](mailto:luo_cuixin@moe.edu.sg)  | <img src="/images/p5cher16.jpg" style="width:30%"> |
 |  5H | Mr Chan Tai Yao <br> [chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg)  | <img src="/images/p5cher17.jpg" style="width:30%"> |
 | 
 
