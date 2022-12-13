@@ -127,7 +127,6 @@ description: ""
 | [Mdm Zarinah Md Eunos](mailto:zarinah_mohamed_eunos@moe.edu.sg)<br>Teacher | <img src="/images/cher100.jpg" style="width:25%"> |
 |  [Ms Zubaidah Bte Sheik Md Isha](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)k<br>Teacher | <img src="/images/cher101.jpg" style="width:25%">  |
 | [Mdm Sheryn Pang](mailto:pang_shing_hsiu@moe.edu.sg)<br>Teacher | <img src="/images/cher103.jpg" style="width:25%"> |
-| [Ms Huang Li](mailto:Huang_li@moe.edu.sg)<br>Teacher | <img src="/images/cher104.jpg" style="width:25%"> |
 | [Mr Tan Yew Chai](mailto:tan_yew_chai@moe.edu.sg)<br>Teacher | <img src="/images/cher105.jpg" style="width:25%"> |
 | [Mrs Christina Tan](mailto:lim_peck_hwee_christina@moe.edu.sg)<br>Teacher | <img src="/images/cher106.jpg" style="width:25%"> |
 | [Mdm Teo Chin Wen](mailto:Teo_Chin_Wen@moe.edu.sg)<br>Teacher<br> | <img src="/images/cher107.jpg" style="width:25%"> |
