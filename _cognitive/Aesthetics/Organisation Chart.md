@@ -18,5 +18,3 @@ third_nav_title: Aesthetics
 | <img src="/images/aes6.jpg" style="width:30%"> | Mrs Lee Ting Ting <br> Art Coordinator <br> [foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg)  |
 | <img src="/images/aes7.jpg" style="width:30%"> |  Ms Zubaidah bte Sheik Mohamed Ishak <br> [zubaidah_sheik_mohamed_ishak@moe.edu.sg](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg) |
 |
-
-
