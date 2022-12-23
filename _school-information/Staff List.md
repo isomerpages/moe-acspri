@@ -40,7 +40,6 @@ description: ""
 |---|---|
 |  [Mrs Janis Pavia](mailto:lau_kah_ling_janis@moe.edu.sg)<br>Assistant Year Head/Lower Primary | <img src="/images/cher19.jpg" style="width:25%"> |
 | [Ms Aubrey Ong](mailto:ong_pei_khim_aubrey@moe.edu.sg)<br>Assistant Year Head/Upper Primary  | <img src="/images/cher20.jpg" style="width:25%"> |
-| [Miss Tam Xin Yi](mailto:tam_xin_yi@moe.edu.sg)<br>Assistant Year Head/Middle Primary | <img src="/images/cher21.jpg" style="width:25%"> |
 | [Mdm Chiew Hwee Ling](mailto:chiew_hwee_ling@moe.edu.sg)<br>Level Head/Chinese Language |<img src="/images/cherchiew.jpg" style="width:25%">|
 | [Mdm Jasmine Kaur](mailto:jasmine_kaur@moe.edu.sg)<br>Level Head/English | <img src="/images/cher22.jpg" style="width:25%"> |
 |  [Mdm Anna Asha Mohan](mailto:anna_asha_mohan@moe.edu.sg)<br>Subject Head/Aesthetics | <img src="/images/cher23.jpg" style="width:25%"> |
@@ -69,12 +68,10 @@ description: ""
 
 |  |  |
 |---|---|
-| [Ms Adeline Goh](mailto:adeline_goh_pei_yin@moe.edu.sg)<br>Teacher | <img src="/images/cher37.jpg" style="width:25%"> |
 | [Mr Adrian Kum](mailto:kum_kin_meng@moe.edu.sg)<br>Teacher | <img src="/images/cher38.jpg" style="width:25%">  |
 |  [Ms Tan Bee Po](mailto:tan_bee_po@moe.edu.sg)<br>Teacher | <img src="/images/cher39.jpg" style="width:25%">  |
 | [Mr Chan Tai Yao](mailto:chan_tai_yao@moe.edu.sg)<br>Science Coordinator  | <img src="/images/cher40.jpg" style="width:25%">  |
 | [Mr Benedict Yap](mailto:benedict_yap_hsien-min@moe.edu.sg)<br>Teacher  | <img src="/images/cher41.jpg" style="width:25%">   |
-| [Mr Benny Lau](mailto:lau_mun_yip_benny@moe.edu.sg)<br>Teacher  | <img src="/images/cher42.jpg" style="width:25%">  |
 | [Mr Caleb Chua](mailto:caleb_chua@moe.edu.sg)<br>Teacher<br> | <img src="/images/cher43.jpg" style="width:25%"> |
 | [Mr Chhoa Kok Kheng](mailto:chhoa_kok_kheng@moe.edu.sg)<br>Teacher | <img src="/images/cher44.jpg" style="width:25%"> |
 | [Mr Koh Chaik Khoon](mailto:koh_chaik_khoon@moe.edu.sg)<br>Teacher   |  <img src="/images/cher45.jpg" style="width:25%">  |
@@ -97,7 +94,6 @@ description: ""
 |  [Mr Leon Ho Yoong Kian](mailto:ho_yoong_kian@moe.edu.sg)<br>Teacher | <img src="/images/cher62.jpg" style="width:25%">   |
 |  [Mdm Leong Lilian](mailto:leong_lilian@moe.edu.sg)<br>Teacher |  <img src="/images/cher63.jpg" style="width:25%"> |
 |  [Mdm Li Chunju](mailto:li_chunju@moe.edu.sg)<br>Teacher  |  <img src="/images/cher64.jpg" style="width:25%">   |
-|  [Ms Luo Cuixin](mailto:luo_cuixin@moe.edu.sg)<br>Teacher  | <img src="/images/cher65.jpg" style="width:25%">    |
 | [Mrs Neo Lin Li](mailto:tan_lin_li@moe.edu.sg)<br>Discipline Co-ordinator  | <img src="/images/cher66.jpg" style="width:25%"> |
 |  [Ms Ho Lim Hwei](mailto:ho_lim_hwei@moe.edu.sg)<br>Teacher  | <img src="/images/cher67.jpg" style="width:25%"> |
 | [Mr Mark Leong](mailto:mark%20leong_bao_wen_mark@moe.edu.sg)<br>Teacher  | <img src="/images/cher68.jpg" style="width:25%">  |
@@ -106,7 +102,6 @@ description: ""
 |  [Mdm Najuma Banu](mailto:najuma_banu@moe.edu.sg)<br>Teacher | <img src="/images/cher71.jpg" style="width:25%">  |
 |  [Mdm Norharyati Harun](mailto:norharyati_harun@moe.edu.sg)<br>Teacher | <img src="/images/cher72.jpg" style="width:25%">  |
 | [Miss Patricia Lim](mailto:natasha_patricia_lim@moe.edu.sg)<br>Teacher  | <img src="/images/cher73.jpg" style="width:25%"> |
-| [Mr Tan Poo Loy](mailto:tan_poo_loy@moe.edu.sg)<br>Teacher  |  <img src="/images/cher74.jpg" style="width:25%">  |
 |  [Mdm Punita K](mailto:punitha_kasipandy@moe.edu.sg)<br>Teacher | <img src="/images/cher75.jpg" style="width:25%">  |
 |  [Mdm Renuka Devi Windersalam](mailto:windersalam_renuka_devi@moe.edu.sg)<br>Teacher  | <img src="/images/cher76.jpg" style="width:25%">  |
 |  [Mr Seow Kian Yong](mailto:seow_kian_yong@moe.edu.sg)<br>Teacher | <img src="/images/cher77.jpg" style="width:25%">   |
@@ -127,15 +122,11 @@ description: ""
 |  [Mr Vijayakumaran G](mailto:vijayakumaran_govindasamy@moe.edu.sg)<br>Teacher | <img src="/images/cher92.jpg" style="width:25%">  |
 |  [Mdm Wendy Tan](mailto:tan_poh_yee@moe.edu.sg)<br>Teacher   | <img src="/images/cher93.jpg" style="width:25%"> |
 | [Mrs Hoong  Xiu Qin](mailto:hoong_xiu_qin@moe.edu.sg)<br>Teacher | <img src="/images/cher94.jpg" style="width:25%"> |
-| [Ms Lum Yick Thim](mailto:lum_yick_thim@moe.edu.sg)<br>Teacher | <img src="/images/cher95.jpg" style="width:25%"> |
-| [Miss Tay Ying Ying](mailto:tay_ying_ying@moe.edu.sg)<br>Teacher  | <img src="/images/cher96.jpg" style="width:25%"> 
 | [Ms Woon Yuet Meng](mailto:woon_yuet_meng@moe.edu.sg)<br> Teacher  | <img src="/images/cher98.jpg" style="width:25%"> |
 | [Mdm Zahara Osman](mailto:zahara_osman@moe.edu.sg)<br>Teacher | <img src="/images/cher99.jpg" style="width:25%"> |
 | [Mdm Zarinah Md Eunos](mailto:zarinah_mohamed_eunos@moe.edu.sg)<br>Teacher | <img src="/images/cher100.jpg" style="width:25%"> |
 |  [Ms Zubaidah Bte Sheik Md Isha](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)k<br>Teacher | <img src="/images/cher101.jpg" style="width:25%">  |
-| [Miss Fong Wui Yen](mailto:fong_wui_yen@moe.edu.sg)<br>Teacher | <img src="/images/cherfong.jpeg" style="width:25%"> |
 | [Mdm Sheryn Pang](mailto:pang_shing_hsiu@moe.edu.sg)<br>Teacher | <img src="/images/cher103.jpg" style="width:25%"> |
-| [Ms Huang Li](mailto:Huang_li@moe.edu.sg)<br>Teacher | <img src="/images/cher104.jpg" style="width:25%"> |
 | [Mr Tan Yew Chai](mailto:tan_yew_chai@moe.edu.sg)<br>Teacher | <img src="/images/cher105.jpg" style="width:25%"> |
 | [Mrs Christina Tan](mailto:lim_peck_hwee_christina@moe.edu.sg)<br>Teacher | <img src="/images/cher106.jpg" style="width:25%"> |
 | [Mdm Teo Chin Wen](mailto:Teo_Chin_Wen@moe.edu.sg)<br>Teacher<br> | <img src="/images/cher107.jpg" style="width:25%"> |
