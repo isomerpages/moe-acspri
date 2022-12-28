@@ -3,13 +3,13 @@ title: Form Teachers 2023
 permalink: /school-information/form-teachers-2022/
 description: ""
 ---
-
 ### **Form Teachers 2023**
 
 ##### **Primary 1**
 
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
+| 1A | Ms Chan Wai Ying<br>[chan_wai_ying@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  | <img src="/images/2023 New Staffs/p1cher1.jpg" style="width:30%">|
 | 1A | Mrs Christine Ho<br>[tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  | <img src="/images/p1cher1.jpg" style="width:30%">|
 | 1A | Mr Chhoa Kok Kheng <br>[chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  | <img src="/images/p1cher2.jpg" style="width:30%"> |
 |  1B | Mrs Heng Xiu Qin <br>[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg) <br> | <img src="/images/p1cher3.jpg" style="width:30%"> |
