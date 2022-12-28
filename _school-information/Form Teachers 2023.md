@@ -74,13 +74,16 @@ description: ""
 
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
+| 3A | Mdm Suzanna Hashim <br> [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) | <img src="/images/p6cher6.jpg" style="width:30%"> |
+|  3B | Mrs Gladys Lim <br>  [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) | <img src="/images/p4cher4.jpg" style="width:30%"> 
+| 3B | Mr Vijayakumaran G <br> [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  | <img src="/images/p3cher8.jpg" style="width:30%"> |
+| 3C | Mr Aravinthan s/o A Karmupiah<br> [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  | <img src="/images/p3cher8.jpg" style="width:30%"> |
 | 3A | Mr Colin Sim <br> [sim_yaowen_colin@moe.edu.sg](mailto:sim_yaowen_colin@moe.edu.sg)   | <img src="/images/p3cher1.jpg" style="width:30%"> |
 | 3A | Miss Ho Yong Ying <br> [ho_yong_ying@moe.edu.sg](mailto:ho_yong_ying@moe.edu.sg)    | <img src="/images/p3cher2.jpg" style="width:30%"> |
 | 3B | Ms Jessica Goh <br> [goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg)  | <img src="/images/p3cher3.jpeg" style="width:30%"> |
 | 3B | Ms Jessica Lai <br> [jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)  | <img src="/images/p3cher4.jpg" style="width:30%"> |
 | 3B | Mr Goh Teoh Chuan (Richard) <br> [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg) | <img src="/images/p3cher5.jpg" style="width:30%"> |
 | 3C  | Mdm Teo Chin Wen<br>  [teo_chin_wen@moe.edu.sg](mailto:teo_chin_wen@moe.edu.sg) | <img src="/images/p3cher7.jpg" style="width:30%"> |
-| 3D | Mr Vijayakumaran G <br> [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  | <img src="/images/p3cher8.jpg" style="width:30%"> |
 | 3E | Mr Adrian Kum <br> [kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg) | <img src="/images/p3cher10.jpg" style="width:30%"> |
 | 3E | Mr Caleb Chua <br> [caleb_chua@moe.edu.sg](mailto:caleb_chua@moe.edu.sg) | <img src="/images/p3cher11.jpg" style="width:30%"> |
 | 3F | Mrs Dawn Wee <br> [wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg) | <img src="/images/p3cher12.jpg" style="width:30%"> |
@@ -92,7 +95,6 @@ description: ""
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
 |  4A | Mrs Angeline Yung <br> [chan_xiuwen@moe.edu.sg](mailto:chan_xiuwen@moe.edu.sg) | <img src="/images/p4cher1.jpg" style="width:30%"> |
-|  4B | Mrs Gladys Lim <br>  [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) | <img src="/images/p4cher4.jpg" style="width:30%"> |
 |  4B | Miss Ho Hui Xin <br> [ho_hui_xin@moe.edu.sg](mailto:ho_hui_xin@moe.edu.sg) | <img src="/images/p4cher5.jpg" style="width:30%"> |
 | 4C | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher6.jpg" style="width:30%"> |
 |  4C | Mrs Vanessa Lim <br> [lee_hui_cher_vanessa@moe.edu.sg](mailto:lee_hui_cher_vanessa@moe.edu.sg) | <img src="/images/p4cher7.jpg" style="width:30%"> |
@@ -135,7 +137,6 @@ description: ""
 | 6B | Miss Kogilavani Vathumalai <br> [kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)  | <img src="/images/p6cher3.jpg" style="width:30%"> |
 | 6B | Miss Tay Kwee Hong (Diana) <br> [tay_kwee_hong@moe.edu.sg](mailto:tay_kwee_hong@moe.edu.sg)  | <img src="/images/p6cher4.jpg" style="width:30%"> |
 | 6C | Mrs Toh Shirley<br> [katherine_shirley_shanti_doray@moe.edu.sg](mailto:katherine_shirley_shanti_doray@moe.edu.sg) | <img src="/images/p6cher5.jpg" style="width:30%"> |
-| 6C | Mdm Suzanna Hashim <br> [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) | <img src="/images/p6cher6.jpg" style="width:30%"> |
 |  6D | Mrs Farisa Hussain<br>  [farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg)  | <img src="/images/p6cher7.jpg" style="width:30%"> |
 |  6D | Mr	Leon Ho Yoong Kian <br> [ho_yoong_kian@moe.edu.sg](mailto:ho_yoong_kian@moe.edu.sg) | <img src="/images/p6cher8.jpg" style="width:30%"> |
 |  6E | Mr Tan Loon Kiat Edwin<br> [tan_loon_kiat_edwin@moe.edu.sg](mailto:tan_loon_kiat_edwin@moe.edu.sg) | <img src="/images/p6cher9.jpg" style="width:30%"> |
