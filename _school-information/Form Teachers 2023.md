@@ -7,7 +7,7 @@ description: ""
 
 ##### **Primary 1**
 
-| Class | Name & Email | Photo |
+| Class |        Name & Email |     Photo |
 |:---:|:---:|:---:|
 | 1A | Ms Chan Wai Ying<br>[chan_wai_ying@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  | <img src="/images/2023 New Staffs/Elyse Chan Photo.jpg" style="width:30%">|
 | 1A |   Mdm Leong Lilian <br> [leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg)   |  <img src="/images/p2cher9.jpg" style="width:30%">  |
@@ -25,7 +25,6 @@ description: ""
 |  1G | Miss Patricia Lim <br> [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)     | <img src="/images/p2cher2.jpg" style="width:30%"> |
 |  1H | Mrs Janis Pavia <br> [lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg) | <img src="/images/p2cher14.jpg" style="width:30%"> |
 | 1H | Mdm Najuma Banu <br> [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg) | <img src="/images/p2cher13.jpg" style="width:30%"> |
-| 1A | Mrs Christine Ho<br>[tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  | <img src="/images/p1cher1.jpg" style="width:30%">|
 | 1A | Mr Chhoa Kok Kheng <br>[chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  | <img src="/images/p1cher2.jpg" style="width:30%"> |
 |  1B | Mrs Heng Xiu Qin <br>[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg) <br> | <img src="/images/p1cher3.jpg" style="width:30%"> |
 | 1B | Mr George Mui Seng Chiu<br>[george_mui_seng_chiu@moe.edu.sg](mailto:george_mui_seng_chiu@moe.edu.sg) <br> | <img src="/images/p1cher4.jpg" style="width:30%"> |
@@ -48,6 +47,7 @@ description: ""
 
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
+| 2A | Mrs Christine Ho<br>[tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  | <img src="/images/p1cher1.jpg" style="width:30%">|
 |  2A | Mdm Tay Yu Juan <br> [tay_yu_juan@moe.edu.sg](mailto:tay_yu_juan@moe.edu.sg)  | <img src="/images/p2cher1.jpg" style="width:30%"> |
 |  2A | Miss Patricia Lim <br> [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)     | <img src="/images/p2cher2.jpg" style="width:30%"> |
 |  2B |  Mrs Gomathi Ravindra <br> [gomathi_ravindra@moe.edu.sg](mailto:gomathi_ravindra@moe.edu.sg)   | <img src="/images/p2cher3.jpg" style="width:30%"> |
