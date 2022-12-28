@@ -73,6 +73,7 @@ description: ""
 |:---:|:---:|:---:|
 |  4A | Mdm Renuka Devi Windersalam<br>  [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | <img src="/images/p4cher14.jpg" style="width:30%"> |
 | 4B | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher6.jpg" style="width:30%"> |
+| 4B | Mr Edmund Wu <br> @moe.edu.sg](mailto:@moe.edu.sg)  | <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth.jpg" style="width:30%"> |
 |  4C |  Mr Daniel Chua <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)  | <img src="/images/p2cher6.jpg" style="width:30%"> || 
 | 4C | Mr Chow Kai Loon <br> [Chow_Kai_Loon@moe.edu.sg](mailto:Chow_Kai_Loon@moe.edu.sg)  | <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:30%"> |
 | 4C | Mrs Dawn Wee <br> [wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg) | <img src="/images/p3cher12.jpg" style="width:30%"> |
@@ -127,6 +128,7 @@ description: ""
 | 6D | Miss Tay Kwee Hong (Diana) <br> [tay_kwee_hong@moe.edu.sg](mailto:tay_kwee_hong@moe.edu.sg)  | <img src="/images/p6cher4.jpg" style="width:30%"> |
 | 6D | Miss Ngoh Gek Luan <br> [ngoh_gek_luan@moe.edu.sg](mailto:ngoh_gek_luan@moe.edu.sg) | <img src="/images/p2cher11.jpg" style="width:30%"> |
 | 6E | Mr Chan Tai Yao <br> [chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg)  | <img src="/images/p5cher17.jpg" style="width:30%"> |
+| 6E| Ms	Woon Yuet Meng <br>  [woon_yuet_meng@moe.edu.sg](mailto:woon_yuet_meng@moe.edu.sg) | <img src="/images/p6cher2.jpg" style="width:30%"> |
 | 6F  | Mdm Chan Wai Kin <br> [chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg) | <img src="/images/p6cher17.jpg" style="width:30%"> |
 | 6F |  Mdm Chui Yuen Phun<br> [chui_yuen_phun@moe.edu.sg](mailto:chui_yuen_phun@moe.edu.sg)    | <img src="/images/p6cher13.jpg" style="width:30%"> |
 | 6G | Mdm Jillianne Chew <br>  [jillianne_chew_li_ing@moe.edu.sg](mailto:jillianne_chew_li_ing@moe.edu.sg)  | <img src="/images/p5cher15.jpg" style="width:30%"> |
