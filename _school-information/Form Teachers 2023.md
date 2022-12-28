@@ -24,7 +24,6 @@ description: ""
 |  1G | Mdm Punitha Kasipandy <br> [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)  | <img src="/images/p4cher12.jpg" style="width:30%"> |
 |  1G | Miss Patricia Lim <br> [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)     | <img src="/images/p2cher2.jpg" style="width:30%"> |
 |  1H | Mrs Janis Pavia <br> [lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg) | <img src="/images/p2cher14.jpg" style="width:30%"> |
-| 1H | Mdm Najuma Banu <br> [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg) | <img src="/images/p2cher13.jpg" style="width:30%"> |
 | 1C |   Mdm Sheryn Pang <br> [pang_shing_hsiu@moe.edu.sg](mailto:pang_shing_hsiu@moe.edu.sg)   | <img src="/images/p2cher8.jpg" style="width:30%"> |
 | 1C | Miss Ho Lim Hwei  <br>[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)<br> | <img src="/images/p1cher5.jpg" style="width:30%"> |
 | 1G | Ms Tan Bee Po    <br>[tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)  | <img src="/images/p1cher14.jpg" style="width:30%"> |
@@ -81,10 +80,8 @@ description: ""
 | 3E | Miss Ho Yong Ying <br> [ho_yong_ying@moe.edu.sg](mailto:ho_yong_ying@moe.edu.sg)    | <img src="/images/p3cher2.jpg" style="width:30%"> |
 | 3F | Ms Jessica Lai <br> [jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)  | <img src="/images/p3cher4.jpg" style="width:30%"> |
 |  3F | Mrs Vanessa Lim <br> [lee_hui_cher_vanessa@moe.edu.sg](mailto:lee_hui_cher_vanessa@moe.edu.sg) | <img src="/images/p4cher7.jpg" style="width:30%"> |
-| 3B | Ms Jessica Goh <br> [goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg)  | <img src="/images/p3cher3.jpeg" style="width:30%"> |
 | 3B | Mr Goh Teoh Chuan (Richard) <br> [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg) | <img src="/images/p3cher5.jpg" style="width:30%"> |
 | 3E | Mr Caleb Chua <br> [caleb_chua@moe.edu.sg](mailto:caleb_chua@moe.edu.sg) | <img src="/images/p3cher11.jpg" style="width:30%"> |
-| 3F | Ms  Angeline Ong <br> [ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg) | <img src="/images/p3cher13.jpg" style="width:30%"> |
 | 
 
 ##### **Primary 4**
@@ -119,13 +116,20 @@ description: ""
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
 |  5A | Mdm Chiew Hwee Ling <br> [chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) | <img src="/images/p5cher14.jpg" style="width:30%"> |
+|  5A |Mdm Divya Dharshini <br> [divya_dharshini_harikrishan@moe.edu.sg](mailto:divya_dharshini_harikrishan@moe.edu.sg) | <img src="/images/cher50.jpg" style="width:30%"> |
+| 5B | Ms Jessica Goh <br> [goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg)  | <img src="/images/p3cher3.jpeg" style="width:30%"> |
+| 5B | Mr Wan Mohamed <br> [wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)  | <img src="/images/p6cher15.jpg" style="width:30%"> |
+| 5C | Mr Perry Chan <br> [Perry_Chan@moe.edu.sg](mailto:Perry_Chan@moe.edu.sg)  | <img src="/images//2023 New Staffs/Perry Chan S7635676I.jpg" style="width:30%"> |
+| 5C | Ms  Angeline Ong <br> [ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg) | <img src="/images/p3cher13.jpg" style="width:30%"> |
+| 5C | Mdm Najuma Banu <br> [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg) | <img src="/images/p2cher13.jpg" style="width:30%"> |
+| 5D | Mdm Heng Siok Pheng <br> [heng_siok_pheng@moe.edu.sg](mailto:heng_siok_pheng@moe.edu.sg) | <img src="/images/p5cher12.jpg" style="width:30%"> |
+| 5D |  Mr Lincoln Shen <br> [Lincoln_Shen@moe.edu.sg](mailto:Lincoln_Shen@moe.edu.sg) | <img src="/images/2023 New Staffs/Lincoln Shen.png" style="width:30%"> |
+| 5D | Mrs Koay Gui Mei <br> [he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg) | <img src="/images/p5cher4.jpg" style="width:30%"> |
 |  5A | Mrs Jess Teng <br> [jess_teng-chong_su_hwa@moe.edu.sg](mailto:jess_teng-chong_su_hwa@moe.edu.sg) | <img src="/images/p5cher2.jpg" style="width:30%"> |
-|  5B | Mrs Koay Gui Mei <br> [he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg) | <img src="/images/p5cher4.jpg" style="width:30%"> |
 |  5B | Mr	Lim Wee Meng Kelvin <br> [lim_wee_meng_kelvin@moe.edu.sg](mailto:lim_wee_meng_kelvin@moe.edu.sg)  | <img src="/images/p5cher5.jpg" style="width:30%"> |
 |  5C | Mr	Seow Kian Yong <br> [seow_kian_yong@moe.edu.sg](mailto:seow_kian_yong@moe.edu.sg) | <img src="/images/p5cher7.jpg" style="width:30%"> |
 |  5D | Mdm Ida Nonanseh Abdul Rahman <br> [ida_nonanseh_abdul_rahman@moe.edu.sg](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg) | <img src="/images/p5cher8.jpg" style="width:30%"> |
 | 5E | Ms Siti Nurjannah <br> [siti_nurjannah_saaet@moe.edu.sg](mailto:siti_nurjannah_saaet@moe.edu.sg)  | <img src="/images/p5cher10.jpg" style="width:30%"> |
-|  5F | Mdm Heng Siok Pheng <br> [heng_siok_pheng@moe.edu.sg](mailto:heng_siok_pheng@moe.edu.sg) | <img src="/images/p5cher12.jpg" style="width:30%"> |
 |  5F | Mr Kelvin Chan Yong Meng <br> [kelvin_chan_yong_meng@moe.edu.sg](mailto:kelvin_chan_yong_meng@moe.edu.sg) | <img src="/images/p5cher13.jpg" style="width:30%"> |
 | 5G | Mdm Jillianne Chew <br>  [jillianne_chew_li_ing@moe.edu.sg](mailto:jillianne_chew_li_ing@moe.edu.sg)  | <img src="/images/p5cher15.jpg" style="width:30%"> |
 |  5H | Mr Chan Tai Yao <br> [chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg)  | <img src="/images/p5cher17.jpg" style="width:30%"> |
@@ -148,7 +152,6 @@ description: ""
 |  6F | Mdm Anna Asha Mohan <br> [anna_asha_mohan@moe.edu.sg](mailto:anna_asha_mohan@moe.edu.sg) | <img src="/images/p6cher12.jpg" style="width:30%"> |
 | 6F |  Mdm Chui Yuen Phun<br> [chui_yuen_phun@moe.edu.sg](mailto:chui_yuen_phun@moe.edu.sg)    | <img src="/images/p6cher13.jpg" style="width:30%"> |
 |  6F | Ms	Tan Bee Choo Vanessa <br> [tan_bee_choo_b@moe.edu.sg](mailto:tan_bee_choo_b@moe.edu.sg)  | <img src="/images/p6cher14.jpg" style="width:30%"> |
-| 6G | Mr Wan Mohamed <br> [wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)  | <img src="/images/p6cher15.jpg" style="width:30%"> |
 | 6H  | Mdm Chan Wai Kin <br> [chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg) | <img src="/images/p6cher17.jpg" style="width:30%"> |
 
 |
