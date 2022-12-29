@@ -64,7 +64,7 @@ description: ""
 | 3D | Ms Lim Wei Tong Shanice <br> [lim_wei_tong_shanice@moe.edu.sg](mailto:lim_wei_tong_shanice@moe.edu.sg) | <img src="/images/2023 New Staffs/no_picture_G.jpg" style="width:30%"> |
 | 3E | Mr Adrian Kum <br> [kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg) | <img src="/images/p3cher10.jpg" style="width:30%"> |
 | 3E | Miss Ho Yong Ying <br> [ho_yong_ying@moe.edu.sg](mailto:ho_yong_ying@moe.edu.sg)    | <img src="/images/p3cher2.jpg" style="width:30%"> |
-| 3E | Miss An Ruiying <br> [@moe.edu.sg](mailto@moe.edu.sg)    | <img src="/images/2023 New Staffs/An Ruiying.png" style="width:30%"> |
+| 3E | Miss An Ruiying <br> [aprilann1027@gmail.com](mailto:aprilann1027@gmail.com)    | <img src="/images/2023 New Staffs/An Ruiying.png" style="width:30%"> |
 | 3F | Ms Jessica Lai <br> [jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)  | <img src="/images/p3cher4.jpg" style="width:30%"> |
 |  3F | Mrs Vanessa Lim <br> [lee_hui_cher_vanessa@moe.edu.sg](mailto:lee_hui_cher_vanessa@moe.edu.sg) | <img src="/images/p4cher7.jpg" style="width:30%"> |
 | 
@@ -75,7 +75,7 @@ description: ""
 |:---:|:---:|:---:|
 |  4A | Mdm Renuka Devi Windersalam<br>  [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | <img src="/images/p4cher14.jpg" style="width:30%"> |
 | 4B | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher6.jpg" style="width:30%"> |
-| 4B | Mr Edmund Wu <br> @moe.edu.sg](mailto:@moe.edu.sg)  | <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth.jpg" style="width:30%"> |
+| 4B |<Ms Ee Li Hua Elizabeth <br>[ ee_li_hua_elizabeth@moe.edu.sg](mailto:ee_li_hua_elizabeth@moe.edu.sg)  | <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth.jpg" style="width:30%"> |
 |  4C |  Mr Daniel Chua <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)  | <img src="/images/p2cher6.jpg" style="width:30%"> || 
 | 4C | Mr Chow Kai Loon <br> [Chow_Kai_Loon@moe.edu.sg](mailto:Chow_Kai_Loon@moe.edu.sg)  | <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:30%"> |
 | 4C | Mrs Dawn Wee <br> [wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg) | <img src="/images/p3cher12.jpg" style="width:30%"> |
