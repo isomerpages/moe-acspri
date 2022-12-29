@@ -80,7 +80,7 @@ description: ""
 | 4D | Mr Colin Sim <br> [sim_yaowen_colin@moe.edu.sg](mailto:sim_yaowen_colin@moe.edu.sg)   | <img src="/images/p3cher1.jpg" style="width:30%"> |
 |  4D | Mdm Yeo Jeannie<br>[yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg)<br> | <img src="/images/p1cher12.jpg" style="width:30%"> |
 | 4E | Mdm Jasmine Kaur <br> [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)  | <img src="/images/p6cher16.jpg" style="width:30%"> |
-| 4E | Mdm Jasmine Kaur <br> [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)  | <img src="/images/p6cher16.jpg" style="width:30%"> |
+| 4E | Ms Lu Youger <br> [lu_youger@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)  | <img src="/images/2023 New Staffs/Ms Lu Youge.jpg" style="width:40%"> |
 |  4F | Mr	Ho Shin Hoo <br> [ho_shin_hoo@moe.edu.sg](mailto:ho_shin_hoo@moe.edu.sg)  | <img src="/images/p5cher1.jpg" style="width:30%"> |
 |  4F | Mrs Geraldine Ortega <br> [geraldine_ortega@moe.edu.sg](mailto:geraldine_ortega@moe.edu.sg) | <img src="/images/p5cher11.jpg" style="width:30%"> |
 |  4G | Mrs Christina Tan <br> [lim_peck_hwee_christina@moe.edu.sg](mailto:lim_peck_hwee_christina@moe.edu.sg) | <img src="/images/p5cher9.jpg" style="width:30%"> |
