@@ -55,6 +55,7 @@ description: ""
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
 | 3A | Mdm Suzanna Hashim <br> [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) | <img src="/images/p6cher6.jpg" style="width:30%"> |
+| 3A | Mrs Neo Lin Li <br> [tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg) | <img src="/images/cher66.jpg" style="width:30%"> |
 |  3B | Mrs Gladys Lim <br>  [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) | <img src="/images/p4cher4.jpg" style="width:30%"> 
 | 3B | Mr Vijayakumaran G <br> [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  | <img src="/images/p3cher8.jpg" style="width:30%"> |
 | 3C | Mr Aravinthan s/o A Karmupiah<br> [@moe.edu.sg](mailto:@moe.edu.sg)  | <img src="/images//2023 New Staffs/Aravin PP size photo.jpg" style="width:30%"> |
