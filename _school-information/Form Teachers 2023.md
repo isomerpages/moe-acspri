@@ -9,7 +9,7 @@ description: ""
 
 | Class |        Name & Email |     Photo |
 |:---:|:---:|:---:|
-| 1A | Ms Chan Wai Ying<br>[chan_wai_ying@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  | <img src="/images/2023 New Staffs/Elyse Chan Photo.jpg" style="width:30%">|
+| 1A | Ms Chan Wai Ying<br>[chan_wai_ying@schools.gov.sg](mailto:chan_wai_ying@schools.gov.sg)  | <img src="/images/2023 New Staffs/Elyse Chan Photo.jpg" style="width:30%">|
 | 1A |   Mdm Leong Lilian <br> [leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg)   |  <img src="/images/p2cher9.jpg" style="width:30%">  |
 | 1B | Ms Zubaidah <br> [zubaidah_sheik_mohamed_ishak@moe.edu.sg](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)  | <img src="/images/p2cher7.jpg" style="width:30%"> |
 | 1B | Ms Tan Bee Po    <br>[tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)  | <img src="/images/p1cher14.jpg" style="width:30%"> |
