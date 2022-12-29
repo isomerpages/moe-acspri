@@ -58,7 +58,7 @@ description: ""
 | 3A | Mrs Neo Lin Li <br> [tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg) | <img src="/images/cher66.jpg" style="width:30%"> |
 |  3B | Mrs Gladys Lim <br>  [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) | <img src="/images/p4cher4.jpg" style="width:30%"> 
 | 3B | Mr Vijayakumaran G <br> [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  | <img src="/images/p3cher8.jpg" style="width:30%"> |
-| 3C | Mr Aravinthan s/o A Karmupiah<br> [@moe.edu.sg](mailto:@moe.edu.sg)  | <img src="/images//2023 New Staffs/Aravin PP size photo.jpg" style="width:30%"> |
+| 3C | Mr Aravinthan s/o A Karmupiah<br> [aravinthan_a_karuppiah@schools.gov.sg](mailto:aravinthan_a_karuppiah@schools.gov.sg)  | <img src="/images//2023 New Staffs/Aravin PP size photo.jpg" style="width:30%"> |
 | 3C  | Mdm Teo Chin Wen<br>  [teo_chin_wen@moe.edu.sg](mailto:teo_chin_wen@moe.edu.sg) | <img src="/images/p3cher7.jpg" style="width:30%"> |
 | 3D | Mdm Foo Ting Ting <br> [foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg) | <img src="/images/p2cher18.jpg" style="width:30%"> |
 | 3E | Mr Adrian Kum <br> [kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg) | <img src="/images/p3cher10.jpg" style="width:30%"> |
