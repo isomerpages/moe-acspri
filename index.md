@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School_Logo/Main1.jpg
+      background: /images/School_Logo/Main2.gif
       key_highlights:
         - title: Affective
           description: ""
