@@ -44,7 +44,7 @@ description: ""
 | 2F | Mdm Jenn Ang <br> [jenn_ang@moe.edu.sg](mailto:jenn_ang@moe.edu.sg) | <img src="/images/p5cher6.jpg" style="width:30%"> |
 | 2F | Mdm Zahara Osman<br>[zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)<br> | <img src="/images/p1cher11.jpg" style="width:30%"> |
 | 2G |Mdm Siti Karmila<br>[siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg) | <img src="/images/p1cher13.jpg" style="width:30%"> |
-| 2G |Mrs Tan Sin Min<br>[tan_sin_min@schools.gov.sg](mailto:tan_sin_min@schools.gov.sg) | <img src="/images/2023 New Staffs/Tan Sin Min.jpg" style="width:30%"> |
+| 2G |Mdm Tan Sin Min<br>[tan_sin_min@schools.gov.sg](mailto:tan_sin_min@schools.gov.sg) | <img src="/images/2023 New Staffs/Tan Sin Min.jpg" style="width:30%"> |
 | 2G | Mr Goh Teoh Chuan (Richard) <br> [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg) | <img src="/images/p3cher5.jpg" style="width:30%"> |
 | 2H | Mrs Suja Anbazhagan<br>[anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg)<br> | <img src="/images/p1cher16.jpg" style="width:30%"> ||
 | 2H | Mdm Chan Soo Ping <br>[chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg) | <img src="/images/p1cher15.jpg" style="width:30%"> |
