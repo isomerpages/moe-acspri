@@ -29,6 +29,7 @@ description: ""
 | [Ms Angeline Ong](mailto:ong_ghim_muay@moe.edu.sg)<br>HOD/Mother Tongue Languages | <img src="/images/cher13.jpg" style="width:25%"> |
 | [Mrs Angeline Yung](mailto:chan_xiuwen@moe.edu.sg)<br>HOD/SEN&VIA<br> | <img src="/images/cher14.jpg" style="width:25%"> |
 | [Mr Lim Wee Meng Kelvin](mailto:lim_wee_meng_kelvin@moe.edu.sg)<br>HOD/PE & CCA | <img src="/images/cher15.jpg" style="width:25%"> |
+| [Mr Shen Pinhong Lincoln](mailto:shen_pinhong@schools.gov.sg)<br>HOD/Science  | <img src="/images/2023 New Staffs/Lincoln Shen.png" style="width:25%"> |
 | [Mrs Lee Chi Loo](mailto:teo_chi_loo@moe.edu.sg)<br>Year Head/Lower Primary| <img src="/images/cher16.jpg" style="width:25%">  |
 | [Mr Koh Yee Lee](mailto:koh_yee_lee@moe.edu.sg)<br>Year Head/Upper Primary | <img src="/images/cher17.jpg" style="width:25%"> |
 | [Mdm Teresa Liew](mailto:liew_sin_tong_teresa@moe.edu.sg)<br>Year Head/Middle Primary | <img src="/images/cher18.jpg" style="width:25%"> |
