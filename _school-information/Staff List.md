@@ -136,6 +136,12 @@ description: ""
 | [Mdm Jenn Ang](mailto:jenn_ang@moe.edu.sg)<br>Teacher | <img src="/images/cher109.jpg" style="width:25%"> |
 | [Mrs  Koay Guimei](http://he_guimei@moe.edu.sg/) <br>Teacher | <img src="/images/cher110.jpg" style="width:25%"> |
 | [Miss Ong Jia Qi](mailto:ong_jia_qi@acsp.sg)<br>Teacher  |  <img src="/images/cher111.jpg" style="width:25%">   |
+| [Mr Perry Chan Chee Keong](mailto:perry_chan@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Perry Chan S7635676I.jpg" style="width:25%">   |
+| [Ms Ee Li Hua Elizabeth](mailto:ee_li_hua_elizabeth@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth1.jpg" style="width:25%">   |
+| [Mr Low Chong Jian Edwin](mailto:@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Low Chong Jian Edwin.jpg" style="width:25%">   |
+
+
+
 | [Mr Chong Kek Shin](mailto:chong.kek.shin@acsp.sg)<br>Editor  | <img src="/images/cher112.jpg" style="width:25%"> |
 |
 
