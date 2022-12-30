@@ -20,6 +20,7 @@ sections:
         - title: Physical
           description: ""
           url: /physical/
+      background: /images/School_Logo/Main_Gif.gif
   - infobar:
       title: The ACS(P) Brand of Education
       description: "The ACS(P) brand of education is anchored on our Founder, Bishop
