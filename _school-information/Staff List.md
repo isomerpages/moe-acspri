@@ -138,11 +138,11 @@ description: ""
 | [Miss Ong Jia Qi](mailto:ong_jia_qi@acsp.sg)<br>Teacher  |  <img src="/images/cher111.jpg" style="width:25%">   |
 | [Mr Perry Chan Chee Keong](mailto:perry_chan@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Perry Chan S7635676I.jpg" style="width:25%">   |
 | [Ms Ee Li Hua Elizabeth](mailto:ee_li_hua_elizabeth@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth1.jpg" style="width:25%">   |
-| [Mr Low Chong Jian Edwin](mailto:@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Low Chong Jian Edwin.jpg" style="width:25%">   |
+| [Mr Low Chong Jian Edwin](mailto:low_chong_jian_edwin@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Low Chong Jian Edwin.jpg" style="width:25%">   |
 | [Ms Lu Youge](mailto:lu_youge@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Ms Lu Youge.jpg" style="width:35%">   |
 | [Ms Chan Wai Ying](mailto:chan_wai_ying@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Elyse Chan Photo.jpg" style="width:25%">   |
 | [Ms Tan Siow Hwee](mailto:tan_siow_hwee@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/tan_siow_hwee.png" style="width:25%">   |
-| [Ms Tan Sin Min](mailto:tan_sin_min@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Tan Sin Min.jpg" style="width:25%">   |
+| [Mdm Tan Sin Min](mailto:tan_sin_min@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Tan Sin Min.jpg" style="width:25%">   |
 | [Mr Chow Kai Loon](mailto:chow_kai_loon@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:25%">   |
 | [Mr Aravinthan s/o A Karuppiah](mailto:aravinthan_a_karuppiah@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Aravin PP size photo.jpg" style="width:25%">   |
 | [Miss An Ruiying](mailto:aprilann1027@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/An Ruiying.png" style="width:25%">   |
