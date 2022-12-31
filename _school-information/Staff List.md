@@ -29,6 +29,7 @@ description: ""
 | [Ms Angeline Ong](mailto:ong_ghim_muay@moe.edu.sg)<br>HOD/Mother Tongue Languages | <img src="/images/cher13.jpg" style="width:25%"> |
 | [Mrs Angeline Yung](mailto:chan_xiuwen@moe.edu.sg)<br>HOD/SEN&VIA<br> | <img src="/images/cher14.jpg" style="width:25%"> |
 | [Mr Lim Wee Meng Kelvin](mailto:lim_wee_meng_kelvin@moe.edu.sg)<br>HOD/PE & CCA | <img src="/images/cher15.jpg" style="width:25%"> |
+| [Mr Shen Pinhong Lincoln](mailto:shen_pinhong@schools.gov.sg)<br>HOD/Science  | <img src="/images/2023 New Staffs/Lincoln Shen.png" style="width:25%"> |
 | [Mrs Lee Chi Loo](mailto:teo_chi_loo@moe.edu.sg)<br>Year Head/Lower Primary| <img src="/images/cher16.jpg" style="width:25%">  |
 | [Mr Koh Yee Lee](mailto:koh_yee_lee@moe.edu.sg)<br>Year Head/Upper Primary | <img src="/images/cher17.jpg" style="width:25%"> |
 | [Mdm Teresa Liew](mailto:liew_sin_tong_teresa@moe.edu.sg)<br>Year Head/Middle Primary | <img src="/images/cher18.jpg" style="width:25%"> |
@@ -43,7 +44,7 @@ description: ""
 | [Mdm Chiew Hwee Ling](mailto:chiew_hwee_ling@moe.edu.sg)<br>Level Head/Chinese Language |<img src="/images/cherchiew.jpg" style="width:25%">|
 | [Mdm Jasmine Kaur](mailto:jasmine_kaur@moe.edu.sg)<br>Level Head/English | <img src="/images/cher22.jpg" style="width:25%"> |
 |  [Mdm Anna Asha Mohan](mailto:anna_asha_mohan@moe.edu.sg)<br>Subject Head/Aesthetics | <img src="/images/cher23.jpg" style="width:25%"> |
-| [Mr Edwin Tan](mailto:tan_loon_kiat_edwin@moe.edu.sg)<br>Subject Head/CCA | <img src="/images/cher24.jpg" style="width:25%"> |
+| [Mr Edwin Tan](mailto:tan_loon_kiat_edwin@moe.edu.sg)<br>Subject Head/CCA & Student Well-Being | <img src="/images/cher24.jpg" style="width:25%"> |
 | [Ms Jessica Goh](mailto:goh_siow_hwee@schools.gov.sg) <br>Level Head/Mathematics | <img src="/images/cherjessica.jpg" style="width:25%"> |
 | [Mdm Chan Wai Kin](mailto:chan_wai_kin@moe.edu.sg)<br>Level Head/Chinese Language  | <img src="/images/cher26.jpg" style="width:25%"> |
 |
@@ -135,6 +136,18 @@ description: ""
 | [Mdm Jenn Ang](mailto:jenn_ang@moe.edu.sg)<br>Teacher | <img src="/images/cher109.jpg" style="width:25%"> |
 | [Mrs  Koay Guimei](http://he_guimei@moe.edu.sg/) <br>Teacher | <img src="/images/cher110.jpg" style="width:25%"> |
 | [Miss Ong Jia Qi](mailto:ong_jia_qi@acsp.sg)<br>Teacher  |  <img src="/images/cher111.jpg" style="width:25%">   |
+| [Mr Perry Chan Chee Keong](mailto:perry_chan@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Perry Chan S7635676I.jpg" style="width:25%">   |
+| [Ms Ee Li Hua Elizabeth](mailto:ee_li_hua_elizabeth@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth1.jpg" style="width:25%">   |
+| [Mr Low Chong Jian Edwin](mailto:low_chong_jian_edwin@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Low Chong Jian Edwin.jpg" style="width:25%">   |
+| [Ms Lu Youge](mailto:lu_youge@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Ms Lu Youge.jpg" style="width:35%">   |
+| [Ms Chan Wai Ying](mailto:chan_wai_ying@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Elyse Chan Photo.jpg" style="width:25%">   |
+| [Ms Tan Siow Hwee](mailto:tan_siow_hwee@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/tan_siow_hwee.png" style="width:25%">   |
+| [Mdm Tan Sin Min](mailto:tan_sin_min@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Tan Sin Min.jpg" style="width:25%">   |
+| [Mr Chow Kai Loon](mailto:chow_kai_loon@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:25%">   |
+| [Mr Aravinthan s/o A Karuppiah](mailto:aravinthan_a_karuppiah@schools.gov.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Aravin PP size photo.jpg" style="width:25%">   |
+| [Miss An Ruiying](mailto:aprilann1027@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/An Ruiying.png" style="width:25%">   |
+| [Mr Tiong Sze Chiat](mailto:sctiong31@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/Tiong Sze Chiat.jpeg" style="width:25%">   |
+| [Miss Rachel Emmanuelyn David](mailto:rachelemmanuelyn@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:30%">   |
 | [Mr Chong Kek Shin](mailto:chong.kek.shin@acsp.sg)<br>Editor  | <img src="/images/cher112.jpg" style="width:25%"> |
 |
 
