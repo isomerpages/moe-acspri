@@ -64,7 +64,7 @@ description: ""
 | 3D | Ms Shanice Lim Wei Tong <br> [lim_wei_tong_shanice@moe.edu.sg](mailto:lim_wei_tong_shanice@moe.edu.sg) | <img src="/images/2023 New Staffs/no_picture_G.jpg" style="width:30%"> |
 | 3E | Mr Adrian Kum <br> [kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg) | <img src="/images/p3cher10.jpg" style="width:30%"> |
 | 3E | Miss Ho Yong Ying <br> [ho_yong_ying@moe.edu.sg](mailto:ho_yong_ying@moe.edu.sg)    | <img src="/images/p3cher2.jpg" style="width:30%"> |
-| 3E | Miss An Ruiying <br> [aprilann1027@gmail.com](mailto:aprilann1027@gmail.com)    | <img src="/images/2023 New Staffs/An Ruiying.png" style="width:30%"> |
+| 3E | Miss An Ruiying <br> [An_ruiying@acsp.sg](mailto:An_ruiying@acsp.sg)    | <img src="/images/2023 New Staffs/An Ruiying.png" style="width:30%"> |
 | 3F | Ms Jessica Lai <br> [jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)  | <img src="/images/p3cher4.jpg" style="width:30%"> |
 | 3F | Mrs Vanessa Lim <br> [lee_hui_cher_vanessa@moe.edu.sg](mailto:lee_hui_cher_vanessa@moe.edu.sg) | <img src="/images/p4cher7.jpg" style="width:30%"> |
 | 
