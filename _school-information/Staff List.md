@@ -145,7 +145,7 @@ description: ""
 | [Mdm Tan Sin Min](mailto:Tan_sin_min@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Tan Sin Min.jpg" style="width:25%">   |
 | [Mr Chow Kai Loon](mailto:chow_kai_loon@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:25%">   |
 | [Mr Aravinthan s/o A Karuppiah](mailto:aravinthan_a_karuppiah@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Aravin PP size photo.jpg" style="width:25%">   |
-| [Miss An Ruiying](mailto:aprilann1027@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/An Ruiying.png" style="width:25%">   |
+| [Miss An Ruiying](mailto:An_ruiying@acsp.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/An Ruiying.png" style="width:25%">   |
 | [Mr Tiong Sze Chiat](mailto:sctiong31@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/Tiong Sze Chiat.jpeg" style="width:25%">   |
 | [Miss Rachel Emmanuelyn David](mailto:rachelemmanuelyn@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:30%">   |
 | [Mr Chong Kek Shin](mailto:chong.kek.shin@acsp.sg)<br>Editor  | <img src="/images/cher112.jpg" style="width:25%"> |
