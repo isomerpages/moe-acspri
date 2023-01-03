@@ -173,7 +173,6 @@ description: ""
 | [Miss Lim Siew Lay](mailto:lim_siew_lay_a@schools.gov.sg)<br>Admin Manager  |  <img src="/images/admin4.jpg" style="width:25%"> |
 | [Mdm Chia Siang Keng](mailto:chia_siang_keng@moe.edu.sg)<br> Corporate Support Officer  | <img src="/images/admin5.jpg" style="width:25%"> |
 |  [Mdm Vasundara Devi](mailto:vasundara_devi@moe.edu.sg)<br>Corporate Support Office | <img src="/images/admin6.jpg" style="width:25%">  |
-| Ms Anupriya<br>Admin Assistant  | <img src="/images/admin7.jpg" style="width:25%">  |
 | Ms Marsytha<br>Laboratory Assistant  | <img src="/images/admin8.jpg" style="width:25%">  |
 |  Mr Muhd Fuad<br>Operations Support Officer<br>6250 1633 | <img src="/images/admin10.jpg" style="width:25%">  |
 | Mr Jahroni Karadi<br>Operations Support Officer<br>6250 1633   | <img src="/images/admin11.jpg" style="width:25%"> |
