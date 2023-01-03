@@ -58,7 +58,7 @@ description: ""
 | 3A | Mdm Tan Lin Li <br> [tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg) | <img src="/images/cher66.jpg" style="width:30%"> |
 | 3B | Mrs Gladys Lim <br>  [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) | <img src="/images/p4cher4.jpg" style="width:30%"> 
 | 3B | Mr Vijayakumaran G <br> [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  | <img src="/images/p3cher8.jpg" style="width:30%"> |
-| 3C | Mr Aravinthan s/o A Karmupiah<br> [aravinthan_a_karuppiah@moe.edu.sg](mailto:aravinthan_a_karuppiah@moe.edu.sg)  | <img src="/images/2023 New Staffs/Aravin PP size photo.jpg" style="width:30%"> |
+| 3C | Mr Aravinthan s/o A Karuppiah<br> [aravinthan_a_karuppiah@moe.edu.sg](mailto:aravinthan_a_karuppiah@moe.edu.sg)  | <img src="/images/2023 New Staffs/Aravin PP size photo.jpg" style="width:30%"> |
 | 3C | Mdm Teo Chin Wen<br>  [teo_chin_wen@moe.edu.sg](mailto:teo_chin_wen@moe.edu.sg) | <img src="/images/p3cher7.jpg" style="width:30%"> |
 | 3D | Mrs Lee Ting Ting <br> [foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg) | <img src="/images/p2cher18.jpg" style="width:30%"> |
 | 3D | Ms Shanice Lim Wei Tong <br> [lim_wei_tong_shanice@moe.edu.sg](mailto:lim_wei_tong_shanice@moe.edu.sg) | <img src="/images/2023 New Staffs/no_picture_G.jpg" style="width:30%"> |
@@ -78,7 +78,7 @@ description: ""
 | 4B | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher6.jpg" style="width:30%"> |
 | 4B | Ms Ee Li Hua Elizabeth <br>[ ee_li_hua_elizabeth@moe.edu.sg](mailto:ee_li_hua_elizabeth@moe.edu.sg)  | <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth1.jpg" style="width:30%"> |
 | 4C | Mr Daniel Chua <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)  | <img src="/images/p2cher6.jpg" style="width:30%"> || 
-| 4C | Mr Chow Kai Loon <br> [chow_kai_loon@schools.gov.sg](mailto:chow_kai_loon@schools.gov.sg)  | <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:30%"> |
+| 4C | Mr Chow Kai Loon <br> [chow_kai_loon@moe.edu.sg](mailto:chow_kai_loon@moe.edu.sg)  | <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:30%"> |
 | 4C | Mrs Dawn Wee <br> [wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg) | <img src="/images/p3cher12.jpg" style="width:30%"> |
 | 4D | Mr Colin Sim <br> [sim_yaowen_colin@moe.edu.sg](mailto:sim_yaowen_colin@moe.edu.sg)   | <img src="/images/p3cher1.jpg" style="width:30%"> |
 | 4D | Mdm Jeannie Yeo<br>[yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg)<br> | <img src="/images/p1cher12.jpg" style="width:30%"> |
