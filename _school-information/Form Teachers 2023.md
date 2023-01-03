@@ -74,7 +74,7 @@ description: ""
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
 | 4A | Mdm Renuka Devi Windersalam<br>  [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | <img src="/images/p4cher14.jpg" style="width:30%"> |
-| 4A | Mr Low Chong Jian Edwin<br>  [low_chong_jian_edwin@moe.edu.sg](mailto:low_chong_jian_edwin@moe.edu.sg) | <img src="/images/2023 New Staffs/no_picture_M.jpg" style="width:30%"> |
+| 4A | Mr Low Chong Jian Edwin<br>  [low_chong_jian_edwin@moe.edu.sg](mailto:low_chong_jian_edwin@moe.edu.sg) | <img src="/images/2023 New Staffs/Low Chong Jian Edwin.jpg" style="width:30%"> |
 | 4B | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher6.jpg" style="width:30%"> |
 | 4B | Ms Ee Li Hua Elizabeth <br>[ ee_li_hua_elizabeth@moe.edu.sg](mailto:ee_li_hua_elizabeth@moe.edu.sg)  | <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth1.jpg" style="width:30%"> |
 | 4C | Mr Daniel Chua <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)  | <img src="/images/p2cher6.jpg" style="width:30%"> || 
