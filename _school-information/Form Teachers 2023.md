@@ -74,7 +74,7 @@ description: ""
 | Class | Name & Email | Photo |
 |:---:|:---:|:---:|
 | 4A | Mdm Renuka Devi Windersalam<br>  [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | <img src="/images/p4cher14.jpg" style="width:30%"> |
-| 4A | Mr Low Chong Jian Edwin<br>  [low_chong_jian_edwin@moe.edu.sg](mailto:low_chong_jian_edwin@moe.edu.sg) | <img src="/images/2023 New Staffs/no_picture_M.jpg" style="width:30%"> |
+| 4A | Mr Low Chong Jian Edwin<br>  [low_chong_jian_edwin@moe.edu.sg](mailto:low_chong_jian_edwin@moe.edu.sg) | <img src="/images/2023 New Staffs/Low Chong Jian Edwin.jpg" style="width:30%"> |
 | 4B | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher6.jpg" style="width:30%"> |
 | 4B | Ms Ee Li Hua Elizabeth <br>[ ee_li_hua_elizabeth@moe.edu.sg](mailto:ee_li_hua_elizabeth@moe.edu.sg)  | <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth1.jpg" style="width:30%"> |
 | 4C | Mr Daniel Chua <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)  | <img src="/images/p2cher6.jpg" style="width:30%"> || 
@@ -101,7 +101,7 @@ description: ""
 | 5A | Mdm Divya Dharshini <br> [divya_dharshini_harikrishan@moe.edu.sg](mailto:divya_dharshini_harikrishan@moe.edu.sg) | <img src="/images/cher50.jpg" style="width:30%"> |
 | 5B | Ms Jessica Goh <br> [goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg)  | <img src="/images/p3cher3.jpeg" style="width:30%"> |
 | 5B | Mr Wan Mohamed <br> [wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)  | <img src="/images/p6cher15.jpg" style="width:30%"> |
-| 5C | Mr Perry Chan <br> [perry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg)  | <img src="/images//2023 New Staffs/Perry Chan S7635676I.jpg" style="width:30%"> |
+| 5C | Mr Perry Chan <br> [perry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg)  | <img src="/images/2023 New Staffs/Perry Chan S7635676I.jpg" style="width:30%"> |
 | 5C | Ms Angeline Ong <br> [ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg) | <img src="/images/p3cher13.jpg" style="width:30%"> |
 | 5C | Ms Siti Nurjannah <br> [siti_nurjannah_saaet@moe.edu.sg](mailto:siti_nurjannah_saaet@moe.edu.sg)  | <img src="/images/p5cher10.jpg" style="width:30%"> |
 | 5D | Mdm Heng Siok Pheng <br> [heng_siok_pheng@moe.edu.sg](mailto:heng_siok_pheng@moe.edu.sg) | <img src="/images/p5cher12.jpg" style="width:30%"> |
