@@ -42,12 +42,14 @@ description: ""
 |  [Mrs Janis Pavia](mailto:lau_kah_ling_janis@moe.edu.sg)<br>Assistant Year Head/Lower Primary | <img src="/images/cher19.jpg" style="width:25%"> |
 | [Ms Aubrey Ong](mailto:ong_pei_khim_aubrey@moe.edu.sg)<br>Assistant Year Head/Upper Primary  | <img src="/images/cher20.jpg" style="width:25%"> |
 | [Mdm Chiew Hwee Ling](mailto:chiew_hwee_ling@moe.edu.sg)<br>Level Head/Chinese Language |<img src="/images/cherchiew.jpg" style="width:25%">|
+| [Mdm Chan Wai Kin](mailto:chan_wai_kin@moe.edu.sg)<br>Level Head/Chinese Language  | <img src="/images/cher26.jpg" style="width:25%"> |
 | [Mdm Jasmine Kaur](mailto:jasmine_kaur@moe.edu.sg)<br>Level Head/English | <img src="/images/cher22.jpg" style="width:25%"> |
+| [Ms Jessica Goh](mailto:goh_siow_hwee@schools.gov.sg) <br>Level Head/Mathematics | <img src="/images/cherjessica.jpg" style="width:25%"> |
+| [Mr Chan Tai Yao](mailto:chan_tai_yao@moe.edu.sg)<br>Level Head/Science   | <img src="/images/cher40.jpg" style="width:25%">  |
 |  [Mdm Anna Asha Mohan](mailto:anna_asha_mohan@moe.edu.sg)<br>Subject Head/Aesthetics | <img src="/images/cher23.jpg" style="width:25%"> |
 | [Mr Edwin Tan](mailto:tan_loon_kiat_edwin@moe.edu.sg)<br>Subject Head/CCA & Student Well-Being | <img src="/images/cher24.jpg" style="width:25%"> |
-| [Ms Jessica Goh](mailto:goh_siow_hwee@schools.gov.sg) <br>Level Head/Mathematics | <img src="/images/cherjessica.jpg" style="width:25%"> |
-| [Mdm Chan Wai Kin](mailto:chan_wai_kin@moe.edu.sg)<br>Level Head/Chinese Language  | <img src="/images/cher26.jpg" style="width:25%"> |
-|
+
+
 
 ##### **Lead Teachers/Senior Teachers**
 
@@ -72,7 +74,6 @@ description: ""
 |---|---|
 | [Mr Adrian Kum](mailto:kum_kin_meng@moe.edu.sg)<br>Teacher | <img src="/images/cher38.jpg" style="width:25%">  |
 |  [Ms Tan Bee Po](mailto:tan_bee_po@moe.edu.sg)<br>Teacher | <img src="/images/cher39.jpg" style="width:25%">  |
-| [Mr Chan Tai Yao](mailto:chan_tai_yao@moe.edu.sg)<br>Science Coordinator  | <img src="/images/cher40.jpg" style="width:25%">  |
 | [Mr Benedict Yap](mailto:benedict_yap_hsien-min@moe.edu.sg)<br>Teacher  | <img src="/images/cher41.jpg" style="width:25%">   |
 | [Mr Caleb Chua](mailto:caleb_chua@moe.edu.sg)<br>Teacher<br> | <img src="/images/cher43.jpg" style="width:25%"> |
 | [Mr Chhoa Kok Kheng](mailto:chhoa_kok_kheng@moe.edu.sg)<br>Teacher | <img src="/images/cher44.jpg" style="width:25%"> |
