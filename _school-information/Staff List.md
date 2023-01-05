@@ -57,6 +57,7 @@ description: ""
 | [Mr Terry Tan](mailto:tan_chee_liang_terry@moe.edu.sg)<br>Lead Teacher/Mathematics | <img src="/images/cher28.jpg" style="width:25%"> |
 | [Miss Kogilavani Vathumalai](mailto:kogilavani_vathumalai@moe.edu.sg)<br>Lead Teacher/Tamil Language | <img src="/images/cher29.jpg" style="width:25%"> |
 | [Mrs Sharron Yap](mailto:tan_jian_horng@moe.edu.sg)<br>Senior Teacher/Art | <img src="/images/cher30.jpg" style="width:25%"> |
+|  [Mdm Li Chunju](mailto:li_chunju@moe.edu.sg)<br>Senior Teacher/Chinese Language  |  <img src="/images/cher64.jpg" style="width:25%">   |
 | [Mdm Ida Nonanseh Abdul Rahman](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg)<br>Senior Teacher/English | <img src="/images/cher31.jpg" style="width:25%"> |
 | [Mrs Farisa Hussain](mailto:farisa_begame_abdul_salam@moe.edu.sg)<br>Senior Teacher/Mathematics | <img src="/images/cher32.jpg" style="width:25%"> |
 | [Mr Wan Mohamed Nazrith](mailto:wan_mohamed@moe.edu.sg)<br>Senior Teacher/Science | <img src="/images/cher33.jpg" style="width:25%"> |
@@ -94,7 +95,6 @@ description: ""
 | [Mr Kelvin Chan Yong Meng](mailto:kelvin_chan_yong_meng@moe.edu.sg)<br>Teacher  | <img src="/images/cher61.jpg" style="width:25%"> |
 |  [Mr Leon Ho Yoong Kian](mailto:ho_yoong_kian@moe.edu.sg)<br>Teacher | <img src="/images/cher62.jpg" style="width:25%">   |
 |  [Mdm Leong Lilian](mailto:leong_lilian@moe.edu.sg)<br>Teacher |  <img src="/images/cher63.jpg" style="width:25%"> |
-|  [Mdm Li Chunju](mailto:li_chunju@moe.edu.sg)<br>Teacher  |  <img src="/images/cher64.jpg" style="width:25%">   |
 | [Mrs Neo Lin Li](mailto:tan_lin_li@moe.edu.sg)<br>Discipline Co-ordinator  | <img src="/images/cher66.jpg" style="width:25%"> |
 |  [Ms Ho Lim Hwei](mailto:ho_lim_hwei@moe.edu.sg)<br>Teacher  | <img src="/images/cher67.jpg" style="width:25%"> |
 | [Mr Mark Leong](mailto:mark%20leong_bao_wen_mark@moe.edu.sg)<br>Teacher  | <img src="/images/cher68.jpg" style="width:25%">  |
