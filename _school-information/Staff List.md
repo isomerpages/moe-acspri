@@ -149,6 +149,7 @@ description: ""
 | [Miss An Ruiying](mailto:An_ruiying@acsp.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/An Ruiying.png" style="width:25%">   |
 | [Mr Tiong Sze Chiat](mailto:Tiong_sze_chiat@acsp.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Tiong Sze Chiat.jpeg" style="width:25%">   |
 | [Miss Rachel Emmanuelyn David](mailto:rachelemmanuelyn@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:30%">   |
+| [Ms Shanice Lim Wei Tong](mailto:lim_wei_tong_shanice@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Mrs Shanice Toh.jpg" style="width:30%"> |
 | [Mr Chong Kek Shin](mailto:chong.kek.shin@acsp.sg)<br>Editor  | <img src="/images/cher112.jpg" style="width:25%"> |
 |
 
