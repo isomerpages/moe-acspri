@@ -42,12 +42,14 @@ description: ""
 |  [Mrs Janis Pavia](mailto:lau_kah_ling_janis@moe.edu.sg)<br>Assistant Year Head/Lower Primary | <img src="/images/cher19.jpg" style="width:25%"> |
 | [Ms Aubrey Ong](mailto:ong_pei_khim_aubrey@moe.edu.sg)<br>Assistant Year Head/Upper Primary  | <img src="/images/cher20.jpg" style="width:25%"> |
 | [Mdm Chiew Hwee Ling](mailto:chiew_hwee_ling@moe.edu.sg)<br>Level Head/Chinese Language |<img src="/images/cherchiew.jpg" style="width:25%">|
+| [Mdm Chan Wai Kin](mailto:chan_wai_kin@moe.edu.sg)<br>Level Head/Chinese Language  | <img src="/images/cher26.jpg" style="width:25%"> |
 | [Mdm Jasmine Kaur](mailto:jasmine_kaur@moe.edu.sg)<br>Level Head/English | <img src="/images/cher22.jpg" style="width:25%"> |
+| [Ms Jessica Goh](mailto:goh_siow_hwee@schools.gov.sg) <br>Level Head/Mathematics | <img src="/images/cherjessica.jpg" style="width:25%"> |
+| [Mr Chan Tai Yao](mailto:chan_tai_yao@moe.edu.sg)<br>Level Head/Science   | <img src="/images/cher40.jpg" style="width:25%">  |
 |  [Mdm Anna Asha Mohan](mailto:anna_asha_mohan@moe.edu.sg)<br>Subject Head/Aesthetics | <img src="/images/cher23.jpg" style="width:25%"> |
 | [Mr Edwin Tan](mailto:tan_loon_kiat_edwin@moe.edu.sg)<br>Subject Head/CCA & Student Well-Being | <img src="/images/cher24.jpg" style="width:25%"> |
-| [Ms Jessica Goh](mailto:goh_siow_hwee@schools.gov.sg) <br>Level Head/Mathematics | <img src="/images/cherjessica.jpg" style="width:25%"> |
-| [Mdm Chan Wai Kin](mailto:chan_wai_kin@moe.edu.sg)<br>Level Head/Chinese Language  | <img src="/images/cher26.jpg" style="width:25%"> |
-|
+
+
 
 ##### **Lead Teachers/Senior Teachers**
 
@@ -57,6 +59,7 @@ description: ""
 | [Mr Terry Tan](mailto:tan_chee_liang_terry@moe.edu.sg)<br>Lead Teacher/Mathematics | <img src="/images/cher28.jpg" style="width:25%"> |
 | [Miss Kogilavani Vathumalai](mailto:kogilavani_vathumalai@moe.edu.sg)<br>Lead Teacher/Tamil Language | <img src="/images/cher29.jpg" style="width:25%"> |
 | [Mrs Sharron Yap](mailto:tan_jian_horng@moe.edu.sg)<br>Senior Teacher/Art | <img src="/images/cher30.jpg" style="width:25%"> |
+|  [Mdm Li Chunju](mailto:li_chunju@moe.edu.sg)<br>Senior Teacher/Chinese Language  |  <img src="/images/cher64.jpg" style="width:25%">   |
 | [Mdm Ida Nonanseh Abdul Rahman](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg)<br>Senior Teacher/English | <img src="/images/cher31.jpg" style="width:25%"> |
 | [Mrs Farisa Hussain](mailto:farisa_begame_abdul_salam@moe.edu.sg)<br>Senior Teacher/Mathematics | <img src="/images/cher32.jpg" style="width:25%"> |
 | [Mr Wan Mohamed Nazrith](mailto:wan_mohamed@moe.edu.sg)<br>Senior Teacher/Science | <img src="/images/cher33.jpg" style="width:25%"> |
@@ -71,7 +74,6 @@ description: ""
 |---|---|
 | [Mr Adrian Kum](mailto:kum_kin_meng@moe.edu.sg)<br>Teacher | <img src="/images/cher38.jpg" style="width:25%">  |
 |  [Ms Tan Bee Po](mailto:tan_bee_po@moe.edu.sg)<br>Teacher | <img src="/images/cher39.jpg" style="width:25%">  |
-| [Mr Chan Tai Yao](mailto:chan_tai_yao@moe.edu.sg)<br>Science Coordinator  | <img src="/images/cher40.jpg" style="width:25%">  |
 | [Mr Benedict Yap](mailto:benedict_yap_hsien-min@moe.edu.sg)<br>Teacher  | <img src="/images/cher41.jpg" style="width:25%">   |
 | [Mr Caleb Chua](mailto:caleb_chua@moe.edu.sg)<br>Teacher<br> | <img src="/images/cher43.jpg" style="width:25%"> |
 | [Mr Chhoa Kok Kheng](mailto:chhoa_kok_kheng@moe.edu.sg)<br>Teacher | <img src="/images/cher44.jpg" style="width:25%"> |
@@ -94,7 +96,6 @@ description: ""
 | [Mr Kelvin Chan Yong Meng](mailto:kelvin_chan_yong_meng@moe.edu.sg)<br>Teacher  | <img src="/images/cher61.jpg" style="width:25%"> |
 |  [Mr Leon Ho Yoong Kian](mailto:ho_yoong_kian@moe.edu.sg)<br>Teacher | <img src="/images/cher62.jpg" style="width:25%">   |
 |  [Mdm Leong Lilian](mailto:leong_lilian@moe.edu.sg)<br>Teacher |  <img src="/images/cher63.jpg" style="width:25%"> |
-|  [Mdm Li Chunju](mailto:li_chunju@moe.edu.sg)<br>Teacher  |  <img src="/images/cher64.jpg" style="width:25%">   |
 | [Mrs Neo Lin Li](mailto:tan_lin_li@moe.edu.sg)<br>Discipline Co-ordinator  | <img src="/images/cher66.jpg" style="width:25%"> |
 |  [Ms Ho Lim Hwei](mailto:ho_lim_hwei@moe.edu.sg)<br>Teacher  | <img src="/images/cher67.jpg" style="width:25%"> |
 | [Mr Mark Leong](mailto:mark%20leong_bao_wen_mark@moe.edu.sg)<br>Teacher  | <img src="/images/cher68.jpg" style="width:25%">  |
@@ -147,7 +148,8 @@ description: ""
 | [Mr Aravinthan s/o A Karuppiah](mailto:aravinthan_a_karuppiah@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Aravin PP size photo.jpg" style="width:25%">   |
 | [Miss An Ruiying](mailto:An_ruiying@acsp.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/An Ruiying.png" style="width:25%">   |
 | [Mr Tiong Sze Chiat](mailto:Tiong_sze_chiat@acsp.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Tiong Sze Chiat.jpeg" style="width:25%">   |
-| [Miss Rachel Emmanuelyn David](mailto:rachelemmanuelyn@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:30%">   |
+| [Miss Rachel Emmanuelyn David](mailto:rachelemmanuelyn@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:32%">   |
+| [Ms Shanice Lim Wei Tong](mailto:lim_wei_tong_shanice@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Mrs Shanice Toh.jpg" style="width:30%"> |
 | [Mr Chong Kek Shin](mailto:chong.kek.shin@acsp.sg)<br>Editor  | <img src="/images/cher112.jpg" style="width:25%"> |
 |
 
