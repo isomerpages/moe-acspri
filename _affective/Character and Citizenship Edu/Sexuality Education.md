@@ -4,7 +4,6 @@ permalink: /affective/sex-edu/
 description: ""
 third_nav_title: Character and Citizenship Edu
 ---
-
 ### **Anglo-Chinese School (Primary)**
 
 ##### **MOE Sexua****l****ity Education in Schools:**
@@ -55,7 +54,7 @@ b. Character and Citizenship Education (CCE)
 **At Anglo-Chinese School (Primary), the following Sexuality Education lessons will be taught in 2023:**
 
 
-![](/images/MOE_Logo.jpg)
+![](/images/MOE_log1.png)
 
 ###2023 Sexuality Education Lessons in CCE 2021###
 
@@ -69,7 +68,10 @@ b. Character and Citizenship Education (CCE)
 || Didi you know ?  (60min)| This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **Stop-Think-Do’.|Term 2|
 || Keeping Myself Safe(60 min)|In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. |Term 3|
  
+![](/images/MOE_log1.png)
 
+
+###2023 Sexuality Education Lessons in CCE 2021###
 
 **Primary 6**
 
