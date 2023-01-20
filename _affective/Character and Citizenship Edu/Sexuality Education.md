@@ -87,8 +87,8 @@ b. Character and Citizenship Education (CCE)
 
 **Information for Parents**
 
-8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+8. Parents may opt their children out of Sexuality Education lessons.
 
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents in January. The completed opt-out form is to be submitted by 27/01/2023.
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via Parents Gateway. The completed opt-out form is to be submitted by 27/01/2023.
 
 10. Parents can contact Mrs Christine Ho at 62501633 or email [tan\_lay\_hoon\_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
