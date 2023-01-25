@@ -56,7 +56,8 @@ b. Character and Citizenship Education (CCE)
 
 ![](/images/MOE_log1.png)
 
-###2023 Sexuality Education Lessons in CCE 2021###
+
+**2023 Sexuality Education Lessons in CCE 2021**
 
 
 **Primary 5**
@@ -71,7 +72,7 @@ b. Character and Citizenship Education (CCE)
 ![](/images/MOE_log1.png)
 
 
-###2023 Sexuality Education Lessons in CCE 2021###
+**2023 Sexuality Education Lessons in CCE 2021**
 
 **Primary 6**
 
