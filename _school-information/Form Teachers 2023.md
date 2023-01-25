@@ -78,12 +78,12 @@ description: ""
 | 4B | Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)  | <img src="/images/p4cher6.jpg" style="width:30%"> |
 | 4B | Ms Ee Li Hua Elizabeth <br>[ ee_li_hua_elizabeth@moe.edu.sg](mailto:ee_li_hua_elizabeth@moe.edu.sg)  | <img src="/images/2023 New Staffs/Ms Ee Li Hua Elizabeth1.jpg" style="width:30%"> |
 | 4C | Mr Daniel Chua <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)  | <img src="/images/p2cher6.jpg" style="width:30%"> || 
-| 4C | Mr Chow Kai Loon <br> [chow_kai_loon@moe.edu.sg](mailto:chow_kai_loon@moe.edu.sg)  | <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:30%"> |
 | 4C | Mrs Dawn Wee <br> [wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg) | <img src="/images/p3cher12.jpg" style="width:30%"> |
 | 4D | Mr Colin Sim <br> [sim_yaowen_colin@moe.edu.sg](mailto:sim_yaowen_colin@moe.edu.sg)   | <img src="/images/p3cher1.jpg" style="width:30%"> |
 | 4D | Mdm Jeannie Yeo<br>[yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg)<br> | <img src="/images/p1cher12.jpg" style="width:30%"> |
 | 4E | Mdm Jasmine Kaur <br> [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)  | <img src="/images/p6cher16.jpg" style="width:30%"> |
 | 4E | Ms Lu Youge <br> [lu_youge@moe.edu.sg](mailto:lu_youge@moe.edu.sg)  | <img src="/images/2023 New Staffs/Ms Lu Youge.jpg" style="width:40%"> |
+| 4E | Mr Chow Kai Loon <br> [chow_kai_loon@moe.edu.sg](mailto:chow_kai_loon@moe.edu.sg)  | <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:30%"> |
 | 4F | Mr Ho Shin Hoo <br> [ho_shin_hoo@moe.edu.sg](mailto:ho_shin_hoo@moe.edu.sg)  | <img src="/images/p5cher1.jpg" style="width:30%"> |
 | 4F | Mrs Geraldine Ortega <br> [geraldine_ortega@moe.edu.sg](mailto:geraldine_ortega@moe.edu.sg) | <img src="/images/p5cher11.jpg" style="width:30%"> |
 | 4G | Mrs Christina Tan <br> [lim_peck_hwee_christina@moe.edu.sg](mailto:lim_peck_hwee_christina@moe.edu.sg) | <img src="/images/p5cher9.jpg" style="width:30%"> |

@@ -56,7 +56,8 @@ b. Character and Citizenship Education (CCE)
 
 ![](/images/MOE_log1.png)
 
-###2023 Sexuality Education Lessons in CCE 2021###
+
+**2023 Sexuality Education Lessons in CCE 2021**
 
 
 **Primary 5**
@@ -71,7 +72,7 @@ b. Character and Citizenship Education (CCE)
 ![](/images/MOE_log1.png)
 
 
-###2023 Sexuality Education Lessons in CCE 2021###
+**2023 Sexuality Education Lessons in CCE 2021**
 
 **Primary 6**
 
@@ -95,4 +96,4 @@ b. Character and Citizenship Education (CCE)
 
 9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via Parents Gateway. The completed opt-out form is to be submitted by 27/01/2023.
 
-10. Parents can contact Mrs Christine Ho at 62501633 or email [tan\_lay\_hoon\_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
+10.  Parents can contact Mrs Christine Ho at 62501633 or email [tan\_lay\_hoon\_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
