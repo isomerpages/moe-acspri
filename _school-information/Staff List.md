@@ -98,7 +98,7 @@ description: ""
 |  [Mdm Leong Lilian](mailto:leong_lilian@moe.edu.sg)<br>Teacher |  <img src="/images/cher63.jpg" style="width:25%"> |
 | [Mrs Neo Lin Li](mailto:tan_lin_li@moe.edu.sg)<br>Discipline Co-ordinator  | <img src="/images/cher66.jpg" style="width:25%"> |
 |  [Ms Ho Lim Hwei](mailto:ho_lim_hwei@moe.edu.sg)<br>Teacher  | <img src="/images/cher67.jpg" style="width:25%"> |
-| [Mr Mark Leong](mailto:mark%20leong_bao_wen_mark@moe.edu.sg)<br>Teacher  | <img src="/images/cher68.jpg" style="width:25%">  |
+| [Mr Mark Leong](mailto:leong_bao_wen_mark@moe.edu.sg)<br>Teacher  | <img src="/images/cher68.jpg" style="width:25%">  |
 | [Miss Mazeedah M Azmi](mailto:mazeedah_mohamed_azmi@moe.edu.sg)<br>Teacher  | <img src="/images/cher69.jpg" style="width:25%"> |
 | [Mdm Wong Mei Kuen](mailto:wong_mei_kuen@moe.edu.sg)<br>Teacher   | <img src="/images/cher70.jpg" style="width:25%">  |
 |  [Mdm Najuma Banu](mailto:najuma_banu@moe.edu.sg)<br>Teacher | <img src="/images/cher71.jpg" style="width:25%">  |
