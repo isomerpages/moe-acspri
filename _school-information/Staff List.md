@@ -171,9 +171,9 @@ description: ""
 |---|---|
 | [Miss Lim Siew Lay](mailto:lim_siew_lay_a@schools.gov.sg)<br>Admin Manager  |  <img src="/images/admin4.jpg" style="width:25%"> |
 | [Mr Ernest Fu](mailto:Ernest_Fu@schools.gov.sg)<br>Admin Manager | <img src="/images/admin3.jpg" style="width:25%">  |
+|  [Mr Lee Byung Woo](mailto:Lee_Byung_Woo@moe.edu.sg)<br> ICT Manager | <img src="/images/admin15.jpg" style="width:25%">  |
 | [Mr Lee Yong Yiang](mailto:lee_yong_yiang@moe.edu.sg)<br>Operations Manager  | <img src="/images/admin1.jpg" style="width:25%"> |
 | [Mr Keith Chong](mailto:Keith%20Chong%20%3Ckeith_chong@acsp.sg%3E)<br>Operations Manager  | <img src="/images/admin2.jpg" style="width:25%">  |
-|  [Mr Lee Byung Woo](mailto:Lee_Byung_Woo@moe.edu.sg)<br> ICT Manager | <img src="/images/admin15.jpg" style="width:25%">  |
 | [Ms Angelina Tan](mailto:Tan_Qian_Ning_Angelina@schools.gov.sg)<br>Admin Executive  |  <img src="/images/admin16.jpg" style="width:25%"> |
 | [Mdm Chia Siang Keng](mailto:chia_siang_keng@moe.edu.sg)<br> Corporate Support Officer  | <img src="/images/admin5.jpg" style="width:25%"> |
 |  [Mdm Vasundara Devi](mailto:vasundara_devi@moe.edu.sg)<br>Corporate Support Office | <img src="/images/admin6.jpg" style="width:25%">  |
