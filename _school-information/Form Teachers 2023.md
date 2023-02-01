@@ -107,6 +107,7 @@ description: ""
 | 5D | Mdm Heng Siok Pheng <br> [heng_siok_pheng@moe.edu.sg](mailto:heng_siok_pheng@moe.edu.sg) | <img src="/images/p5cher12.jpg" style="width:30%"> |
 | 5D | Mr Lincoln Shen <br> [shen_pinhong@moe.edu.sg](mailto:shen_pinhong@moe.edu.sg) | <img src="/images/2023 New Staffs/Lincoln Shen.png" style="width:30%"> |
 | 5D | Mrs Koay Gui Mei <br> [he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg) | <img src="/images/p5cher4.jpg" style="width:30%"> |
+| 5D |Mr Tiong Sze Chiat <br>[tiong_sze_chiat@moe.edu.sg](mailto:tiong_sze_chiat@moe.edu.sg) | <img src="/images/2023 New Staffs/Lincoln Shen.png" style="width:30%"> |
 | 5E | Ms Siti Masyita<br> [siti_masyita_mohammad_ali@moe.edu.sg](mailto:siti_masyita_mohammad_ali@moe.edu.sg) | <img src="/images/cher82.jpg" style="width:30%"> |
 | 5E | Mr Benedict Yap <br> [benedict_yap_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg) | <img src="/images/p4cher11.jpg" style="width:30%"> |
 | 5F | Ms Tan Bee Choo Vanessa <br> [tan_bee_choo_b@moe.edu.sg](mailto:tan_bee_choo_b@moe.edu.sg)  | <img src="/images/p6cher14.jpg" style="width:30%"> |
