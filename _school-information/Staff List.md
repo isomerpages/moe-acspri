@@ -148,7 +148,6 @@ description: ""
 | [Mr Aravinthan s/o A Karuppiah](mailto:aravinthan_a_karuppiah@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Aravin PP size photo.jpg" style="width:25%">   |
 | [Miss An Ruiying](mailto:An_ruiying@acsp.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/An Ruiying.png" style="width:25%">   |
 | [Mr Tiong Sze Chiat](mailto:Tiong_sze_chiat@acsp.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Tiong Sze Chiat.jpeg" style="width:25%">   |
-| [Miss Rachel Emmanuelyn David](mailto:rachelemmanuelyn@gmail.com)<br>Teacher  |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:32%">   |
 | [Ms Shanice Lim Wei Tong](mailto:lim_wei_tong_shanice@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Mrs Shanice Toh.jpg" style="width:30%"> |
 | [Mr Chong Kek Shin](mailto:chong.kek.shin@acsp.sg)<br>Editor  | <img src="/images/cher112.jpg" style="width:25%"> |
 |
@@ -162,6 +161,7 @@ description: ""
 | [Ms Jane Chong](mailto:chong_mee_fong_jane@moe.edu.sg)<br>SEN Officer | <img src="/images/cher115.jpg" style="width:25%"> |
 | [Miss Stephanie Hooi](mailto:hooi_li_qiong_stephanie@moe.edu.sg)<br>SEN Officer | <img src="/images/Stephanie%20Hooi%20IC%20photo.jpg" style="width:25%"> |
 | [Mr Richard Goh](mailto:goh_teoh_chuan@moe.edu.sg)<br>Senior AED/T&L | <img src="/images/cher116.jpg" style="width:25%"> |
+| [Miss Rachel Emmanuelyn David](mailto:rachelemmanuelyn@gmail.com)<br>SEN Officer |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:32%">   |
 |
 
 
@@ -169,22 +169,27 @@ description: ""
 
 |  |  |
 |---|---|
+| [Miss Lim Siew Lay](mailto:lim_siew_lay_a@schools.gov.sg)<br>Admin Manager  |  <img src="/images/admin4.jpg" style="width:25%"> |
+| [Mr Ernest Fu](mailto:Ernest_Fu@schools.gov.sg)<br>Admin Manager | <img src="/images/admin3.jpg" style="width:25%">  |
+|  [Mr Lee Byung Woo](mailto:Lee_Byung_Woo@moe.edu.sg)<br> ICT Manager | <img src="/images/admin15.jpg" style="width:25%">  |
 | [Mr Lee Yong Yiang](mailto:lee_yong_yiang@moe.edu.sg)<br>Operations Manager  | <img src="/images/admin1.jpg" style="width:25%"> |
 | [Mr Keith Chong](mailto:Keith%20Chong%20%3Ckeith_chong@acsp.sg%3E)<br>Operations Manager  | <img src="/images/admin2.jpg" style="width:25%">  |
-| [Mr Ernest Fu](mailto:Ernest_Fu@schools.gov.sg)<br>Admin Manager | <img src="/images/admin3.jpg" style="width:25%">  |
-| [Miss Lim Siew Lay](mailto:lim_siew_lay_a@schools.gov.sg)<br>Admin Manager  |  <img src="/images/admin4.jpg" style="width:25%"> |
+| [Ms Angelina Tan](mailto:Tan_Qian_Ning_Angelina@schools.gov.sg)<br>Admin Executive  |  <img src="/images/admin16.jpg" style="width:25%"> |
 | [Mdm Chia Siang Keng](mailto:chia_siang_keng@moe.edu.sg)<br> Corporate Support Officer  | <img src="/images/admin5.jpg" style="width:25%"> |
 |  [Mdm Vasundara Devi](mailto:vasundara_devi@moe.edu.sg)<br>Corporate Support Office | <img src="/images/admin6.jpg" style="width:25%">  |
-| Ms Marsytha<br>Laboratory Assistant  | <img src="/images/admin8.jpg" style="width:25%">  |
+| [Mdm Karen Tan Ha Lui](mailto:tan_ha_lui@moe.edu.sg)<br>Corporate Support Officer | <img src="/images/2023 New Staffs/Karen Tan.png" style="width:25%">  |
+| [Ms Asiah Bibi Binte Ali](mailto:Asiah_Bibi_Ali@schools.gov.sg)<br>Corporate Support Officer | <img src="/images/admin17.jpg" style="width:25%">  |
 |  Mr Muhd Fuad<br>Operations Support Officer<br>6250 1633 | <img src="/images/admin10.jpg" style="width:25%">  |
 | Mr Jahroni Karadi<br>Operations Support Officer<br>6250 1633   | <img src="/images/admin11.jpg" style="width:25%"> |
 | Mr Juhari Emin<br>Operations Support Officer<br>6250 1633  |  <img src="/images/admin12.jpg" style="width:25%"> |
 | Mdm Letchimi A<br>Operations Support Officer<br>6250 1633  | <img src="/images/admin13.jpg" style="width:25%">  |
 | Mdm Saeyah<br>Operations Support Officer  | <img src="/images/admin14.jpg" style="width:25%">  |
-|  [Mr Lee Byung Woo](mailto:Lee_Byung_Woo@moe.edu.sg)<br> ICT Manager | <img src="/images/admin15.jpg" style="width:25%">  |
-| [Ms Angelina Tan](mailto:Tan_Qian_Ning_Angelina@schools.gov.sg)<br>Admin Executive  |  <img src="/images/admin16.jpg" style="width:25%"> |
-| [Ms Asiah Bibi Binte Ali](mailto:Asiah_Bibi_Ali@schools.gov.sg)<br>Corporate Support Officer | <img src="/images/admin17.jpg" style="width:25%">  |
-|
+| Ms Marsytha<br>Science Lab Assistant  | <img src="/images/admin8.jpg" style="width:25%">  |
+| Ms Amy Ng<br>Librarian | <img src="/images/2023 New Staffs/Librarian Amy Ng.jpg" style="width:25%">  |
+
+
+
+
 
 ##### **School Counsellor**
 
