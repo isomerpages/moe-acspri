@@ -175,7 +175,7 @@ description: ""
 | [Mr Keith Chong](mailto:Keith%20Chong%20%3Ckeith_chong@acsp.sg%3E)<br>Operations Manager  | <img src="/images/admin2.jpg" style="width:25%">  |
 | [Mdm Chia Siang Keng](mailto:chia_siang_keng@moe.edu.sg)<br> Corporate Support Officer  | <img src="/images/admin5.jpg" style="width:25%"> |
 |  [Mdm Vasundara Devi](mailto:vasundara_devi@moe.edu.sg)<br>Corporate Support Office | <img src="/images/admin6.jpg" style="width:25%">  |
-| [Mdm Karen Tan Ha Lui](mailto:tan_ha_lui@moe.edu.sg)<br>Corporate Support Officer | <img src="/images/admin17.jpg" style="width:25%">  |
+| [Mdm Karen Tan Ha Lui](mailto:tan_ha_lui@moe.edu.sg)<br>Corporate Support Officer | <img src="/images/2023 New Staffs/Karen Tan.png" style="width:25%">  |
 | Ms Marsytha<br>Laboratory Assistant  | <img src="/images/admin8.jpg" style="width:25%">  |
 |  Mr Muhd Fuad<br>Operations Support Officer<br>6250 1633 | <img src="/images/admin10.jpg" style="width:25%">  |
 | Mr Jahroni Karadi<br>Operations Support Officer<br>6250 1633   | <img src="/images/admin11.jpg" style="width:25%"> |
