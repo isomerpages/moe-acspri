@@ -185,6 +185,7 @@ description: ""
 | Mdm Letchimi A<br>Operations Support Officer<br>6250 1633  | <img src="/images/admin13.jpg" style="width:25%">  |
 | Mdm Saeyah<br>Operations Support Officer  | <img src="/images/admin14.jpg" style="width:25%">  |
 | Ms Marsytha<br>Science Lab Assistant  | <img src="/images/admin8.jpg" style="width:25%">  |
+| Ms Amy Ng<br>Science Lab Assistant  | <img src="/images/2023 New Staffs/Librarian Amy Ng.jpg" style="width:25%">  |
 
 
 
