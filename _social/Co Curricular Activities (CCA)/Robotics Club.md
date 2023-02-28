@@ -13,11 +13,12 @@ The objectives of the Robotics Club are to train members in programming and it a
 
 | Name | Email ID |
 |:---:|:---:|
-| Mdm Tan Yoke Joo (i/c) | [tan_yoke_joo@moe.edu.sg](tan_yoke_joo@moe.edu.sg) |
+| Mdm Tan Yoke Joo (I/C) | [tan_yoke_joo@moe.edu.sg](tan_yoke_joo@moe.edu.sg) |
 | Mr Vijayakumaran | [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)     |
 | Mrs Neo Lin Li  | [tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg)   |
 | Ms Jeannie Yeo  |  [yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg)  |
-| Ms Luo Cuixin | [luo_cuixin@moe.edu.sg](mailto:luo_cuixin@moe.edu.sg) |
+| Ms Patricia Lim | [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg) |
+| Mrs Guimei	Koay | [he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg) 
 |
 
 ##### **Schedule**
