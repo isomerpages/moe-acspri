@@ -20,8 +20,6 @@ We are eager to carry on the tradition and heritage that in ACS, All-Can-Swim, a
 | Mdm Ida Nonanseh (i/c) | [ida_nonaseh_abdul_rahman@moe.edu.sg](mailto:ida_nonaseh_abdul_rahman@moe.edu.sg) |
 | Mr Richard Goh Teoh Chuan | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg)     |
 | Mr Chhoa Kok Kheng | [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg) |
-|  Mrs Dawn Wee  | wong_seow_seah_dawn@moe.edu.sg |
-|
-
+| Mr Perry Chan Chee Keong| [cperry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg) |
 ##### **Schedule**
 Mondays & Wednesdays, 2.15 p.m. - 4.15 p.m., ACS(P) Shaw Pool
