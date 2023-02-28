@@ -19,7 +19,6 @@ third_nav_title: Chinese
 | <img src="/images/chi7.jpg" style="width:30%"> | Mdm Jeannie Yeo <br> CL Level Representative - P3 <br> [yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg) |
 | <img src="/images/chi8.jpg" style="width:30%"> | Ms Tan Bee Po <br> CL Level Representative - P3 <br> [tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg) |
 | <img src="/images/chi9.jpg" style="width:30%"> | Mr Chua Hoe Leong Daniel <br> CL Level Representative - P4 <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)   |
-| <img src="/images/chi10.jpg" style="width:30%"> |  Ms Fong Wui Yen <br> CL Level Representative - P4 <br> [fong_wui_yen@moe.edu.sg](mailto:fong_wui_yen@moe.edu.sg) |
 | <img src="/images/chi11.jpg" style="width:30%"> | Ms Ho Lim Hwei <br> CL Level Representative - P5  <br>[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg) |
 | <img src="/images/chi12.jpg" style="width:30%"> |    Mr Koh Chung Heng <br> CL Level Representative - P5 <br>  [koh_chung_heng@moe.edu.sg](mailto:koh_chung_heng@moe.edu.sg) |
 | <img src="/images/chi13.jpg" style="width:30%"> |  Ms Chan Wai Kin <br> Level Head/Chinese Language CL Level Representative - P5 HCL <br> [chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg) |
