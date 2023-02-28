@@ -146,7 +146,7 @@ description: ""
 | [Mdm Tan Sin Min](mailto:Tan_sin_min@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Tan Sin Min.jpg" style="width:25%">   |
 | [Mr Chow Kai Loon](mailto:chow_kai_loon@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Chow Kai Loon.jpg" style="width:25%">   |
 | [Mr Aravinthan s/o A Karuppiah](mailto:aravinthan_a_karuppiah@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Aravin PP size photo.jpg" style="width:25%">   |
-| [Miss An Ruiying](mailto:An_ruiying@acsp.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/An Ruiying.png" style="width:25%">   |
+| [Miss An Ruiying](mailto:an_ruiying@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/An Ruiying.png" style="width:25%">   |
 | [Mr Tiong Sze Chiat](mailto:Tiong_sze_chiat@acsp.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Tiong Sze Chiat.jpeg" style="width:25%">   |
 | [Ms Shanice Lim Wei Tong](mailto:lim_wei_tong_shanice@moe.edu.sg)<br>Teacher  |  <img src="/images/2023 New Staffs/Mrs Shanice Toh.jpg" style="width:30%"> |
 | [Mr Chong Kek Shin](mailto:chong.kek.shin@acsp.sg)<br>Editor  | <img src="/images/cher112.jpg" style="width:25%"> |
@@ -161,7 +161,7 @@ description: ""
 | [Ms Jane Chong](mailto:chong_mee_fong_jane@moe.edu.sg)<br>SEN Officer | <img src="/images/cher115.jpg" style="width:25%"> |
 | [Miss Stephanie Hooi](mailto:hooi_li_qiong_stephanie@moe.edu.sg)<br>SEN Officer | <img src="/images/Stephanie%20Hooi%20IC%20photo.jpg" style="width:25%"> |
 | [Mr Richard Goh](mailto:goh_teoh_chuan@moe.edu.sg)<br>Senior AED/T&L | <img src="/images/cher116.jpg" style="width:25%"> |
-| [Miss Rachel Emmanuelyn David](mailto:rachelemmanuelyn@gmail.com)<br>SEN Officer |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:32%">   |
+| [Miss Rachel Emmanuelyn David](mailto:rachel_emmanuelyn_david_a@moe.edu.sg)<br>SEN Officer |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:32%">   |
 |
 
 

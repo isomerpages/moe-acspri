@@ -15,10 +15,10 @@ Last but not least, pupils learn a variety of art-making skills and are encourag
 
 ##### **Teachers-In-Charge**
 
-| Name | Email ID |
+| Name |      Email ID |
 |:---:|:---:|
-| Mrs Sharron Yap (i/c) | [tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg)   |
-| Mdm Jessica Lai | [jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg) |
+| Mdm Jessica Lai(I/C) | [jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg) |
+| Mrs Lee Ting Ting  | [foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg)   |
 |
 
 ##### **Schedule**

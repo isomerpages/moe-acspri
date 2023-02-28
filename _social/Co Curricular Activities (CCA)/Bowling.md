@@ -33,9 +33,9 @@ Only for School Team members. Two-way transport is provided for both Mon and Wed
 | Name | Email ID |
 |:---:|:---:|
 | Mdm Farisa Hussain  (i/c) | [farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg)     |
-| Mdm Foo Ting Ting  |    [foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg) |
+| Ms Ee Li Hua Elizabeth | [ee_li_hua_elizabeth@moe.edu.sg](mailto:ee_li_hua_elizabeth@moe.edu.sg) |
 |  Mdm Norharyati Harun |    [norharyati_harun@moe.edu.sg](mailto:norharyati_harun@moe.edu.sg) |
-| Ms Ivy Lee Ai Ming | [lee_ai_ming_ivy@moe.edu.sg](mailto:lee_ai_ming_ivy@moe.edu.sg) |
+| Mr Chow Kai Loon | [chow_kai_loon@moe.edu.sg](mailto:chow_kai_loon@moe.edu.sg) |
 |
 
 ##### **Schedule**

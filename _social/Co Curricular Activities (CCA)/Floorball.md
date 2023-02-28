@@ -18,9 +18,10 @@ This CCA is only for existing school team members and they are trained by the He
 | Name | Email ID |
 |:---:|:---:|
 |  Mr Charles Zhang (i/c) | [zhang_zong_yang_charles@moe.edu.sg](mailto:zhang_zong_yang_charles@moe.edu.sg) |
-| Mdm Chan Wai Kin | [chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg)  |
 | Mrs Geraldine Ortega |[geraldine_ortega @moe.edu.sg](mailto:geraldine_ortega@moe.edu.sg) |
-|  Mdm Teresa Liew | [liew_sin_tong_teresa@moe.edu.sg](mailto:liew_sin_tong_teresa@moe.edu.sg) |
+| Mdm Chan Wai Kin | [chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg)  |
+| Mrs Goh Siow Hwee Jessica  |[goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg) |
+|  Ms Lim Wei Tong Shanice | [lim_wei_tong_shanice@schools.gov.sg](mailto:lim_wei_tong_shanice@schools.gov.sg) |
 |
 
 ##### **Schedule**

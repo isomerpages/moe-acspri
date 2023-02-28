@@ -18,11 +18,10 @@ During first few CCA sessions, the coaches will assess and place pupils accordin
 | Name | Email ID |
 |:---:|:---:|
 | Mrs Dawn Wong (i/c) | [wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg) |
-| Ms Lum Yick Thim | [lum_yick_thim@moe.edu.sg](mailto:lum_yick_thim@moe.edu.sg)  |
+| Mdm Li Chunju	 | [li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg)  |
 |   Mdm Leong Lilian | [leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg) |
 |
 
 ##### **Schedule**
 Wednesdays, 2.15 p.m. – 4.15 p.m.<br>
 ACS(P) Classrooms: 3A, 3E and 3F
-

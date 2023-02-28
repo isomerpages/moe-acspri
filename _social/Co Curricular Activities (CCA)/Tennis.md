@@ -20,8 +20,7 @@ Playing tennis increases aerobic capacities in lowering body fat and in improvin
 | Mdm Renuka | [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) |
 | Mdm Wong Mei Kuen |  [wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg) |
 | Mrs Zahara Osman |  [zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg) |
-| Ms Tam Xin Yi   | [tam_xin_yi@moe.edu.sg](mailto:tam_xin_yi@moe.edu.sg)  |
-| Ms Sarah Su  | [su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg) |
+| Mr Stanley Yeo Hwee Meng |  [yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg) |
 |
 
 ##### **Schedule**

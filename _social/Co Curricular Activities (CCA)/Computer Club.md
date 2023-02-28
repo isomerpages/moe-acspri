@@ -19,7 +19,7 @@ Pupils will need to pay if they sign up for this CCA.
 
 | Name | Email ID |
 |:---:|:---:|
-| Mdm Najuma (i/c) | [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg) |
+| Mdm Najuma (I/C) | [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg) |
 | Mrs Gladys Lim | [ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg) |
 |
 

@@ -13,10 +13,9 @@ Football is a team sport which builds body and mental strength, agility and coor
 | Name | Email ID |
 |:---:|:---:|
 | Mr Ho Yoong Kian Leon (i/c) | [ho_yoong_kian@moe.edu.sg](mailto:ho_yoong_kian@moe.edu.sg) |
-| Mr Wan Mohamad | [wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)  |
+|Ms Ho Hui Xin  | [ho_hui_xin@schools.gov.sg](mailto:o_hui_xin@schools.gov.sg)  |
 |  Mr Caleb Chua | [caleb_chua@moe.edu.sg](mailto:caleb_chua@moe.edu.sg)  |
-|  Mr Stanley Yeo   | [yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg)  |
-| Ms Luo Cuixin | [luo_cuixin@moe.edu.sg](mailto:luo_cuixin@moe.edu.sg) |
+|  Mr Low Chong Jian Edwin | [low_chong_jian_edwin@moe.edu.sg](mailto:low_chong_jian_edwin@moe.edu.sg)  |
 |  Mr Koh Chaik Khoon |  [koh_chaik_khoon@moe.edu.sg](mailto:koh_chaik_khoon@moe.edu.sg) |
 |  Mrs Suja | [anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg)  |
 |

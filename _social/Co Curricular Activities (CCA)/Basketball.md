@@ -22,9 +22,10 @@ Pupils will be invited to join the school team through coaches’ recommendation
 | Name | Email ID |
 |:---:|:---:|
 |     Mdm Chan Soo Ping (i/c) | [chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg)|
-| Mdm Tay Yu Juan | [tay_yu_juan@moe.edu.sg](mailto:tay_yu_juan@moe.edu.sg) |
-|   Mdm Su Xinhui Sarah |  [su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg) |
-| Mdm Heng Siok Pheng  | [heng_siok_pheng@moe.edu.sg](mailto:heng_siok_pheng@moe.edu.sg)  |
+|   Ms Su Xinhui Sarah |  [su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg) |
+| Ms Tan Siow Hwee  | [tan_siow_hwee@moe.edu.sg](mailto:tan_siow_hwee@moe.edu.sg)  |
+| Ms Jenn Ang |[jenn_ang@moe.edu.sg](mailto:jenn_ang@moe.edu.sg)  |
+| Ms Lu Youge	 |[lu_youge@moe.edu.sg](mailto:lu_youge@moe.edu.sg)  |
 |
 
 ##### **Schedule**
