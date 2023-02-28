@@ -12,7 +12,7 @@ As pupils gather to sing the National Anthem every morning, there is a group of 
 
 | Name | Email ID |
 |:---:|:---:|
-| Mr Daniel Chua (i/c) | [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg) |
+| Mr Daniel Chua (I/C) | [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg) |
 | Mr Tan Poo Loy | [tan_poo_loy@moe.edu.sg](mailto:tan_poo_loy@moe.edu.sg)  |
 | Mr  Vijaykumaran | [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  |
 | Mr Richard Goh | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg) |
