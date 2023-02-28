@@ -20,8 +20,8 @@ This CCA is for existing school team and training squad members only.
 | Ms Aubrey Ong | [ong_pei_khim_aubrey@moe.edu.sg](mailto:ong_pei_khim_aubrey@moe.edu.sg)  |
 |  Mdm Siti Karmila | [siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg) |
 | Ms Jessica Lai | [jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg) |
-|  Mr Mark Leong | [leong_bao_wen_mark@moe.edu.sg](mailto:leong_bao_wen_mark@moe.edu.sg)  |
-|   Mdm Lim Min Hui |  [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  |
+|  Mr Tiong Sze Chiat | [tiong_sze_chiat@moe.edu.sg](mailto:tiong_sze_chiat@moe.edu.sg)  |
+|   Miss An Ruiying |  [an_ruiying@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  |
 |
 
 ##### **Schedule**
