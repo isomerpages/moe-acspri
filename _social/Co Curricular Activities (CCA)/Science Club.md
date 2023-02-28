@@ -15,7 +15,7 @@ The pupils learn independently and in teams. Club members gain experience from e
 | Name | Email ID |
 |:---:|:---:|
 | Mr Wan Mohamed Nazrith (I/C) | wan_mohamed@moe.edu.sg |
-| Ms Siti Nurjannah | siti_nurjannah_saaet@moe.edu.sg |
+| Madm Divya Dharshini | divya_dharshini_harikrishan@moe.edu.sg |
 |
 
 ##### **Schedule**
