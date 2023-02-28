@@ -17,7 +17,7 @@ Pupils interested in joining Choir CCA will need to go through an audition. Plea
 |:---:|:---:|
 | Mrs Gomathi Ravindra (i/c) | [gomathi_ravindra@moe.edu.sg](mailto:gomathi_ravindra@moe.edu.sg) |
 | Mdm Jasmine Kaur | [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg) |
-|  Ms Siti Masyita | [siti_masyita_mohammad_ali@moe.edu.sg](mailto:siti_masyita_mohammad_ali@moe.edu.sg) |
+| Mdm Sherene Tan | [tan_sin_min@moe.edu.sg](mailto:tan_sin_min@moe.edu.sg)|
 |
 
 ##### **Schedule**
