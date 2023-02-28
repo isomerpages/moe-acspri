@@ -13,9 +13,8 @@ With its fun-filled, exciting activities and camps, Cub Scouts can discover, lea
 
 | Name | Email ID |
 |:---:|:---:|
-| Mr Lau Mun Yip Benny  (i/c) | [lau_mun_yip_benny@moe.edu.sg](mailto:lau_mun_yip_benny@moe.edu.sg)   |
+|   Mdm Loh Su Hian (I/C)  | [loh_su_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg)  |
 |  Mr Benedict Yap |  [benedict_yap_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg)  |
-|   Mdm Loh Su Hian  | [loh_su_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg)  |
 |    Mdm Chiew Hwee Ling |     [chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) |
 |
 
