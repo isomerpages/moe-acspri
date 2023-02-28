@@ -17,10 +17,10 @@ The Track and Field team is committed to:
 
 | Name | Email ID |
 |:---:|:---:|
-| Mr Tan Poo Loy | [tan_poo_loy@moe.edu.sg](mailto:tan_poo_loy@moe.edu.sg)  |
-|  Ms Tay Ying Ying | [tay_ying_ying@moe.edu.sg](mailto:tay_ying_ying@moe.edu.sg)  |
-| Mr Tan Yew Chai | [tan_yew_chai@moe.edu.sg](mailto:tan_yew_chai@moe.edu.sg) |
-|  Ms Thenappan Barathi | [thenappan_barathi@moe.edu.sg](mailto:thenappan_barathi@moe.edu.sg)  |
+|  Miss Ho Yong Ying(I/C) | [ho_yong_ying@moe.edu.sg](mailto:ho_yong_ying@moe.edu.sg)  |
+| Ms Chan Wai Ying, Elyse  | [chan_wai_ying@moe.edu.sg](mailto:chan_wai_ying@moe.edu.sg) |
+| Mdm Siti Masyita  | [siti_masyita_mohammad_ali@moe.edu.sg	](mailto:siti_masyita_mohammad_ali@moe.edu.sg	)  |
+|  Mr Tan Yew Chai | [thenappan_barathi@moe.edu.sg](mailto:tan_yew_chai@moe.edu.sg)  |
 |
 
 ##### **Schedule**
