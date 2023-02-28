@@ -16,11 +16,13 @@ Rugby also inculcates important values such as perseverance, unity and sportsman
 | Name | Email ID |
 |:---:|:---:|
 | Mr Ho Shin Hoo (i/c) | [ho_shin_hoo@moe.edu.sg](mailto:ho_shin_hoo@moe.edu.sg) |
-| Mr Daniel Chua | [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg) |
 | Mr George Mui | [george_mui_seng_chiu@moe.edu.sg](mailto:george_mui_seng_chiu@moe.edu.sg)  |
 | Mr Kelvin Chan | [kelvin_chan_yong_meng@moe.edu.sg](mailto:kelvin_chan_yong_meng@moe.edu.sg) |
 | Ms Zubaidah | [zubaidah_sheik_mohamed_ishak@moe.edu.sg](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg) |
-|
+| Mr Aravinthan s/o A Karuppiah | [aravinthan_a_karuppiah@moe.edu.sg](mailto:aravinthan_a_karuppiah@moe.edu.sg) |
+| Mr Daniel Chua | [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg) |
+
+
 
 ##### **Schedule**
 **School Team**<br>
