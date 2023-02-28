@@ -161,7 +161,7 @@ description: ""
 | [Ms Jane Chong](mailto:chong_mee_fong_jane@moe.edu.sg)<br>SEN Officer | <img src="/images/cher115.jpg" style="width:25%"> |
 | [Miss Stephanie Hooi](mailto:hooi_li_qiong_stephanie@moe.edu.sg)<br>SEN Officer | <img src="/images/Stephanie%20Hooi%20IC%20photo.jpg" style="width:25%"> |
 | [Mr Richard Goh](mailto:goh_teoh_chuan@moe.edu.sg)<br>Senior AED/T&L | <img src="/images/cher116.jpg" style="width:25%"> |
-| [Miss Rachel Emmanuelyn David](mailto:rachel _emmanuelyn_david_a@moe.edu.sg)<br>SEN Officer |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:32%">   |
+| [Miss Rachel Emmanuelyn David](mailto:rachel_emmanuelyn_david_a@moe.edu.sg)<br>SEN Officer |  <img src="/images/2023 New Staffs/Rachel Emmanuelyn David.jpg" style="width:32%">   |
 |
 
 
