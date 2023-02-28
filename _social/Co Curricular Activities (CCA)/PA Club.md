@@ -13,10 +13,10 @@ As pupils gather to sing the National Anthem every morning, there is a group of 
 | Name | Email ID |
 |:---:|:---:|
 | Mr Daniel Chua (I/C) | [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg) |
-| Mr Tan Poo Loy | [tan_poo_loy@moe.edu.sg](mailto:tan_poo_loy@moe.edu.sg)  |
 | Mr  Vijaykumaran | [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)  |
-| Mr Richard Goh | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg) |
-| Mr Stanley Yeo | [yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg) |
+| Mr Koh Chaik Khoon| [koh_chaik_khoon@moe.edu.sg](mailto:koh_chaik_khoon@moe.edu.sg)  |
+|  Mdm Sarah Su | [su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)  |
+
 |
 
 ##### **Schedule:**
