@@ -55,7 +55,7 @@ description: ""
 
 |  |  |
 |---|---|
-| [Mdm Chui Yuen Phun](chui_yuen_phun@moe.edu.sg)<br>Lead Teacher/English | <img src="/images/cher27.jpg" style="width:25%"> |
+| [Mdm Chui Yuen Phun](mailto:chui_yuen_phun@moe.edu.sg)<br>Lead Teacher/English | <img src="/images/cher27.jpg" style="width:25%"> |
 | [Mr Terry Tan](mailto:tan_chee_liang_terry@moe.edu.sg)<br>Lead Teacher/Mathematics | <img src="/images/cher28.jpg" style="width:25%"> |
 | [Miss Kogilavani Vathumalai](mailto:kogilavani_vathumalai@moe.edu.sg)<br>Lead Teacher/Tamil Language | <img src="/images/cher29.jpg" style="width:25%"> |
 | [Mrs Sharron Yap](mailto:tan_jian_horng@moe.edu.sg)<br>Senior Teacher/Art | <img src="/images/cher30.jpg" style="width:25%"> |
