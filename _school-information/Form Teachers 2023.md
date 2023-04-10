@@ -7,7 +7,7 @@ description: ""
 
 ##### **Primary 1**
 
-| Class |        Name & Email |     Photo |
+| Class |        Name &amp; Email |     Photo |
 |:---:|:---:|:---:|
 | 1A | Ms Chan Wai Ying<br>[Chan_wai_ying@moe.edu.sg](mailto:Chan_wai_ying@moe.edu.sg)  | <img src="/images/2023 New Staffs/Elyse Chan Photo.jpg" style="width:30%">|
 | 1A | Mrs Koay Gui Mei <br> [he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg) | <img src="/images/p5cher4.jpg" style="width:30%"> |
@@ -30,7 +30,7 @@ description: ""
 
 ##### **Primary 2**
 
-| Class | Name & Email | Photo |
+| Class | Name &amp; Email | Photo |
 |:---:|:---:|:---:|
 | 2A | Mrs Christine Ho<br>[tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  | <img src="/images/p1cher1.jpg" style="width:30%">|
 | 2A | Mr Chhoa Kok Kheng <br>[chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  | <img src="/images/p1cher2.jpg" style="width:30%"> |
@@ -53,7 +53,7 @@ description: ""
 
 ##### **Primary 3**
 
-| Class | Name & Email | Photo |
+| Class | Name &amp; Email | Photo |
 |:---:|:---:|:---:|
 | 3A | Mdm Suzanna Hashim <br> [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) | <img src="/images/p6cher6.jpg" style="width:30%"> |
 | 3A | Mdm Tan Lin Li <br> [tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg) | <img src="/images/cher66.jpg" style="width:30%"> |
@@ -72,7 +72,7 @@ description: ""
 
 ##### **Primary 4**
 
-| Class | Name & Email | Photo |
+| Class | Name &amp; Email | Photo |
 |:---:|:---:|:---:|
 | 4A | Mdm Renuka Devi Windersalam<br>  [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | <img src="/images/p4cher14.jpg" style="width:30%"> |
 | 4A | Mr Low Chong Jian Edwin<br>  [low_chong_jian_edwin@moe.edu.sg](mailto:low_chong_jian_edwin@moe.edu.sg) | <img src="/images/2023 New Staffs/Low Chong Jian Edwin.jpg" style="width:30%"> |
@@ -96,7 +96,7 @@ description: ""
 
 ##### **Primary 5**
 
-| Class | Name & Email | Photo |
+| Class | Name &amp; Email | Photo |
 |:---:|:---:|:---:|
 | 5A | Mdm Chiew Hwee Ling <br> [chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) | <img src="/images/p5cher14.jpg" style="width:30%"> |
 | 5A | Mdm Divya Dharshini <br> [divya_dharshini_harikrishan@moe.edu.sg](mailto:divya_dharshini_harikrishan@moe.edu.sg) | <img src="/images/cher50.jpg" style="width:30%"> |
@@ -110,6 +110,7 @@ description: ""
 | 5D |Mr Tiong Sze Chiat <br>[tiong_sze_chiat@moe.edu.sg](mailto:tiong_sze_chiat@moe.edu.sg) | <img src="/images/2023 New Staffs/Tiong Sze Chiat.jpeg" style="width:30%"> |
 | 5E | Ms Siti Masyita<br> [siti_masyita_mohammad_ali@moe.edu.sg](mailto:siti_masyita_mohammad_ali@moe.edu.sg) | <img src="/images/cher82.jpg" style="width:30%"> |
 | 5E | Mr Benedict Yap <br> [benedict_yap_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg) | <img src="/images/p4cher11.jpg" style="width:30%"> |
+| 5E | Mrs Angeline Yung <br> [chan_xiuwen@moe.edu.sg](mailto:chan_xiuwen@moe.edu.sg) | <img src="/images/cher14.jpg" style="width:30%"> |
 | 5F | Ms Tan Bee Choo Vanessa <br> [tan_bee_choo_b@moe.edu.sg](mailto:tan_bee_choo_b@moe.edu.sg)  | <img src="/images/p6cher14.jpg" style="width:30%"> |
 | 5F | Mr Leon Ho Yoong Kian <br> [ho_yoong_kian@moe.edu.sg](mailto:ho_yoong_kian@moe.edu.sg) | <img src="/images/p6cher8.jpg" style="width:30%"> |
 | 5F | Mr Kelvin Chan Yong Meng <br> [kelvin_chan_yong_meng@moe.edu.sg](mailto:kelvin_chan_yong_meng@moe.edu.sg) | <img src="/images/p5cher13.jpg" style="width:30%"> |
@@ -121,7 +122,7 @@ description: ""
 
 ##### **Primary 6**
 
-| Class | Name & Email | Photo |
+| Class | Name &amp; Email | Photo |
 |:---:|:---:|:---:|
 | 6A | Mrs Jess Teng <br> [jess_teng-chong_su_hwa@moe.edu.sg](mailto:jess_teng-chong_su_hwa@moe.edu.sg) | <img src="/images/p5cher2.jpg" style="width:30%"> |
 | 6A | Miss Kogilavani Vathumalai <br> [kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)  | <img src="/images/p6cher3.jpg" style="width:30%"> |
