@@ -2,5 +2,6 @@ collections:
   publications:
     output: true
     order:
+      - Example Title.md
       - ECHO.md
       - School Magazine.md
