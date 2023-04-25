@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Test/.keep
-      - ECHO.md
       - School Magazine.md
