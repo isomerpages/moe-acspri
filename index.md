@@ -25,6 +25,6 @@ sections:
       title: The ACS(P) Brand of Education
       description: "The ACS(P) brand of education is anchored on our Founder, Bishop
         Oldham’s vision of the ACS philosophy of education. "
-      button: click here to read more
+      button: click here to read more -
       url: /acs-brand-of-education/
 ---
