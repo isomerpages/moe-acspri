@@ -15,3 +15,5 @@ third_nav_title: Clubs
 |:---:|:---:|:---:|
 | Principle | Mr Loo Ming Yaw
 | Vice-Principle | Mrs Ang Meng Yin (Mdm Poon Meng Yin)
+
+**tan\_sin\_min**
