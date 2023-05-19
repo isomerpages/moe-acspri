@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Mother Tongue Languages/Chinese Language.md
       - Mother Tongue Languages/.keep
       - Mathematics/.keep
       - Mathematics/Programmes.md
