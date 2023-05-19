@@ -6,25 +6,32 @@ description: ""
 # **Vision, Mission and Values**
 ### **Vision, Mission and Values**
 
-<h4 style="color:#00250CE;">Our Vision</h4>
+##### **Our Vision**
 
 Every ACSian a young man of character, capability and creativity
 
-<h4 style="color:#00250CE;">Our Mission</h4>
+##### **Our Mission**
 
 Anglo-Chinese School (Primary) believes in providing an all-round education in an environment which
 seeks to bring out the potential in every pupil to the fullest, and to develop in him a strong moral
 character, imbued with Christian values and principles to guide and prepare him for life ahead.
 
-<h4 style="color:#00250CE;">Our Shared Values</h4>
+##### **Our Shared Values**
 
-***i***ntegrity, **H**umility, **O**bedience, **P**erseverance, **E**mpathy, **F**aithfulness, **U**nity and **L**oyalty (***i*** HOPEFUL)
+<style>
+    .highlight {
+      color: #CE0E2D;
+      font-size:25px
+    }
+  </style>
+<span class="highlight">i</span>ntegrity, <span class="highlight">H</span>umility, <span class="highlight">O</span>bedience, <span class="highlight">P</span>erseverance, <span class="highlight">E</span>mpathy, <span class="highlight">F</span>aithfulness, <span class="highlight">U</span>nity and <span class="highlight">L</span>oyalty (<span class="highlight">i</span>HOPEFUL)
+
  
-<h4 style="color:#00250CE;">Our Motto</h4>
+##### **Our Motto**
 
 The Best Is Yet To Be
 
-<h4 style="color:#00250CE;">Our Guiding Principle</h4>
+##### **Our Guiding Principle**
 
 **C**OACH
 
@@ -48,7 +55,7 @@ Engaging one another so as to motivate each other to be innovative and to excel 
 whether academically or in our chosen sports or areas of interest
 (Affective, Cognitive, Social, Physical domains)
 
-<h3 style="color:#00250CE;">Our Strategic Thrusts</h3>
+#### **Our Strategic Thrusts**
 
 ST1: Developing Character and Emotional and Psychological Well-Being
 
@@ -62,7 +69,7 @@ ST5: Building Quality Staff
 
 ST6: Striving for Administrative and Operations Effectiveness and Efficiency
 
-<h3 style="color:#00250CE;">Our Goals</h3>
+#### **Our Goals**
 
 To develop and strengthen the pupils’ character by imparting Christian values and principles and by role-
 modeling.
@@ -73,7 +80,7 @@ To provide our pupils with an all-round education in a conducive learning enviro
 
 To inculcate loyalty and commitment for the school through a sense of identity, love and the ACS spirit.
 
-<h3 style="color:#00250CE;">Our Desired Outcome</h3>
+### **Our Desired Outcome**
 
 Traits of an ACSian (TACS):
 
