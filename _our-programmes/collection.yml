@@ -2,10 +2,10 @@ collections:
   our-programmes:
     output: true
     order:
-      - Science/Useful Links.md
-      - Science/Assessment Matters.md
-      - Science/Programmes.md
       - Science/.keep
+      - Science/Programmes.md
+      - Science/Assessment Matters.md
+      - Science/Useful Links.md
       - Physical Education/.keep
       - Physical Education/Programmes.md
       - Physical Education/Programme for Active Learning (PAL).md
