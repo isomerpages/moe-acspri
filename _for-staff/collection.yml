@@ -1,0 +1,4 @@
+collections:
+  for-staff:
+    output: true
+    order: []
