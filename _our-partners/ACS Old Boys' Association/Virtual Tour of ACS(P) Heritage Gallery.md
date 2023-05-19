@@ -6,4 +6,5 @@ third_nav_title: ACS Old Boys' Association
 ---
 # **Virtual Tour of ACS(P) Heritage Gallery**
 
-http://oneacsheritagegallery.com/welcome-tour
+
+[ACS(P) Heritage Gallery Virtual Tour](http://oneacsheritagegallery.com/welcome-tour)
