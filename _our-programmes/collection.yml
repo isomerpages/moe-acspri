@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - SEN/Useful Links.md
       - SEN/Counselling.md
       - SEN/.keep
       - Science/.keep
