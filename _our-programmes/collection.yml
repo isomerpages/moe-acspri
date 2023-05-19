@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Mathematics/.keep
       - Information & Communications/.keep
       - Information & Communications/Programmes.md
       - Information & Communications/Cyber Wellness.md
