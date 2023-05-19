@@ -37,3 +37,7 @@ The Choir members have also been involved in projects such as the collaboration 
 
 #### **Past Accolades**
 
+* ACS Golf Challenge (2014)
+* Combined Choir Concert (ACS Independent and ACS (BR) (2014)
+* National Day Performance (SG50) - Moulmein-Kallang GRC (2015)
+* Methodist Get-together (2015)
