@@ -14,4 +14,5 @@ third_nav_title: Clubs
 | Name&nbsp;&nbsp;&nbsp;  |     Email ID |      |
 |:---:|:---:|:---:|
 
-Mrs Gomathi Ravindra (I/C) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [gomathi_ravindra@moe.edu.sg](mailto:gomathi\_ravindra@moe.edu.sg) <br> Mdm Jasmine Kaur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)](mailto:jasmine_kaur@moe.edu.sg)
+Mrs Gomathi Ravindra (I/C) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [gomathi_ravindra@moe.edu.sg](mailto:gomathi\_ravindra@moe.edu.sg) <br> Mdm Jasmine Kaur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)](mailto:jasmine_kaur@moe.edu.sg) <br>
+Ms Tan Sin Min &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [tan_sin_min@moe.edu.sg](mailto:tan_sin_min@moe.edu.sg)
