@@ -15,11 +15,17 @@ Digital Media &amp; Design Club
 
 #### **Teachers in Charge**
 
-Mrs Dawn Wee  Mdm Li Chunju  Mdm Leong Lilian
+Mdm Najuma Banu <br> Mrs Gladys Lim
 
 #### **Schedule**
 
-Wednesdays - 02:15pm to 04:15pm
+
+
+| Semester 1 |  | 
+| ---- | --
+| Text     | Text     | 
+
+
 
 #### **Programme/ Development**
 
