@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Mother Tongue Languages/Tamil Language.md
       - Mother Tongue Languages/Malay Language.md
       - Mother Tongue Languages/eComposition.md
       - Mother Tongue Languages/Chinese Language.md
