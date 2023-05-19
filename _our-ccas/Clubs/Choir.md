@@ -41,3 +41,5 @@ The Choir members have also been involved in projects such as the collaboration 
 * Combined Choir Concert (ACS Independent and ACS (BR) (2014)
 * National Day Performance (SG50) - Moulmein-Kallang GRC (2015)
 * Methodist Get-together (2015)
+
+![](/images/acs%20choir.jpg)
