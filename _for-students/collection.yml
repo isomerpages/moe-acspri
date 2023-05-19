@@ -2,13 +2,13 @@ collections:
   for-students:
     output: true
     order:
-      - Tinker Friends.md
-      - School Library/Events & Highlights.md
-      - School Library/.keep
-      - Student iCON/FAQQ.md
-      - Student iCON/Student iCON.md
-      - Student iCON/.keep
+      - School Rules.md
+      - Student Learning Space/.keep
       - Student Learning Space/FAQQ.md
       - Student Learning Space/Student Learning Space.md
-      - Student Learning Space/.keep
-      - School Rules.md
+      - Student iCON/.keep
+      - Student iCON/FAQQ.md
+      - Student iCON/Student iCON.md
+      - School Library/.keep
+      - School Library/Events & Highlights.md
+      - Tinker Friends.md
