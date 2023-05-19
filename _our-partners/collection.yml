@@ -1,4 +1,5 @@
 collections:
   our-partners:
     output: true
-    order: []
+    order:
+      - ACS Family of Schools.md
