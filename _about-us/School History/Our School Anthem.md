@@ -4,15 +4,32 @@ permalink: /about-us/school-history/our-school-anthem/
 description: ""
 third_nav_title: School History
 ---
+# School Anthem
 
+<h4 style="color:#00250CE;">School Anthem</h4>
 
-The upper part of the crest shows a creature with a lion head, eagle wings and a dragon body with claws,
-symbolizing the fact that the school was founded when Singapore was a British Colony, by the American
-Methodist Mission, and during the Manchu Dynasty in China.
+In days of yore from Western shores
+Oldham Dauntless hero came
+and planted a beacon of Truth and Light
+in this island of the Main.
+Here may it stand from year to year
+Emblem of grand endeavour,
+The regions round echo the sound Of ACS forever.
 
-The lower part comprises a panel of blue and another of gold, representing the heavens and the earth.
+Chorus:
+Sing ACS forever more our ACS forever.
+God save our land and Heaven bless our ACS forever.
 
-Superimposed on them are the letters ACS in red, signifying life bridging earth and heaven.
+Our students hail From China’s plains
+And the land of Rising sun
+We have many sons from India’s strand
+And the islands of the Main.
+Our Hearts, our Hopes, our Aims are one
+No discord e’er will sever,
+We’ll stand together for the cause Of ACS forever
 
-It is shaped like a shield to uphold knightly virtues such as chivalry,
-honour, loyalty, valour and manliness.
+Chorus:
+Sing ACS forever more our ACS forever
+God save our land and Heaven bless our ACS forever.
+
+-Words by H.M. Hoisington
