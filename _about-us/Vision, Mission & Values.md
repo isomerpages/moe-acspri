@@ -21,7 +21,7 @@ character, imbued with Christian values and principles to guide and prepare him 
 <style>
     .highlight {
       color: #CE0E2D;
-      font-size:25px
+      font-size:24px
     }
   </style>
 <span class="highlight">i</span>ntegrity, <span class="highlight">H</span>umility, <span class="highlight">O</span>bedience, <span class="highlight">P</span>erseverance, <span class="highlight">E</span>mpathy, <span class="highlight">F</span>aithfulness, <span class="highlight">U</span>nity and <span class="highlight">L</span>oyalty (<span class="highlight">i</span>HOPEFUL)
@@ -33,23 +33,24 @@ The Best Is Yet To Be
 
 ##### **Our Guiding Principle**
 
-**C**OACH
+<span class="highlight">C</span>OACH
 
 Coaching involves guiding each other in the expected behaviours; where we educate one another in
 knowledge, skills and values in a nurturing manner
 (Affective, Cognitive, Social, Physical domains)
 
-**A**FFIRM
+<span class="highlight">A</span>FFIRM
 
 Affirming each other by encouraging and providing emotional support
 (Affective domain)
 
-**R**ELATE
+<span class="highlight">R</span>ELATE
+
 Establishing meaningful and effective rapport with one another and building a congenial and collaborative
 school/working environment
 (Social domain)
 
-**E**NTHUSE
+<span class="highlight">E</span>NTHUSE
 
 Engaging one another so as to motivate each other to be innovative and to excel in whatever we do,
 whether academically or in our chosen sports or areas of interest
@@ -57,17 +58,17 @@ whether academically or in our chosen sports or areas of interest
 
 #### **Our Strategic Thrusts**
 
-ST1: Developing Character and Emotional and Psychological Well-Being
+<span class="highlight">ST1</span>: Developing Character and Emotional and Psychological Well-Being
 
-ST2: Creating a Learner-Centered Environment
+<span class="highlight">ST2</span>: Creating a Learner-Centered Environment
 
-ST3: Developing Social Responsibility and Student Leadership
+<span class="highlight">ST3</span>: Developing Social Responsibility and Student Leadership
 
-ST4: Nurturing Passion for Sports and Developing Healthy and Active Lifestyle Habits
+<span class="highlight">ST4</span>: Nurturing Passion for Sports and Developing Healthy and Active Lifestyle Habits
 
-ST5: Building Quality Staff
+<span class="highlight">ST5</span>: Building Quality Staff
 
-ST6: Striving for Administrative and Operations Effectiveness and Efficiency
+<span class="highlight">ST6</span>: Striving for Administrative and Operations Effectiveness and Efficiency
 
 #### **Our Goals**
 
