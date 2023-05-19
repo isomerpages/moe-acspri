@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Tinker Friends.md
       - School Library/Events & Highlights.md
       - School Library/.keep
       - Student iCON/FAQQ.md
