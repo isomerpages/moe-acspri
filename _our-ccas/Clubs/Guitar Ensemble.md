@@ -43,3 +43,7 @@ SYF AP 2016 (Distinction Award)&nbsp;
 • SYF AP 2020 (Cancelled due to Covid)
 
 • SYF AP 2022 (Certificate of Participation as SYF AP for Primary level was not benchmarked)
+
+![](/images/guitar%20ensemble%204.JPG)
+
+![](/images/guitar%20ensemble%203.jpeg)
