@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Experiential Learning/IPWW.md
       - Experiential Learning/.keep
       - Student Management/.keep
       - Student Management/Leadership Development Programme.md
