@@ -2,7 +2,6 @@ collections:
   our-ccas:
     output: true
     order:
-      - Sports/Rugby.md
       - Sports/.keep
       - Sports/Badminton.md
       - Sports/Basketball.md
@@ -12,6 +11,7 @@ collections:
       - Sports/Swimming.md
       - Sports/Tennis.md
       - Sports/Track and Field.md
+      - Sports/Rugby.md
       - Uniform Groups/Boys Brigade.md
       - Uniform Groups/Club Scouts.md
       - Uniform Groups/.keep
