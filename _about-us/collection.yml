@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - School History/ACS History.md
+      - School History/History of ACS.md
       - School History/.keep
       - Principle's Foreword.md
       - Vision, Mission & Values.md
