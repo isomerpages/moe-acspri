@@ -2,12 +2,12 @@ collections:
   our-programmes:
     output: true
     order:
-      - Mother Tongue Languages/Useful Links.md
-      - Mother Tongue Languages/Tamil Language.md
-      - Mother Tongue Languages/Malay Language.md
-      - Mother Tongue Languages/eComposition.md
-      - Mother Tongue Languages/Chinese Language.md
       - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/eComposition.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/Tamil Language.md
+      - Mother Tongue Languages/Useful Links.md
       - Mathematics/.keep
       - Mathematics/Programmes.md
       - Mathematics/Assessment Matters.md
