@@ -16,4 +16,7 @@ third_nav_title: Clubs
 | Principle | Mr Loo Ming Yaw
 | Vice-Principle | Mrs Ang Meng Yin (Mdm Poon Meng Yin)
 
-**tan\_sin\_min**
+|  	|  	|
+|---|---|
+| [Mrs Leong- Ho Hil May](mailto:ho_hil_may@schools.gov.sg)<br>Principal	|   <img src="/images/cher1.jpg" style="width:25%">	|
+| [Mrs Celia Lau](mailto:celia_choh@schools.gov.sg)<br>Vice-Principal 	| <img src="/images/cher2.jpg" style="width:25%"> 	|
