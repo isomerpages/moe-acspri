@@ -48,13 +48,28 @@ Mdm Najuma Banu <br> Mrs Gladys Lim
 | T4W1     | 13 Sep
 | T4W8     | 1 Nov
 
-
-
-
 #### **Programme/ Development**
 
-CCA members meet on Wednesdays to learn the rules of the game and different strategies from Chess coaches. They also get to put these strategies to play when they spar with their friends during the CCA sessions.
+* Creating a Virtual Reality spaces using Cospaces
+
+* Photography and Photo-Editing Skills using Adobe Lightroom Classic
+
+* Videography and Video-Editing Skills using Capcut/Kinemaster
+
 
 #### **Competition**
 
+* National Primary School Games Creation Competition
+
+* National Primary School Photography Competition
+
+
 #### **Past Accolades**
+
+* National Primary School Games Creation Competition – Minecraft Category (Champions)
+
+* National Photography Festival – Special Mention Award
+
+* 7th National Primary School Photography Competition – Merit Award
+
+* 8th&nbsp; National Primary School Photography Competition – Merit Award
