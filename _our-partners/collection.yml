@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - ACS Old Boys' Association/Virtual Tour of ACS(P) Heritage Gallery.md
       - ACS Old Boys' Association/.keep
       - ACS Family of Schools.md
