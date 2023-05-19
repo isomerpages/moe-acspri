@@ -2,4 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
+      - Aesthetics (Art & Music)/Programmes.md
       - Aesthetics (Art & Music)/.keep
