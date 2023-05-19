@@ -2,11 +2,11 @@ collections:
   our-programmes:
     output: true
     order:
-      - Student Management/Useful Links.md
-      - Student Management/Discipline.md
-      - Student Management/Peer Support.md
-      - Student Management/Leadership Development Programme.md
       - Student Management/.keep
+      - Student Management/Leadership Development Programme.md
+      - Student Management/Peer Support.md
+      - Student Management/Discipline.md
+      - Student Management/Useful Links.md
       - SEN/.keep
       - SEN/Counselling.md
       - SEN/Useful Links.md
