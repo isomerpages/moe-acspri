@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Student Learning Space/.keep
-      - Student Learning Space.md
       - School Rules.md
