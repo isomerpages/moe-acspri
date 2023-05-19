@@ -2,6 +2,7 @@ collections:
   our-ccas:
     output: true
     order:
+      - Clubs/Synergy.md
       - Clubs/String Ensemble.md
       - Clubs/Science Club.md
       - Clubs/Guitar Ensemble.md
