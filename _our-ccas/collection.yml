@@ -2,6 +2,7 @@ collections:
   our-ccas:
     output: true
     order:
+      - Clubs/Digital Design & Media.md
       - Clubs/Choir.md
       - Clubs/Chess Club.md
       - Clubs/Art Club.md
