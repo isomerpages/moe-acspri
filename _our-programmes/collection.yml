@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Aesthetics (Art & Music)/Useful Links.md
       - Aesthetics (Art & Music)/Programmes.md
       - Aesthetics (Art & Music)/.keep
