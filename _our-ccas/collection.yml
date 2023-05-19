@@ -2,5 +2,6 @@ collections:
   our-ccas:
     output: true
     order:
+      - Clubs/Chess Club.md
       - Clubs/Art Club.md
       - Clubs/.keep
