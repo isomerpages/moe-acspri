@@ -1,4 +1,5 @@
 collections:
   for-students:
     output: true
-    order: []
+    order:
+      - School Rules.md
