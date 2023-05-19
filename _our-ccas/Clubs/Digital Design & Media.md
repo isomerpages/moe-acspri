@@ -19,12 +19,35 @@ Mdm Najuma Banu <br> Mrs Gladys Lim
 
 #### **Schedule**
 
-###### Semester 1
+##### Semester 1 (Wed)
 
 | T/W | Date | 
 | -------- | -------- | 
 | T1W6     | 8 Feb  
-| T1W6     | Text     
+| T1W8     | 22 Feb
+| T2W1     | 22 Mar
+| T2W2     | 29 Mar
+| T2W3     | 5 Apr
+| T2W4     | 12 Apr
+| T2W5     | 19 Apr
+| T2W6     | 26 Apr
+| T2W7     | 3 May
+| T2W8     | 10 May
+| T2W10     | 24 May
+
+##### Semester 2 (Wed)
+
+| T/W | Date | 
+| -------- | -------- | 
+| T3W1     | 28 Jun 
+| T3W2     | 5 Jul
+| T3W3     | 12 Jul
+| T3W4     | 19 Jul
+| T3W6     | 26 Jul
+| T3W10    | 30 Aug
+| T4W1     | 13 Sep
+| T4W8     | 1 Nov
+
 
 
 
