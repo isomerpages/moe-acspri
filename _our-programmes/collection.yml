@@ -2,10 +2,10 @@ collections:
   our-programmes:
     output: true
     order:
-      - Mathematics/Useful Links.md
-      - Mathematics/Assessment Matters.md
-      - Mathematics/Programmes.md
       - Mathematics/.keep
+      - Mathematics/Programmes.md
+      - Mathematics/Assessment Matters.md
+      - Mathematics/Useful Links.md
       - Information & Communications/.keep
       - Information & Communications/Programmes.md
       - Information & Communications/Cyber Wellness.md
