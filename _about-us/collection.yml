@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School History.md
-      - Vision, Mission & Values.md
       - Principle's Foreword.md
+      - Vision, Mission & Values.md
+      - School History.md
