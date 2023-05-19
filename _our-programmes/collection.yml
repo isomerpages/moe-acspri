@@ -2,17 +2,17 @@ collections:
   our-programmes:
     output: true
     order:
-      - Useful Links.md
-      - Social Studies/Programmes.md
-      - Social Studies/.keep
+      - Aesthetics (Art & Music)/.keep
+      - Aesthetics (Art & Music)/Useful Links.md
+      - Aesthetics (Art & Music)/Programmes.md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Form Teachers Guidance Period.md
       - Citizenship Programme.md
+      - Useful Links.md
+      - Social Studies/.keep
+      - Social Studies/Programmes.md
       - Value in Action Programme.md
       - Education and Career Guidance.md
       - Knowing Myself Programme.md
       - Sexuality Education.md
       - Pastoral Care Programme.md
-      - Character & Citizenship/Form Teachers Guidance Period.md
-      - Character & Citizenship/.keep
-      - Aesthetics (Art & Music)/Useful Links.md
-      - Aesthetics (Art & Music)/Programmes.md
-      - Aesthetics (Art & Music)/.keep
