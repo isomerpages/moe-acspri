@@ -2,10 +2,10 @@ collections:
   our-programmes:
     output: true
     order:
-      - Information & Communications/Useful Links.md
-      - Information & Communications/Cyber Wellness.md
-      - Information & Communications/Programmes.md
       - Information & Communications/.keep
+      - Information & Communications/Programmes.md
+      - Information & Communications/Cyber Wellness.md
+      - Information & Communications/Useful Links.md
       - Aesthetics (Art & Music)/.keep
       - Aesthetics (Art & Music)/Useful Links.md
       - Aesthetics (Art & Music)/Programmes.md
