@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
-      - SEN/Useful Links.md
-      - SEN/Counselling.md
       - SEN/.keep
+      - SEN/Counselling.md
+      - SEN/Useful Links.md
       - Science/.keep
       - Science/Programmes.md
       - Science/Assessment Matters.md
