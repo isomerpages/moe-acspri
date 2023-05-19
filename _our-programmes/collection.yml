@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Character & Citizenship/Character and Citizenship edu.md
       - Character & Citizenship/.keep
       - Aesthetics (Art & Music)/Useful Links.md
       - Aesthetics (Art & Music)/Programmes.md
