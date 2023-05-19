@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Testing/School History.md
-      - Testing/.keep
+      - School History/School History.md
+      - School History/.keep
       - Principle's Foreword.md
       - Vision, Mission & Values.md
