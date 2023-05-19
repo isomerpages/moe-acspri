@@ -19,11 +19,12 @@ Mdm Najuma Banu <br> Mrs Gladys Lim
 
 #### **Schedule**
 
+###### Semester 1
 
-
-| Semester 1 |  | 
-| ---- | --
-| Text     | Text     | 
+| T/W | Date | 
+| -------- | -------- | 
+| T1W6     | 8 Feb  
+| T1W6     | Text     
 
 
 
