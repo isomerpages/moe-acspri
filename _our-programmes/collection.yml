@@ -2,11 +2,11 @@ collections:
   our-programmes:
     output: true
     order:
-      - Experiential Learning/Penfriend.md
-      - Experiential Learning/Internationalisation Programme.md
-      - Experiential Learning/Borderless Learning.md
-      - Experiential Learning/IPWW.md
       - Experiential Learning/.keep
+      - Experiential Learning/IPWW.md
+      - Experiential Learning/Borderless Learning.md
+      - Experiential Learning/Internationalisation Programme.md
+      - Experiential Learning/Penfriend.md
       - Student Management/.keep
       - Student Management/Leadership Development Programme.md
       - Student Management/Peer Support.md
