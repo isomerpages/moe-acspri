@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Clubs
 ---
 # **Guitar Ensemble**
+![](/images/guitar%20ensemble.jpeg)
 
+![](/images/guitar%20ensemble%202.jpeg)
 
 
 #### **Teachers in Charge**
@@ -13,7 +15,8 @@ third_nav_title: Clubs
 | Name&nbsp;&nbsp;&nbsp;  |     Email ID |      |
 |:---:|:---:|:---:|
 
-Mrs Gomathi Ravindra (I/C) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [gomathi_ravindra@moe.edu.sg](mailto:gomathi\_ravindra@moe.edu.sg) <br> Mdm Jasmine Kaur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)](mailto:jasmine_kaur@moe.edu.sg)
+Mdm Sri Dewi (I/C) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg) <br> Mdm Jasmine Ong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg)](mailto:ong_cui_yun@moe.edu.sg) <br>
+Mrs Janis Pavia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg)](mailto:lau_kah_ling_janis@moe.edu.sg)
    
 
 #### **Schedule**
