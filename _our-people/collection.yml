@@ -2,8 +2,8 @@ collections:
   our-people:
     output: true
     order:
-      - Executive & Admin Staff.md
-      - Teachers by Departments.md
-      - Form Teachers by Level.md
-      - School Teaching Committee (STC).md
       - Management Committee.md
+      - School Teaching Committee (STC).md
+      - Form Teachers by Level.md
+      - Teachers by Departments.md
+      - Executive & Admin Staff.md
