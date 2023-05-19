@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Gifted Education/.keep
       - English Language/Useful Links.md
       - English Language/Assessment Matters.md
       - English Language/Programmes.md
