@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Mathematics/Useful Links.md
       - Mathematics/Assessment Matters.md
       - Mathematics/Programmes.md
       - Mathematics/.keep
