@@ -2,11 +2,11 @@ collections:
   our-programmes:
     output: true
     order:
-      - Physical Education/Useful Links.md
-      - Physical Education/Learning for Life (LLP).md
-      - Physical Education/Programme for Active Learning (PAL).md
-      - Physical Education/Programmes.md
       - Physical Education/.keep
+      - Physical Education/Programmes.md
+      - Physical Education/Programme for Active Learning (PAL).md
+      - Physical Education/Learning for Life (LLP).md
+      - Physical Education/Useful Links.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Chinese Language.md
       - Mother Tongue Languages/eComposition.md
