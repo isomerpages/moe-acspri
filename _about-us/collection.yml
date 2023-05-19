@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Board of Governors.md
-      - The ACS House System.md
+      - Principle's Foreword.md
+      - Vision, Mission & Values.md
+      - School History/.keep
       - School History/Our School Anthem.md
       - School History/Our School Crest.md
       - School History/History of ACS.md
-      - School History/.keep
-      - Principle's Foreword.md
-      - Vision, Mission & Values.md
+      - The ACS House System.md
+      - Board of Governors.md
