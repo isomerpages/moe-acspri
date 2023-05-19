@@ -2,10 +2,10 @@ collections:
   our-programmes:
     output: true
     order:
-      - Gifted Education/Useful Links.md
-      - Gifted Education/Assessment Matters.md
-      - Gifted Education/Programmes.md
       - Gifted Education/.keep
+      - Gifted Education/Programmes.md
+      - Gifted Education/Assessment Matters.md
+      - Gifted Education/Useful Links.md
       - English Language/Useful Links.md
       - English Language/Assessment Matters.md
       - English Language/Programmes.md
