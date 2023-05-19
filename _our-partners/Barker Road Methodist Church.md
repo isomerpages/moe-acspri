@@ -6,3 +6,5 @@ description: ""
 # **Barker Road Methodist Church**
 
 #### **Barker Road Methodist Church**
+
+[Barker Road Methodist Church](https://www.brmc.org.sg/)
