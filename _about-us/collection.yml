@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School History/Our School Crest.md
       - School History/History of ACS.md
       - School History/.keep
       - Principle's Foreword.md
