@@ -46,3 +46,5 @@ Pupils will be invited to join the development team through coaches’ recommend
 Every year, we will send a team of Senior Division and a team of junior division boys to participate in the National School Games.
 
 #### **Past Accolades**
+
+* 2022 NSG South Zone Junior Boys Division&nbsp; - second placing in Tier 1 grouping
