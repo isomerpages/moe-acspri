@@ -11,7 +11,7 @@ third_nav_title: Clubs
 
 #### **Teachers in Charge**
 
-| Name |               Name |      |
+| Name |               Email ID |      |
 |:---:|:---:|:---:|
 
 
