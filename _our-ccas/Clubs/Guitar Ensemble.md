@@ -12,7 +12,7 @@ third_nav_title: Clubs
 
 #### **Teachers in Charge**
 
-| Name&nbsp;&nbsp;&nbsp;  |     Email ID |      |
+| Name&nbsp;&nbsp;&nbsp;  |     Email  |      |
 |:---:|:---:|:---:|
 
 Mdm Sri Dewi (I/C) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg) <br> Mdm Jasmine Ong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg)](mailto:ong_cui_yun@moe.edu.sg) <br>
