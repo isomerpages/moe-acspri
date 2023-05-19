@@ -33,3 +33,7 @@ The BB aims to advance Christ’s Kingdom and the promotion of habits of obedien
 * JM Fraser Award of Excellence (Gold) for the past 10 consecutive years.&nbsp;
 * Best BB Junior Company (2019)&nbsp;
 * Philanthropy Award (Silver) Corporate Category (2019) by Children’s Cancer Foundation
+
+![](/images/boys%20brigade%204.jpg)
+
+![](/images/boys%20brigade%203.jpg)
