@@ -14,11 +14,7 @@ third_nav_title: Clubs
 | Name |               Email ID |      |
 |:---:|:---:|:---:|
 
-
-| Mrs Gomathi Ravindra (I/C) | [Mrs Gomathi Ravindra (I/C)](mailto:gomathi\_ravindra@moe.edu.sg) |
-|---|---|
-| [Mrs Leong- Ho Hil May](mailto:ho_hil_may@schools.gov.sg)	|   <img src="/images/cher1.jpg" style="width:25%">	|
-| [Mrs Celia Lau](mailto:celia_choh@schools.gov.sg)
+Mrs Gomathi Ravindra (I/C)  [gomathi\_ravindra@moe.edu.sg](mailto:gomathi\_ravindra@moe.edu.sg)
 
 
 |  	|  	|
