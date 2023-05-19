@@ -30,6 +30,8 @@ Wednesdays, 03.00 p.m. – 05.00 p.m. <br> Centaurs Sports Park (200 Turf Club R
 
 Football is a team sport which builds body and mental strength, agility and coordination. ACS(P) Football emphasizes on fostering kinship and developing character values. Our aim is to provide our pupils with an experience to develop their potential, learn new techniques and life skills. The pupils undergo training under the guidance of our dedicated coaches. They are also closely supported by the teachers and parents. In addition, the school organizes friendly games and sends teams to participate in the local football competitions where they learn to respect fair play.
 
+![](/images/football.jpg)
+
 	
 #### **Competition**
 
@@ -51,4 +53,8 @@ Football is a team sport which builds body and mental strength, agility and coor
 2022&nbsp;
 
 *   Senior Team – Knocked out in the 1st round of South Zone Football Competition   
-* Junior Team – 1st place in the Tier 3 groups of Football National Competition**
+* Junior Team – 1st place in the Tier 3 groups of Football National Competition
+
+![](/images/football%202.jpg)
+
+![](/images/football%205.jpg)
