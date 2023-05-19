@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Form Teachers by Level.md
       - School Teaching Committee (STC).md
       - Management Committee.md
