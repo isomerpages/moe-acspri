@@ -1,4 +1,5 @@
 collections:
   our-people:
     output: true
-    order: []
+    order:
+      - Management Committee.md
