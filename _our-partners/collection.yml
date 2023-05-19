@@ -2,10 +2,10 @@ collections:
   our-partners:
     output: true
     order:
-      - The ACS Foundation.md
-      - Parents Support Group.md
-      - Barker Road Methodist Church.md
+      - ACS Family of Schools.md
+      - ACS Old Boys' Association/.keep
       - ACS Old Boys' Association/ACS Old Boys' Association.md
       - ACS Old Boys' Association/Virtual Tour of ACS(P) Heritage Gallery.md
-      - ACS Old Boys' Association/.keep
-      - ACS Family of Schools.md
+      - Barker Road Methodist Church.md
+      - Parents Support Group.md
+      - The ACS Foundation.md
