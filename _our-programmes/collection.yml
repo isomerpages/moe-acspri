@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - English Language/.keep
       - Aesthetics (Art & Music)/.keep
       - Aesthetics (Art & Music)/Useful Links.md
       - Aesthetics (Art & Music)/Programmes.md
