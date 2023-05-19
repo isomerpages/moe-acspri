@@ -3,8 +3,8 @@ title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values/
 description: ""
 ---
-# Vision, Mission and Values
-### Vision, Mission and Values
+# **Vision, Mission and Values**
+### **Vision, Mission and Values**
 
 <h4 style="color:#00250CE;">Our Vision</h4>
 
@@ -85,22 +85,12 @@ seeks to be a leader of self, of his peers, and of his community.
 
 **Creative Learner**
 
-The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities
-and possesses a global outlook to issued in the world. He is curious and creative, and seeks to
-understand complexities and ambiguities. He Processes information and knowledge, solves challenges,
-and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
+The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issued in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He Processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
 
 **Effective Communicator**
 
-The ACS(P) gentleman is an effective communicator who is articulate and eloquent. He is effectively
-billingual and is able to persuade others and present his thoughts in EL and in his MTL with clarity. He is
-expressive and knows how to carry himself in both the real-world and the virtual-world domains.
+The ACS(P) gentleman is an effective communicator who is articulate and eloquent. He is effectively billingual and is able to persuade others and present his thoughts in EL and in his MTL with clarity. He is expressive and knows how to carry himself in both the real-world and the virtual-world domains.
 
 **Community Collaborator**
 
-The ACS(P) gentleman does not only seek to grow himself, but endeavours to shape and impact his
-spheres of influence and his community through close partnerships and collaboration with others. He is a team-player who knows that he cannot work alone to achieve this. He actively contributes to his family, to
-ACS, his community, and his country and sees this as his responsibility.
-
-
-
+The ACS(P) gentleman does not only seek to grow himself, but endeavours to shape and impact his spheres of influence and his community through close partnerships and collaboration with others. He is a team-player who knows that he cannot work alone to achieve this. He actively contributes to his family, to ACS, his community, and his country and sees this as his responsibility.
