@@ -86,3 +86,13 @@ Arts Fest Appreciate! focuses on showcasing our students’ artwork in an exhibi
 
 Students have an array of aesthetics CCAs to choose from, both in the performing and visual arts. The Choir, Guitar Ensemble, String Ensemble, Synergy Performing Arts Groups and Art Club provide an avenue for performing and creative expression. This is in line with our mission to provide a holistic education for all ACS(P) students.
 
+##### **Events**
+
+Arts Fest Kaleidoscope and Arts Fest Appreciate! are held biannually with focus on showcasing pupils’ talents in the arts. The focus of Arts Fest centres around the richness and diversity of Art and Music. It is a celebration of the varied talents of ACSians.&nbsp;
+
+Pupils are also treated to performances during assembly to provide them with exposure to various arts genres.
+
+#### **Competitions**
+
+* SYF Arts Presentation
+* SYF Art Exhibition
