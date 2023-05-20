@@ -6,7 +6,12 @@ third_nav_title: Aesthetics (Art & Music)
 ---
 # **Programmes**
 
+![](/images/aesthetics%208.JPG)
+
+![](/images/aesthetics%207.jpg)
+
 ### **Departments (IP or PAM)**
+
 Aesthetic
 
 #### **Staff**
@@ -21,6 +26,8 @@ Nurturing ACSians of Character, Capability and Creativity&nbsp; through the Arts
 
 ###### Music
 
+![](/images/aesthetics%203.jpg)
+
 The Music programme incorporates:
 
 *   developing awareness and appreciation for music of various cultures
@@ -32,6 +39,8 @@ The Music programme incorporates:
 For Primary 1 to Primary 3, the Music curriculum revolves around “experience”, “concept” and “application”.&nbsp; From Primary 4, musical concepts are taught in greater depth to achieve the outcomes of a student-centric music curriculum through instrumental playing and listening and responding to music. We adopt a holistic approach in enriching the pupils aesthetically by bringing the necessary musical experiences into our classrooms.
 
 ###### Visual Art
+
+![](/images/aesthetics%205.jpg)
 
 The Visual Art programme incorporates:
 
@@ -62,6 +71,8 @@ Holistic assessment is carried out through various tasks to determine if pupils 
 *   For students who have the talent or inclination or training in the arts
     
 *   Provide varied platforms to showcase students’ talents in performing&nbsp;and visual arts
+
+![](/images/aesthetics%204.jpg)
     
 ##### **PAL**
 
@@ -82,6 +93,8 @@ Arts Fest in ACS(P) is an annual event alternating between performing arts and v
 
 Arts Fest Appreciate! focuses on showcasing our students’ artwork in an exhibition, featuring a wide range of displays selected from each class.
 
+![](/images/aesthetics%202.JPG)
+
 ###### Aesthetics CCAs
 
 Students have an array of aesthetics CCAs to choose from, both in the performing and visual arts. The Choir, Guitar Ensemble, String Ensemble, Synergy Performing Arts Groups and Art Club provide an avenue for performing and creative expression. This is in line with our mission to provide a holistic education for all ACS(P) students.
@@ -91,6 +104,8 @@ Students have an array of aesthetics CCAs to choose from, both in the performing
 Arts Fest Kaleidoscope and Arts Fest Appreciate! are held biannually with focus on showcasing pupils’ talents in the arts. The focus of Arts Fest centres around the richness and diversity of Art and Music. It is a celebration of the varied talents of ACSians.&nbsp;
 
 Pupils are also treated to performances during assembly to provide them with exposure to various arts genres.
+
+![](/images/aesthetics%206.jpg)
 
 #### **Competitions**
 
