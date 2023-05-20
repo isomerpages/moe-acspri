@@ -1,5 +1,5 @@
 collections:
-  co-curricular-activities:
+  co-curricular-activities-ccas:
     output: true
     order:
       - Sports/.keep
