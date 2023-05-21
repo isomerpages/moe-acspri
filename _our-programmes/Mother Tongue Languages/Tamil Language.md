@@ -73,17 +73,17 @@ Remedial Programmes are conducted to close the gaps in students’ learning. In 
 
 ### **Competitions**
 
-* EDN Writing Competition (2018, 2020, 2021)
-* Young Cartoonist (2019, 2020, 2021, 2022)&nbsp;
-* NUSA Story Telling Competition (2022)
-
+* Spelling Bee Competition 2023
+* Various competitions organized by CCs every year
 
 ### **Useful Links**
 
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 
-[Berita Harian](http://beritaharian.sg)
-
-[Malay language Centre Learning Apps](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/mlcs-educational-apps)
-
 [PSLE Approved Dictionary List](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
+
+###### **Others**
+
+* https://www.languagecouncils.sg
+* http://www.uptlc.moe.edu.sg/
+* http://www.sinda.org/
