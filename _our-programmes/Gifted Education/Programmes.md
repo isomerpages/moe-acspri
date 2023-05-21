@@ -146,3 +146,22 @@ The GEP Curriculum is an enriched curriculum that aims to meet both the intellec
 *   To indicate the stages reached and to help identify the areas for subsequent work and development (formative)
 *   To identify particular learning difficulties for an individual child (diagnostic)
 *   To reflect on the teaching and the learning (evaluative)
+
+### **Programmes**
+
+
+##### **Individualised Study Options (ISO) <br>[For Primary 4 &amp; Primary 5\]**
+
+ISO was introduced in 2003 as an umbrella term to reflect the incorporation of a greater variety in the types of projects completed by P5 GEP pupils.
+
+*  Individualised Research Study (IRS)
+*  Innovation Programme (IvP) 
+*  Future Problem Solving Programme (FPSP)
+
+##### **Computing Enrichment Programme (CEP) <br>[For Primary 4 &amp; Primary 5\]**
+
+To provide broader ICT learning enrichment opportunities for all GEP pupils
+   
+##### **Advanced Mathematics Enrichment Classes (AMEC) <br>[for selected P6 pupils\]**
+
+*   An initiative by our school to prepare the pupils for the Mathematics Olympiad competitions.
