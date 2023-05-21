@@ -132,3 +132,17 @@ The GEP Curriculum is an enriched curriculum that aims to meet both the intellec
 
 *   Explicit teaching of values and learning of social-emotional competencies  
 *   Values-in-Action (VIA) project allows pupils to act on values taught
+
+### **Assessment Matters**
+
+#### **Assessment**
+
+*   Standardised across all GEP centres for English, Mathematics &amp; Science  
+*   School-based assessment for Mother Tongue Language &amp; Higher Mother Tongue Language
+
+####  **Purpose**
+
+*   To report performance and progress at the end of a phase and&nbsp;experience (summative)
+*   To indicate the stages reached and to help identify the areas for subsequent work and development (formative)
+*   To identify particular learning difficulties for an individual child (diagnostic)
+*   To reflect on the teaching and the learning (evaluative)
