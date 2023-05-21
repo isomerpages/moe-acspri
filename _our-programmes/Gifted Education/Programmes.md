@@ -68,21 +68,17 @@ Mdm Loh Su Hian
 [loh\_su\_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg)
 
   
-Mr Stanley Yeo
-
+Mr Stanley Yeo<br>
 Affective Education (AE) Coordinator  
-Future Problem-Solving Programme (FPSP) Coordinator  
+Future Problem-Solving Programme (FPSP) Coordinator
 [yeo\_hwee\_meng\_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg)
-
-  
 
 Mr Benedict Yap  
 [benedict\_yap\_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg)
 
   
 
-Mr Caleb Chua
-
+Mr Caleb Chua<br>
 [caleb\_chua@moe.edu.sg](mailto:caleb_chua@moe.edu.sg)
 
   
@@ -90,16 +86,8 @@ Mr Caleb Chua
 Mrs Geraldine Ortega  
 [geraldine\_ortega@moe.edu.sg](mailto:geraldine_ortega@moe.edu.sg)
 
-  
-
-Mdm Lu Youge
-
+Mdm Lu Youge <br>
 [lu\_youge@moe.edu.sg](mailto:lu_youge@moe.edu.sg)
 
-  
-
-Mr Tan Yew Chai
-
+Mr Tan Yew Chai<br>
 [tan\_yew\_chai@moe.edu.sg](mailto:tan_yew_chai@moe.edu.sg)
-
-**
