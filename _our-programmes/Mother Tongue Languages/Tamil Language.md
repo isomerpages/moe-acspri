@@ -24,19 +24,22 @@ Representative – Primary 2 and 5
 
 ### **Vision**
 
-At ACS (Primary), we aim at providing a holistic education that will help develop our students in all the four main areas namely Affective, Cognitive, Social and Physical. The Mother Tongue Department (Malay Language) seeks to provide a linguistically exciting, culturally vibrant and morally positive environment for our students. We believe such a learning environment will be conducive for our students’ development in these four main areas.
+At ACS (Primary), we aim at providing a holistic education that will help develop our students in all the four main areas namely Affective, Cognitive, Social and Physical. The Mother Tongue Department (Tamil Language) seeks to provide a linguistically exciting, culturally vibrant, and morally positive environment for our students. We believe such a learning environment will be conducive for our students’ development in these four main areas.
 
 ### **Curriculum**
 
-The curriculum objectives in the learning of Malay Language are to develop student’s general ability, civic literacy and cultural awareness alongside the development of the language skills.
+The Mother Tongue Languages Department (Tamil Language) is focused in providing a holistic approach to the language experience of the boys in ACS(P). Through our curriculum, enrichment programmes, Learning Journeys, and Values in Action (VIA) activities we aim to develop our students taking Tamil Language, to be confident young gentlemen, self-directed learners who are also active contributors and concerned citizens in our community at large.
 
-The Malay Language syllabus is based on the CEKAP package which feature meaningful and relevant learning content and engaging authentic language tasks.&nbsp;
+Our activities are imbued with our syllabus and serve as opportunities to create an awareness and sensitivity to the fine arts and culture. Teachable moments are maximised to mould ACSians of character, capability, and creativity; gentlemen who are strong in their iHOPEFUL values.
 
-The learning content mainly focuses on personal, family, school, community, and environment. The content addresses students’ learning needs and motivates their learning interests.&nbsp; On top of that, the story characters, Adi, Ana, Budi, Laila and Zaid will grow up and learn alongside the students.
 
 ### **Assessment Matters**
 
-We focus on six main core skills, namely listening skills, speaking skills, reading skills, writing skills, interactive conversational skills, and interactive writing skills.
+Our Assessment focuses mainly on the four skills which are reading, writing, listening, and speaking.&nbsp; Students are given ample practices to develop these skills.&nbsp;
+
+Emphasis is on spoken Tamil for the lower primary to nurture confidence in them to handle Show and Tell.&nbsp; While the upper primary students are encouraged to speak in Tamil by way of amassing their vocabulary content and using them effectively.&nbsp; Proper intonation, expression and pronunciation is emphasized for reading in all levels. Uninterrupted, Sustained Silent Reading (USSR) is also conducted to enhance readership. Students are exposed to various listening comprehension genres like advertisement, conversation, news reading in class. Students are strongly encouraged to pen down their thoughts in the form text messages and notes. This little encouraging notes to their friends not only boost their friend’s self-esteem it allows them to express themselves well in their writing.
+
+Focused revision on each exam component is given to students from Primary 3 to Primary 6. This exposes them to various question types and confidence to tackle them. Students are also given revision papers to help them prepare for examination and time management is emphasized in the process.&nbsp; Strength and weakness of each child is highlighted so that they will be more exam smart.
 
 ##### **Listening Skills**
 
