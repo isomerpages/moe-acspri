@@ -67,16 +67,29 @@ At ACS (Primary), we aim at providing a holistic education that will help develo
 
 We have also incorporated the following four initiatives that will help to maximise their learning capacity and develop them into independent learners with creative and critical thinking skills:
 
-  
-
 1. Differentiation – We are committed to bring out the unique potential of every pupil through curriculum differentiation. We customize our teaching resources like oral skills and comprehension skills booklets as well as pedagogies, according to the needs and ability of our students
 
 2. ICT - We believe in using ICT as a value-adding tool for classroom learning. When we use ICT tools for our lessons, we expect students to engage in either Self-directed Learning or Collaborative Learning. Student learning platform such as Student Learning Space is used to support their learning. Some ICT tools used are: Nearpod, Linoit and Kahoot.
 
-  
-
 3. Experiential Education – We believe in taking lessons beyond the classrooms. For P1 and P2, we have Fun Days, where P1 and P2 students learn to converse in Chinese in an authentic setting.
-
   
-
 4. Creativity – In order to encourage our students to become good problem-solvers and to develop critical and creative thinking skills, we have incorporated different strategies into our lessons, e.g. Make Thinking Visible.
+
+### **Assessment Matters**
+
+We focus on six main core skills, namely listening skills, speaking skills, reading skills, writing skills, interactive conversational skills and interactive writing skills.
+
+##### **Listening and Speaking Skills**
+
+In the listening skills component, students will be trained to listen and understand texts from different genres such as short stories, novels and poetry and be able to respond to questions based on the texts. The Speaking Skills component trains students to be able to communicate in clear fluent and effective Standard Chinese Language. Our 5-year Oral Package, developed for students from P2 to P6, aims to help students to be confident in describing pictures and conversation.
+
+##### **Reading and Writing skills**
+
+Reading skills include the ability to read texts from different genres with understanding and to respond appropriately. The 5-year Comprehension Package developed for students from P2 to P6 aims to help students to develop different skills and techniques needed for answering open-ended comprehension questions. Our 4-year Composition writing worksheets developed for students from P3 to P6 also aims to help students to write different texts confidently.
+
+
+##### **Interactive Conversational Skills**
+
+Interactive conversational skills enable the students to respond to questions, participate in discussion, and develop others’ ideas. Interactive writing skills focus on the students’ ability to write for a specific purpose and audience.&nbsp;
+
+There are various ways in which we will help students prepare for the Chinese Language assessment. Students are given practices that are similar to the examination format. This is to ensure that they learn the different skills needed for assessment and learn time-management to complete the paper within the stipulated time.
