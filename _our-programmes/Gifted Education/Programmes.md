@@ -91,3 +91,19 @@ Mdm Lu Youge <br>
 
 Mr Tan Yew Chai<br>
 [tan\_yew\_chai@moe.edu.sg](mailto:tan_yew_chai@moe.edu.sg)
+
+### **Gifted Education Programme (GEP)**
+
+The GEP caters for the intellectually gifted pupils. All P3 pupils are invited to participate in the GEP identification exercise. Identified pupils join the GEP in P4.&nbsp;
+
+The GEP in ACS(P) is anchored on the school’s twin pillars of intellectual development (Cognitive Domain) and character building (Affective and Social Domains).
+
+The goals of the GEP that revolve around cognitive, social, moral and emotional development are to:
+
+*   develop intellectual depth and higher-level thinking
+*   nurture productive creativity
+*   develop attitudes for self-directed lifelong learning
+*   enhance aspirations for individual excellence and fulfilment
+*   develop a strong social conscience and commitment to serve society and nation
+*   develop moral values and qualities for responsible leadership
+    
