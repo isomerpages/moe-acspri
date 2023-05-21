@@ -60,7 +60,7 @@ P6 (Terrarium making, Flight Endurance &amp; P6 Science Kit)<br>
 *   Green programme<br>
 Various initiatives conducted throughout the year to promote the importance of taking care of the environment amongst the students
 
-#### **Learning Support / Stretch Programmes**
+#### **Learning Support/ Stretch Programmes**
 
 *   Weekly Science Remedial Lessons (for select pupils)
 *   Science E2K (Mainstream)<br>
