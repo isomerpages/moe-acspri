@@ -159,3 +159,13 @@ P5 &amp; P6 students who need more help for oral in picture description and conv
 
 * 2022 National Vlog Competition for Singapore Primary School Students&nbsp;
 * 2022 13th" Global village" Children &amp; Youths Bilingual Speech Competition
+
+### **Useful Links**
+
+[Student Learning Space](https://vle.learning.moe.edu.sg/login)
+
+[Chinese Language reader reference (儿童阅读推荐书单)](https://go.gov.sg/pri-chinesegradedbooks)
+
+[e-Book](https://go.gov.sg/children-books-we-love)
+
+[PSLE Approved Dictionary List](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
