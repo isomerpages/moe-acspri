@@ -12,7 +12,7 @@ WSA-EC aims to help our teachers and pupils become effective communicators of En
 Teacher-in-charge: Mdm Ida Nonanseh
 
 ##### **P1 - P5**
-**Guided Literature and Reading Warriors Programme**<br>
+**Guided Reading Programme**<br>
 The programme started in 2012. It aims to arouse pupils’ interest in reading and expose them to&nbsp;a wide variety of narrative texts. The books selected are based on pupils’ interest, story plots&nbsp;and writers’ style. By the end of Primary 5, pupils would have read a variety of narratives which will deepen their understanding of what makes a good writer.
 
 Books are also carefully selected based on the age-appropriateness of the text, the values they&nbsp;teach and the varied styles of writing. They help to create awareness of social issues,&nbsp;relationships and perceptions. Pupils will be able to understand that issues raised and lessons&nbsp;learnt are applicable in their everyday life.
@@ -22,16 +22,16 @@ A guided reading and literature lesson requires pupils to use their analytical s
 Teacher-in-charge: Mdm Ida Nonanseh
 
 ##### **P1 - P2**
-**Reading Warriors**<br>
+**Reading Warriors Programme**<br>
 Reading Warriors is an early intervention programme aimed at providing support to P1 to P2&nbsp;pupils to strengthen their literacy skills. The Reading Warriors programme helps pupils improve&nbsp;their literacy skills through reading. Early literacy research shows that children who lag behind in early years in reading and writing development encounter considerable difficulties later as texts&nbsp;get longer and more complicated (Myrberg, 2007). As such, the Reading Warriors programme&nbsp;sets out to develop pupils into fluent readers in three phases: Decoding, Independent Reading&nbsp;and Comprehension. For each phase, pupils are taught different skills through highly structured&nbsp;processes adapted from the Toe by Toe scheme and the Orton Gillingham Approach.
 
-Teacher-in-charge: Mrs Gladys Lim
+Teacher-in-charge: Mrs Jovina Lee
 
 ##### **Activities**
 **P2 Amazing Race**<br>
 This learning journey ties in with the themes of community, neighbourhood and occupations. Pupils learn about the type of services provided in a community.&nbsp; The learning of English Language is also integrated with Mathematics in topics like money, measurement, graph and patterns. Life skills like using public transport, reading signs, budgeting and team work are also introduced. Pupils make use of iPads to collect and process data.
 
-Teacher-in-charge: Mdm Sarah Su
+Teacher-in-charge: Mrs Hoong Xiu Qin
 
 ---------------------------------------------------------------
 
