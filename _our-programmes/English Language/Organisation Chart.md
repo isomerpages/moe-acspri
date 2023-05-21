@@ -21,7 +21,6 @@ third_nav_title: English Language
 | <img src="/images/eng14.jpg" style="width:30%"> | Ms Woon Yuet Meng <br> [woon_yuet_moon@moe.edu.sg](mailto:woon_yuet_moon@moe.edu.sg)  |
 | <img src="/images/eng15.jpg" style="width:30%"> |  Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg) |
 | <img src="/images/eng16.jpg" style="width:30%"> |  Mr Colin Sim <br> [sim_yaowen_colin@moe.edu.sg](mailto:sim_yaowen_colin@moe.edu.sg)  |
-| <img src="/images/eng17.jpg" style="width:30%"> |  Ms Tay Yu Juan <br> [tay_yu_juan@moe.edu.sg](mailto:tay_yu_juan@moe.edu.sg) |
 | <img src="/images/eng18.jpg" style="width:30%"> |  Ms Chan Soo Ping <br>  [chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg) |
 | <img src="/images/eng19.jpg" style="width:30%"> |  Mr Adrian Kum <br> [kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg)  |
 | <img src="/images/eng20.jpg" style="width:30%"> |  Ms Siti Nurjannah Saaet <br> EL Coordinator <br>  [siti_nurjannah_saaet@moe.edu.sg](mailto:siti_nurjannah_saaet@moe.edu.sg)  |
