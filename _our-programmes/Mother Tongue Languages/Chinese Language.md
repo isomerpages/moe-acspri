@@ -134,8 +134,28 @@ This programme aims to equip students with a foundational grasp in the Chinese o
 
 ##### **Primary 3 -  Primary 4**
 
-##### **Conversational Chinese/ Malay Programme**
+##### **Mother Tongue Support Programme**
 
+This is a customised programme to support students in the learning of Mother Tongue Languages (MTL) in Primary 3 and 4. We believe that every child can learn the Mother Tongue Language. We hope to develop students as Active learners of MTL, Build their confidence in learning MTL, making Mother Tongue a Living language by using the language in daily life and provide Engaging and enjoyable learning experience for the students.
 
+##### **Primary 5 -  Primary 6**
 
+##### **Remedial Programme**
 
+Selected P5 and P6 students will attend remedial programme once every week. This programme will help our students to reinforce what was taught in class and to build up their confidence in the learning of the language.
+
+##### **Primary 5 -  Primary 6**
+
+##### **ACE for Oral Progamme**
+
+P5 &amp; P6 students who need more help for oral in picture description and conversation will be selected for this programme. The students will be assessed based on a rubric and will be given feedback for areas of improvements.
+
+### **Events**
+
+* Chinese New Year Celebration
+* Mother Tongue Languages Presentation Day
+
+### **Competitions**
+
+* 2022 National Vlog Competition for Singapore Primary School Students&nbsp;
+* 2022 13th" Global village" Children &amp; Youths Bilingual Speech Competition
