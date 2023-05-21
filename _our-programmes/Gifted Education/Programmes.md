@@ -106,4 +106,29 @@ The goals of the GEP that revolve around cognitive, social, moral and emotional 
 *   enhance aspirations for individual excellence and fulfilment
 *   develop a strong social conscience and commitment to serve society and nation
 *   develop moral values and qualities for responsible leadership
-    
+
+### **Curriculum**
+
+The GEP Curriculum is an enriched curriculum that aims to meet both the intellectual and affective needs of our gifted children.&nbsp;
+
+*   Enriched in depth and breadth, it provides opportunities for content mastery, creativity, critical thinking and character building
+*   Differentiated in four areas – content, process, product and learning environment
+
+##### **Enriched Subjects**
+
+*   Mathematics
+*   Science  
+*   English Language
+*   Chinese Language
+*   Social Studies
+*   Character &amp; Citizenship Education
+
+##### **Affective Education**
+
+*   Goals include the social, moral and emotional development of the pupils
+*   Discussion of values, ethics and moral issues in various subject areas
+   
+##### **Character and Citizenship Education (CCE)**
+
+*   Explicit teaching of values and learning of social-emotional competencies  
+*   Values-in-Action (VIA) project allows pupils to act on values taught
