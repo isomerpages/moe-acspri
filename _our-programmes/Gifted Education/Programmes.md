@@ -10,7 +10,7 @@ third_nav_title: Gifted Education
 
 #### **Gifted  Education Programme (GEP)**
 
-##### **Staff**
+#### **Staff**
 
 Mdm Josephine See
 Head of Department (GEP/ Humanities)&nbsp;<br>
