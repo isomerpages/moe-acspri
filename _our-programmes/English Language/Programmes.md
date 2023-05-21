@@ -45,6 +45,8 @@ This programme aims to:
 *   develop research and critical thinking skills through the rigour of a formal debate;&nbsp;
 *   develop confidence in oral communication.
 
-The school nominates five pupils from Primary 6 to participate in the competition.
+##### **Enrichment Programmes**
+
+To develop the love for the English Language, the department has planned language-rich activities to motivate our students. For examples, the P3 students will be exposed to Reader’s Theatre while the P4 students to write haikus.
 
 Teachers-in-charge: Mr Colin Sim
