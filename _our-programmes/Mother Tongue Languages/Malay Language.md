@@ -83,54 +83,32 @@ Values in Action (VIA) at Anglo Chinese School (Primary) aims to provide student
 
 Mother Tongue Fortnight activities allow authentic exposure to Malay Language. Students are exposed to a wide range of activities during the MTL Fortnight. In addition to learning and using the language, activities such as Dikir Barat, Kompang, Angklung, Silat, Zapin and Gamelan provides authentic hands-on experiences for students. Such exposure provides an element of fun injected in the learning of the Malay Language.
 
-##### **Primary 4 -  Primary 6**
-
-##### **Conversational Chinese/ Malay Programme**
-
-This programme aims to equip students with a foundational grasp in the Chinese or Malay Language.
-
 ### **Learning Support/ Stretch Programmes**
-
-![](/images/chinese%20language%205.JPG)
-
-##### **Primary 3 -  Primary 4**
-
-##### **Mother Tongue Support Programme**
-
-This is a customised programme to support students in the learning of Mother Tongue Languages (MTL) in Primary 3 and 4. We believe that every child can learn the Mother Tongue Language. We hope to develop students as Active learners of MTL, Build their confidence in learning MTL, making Mother Tongue a Living language by using the language in daily life and provide Engaging and enjoyable learning experience for the students.
 
 ##### **Primary 5 -  Primary 6**
 
 ##### **Remedial Programme**
 
-Selected P5 and P6 students will attend remedial programme once every week. This programme will help our students to reinforce what was taught in class and to build up their confidence in the learning of the language.
-
-##### **Primary 5 -  Primary 6**
-
-##### **ACE for Oral Progamme**
-
-P5 &amp; P6 students who need more help for oral in picture description and conversation will be selected for this programme. The students will be assessed based on a rubric and will be given feedback for areas of improvements.
+Selected P5 and P6 students will attend the remedial programme.&nbsp; Teachers will also focus on the various examination components like language and writing skills.
 
 ### **Events**
 
-![](/images/chinese%20language.JPG)
-
-* Chinese New Year Celebration
 * Mother Tongue Languages Presentation Day
+* Hari Raya Sharing
 
 ### **Competitions**
 
-* 2022 National Vlog Competition for Singapore Primary School Students&nbsp;
-* 2022 13th" Global village" Children &amp; Youths Bilingual Speech Competition
+* EDN Writing Competition (2018, 2020, 2021)
+* Young Cartoonist (2019, 2020, 2021, 2022)&nbsp;
+* NUSA Story Telling Competition (2022)
+
 
 ### **Useful Links**
 
-![](/images/chinese%20language%209.JPG)
-
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 
-[Chinese Language reader reference (儿童阅读推荐书单)](https://go.gov.sg/pri-chinesegradedbooks)
+[Berita Harian](http://beritaharian.sg)
 
-[e-Book](https://go.gov.sg/children-books-we-love)
+[Malay language Centre Learning Apps](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/mlcs-educational-apps)
 
 [PSLE Approved Dictionary List](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
