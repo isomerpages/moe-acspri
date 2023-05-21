@@ -11,7 +11,6 @@ third_nav_title: English Language
 |  |  |
 |:---:|:---:|
 | <img src="/images/eng1a.jpg" style="width:30%"> | Mdm Suzanna Hashim <br> Head of Department/English<br>   [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) |
-| <img src="/images/eng2.jpg" style="width:30%"> | Mdm Teo Chi Loo <br>Year Head (Lower Primary) <br>  [teo_chi_loo@moe.edu.sg](mailto:teo_chi_loo@moe.edu.sg) |
 | <img src="/images/eng3.jpg" style="width:30%"> | Mrs Janis Pavia<br> Assistant Year Head (Lower Primary)   <br>[lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg) |
 | <img src="/images/eng4.jpg" style="width:30%"> | Mdm Jasmine Kaur<br> Level Head/English <br> [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg) |
 | <img src="/images/eng5.jpg" style="width:30%"> | Mdm Sarah Su <br>  [su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)  |
@@ -33,3 +32,10 @@ third_nav_title: English Language
 | <img src="/images/eng21.jpg" style="width:30%"> |  Mrs Shirley Toh <br> [katherine_shirley_shanti_doray@moe.edu.sg](mailto:katherine_shirley_shanti_doray@moe.edu.sg)  |
 | <img src="/images/eng22.jpg" style="width:30%"> |  Mrs Jovina Lee <br> Learning Support Programme Coordinator<br>   [jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg) |
 |
+
+
+
+
+
+
+
