@@ -93,3 +93,49 @@ Reading skills include the ability to read texts from different genres with unde
 Interactive conversational skills enable the students to respond to questions, participate in discussion, and develop others’ ideas. Interactive writing skills focus on the students’ ability to write for a specific purpose and audience.&nbsp;
 
 There are various ways in which we will help students prepare for the Chinese Language assessment. Students are given practices that are similar to the examination format. This is to ensure that they learn the different skills needed for assessment and learn time-management to complete the paper within the stipulated time.
+
+### **Programme (For all levels)**
+
+##### **Primary 1 -  Primary 6**
+
+##### **Curriculum Differentiation**
+
+To cater to the learning needs of students, our learning materials such as spelling lists, oral skills package, writing skills worksheets and class practices are customized to better cater to the different learning needs of our students. For example, lower primary bridging classes have scaffolders such as hanyu pinyin in their Spelling list, and students in the enrichment classes have elaborate resources to stretch the students. The Oral Package and Writing Skills worksheets are designed for students from P3 to P6.
+
+##### **Primary 1 -  Primary 6**
+
+##### **Reading Programme**
+
+This programme aims to expose our students to different reading genres and to cultivate the love of reading of the Mother Tongue book. Different reading programmes are planned for respective levels. For example, for P1 and P2 after reading the story books, students will engage in various post-reading activities to gauge the understanding of their reading.
+
+##### **Primary 1 -  Primary 6**
+
+##### **Applied Learning Programme**
+
+This programme provides learning opportunities for students to appreciate Chinese Language and infuse fun in the Chinese learning experiences such as Reader’s Theatre, Story Telling and Drama. This develops students’ oracy skills to enable them to express themselves, understand others and embrace different perspectives.
+
+##### **Primary 1 -  Primary 6**
+
+##### **Mother Tongue Languages Fortnight**
+
+To provide a culturally vibrant learning environment, there are various level and school-wide activities which expose our students to the Chinese Culture and richness of the language. For example, drama, martial art, and basic drumming techniques.&nbsp; Through these, students learn about the significance and cultural background of the activities.
+
+To provide a linguistically exciting environment, Primary 1 and Primary 2 students learn to converse in Chinese in an authentic setting during the P1 and P2 Fun Days.&nbsp;
+
+After the activities, representatives from the various levels, including Malay and Tamil students put up a concert for the school during assembly to show case what they have learnt during the MTL Fortnight.
+
+##### **Primary 4 -  Primary 6**
+
+##### **Conversational Chinese/ Malay Programme**
+
+This programme aims to equip students with a foundational grasp in the Chinese or Malay Language.
+
+### **Learning Support/ Stretch Programmes**
+
+##### **Primary 3 -  Primary 4**
+
+##### **Conversational Chinese/ Malay Programme**
+
+
+
+
