@@ -57,35 +57,31 @@ Interactive conversational skills enable students to discuss in groups, able to 
 We develop learning packages for students from Primary 3 to Primary 6. The packages include composition packages, oral packages, and comprehension packages. Such packages help students to be well-versed in the subject. Students are given adequate practice papers to ensure that they know the format of the paper and learn time-management as they are required to complete the paper within the stipulated time.
 
 
-### **Programme (For all levels)**
+### **Programme**
 
-##### **Primary 1 -  Primary 6**
-
-##### **Curriculum Differentiation**
-
-To cater to the learning needs of students, our learning materials such as spelling lists, oral skills package, writing skills worksheets and class practices are customized to better cater to the different learning needs of our students. For example, lower primary bridging classes have scaffolders such as hanyu pinyin in their Spelling list, and students in the enrichment classes have elaborate resources to stretch the students. The Oral Package and Writing Skills worksheets are designed for students from P3 to P6.
-
-##### **Primary 1 -  Primary 6**
-
-##### **Reading Programme**
-
-This programme aims to expose our students to different reading genres and to cultivate the love of reading of the Mother Tongue book. Different reading programmes are planned for respective levels. For example, for P1 and P2 after reading the story books, students will engage in various post-reading activities to gauge the understanding of their reading.
-
-##### **Primary 1 -  Primary 6**
+##### **Primary 1 -  Primary 2**
 
 ##### **Applied Learning Programme**
 
-This programme provides learning opportunities for students to appreciate Chinese Language and infuse fun in the Chinese learning experiences such as Reader’s Theatre, Story Telling and Drama. This develops students’ oracy skills to enable them to express themselves, understand others and embrace different perspectives.
+Applied Learning Programme aims to provide learning opportunities for students to appreciate Malay Language and infuse fun in the Malay Language learning experiences such as Story Telling and Drama. This will deepen student’s interest in learning Malay Language and communicate effectively and confidently.
+
+##### **Primary 4 -  Primary 6**
+
+##### **Conversational Chinese/Malay Programme**
+
+This programme aims to equip students with a foundational grasp in the Chinese or Malay Language.
+
+##### **Primary 1 -  Primary 6**
+
+##### **Values in Action (VIA)**
+
+Values in Action (VIA) at Anglo Chinese School (Primary) aims to provide students with the exposure that allows them to be Community Collaborators, Effective Communicators and apply our school’s iHOPEFUL values. The Community Collaborator and Effective Communicator are two of the traits we aspire for every young gentleman in ACS(P).&nbsp; As part of our effort to inculcate a caring and positive attitude towards the elderly, we organise visit to the Pertapis Senior Citizens Fellowship Home.
 
 ##### **Primary 1 -  Primary 6**
 
 ##### **Mother Tongue Languages Fortnight**
 
-To provide a culturally vibrant learning environment, there are various level and school-wide activities which expose our students to the Chinese Culture and richness of the language. For example, drama, martial art, and basic drumming techniques.&nbsp; Through these, students learn about the significance and cultural background of the activities.
-
-To provide a linguistically exciting environment, Primary 1 and Primary 2 students learn to converse in Chinese in an authentic setting during the P1 and P2 Fun Days.&nbsp;
-
-After the activities, representatives from the various levels, including Malay and Tamil students put up a concert for the school during assembly to show case what they have learnt during the MTL Fortnight.
+Mother Tongue Fortnight activities allow authentic exposure to Malay Language. Students are exposed to a wide range of activities during the MTL Fortnight. In addition to learning and using the language, activities such as Dikir Barat, Kompang, Angklung, Silat, Zapin and Gamelan provides authentic hands-on experiences for students. Such exposure provides an element of fun injected in the learning of the Malay Language.
 
 ##### **Primary 4 -  Primary 6**
 
