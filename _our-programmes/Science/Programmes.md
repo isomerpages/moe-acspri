@@ -68,47 +68,19 @@ Conducted by teachers who were specially trained.<br>
 The pupils from the P4 Group were shortlisted based on their performance in the P3 overall examinations as well as on the recommendation of their Science teachers. <br>
 The P5 group would be made up of pupils from the P4 group that existed the previous year.<br>
 Problem solving and science experimental skills will taught during the lessons
-    
-
-##### **Learning for Life Programme (LLP) - Building Character through Bowling**
-
-###### Exposure Stage  
-All pupils from P1 to P4 undergo four sessions of mini-bowling during curriculum time. At P2, pupils with bowling potential will be invited to join the Bowling (Development) CCA.
-    
-###### Development Stage
-Pupils who have interest in bowling or have shown bowling potential during mini-bowling lessons may join the Bowling (Development) CCA, which trains every Friday.
-    
-###### Elite Stage  
-Pupils who display greater potential will be invited to join the Bowling (School Team) CCA, which trains every Wednesday and Friday. They will have a chance to represent our school in both National and International bowling tournaments.
-
-##### **Programme for Active Learning (Sports &amp; Games)**
-
-The Sports and Games module aims to develop communicative skills and teamwork among P2 pupils through various enjoyable games.
-
-##### **Programme for Active Learning (Outdoor Education)**
-
-The Outdoor Education module&nbsp;emphasises&nbsp;on development of interpersonal skills,&nbsp;relationship management and responsible decision-making competencies for P1 pupils.
-
+   
 ### **Events**
 
-**Annual Swim Meet &amp; Games Day**
+* ACSP Green Week
 
-*   The Swim Meet and Games Day is for all pupils from P3 to P6.
-*   These 2 events aim at mass participation and the pupils are encouraged to sign up.
+### **Competitions**
 
-**TerrAqua Fest**
-
-*   This is a land-and-water games day for all P1 and P2 pupils with the aim of introducing friendly competition for young children.
-*   All P1 and P2 pupils take part in this event and all participants are awarded a medal.
+*   Raffles Science Olympiad
+*   Singapore Primary Science Olympiad
+*   Singapore Science Buskers
 
 ### **Useful Links**
 
-**Useful sports information for children and parents:**
+[2014 Science Syllabus](https://www.moe.gov.sg/-/media/files/primary/science-primary-2014.ashx)
 
-*   [www.myactivesg.com](http://www.myactivesg.com/)
-*   [www.hpb.gov.sg](http://www.hpb.gov.sg/)
-*   [www.sportsingapore.gov.sg](http://www.sportsingapore.gov.sg/)
-  
-###### **Games Resources**
-
-* http://www.peuniverse.com/
+[2023 Science Syllabus](https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.ashx)
