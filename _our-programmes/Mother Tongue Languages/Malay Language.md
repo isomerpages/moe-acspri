@@ -34,47 +34,30 @@ The learning content mainly focuses on personal, family, school, community, and 
 
 We focus on six main core skills, namely listening skills, speaking skills, reading skills, writing skills, interactive conversational skills, and interactive writing skills.
 
-Listening Skills
+##### **Listening Skills**
 
 The listening skills component teach students to listen and understand texts from different genres such as short stories, novels and poetry and respond to questions based on the given texts.
 
-Speaking Skills
+##### **Speaking Skills**
 
 The Speaking Skills component trains students to be able to communicate in clear fluent and effective Standard Malay Language.&nbsp;
 
-Reading Skills&nbsp;
+##### **Reading Skills**
 
 Reading skills empowers the students to read texts from different genres with understanding and to make appropriate response. Students will be able to read with the proper intonation, appropriate to the context of the sentence.
 
-Writing skills
+##### **Writing Skills**
 
 Writing skill includes the ability to write narrative, descriptive and functional essays based on the guide given.&nbsp;
 
-Interactive Skills
+##### **Interactive Skills**
 
 Interactive conversational skills enable students to discuss in groups, able to establish a conversation and responds accordingly based on different topics on self, family, school, community, and environment. Interactive writing skills focus on the students’ ability to write for a specific purpose and audience.&nbsp;
 
 We develop learning packages for students from Primary 3 to Primary 6. The packages include composition packages, oral packages, and comprehension packages. Such packages help students to be well-versed in the subject. Students are given adequate practice papers to ensure that they know the format of the paper and learn time-management as they are required to complete the paper within the stipulated time.
 
 
-##### **Listening and Speaking Skills**
-
-In the listening skills component, students will be trained to listen and understand texts from different genres such as short stories, novels and poetry and be able to respond to questions based on the texts. The Speaking Skills component trains students to be able to communicate in clear fluent and effective Standard Chinese Language. Our 5-year Oral Package, developed for students from P2 to P6, aims to help students to be confident in describing pictures and conversation.
-
-##### **Reading and Writing skills**
-
-Reading skills include the ability to read texts from different genres with understanding and to respond appropriately. The 5-year Comprehension Package developed for students from P2 to P6 aims to help students to develop different skills and techniques needed for answering open-ended comprehension questions. Our 4-year Composition writing worksheets developed for students from P3 to P6 also aims to help students to write different texts confidently.
-
-
-##### **Interactive Conversational Skills**
-
-Interactive conversational skills enable the students to respond to questions, participate in discussion, and develop others’ ideas. Interactive writing skills focus on the students’ ability to write for a specific purpose and audience.&nbsp;
-
-There are various ways in which we will help students prepare for the Chinese Language assessment. Students are given practices that are similar to the examination format. This is to ensure that they learn the different skills needed for assessment and learn time-management to complete the paper within the stipulated time.
-
 ### **Programme (For all levels)**
-
-![](/images/chinese%20language%202.JPG)
 
 ##### **Primary 1 -  Primary 6**
 
