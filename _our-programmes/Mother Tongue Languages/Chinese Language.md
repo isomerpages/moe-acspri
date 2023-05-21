@@ -10,6 +10,10 @@ third_nav_title: Mother Tongue Languages
 
 ##### **MOTHER TONGUE LANGUAGES DEPARTMENT (CHINESE LANGUAGE)**
 
+![](/images/chinese%20language%203.JPG)
+
+![](/images/chinese%20language%204.JPG)
+
 ### ***Staff***
 Ong Ghim Muay <br>
 Head of Department/ Mother Tongue
@@ -96,6 +100,8 @@ There are various ways in which we will help students prepare for the Chinese La
 
 ### **Programme (For all levels)**
 
+![](/images/chinese%20language%202.JPG)
+
 ##### **Primary 1 -  Primary 6**
 
 ##### **Curriculum Differentiation**
@@ -132,6 +138,8 @@ This programme aims to equip students with a foundational grasp in the Chinese o
 
 ### **Learning Support/ Stretch Programmes**
 
+![](/images/chinese%20language%205.JPG)
+
 ##### **Primary 3 -  Primary 4**
 
 ##### **Mother Tongue Support Programme**
@@ -152,6 +160,8 @@ P5 &amp; P6 students who need more help for oral in picture description and conv
 
 ### **Events**
 
+![](/images/chinese%20language.JPG)
+
 * Chinese New Year Celebration
 * Mother Tongue Languages Presentation Day
 
@@ -161,6 +171,8 @@ P5 &amp; P6 students who need more help for oral in picture description and conv
 * 2022 13th" Global village" Children &amp; Youths Bilingual Speech Competition
 
 ### **Useful Links**
+
+![](/images/chinese%20language%209.JPG)
 
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 
