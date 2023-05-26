@@ -8,7 +8,7 @@ description: ""
 <img align="left" style="width:35%;margin-right:15px;" src="/images/sch%20info.jpg"> 
 <b>Office hours (School Term)</b><br>
 Our General office will remain open from&nbsp;<br>
-Mondays to Fridays,&nbsp;**7.00am to 5.00pm**.
+Mondays to Fridays,&nbsp;7.00am to 5.00pm.
 
 To align with the national Safe Management Measures, we would like to encourage you to come to school only when you need to, for example to collect your son's /ward's learning materials.&nbsp;
 <br><br><br><br>
