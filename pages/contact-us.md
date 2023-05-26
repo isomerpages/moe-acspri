@@ -23,7 +23,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Bus Services are 48, 66, 67, 170, 972M and 960. The nearest MRT stations
-          are Newton, Novena and Stevens.
-    title: "Bus Services "
+      - other: "to Bus Stop (B40069) on Dunearn Road: 48, 67, 170, 960, 960e, 972M"
+    title: Bus Services
 ---
