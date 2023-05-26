@@ -19,6 +19,9 @@ Fax: 6353 1366<br>
 Email: [acps@moe.edu.sg](mailto:acps@moe.edu.sg)<br>
 Address: 50 Barker Road . Singapore 309918
 
-##### **Location**
-Bus Services are 48, 66, 67, 170, 972M and 960.  <br>
-The nearest MRT stations are Newton, Novena and Stevens.
+###### **Nearest MRT Stations**
+Newton (NS21/DT11),
+Stevens (DT)
+###### **Bus Services**
+to Bus Stop (B40069) on Dunearn Road:
+48, 67, 170, 960, 960e, 972M
