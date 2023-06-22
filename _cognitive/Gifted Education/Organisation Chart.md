@@ -24,7 +24,6 @@ third_nav_title: Gifted Education
 | <img src="/images/ge13.jpg" style="width:30%"> | Mr Chan Tai Yao<br> Future Problem Science Coordinator <br> [chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg)  |
 | <img src="/images/ge14.jpg" style="width:30%"> | Mrs Jess Teng<br> Affective Education (AE) RepresentativeAdvance Mathematics Enrichment Class (AMEC) Representative 2022 P5 AC2 In-House Counsellor (IHC)<br> [jess_teng-chong_su_hwa@moe.edu.sg](mailto:jess_teng-chong_su_hwa@moe.edu.sg)  |
 | <img src="/images/ge15.jpg" style="width:30%"> |  Mr Stanley Yeo <br>Future Problem Solving (FPS) Representative<br>  [yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg)  |
-| <img src="/images/ge16.jpg" style="width:30%"> |  Ms Lum Yick Thim <br> [lum_yick_thim@moe.edu.sg](mailto:lum_yick_thim@moe.edu.sg) |
 | <img src="/images/ge17.jpg" style="width:30%"> |   Mrs Geraldine Ortega <br> [geraldine_ortega@moe.edu.sg](mailto:geraldine_ortega@moe.edu.sg)  |
 | <img src="/images/ge18.jpg" style="width:30%"> |   Mr Kelvin Chan Yong Meng <br> [kelvin_chan_yong_meng@moe.edu.sg](mailto:kelvin_chan_yong_meng@moe.edu.sg) |
 |
