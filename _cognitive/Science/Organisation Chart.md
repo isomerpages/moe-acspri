@@ -18,5 +18,5 @@ third_nav_title: Science
 | <img src="/images/sci7.jpg" style="width:30%"> |  Mr Ho Shin Hoo <br> [ho_shin_hoo@moe.edu.sg](mailto:ho_shin_hoo@moe.edu.sg) |
 | <img src="/images/sci8.jpg" style="width:30%"> | Mr Chan Tai Yao <br> Science Coordinator 2021 P3 Science Representative <br>  [chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg) |
 | <img src="/images/sci10.jpg" style="width:30%"> | Mr Seow Kian Yong <br> 2021 P5 Science Representative <br> [seow_kian_yong@moe.edu.sg](mailto:seow_kian_yong@moe.edu.sg) |
-| **No photo** | Marsyitha Binte Abdol Razat <br> Laboratory Assistant <br> [marsytha_binte_abdol_razat@acsp.sg](mailto:marsytha_binte_abdol_razat@acsp.sg) |
+|  <img src="/images/admin8.jpg" style="width:25%"> | Marsyitha Binte Abdol Razat <br> Laboratory Assistant <br> [marsytha_binte_abdol_razat@acsp.sg](mailto:marsytha_binte_abdol_razat@acsp.sg) |
 |
