@@ -27,6 +27,7 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/acps
       alt: Image alt text
+      image: /images/acps-askgov.png
   - infobar:
       title: The ACS(P) Brand of Education
       description: The ACS(P) brand of education is anchored on our Founder, Bishop
