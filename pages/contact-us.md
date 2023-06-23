@@ -18,7 +18,8 @@ contacts:
   - content:
       - phone: +65 6250 1633
       - email: acps@moe.edu.sg
-      - other: ""
+      - other: <br>Have a question?  <br>  Ask and get answered on our Q&A
+          Page<br><i>https://go.ask.gov.sg/acps</i>
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -29,5 +30,5 @@ contacts:
       - phone: ""
       - email: ""
       - other: Newton (NS21/DT11), Stevens (DT10)
-    title: " Nearest MRT Stations"
+    title: Nearest MRT Stations
 ---
