@@ -18,8 +18,7 @@ contacts:
   - content:
       - phone: +65 6250 1633
       - email: ""
-      - other: <br>Have a question?  <br>  Ask and get answered on our Q&A
-          Page<br><i>https://ask.gov.sg/acps</i>
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
