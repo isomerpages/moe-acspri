@@ -1,0 +1,64 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - Aesthetics (Art & Music)/.keep
+      - Aesthetics (Art & Music)/Programmes.md
+      - Aesthetics (Art & Music)/Useful Links.md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Form Teachers Guidance Period.md
+      - Character & Citizenship/Pastoral Care Programme.md
+      - Character & Citizenship/Sexuality Education.md
+      - Character & Citizenship/Knowing Myself Programme.md
+      - Character & Citizenship/Education and Career Guidance.md
+      - Character & Citizenship/Value in Action Programme.md
+      - Character & Citizenship/Citizenship Programme.md
+      - Character & Citizenship/Useful Links.md
+      - Social Studies/.keep
+      - Social Studies/Programmes.md
+      - English Language/.keep
+      - English Language/Programmes.md
+      - English Language/Organisation Chart.md
+      - English Language/Assessment Matters.md
+      - English Language/Useful Links.md
+      - Gifted Education/.keep
+      - Gifted Education/Programmes.md
+      - Gifted Education/Assessment Matters.md
+      - Gifted Education/Useful Links.md
+      - Information & Communications/.keep
+      - Information & Communications/Programmes.md
+      - Information & Communications/Cyber Wellness.md
+      - Information & Communications/Useful Links.md
+      - Mathematics/Organisation Chart.md
+      - Mathematics/.keep
+      - Mathematics/Programmes.md
+      - Mathematics/Assessment Matters.md
+      - Mathematics/Useful Links.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/eComposition.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/Tamil Language.md
+      - Mother Tongue Languages/Useful Links.md
+      - Physical Education/.keep
+      - Physical Education/Programmes.md
+      - Physical Education/Programme for Active Learning (PAL).md
+      - Physical Education/Learning for Life (LLP).md
+      - Physical Education/Useful Links.md
+      - Science/.keep
+      - Science/Programmes.md
+      - Science/Assessment Matters.md
+      - Science/Useful Links.md
+      - SEN/.keep
+      - SEN/Counselling.md
+      - SEN/Useful Links.md
+      - Student Management/.keep
+      - Student Management/Leadership Development Programme.md
+      - Student Management/Peer Support.md
+      - Student Management/Discipline.md
+      - Student Management/Useful Links.md
+      - Experiential Learning/.keep
+      - Experiential Learning/IPWW.md
+      - Experiential Learning/Borderless Learning.md
+      - Experiential Learning/Internationalisation Programme.md
+      - Experiential Learning/Penfriend.md

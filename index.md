@@ -21,10 +21,17 @@ sections:
           description: ""
           url: /physical/
       background: /images/School_Logo/Main_Gif.gif
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION?
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/acps
+      alt: Image alt text
+      image: /images/acps-askgov.png
   - infobar:
       title: The ACS(P) Brand of Education
-      description: "The ACS(P) brand of education is anchored on our Founder, Bishop
-        Oldham’s vision of the ACS philosophy of education. "
+      description: The ACS(P) brand of education is anchored on our Founder, Bishop
+        Oldham’s vision of the ACS philosophy of education.
       button: click here to read more -
       url: /acs-brand-of-education/
 ---

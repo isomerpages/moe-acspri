@@ -1,0 +1,14 @@
+collections:
+  for-students:
+    output: true
+    order:
+      - School Rules.md
+      - Student Learning Space/.keep
+      - Student Learning Space/FAQQ.md
+      - Student Learning Space/Student Learning Space.md
+      - Student iCON/.keep
+      - Student iCON/FAQQ.md
+      - Student iCON/Student iCON.md
+      - School Library/.keep
+      - School Library/Events & Highlights.md
+      - Tinker Friends.md

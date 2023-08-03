@@ -38,10 +38,8 @@ links:
         url: /admin-matters/learning-management-system/
       - title: Bookshop
         url: /admin-matters/bookshop/
-      - title: 2023 P1 Administrative Details
-        url: /admin-matters/2023-P3-Administrative-Details-Annex-A/
-      - title: Calender
-        url: /admin-matters/calender/
+      - title: Calendar
+        url: /admin-matters/calendar/
       - title: Dental Clinic
         url: /admin-matters/dental-clinic/
       - title: Transit Link Hotline
@@ -76,3 +74,5 @@ links:
         url: /publications/school-magazine/
   - title: Home-Based Learning
     url: /home-based-learning/
+  - title: Have a question?
+    url: https://ask.gov.sg/acps

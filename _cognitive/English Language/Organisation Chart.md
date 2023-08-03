@@ -19,7 +19,6 @@ third_nav_title: English Language
 | <img src="/images/eng7.jpg" style="width:30%"> | Mdm Teresa Liew<br> Assistant Year Head (Middle Primary)<br>   [liew_sin_tong_teresa@moe.edu.sg](mailto:liew_sin_tong_teresa@moe.edu.sg) |
 | <img src="/images/eng8.jpg" style="width:30%"> | Mdm Zahara Osman <br> [zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)    |
 | <img src="/images/eng9.jpg" style="width:30%"> | Mrs Hoong Xiu Qin<br> [hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg) |
-| <img src="/images/eng10.jpg" style="width:30%"> | Mr Benny Lau <br> [lau_mun_yip_benny@moe.edu.sg](mailto:lau_mun_yip_benny@moe.edu.sg)   |
 | <img src="/images/eng11.jpg" style="width:30%"> | Mdm Renuka Devi Windersalam <br> [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) |
 | <img src="/images/eng12.jpg" style="width:30%"> | Mrs Neo Lin Li <br> [tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg) |
 | <img src="/images/eng13.jpg" style="width:30%"> | Ms Siti Masyita Md Ali <br> [siti_masyita_mohammad_ali@moe.edu.sg](mailto:siti_masyita_mohammad_ali@moe.edu.sg) |
