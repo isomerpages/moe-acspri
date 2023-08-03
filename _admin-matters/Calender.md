@@ -3,6 +3,6 @@ title: Calender
 permalink: /admin-matters/calender/
 description: ""
 ---
-### **Calender**
+### **Calendar**
 
-**google calender**
+**google calendar**
