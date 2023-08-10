@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Calendar of Events/School Term (Info from MOE).md
       - Calendar of Events/.keep
       - P1 Registration Information/.keep
       - P1 Registration Information/Orientation Video (2022).md
