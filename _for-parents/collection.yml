@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - Admin Matters/School DSA.md
-      - Admin Matters/School Bus.md
-      - Admin Matters/Car Decal Application.md
-      - Admin Matters/Transit Link Hotline.md
-      - Admin Matters/Forms.md
       - Admin Matters/.keep
+      - Admin Matters/Forms.md
+      - Admin Matters/Transit Link Hotline.md
+      - Admin Matters/Car Decal Application.md
+      - Admin Matters/School Bus.md
+      - Admin Matters/School DSA.md
       - Calendar of Events/School Term (Info from MOE).md
       - Calendar of Events/.keep
       - P1 Registration Information/.keep
