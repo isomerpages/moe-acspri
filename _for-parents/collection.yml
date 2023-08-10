@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Admin Matters/.keep
       - Calendar of Events/School Term (Info from MOE).md
       - Calendar of Events/.keep
       - P1 Registration Information/.keep
