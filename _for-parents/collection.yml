@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Personal Data Protection/.keep
       - School Booklist 2023/.keep
       - Admin Matters/.keep
       - Admin Matters/Forms.md
