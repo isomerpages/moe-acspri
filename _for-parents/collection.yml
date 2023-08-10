@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - P1 Registration Information/Orientation Video (2022).md
       - P1 Registration Information/.keep
