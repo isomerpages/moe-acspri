@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Vendor/School Bookshop.md
       - Vendor/Student Care Centre.md
       - Vendor/.keep
       - Personal Data Protection/Privacy Policy.md
