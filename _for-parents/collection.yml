@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Vendor/School Bookshop.md
-      - Vendor/Student Care Centre.md
       - Vendor/.keep
+      - Vendor/Student Care Centre.md
+      - Vendor/School Bookshop.md
       - Personal Data Protection/Privacy Policy.md
       - Personal Data Protection/.keep
       - School Booklist 2023/.keep
