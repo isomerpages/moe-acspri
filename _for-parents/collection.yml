@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Publication/ECHO.md
       - School Publication/.keep
       - Health Care/Dental Clinic.md
       - Health Care/.keep
