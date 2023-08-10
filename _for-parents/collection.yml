@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Admin Matters/School Bus.md
       - Admin Matters/Car Decal Application.md
       - Admin Matters/Transit Link Hotline.md
       - Admin Matters/Forms.md
