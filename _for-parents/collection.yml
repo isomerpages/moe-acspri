@@ -2,24 +2,24 @@ collections:
   for-parents:
     output: true
     order:
-      - School Publication/ECHO.md
-      - School Publication/.keep
-      - Health Care/Dental Clinic.md
-      - Health Care/.keep
-      - Vendor/.keep
-      - Vendor/Student Care Centre.md
-      - Vendor/School Bookshop.md
-      - Personal Data Protection/Privacy Policy.md
-      - Personal Data Protection/.keep
-      - School Booklist 2023/.keep
+      - P1 Registration Information/.keep
+      - P1 Registration Information/Orientation Video (2022).md
+      - P1 Registration Information/School Safety Video.md
+      - Calendar of Events/.keep
+      - Calendar of Events/School Term (Info from MOE).md
       - Admin Matters/.keep
       - Admin Matters/Forms.md
       - Admin Matters/Transit Link Hotline.md
       - Admin Matters/Car Decal Application.md
       - Admin Matters/School Bus.md
       - Admin Matters/School DSA.md
-      - Calendar of Events/School Term (Info from MOE).md
-      - Calendar of Events/.keep
-      - P1 Registration Information/.keep
-      - P1 Registration Information/Orientation Video (2022).md
-      - P1 Registration Information/School Safety Video.md
+      - School Booklist 2023/.keep
+      - Personal Data Protection/.keep
+      - Personal Data Protection/Privacy Policy.md
+      - Vendor/.keep
+      - Vendor/Student Care Centre.md
+      - Vendor/School Bookshop.md
+      - Health Care/.keep
+      - Health Care/Dental Clinic.md
+      - School Publication/.keep
+      - School Publication/ECHO.md
