@@ -76,3 +76,7 @@ links:
     url: /home-based-learning/
   - title: Have a question?
     url: https://ask.gov.sg/acps
+  - title: About US
+    collection: about-us
+  - title: Test1
+    collection: our-programmes
