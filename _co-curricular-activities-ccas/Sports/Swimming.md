@@ -22,5 +22,6 @@ We are eager to carry on the tradition and heritage that in ACS, All-Can-Swim, a
  | Mr Richard Goh Teoh Chuan | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg)   |
 | Mr Chhoa Kok Kheng | [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg) |
 | Mr Perry Chan Chee Keong| [cperry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg) |
+
 ##### **Schedule**
 Mondays & Wednesdays, 2.15 p.m. - 4.15 p.m., ACS(P) Shaw Pool
