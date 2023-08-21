@@ -6,9 +6,9 @@ third_nav_title: Sports
 ---
 # **Floor Ball**
 
-![](/images/floorball%202.jpg)
+![](/images/floorball1.jpg)
 
-![](/images/floorball.jpg)
+![](/images/floorball3.jpg)
 
 #### **Teacher in Charge**
 
