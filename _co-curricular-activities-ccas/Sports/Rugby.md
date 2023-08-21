@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Sports
 ---
 # **Rugby**
+![](/images/badminton%202.jpg)
+
+![](/images/badminton.jpg)
 
 Rugby is a fun-filled and fast-paced sport. There are many health benefits in playing rugby such as cardiovascular fitness and endurance, developing strength in the upper and lower body, agility, speed, ball handling and kicking skills, weight loss, better coordination and many others. It is also a sport in which pupils can have fun with their friends and make new ones too.
 
