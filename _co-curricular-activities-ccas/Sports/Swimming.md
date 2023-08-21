@@ -6,6 +6,10 @@ third_nav_title: Sports
 ---
 # **Swimming**
 
+![](/images/swimming1.jpg)
+
+![](/images/swimming2.jpg)
+
 The Swimming CCA programme in ACS Primary aims to educate pupils on how to be safe when in and around water as well as skills in swimming and personal aquatic survival.
 
 As picking up swimming is a progression, we have two tracks in the Swimming CCA to help the pupils achieve excellence in swimming. First, the Learn to Swim group comprise five different ability levels for the pupils to acquire and achieve foundational swimming skills and strokes.
