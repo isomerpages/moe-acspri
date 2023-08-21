@@ -12,8 +12,8 @@ Bowling (Development) CCA is set up as a training platform for non-school team b
 
 | Name | Email ID |
 |:---:|:---:|
-| Ms Tan Bee Po (i/c) | tan_bee_po@moe.edu.sg |
-|  Miss Ngoh Gek Luan | ngoh_gek_luan@moe.edu.sg |
+| Ms Tan Bee Po (i/c) | [tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)   |
+| Miss Ngoh Gek Luan | [ngoh_gek_luan@moe.edu.sg](mailto:goh_gek_luan@moe.edu.sg)  |
 |
 
 ##### **Schedule**
