@@ -6,9 +6,9 @@ third_nav_title: Clubs
 ---
 # **Synergy**
 
-![](/images/synergy.jpg)
+![](/images/synergy4.JPG)
 
-![](/images/synergy%203.jpg)
+![](/images/synergy1.JPG)
 
 #### **Teachers in Charge**
 
