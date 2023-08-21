@@ -15,7 +15,6 @@ For those pupils who wish to progress further, there are opportunities to advanc
 We are eager to carry on the tradition and heritage that in ACS, All-Can-Swim, and all pupils be enriched with water survival skills and sound swimming skills for any water sport.
 
 ##### **Teachers-In-Charge**
-
 | Name | Email ID |
 |:---:|:---:|
  Mdm Ida Nonanseh (i/c) | [ida_nonaseh_abdul_rahman@moe.edu.sg](mailto:ida_nonaseh_abdul_rahman@moe.edu.sg) |
