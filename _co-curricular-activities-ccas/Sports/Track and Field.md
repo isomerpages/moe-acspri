@@ -6,9 +6,9 @@ third_nav_title: Sports
 ---
 # **Track and Field**
 
-![](/images/track%20and%20field.jpg)
+![](/images/track_field2.jpg)
 
-![](/images/track%20and%20field%203.jpg)
+![](/images/track_field1.jpg)
 
 #### **Teacher in Charge**
 
