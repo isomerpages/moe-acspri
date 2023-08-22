@@ -7,7 +7,10 @@ third_nav_title: Sports
 # **Badminton**
 ![](/images/badminton%202.jpg)
 
-![](/images/badminton.jpg)
+![](/images/badminton1.jpg)
+
+![](/images/badminton2.jpg)
+
 
 #### **Teachers in Charge**
 
