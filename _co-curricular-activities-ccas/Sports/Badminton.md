@@ -9,7 +9,7 @@ third_nav_title: Sports
 
 ![](/images/badminton1.jpg)
 
-![](/images/badminton2.jpg)
+![](/images/badminton3.jpg)
 
 
 #### **Teachers in Charge**
