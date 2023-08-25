@@ -26,7 +26,7 @@ sections:
       subtitle: HAVE A QUESTION?
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/acps
-      alt: Image alt text
+      alt: Image alt text-Test
       image: /images/acps-askgov.png
   - infobar:
       title: The ACS(P) Brand of Education
