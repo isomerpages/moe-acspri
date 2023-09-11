@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Example Title.md
+      - School Booklist 2023.md
       - P1 Registration Information.md
       - Calendar of Events/.keep
       - Calendar of Events/School Term (Info from MOE).md
