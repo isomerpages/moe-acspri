@@ -6,7 +6,6 @@ third_nav_title: School History
 ---
 ### **School Anthem**
 
-<img src="/images/Schoo1_Anthem1.PGg" style="width:30%;margin-right:15px;" align="right">
 
 In days of yore from Western shores  
 Oldham Dauntless hero came  
