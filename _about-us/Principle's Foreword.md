@@ -5,7 +5,7 @@ description: ""
 ---
 # **Principal’s Message**
 
-
+Small Things Matter Much
 Small Things Matter Much
 
 _Here is a boy with five small loaves of barley bread. He also has two small fish. But how far will that go in such a large crowd?_ – John 6:9 (NIRV)
