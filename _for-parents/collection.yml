@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - P1 Registration Information.md
-      - P1 Registration Information/.keep
       - Calendar of Events/.keep
       - Calendar of Events/School Term (Info from MOE).md
       - Admin Matters/.keep
