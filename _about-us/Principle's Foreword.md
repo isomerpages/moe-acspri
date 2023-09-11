@@ -3,9 +3,7 @@ title: Principle's Foreword
 permalink: /about-us/principles-foreword/
 description: ""
 ---
-
-
-***Principal’s Message**
+# **Principal’s Message**
 
 
 Small Things Matter Much
