@@ -33,8 +33,9 @@ description: ""
 | HOD/PE &amp; CCA |[Mr Lim Wee Meng Kelvin](mailto:lim_wee_meng_kelvin@moe.edu.sg)<br>
 | HOD/Science  |[Mr Shen Pinhong Lincoln](mailto:shen_pinhong@schools.gov.sg)<br>
 | Year Head/Lower Primary|[Mrs Lee Chi Loo](mailto:teo_chi_loo@moe.edu.sg)<br>
-|Year Head/Upper Primary  [Mr Koh Yee Lee](mailto:koh_yee_lee@moe.edu.sg)<br>
+|Year Head/Upper Primary | [Mr Koh Yee Lee](mailto:koh_yee_lee@moe.edu.sg)<br>
 |Year Head/Middle Primary |  [Mdm Teresa Liew](mailto:liew_sin_tong_teresa@moe.edu.sg)<br>
+<br>
 
 
 
@@ -52,6 +53,7 @@ description: ""
 | Level Head/Science   | [Mr Chan Tai Yao](mailto:chan_tai_yao@moe.edu.sg)<br>
 | Subject Head/Aesthetics |  [Mdm Anna Asha Mohan](mailto:anna_asha_mohan@moe.edu.sg)<br>
 |Subject Head/CCA &amp; Student Well-Being |  [Mr Edwin Tan](mailto:tan_loon_kiat_edwin@moe.edu.sg)<br>
+<br>
 
 
 ##### **Lead Teachers/Senior Teachers**
