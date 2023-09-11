@@ -4,9 +4,9 @@ permalink: /our-programmes/character-and-citizenship/permalink/
 description: ""
 third_nav_title: Character & Citizenship
 ---
-# **Programmes**
+# **Social Studies**
 
-### **Social Studies**
+
 The Social Studies (SS) curriculum spans across the primary and secondary levels. The curriculum aspires towards the educative growth of the SS learner as an informed, concerned and participative citizen at the end of a full course of SS education.
 
 ##### **The Philosophy of Social Studies**
