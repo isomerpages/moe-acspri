@@ -8,6 +8,9 @@ description: ""
 ### **Small Things Matter Much**
 
 
+
+![](/images/cher1.jpg)
+
 _Here is a boy with five small loaves of barley bread. He also has two small fish. But how far will that go in such a large crowd?_ – John 6:9 (NIRV)
 
 Many of us love picnics. I have fond memories of picnics at the Singapore Botanic Gardens. In true Asian style, our picnic food consisted not of sandwiches, salads or pies packed into vintage baskets, but of _ju kueh_ from a famous hawker stall, home-cooked _char bee hoon_ and traditional local baguette to dip in chicken curry.  There was always plenty to eat.
