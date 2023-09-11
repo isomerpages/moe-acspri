@@ -7,48 +7,48 @@ description: ""
 
 ##### **Primary 1**
 
-| Class |        Name &amp; Email |     Photo |
+|  Class     |             Name  &amp;   Email |     |
 |:---:|:---:|:---:|
-| 1A | Ms Chan Wai Ying<br>[Chan_wai_ying@moe.edu.sg](mailto:Chan_wai_ying@moe.edu.sg)  | <img src="/images/2023 New Staffs/Elyse Chan Photo.jpg" style="width:30%">|
-| 1A | Mrs Koay Gui Mei <br> [he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg) | <img src="/images/p5cher4.jpg" style="width:30%"> |
-| 1A | Mdm Leong Lilian <br> [leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg)   |  <img src="/images/p2cher9.jpg" style="width:30%">  |
-| 1B | Ms Zubaidah <br> [zubaidah_sheik_mohamed_ishak@moe.edu.sg](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)  | <img src="/images/p2cher7.jpg" style="width:30%"> |
-| 1B | Ms Tan Bee Po <br>[tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)  | <img src="/images/p1cher14.jpg" style="width:30%"> |
-| 1C | Mdm Sheryn Pang <br> [pang_shing_hsiu@moe.edu.sg](mailto:pang_shing_hsiu@moe.edu.sg)   | <img src="/images/p2cher8.jpg" style="width:30%"> |
-| 1C | Mrs Sharron Yap<br> [tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg) | <img src="/images/p4cher8.jpg" style="width:30%"> |
-| 1D | Mdm Sarah Su <br> [su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)  | <img src="/images/p2cher12.jpg" style="width:30%"> |
-| 1D | Miss Cheong Sinh Mei <br> [cheong_sinh_mei@acsp.sg](mailto:cheong_sinh_mei@acsp.sg)   | <img src="/images/p2cher4.jpg" style="width:30%"> |
-| 1E | Mrs Gomathi Ravindra <br> [gomathi_ravindra@moe.edu.sg](mailto:gomathi_ravindra@moe.edu.sg)   | <img src="/images/p2cher3.jpg" style="width:30%"> |
-| 1E | Miss Mazeedah M Azmi <br> [mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg) | <img src="/images/p4cher10.jpg" style="width:30%"> |
-| 1F | Mrs Jasmine Lim <br> [ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg)    | <img src="/images/p2cher10.jpg" style="width:30%"> |
-| 1F | Ms Tan Siow Hwee <br> [tan_siow_hwee@moe.edu.sg](mailto:tan_siow_hwee@moe.edu.sg)    | <img src="/images/2023 New Staffs/tan_siow_hwee.png" style="width:30%"> |
-| 1G | Mdm Punitha Kasipandy <br> [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)  | <img src="/images/p4cher12.jpg" style="width:30%"> |
-| 1G | Miss Patricia Lim <br> [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)     | <img src="/images/p2cher2.jpg" style="width:30%"> |
-| 1H | Mrs Janis Pavia <br> [lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg) | <img src="/images/p2cher14.jpg" style="width:30%"> |
-| 1H | Mdm Najuma Banu <br> [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg) | <img src="/images/p2cher13.jpg" style="width:30%"> |
+| 1A | Ms Chan Wai Ying<br>[Chan_wai_ying@moe.edu.sg](mailto:Chan_wai_ying@moe.edu.sg)  |
+| 1A | Mrs Koay Gui Mei <br> [he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg) | 
+| 1A | Mdm Leong Lilian <br> [leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg)   | 
+| 1B | Ms Zubaidah <br> [zubaidah_sheik_mohamed_ishak@moe.edu.sg](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)  | 
+| 1B | Ms Tan Bee Po <br>[tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)  |
+| 1C | Mdm Sheryn Pang <br> [pang_shing_hsiu@moe.edu.sg](mailto:pang_shing_hsiu@moe.edu.sg)   | 
+| 1C | Mrs Sharron Yap<br> [tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg) | 
+| 1D | Mdm Sarah Su <br> [su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)  | 
+| 1D | Miss Cheong Sinh Mei <br> [cheong_sinh_mei@acsp.sg](mailto:cheong_sinh_mei@acsp.sg)   | 
+| 1E | Mrs Gomathi Ravindra <br> [gomathi_ravindra@moe.edu.sg](mailto:gomathi_ravindra@moe.edu.sg)   | 
+| 1E | Miss Mazeedah M Azmi <br> [mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg) | 
+| 1F | Mrs Jasmine Lim <br> [ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg)    | 
+| 1F | Ms Tan Siow Hwee <br> [tan_siow_hwee@moe.edu.sg](mailto:tan_siow_hwee@moe.edu.sg)    | 
+| 1G | Mdm Punitha Kasipandy <br> [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)  | 
+| 1G | Miss Patricia Lim <br> [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)     |
+| 1H | Mrs Janis Pavia <br> [lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg) | 
+| 1H | Mdm Najuma Banu <br> [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg) | 
 
 
 ##### **Primary 2**
 
-| Class | Name &amp; Email | Photo |
+| Class | Name &amp; Email |  |
 |:---:|:---:|:---:|
-| 2A | Mrs Christine Ho<br>[tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  | <img src="/images/p1cher1.jpg" style="width:30%">|
-| 2A | Mr Chhoa Kok Kheng <br>[chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  | <img src="/images/p1cher2.jpg" style="width:30%"> |
-| 2B | Mr George Mui Seng Chiu<br>[george_mui_seng_chiu@moe.edu.sg](mailto:george_mui_seng_chiu@moe.edu.sg) <br> | <img src="/images/p1cher4.jpg" style="width:30%"> |
-| 2B | Mrs Heng Xiu Qin <br>[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg) <br> | <img src="/images/p1cher3.jpg" style="width:30%"> |
-| 2C | Mdm Li Chunju <br> [li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg) | <img src="/images/p4cher16.jpg" style="width:30%"> |
-| 2C | Mr Charles Zhang Zong Yang<br>[zhang_zong_yang_charles@moe.edu.sg](mailto:zhang_zong_yang_charles@moe.edu.sg)  | <img src="/images/p1cher6.jpg" style="width:30%"> |
-| 2D | Mdm Zarinah Eunos<br>[zarinah_mohamed_eunos@moe.edu.sg](mailto:zarinah_mohamed_eunos@moe.edu.sg) | <img src="/images/p1cher7.jpg" style="width:30%"> |
-| 2D | Mdm Wong Mei Kuen<br>[wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg) | <img src="/images/p1cher8.jpg" style="width:30%"> |
-| 2E | Mr Mark Leong Bao Wen<br>[leong_bao_wen_mark@moe.edu.sg](mailto:leong_bao_wen_mark@moe.edu.sg)<br> | <img src="/images/p1cher10.jpg" style="width:30%"> |
-| 2E | Mdm Jovina Tan<br>[jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg) | <img src="/images/p1cher9.jpg" style="width:30%"> |
-| 2F | Mdm Jenn Ang <br> [jenn_ang@moe.edu.sg](mailto:jenn_ang@moe.edu.sg) | <img src="/images/p5cher6.jpg" style="width:30%"> |
-| 2F | Mdm Zahara Osman<br>[zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)<br> | <img src="/images/p1cher11.jpg" style="width:30%"> |
-| 2G | Mdm Siti Karmila<br>[siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg) | <img src="/images/p1cher13.jpg" style="width:30%"> |
-| 2G | Mdm Tan Sin Min<br>[Tan_sin_min@moe.edu.sg](mailto:Tan_sin_min@moe.edu.sg) | <img src="/images/2023 New Staffs/Tan Sin Min.jpg" style="width:30%"> |
-| 2G | Mr Goh Teoh Chuan (Richard) <br> [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg) | <img src="/images/p3cher5.jpg" style="width:30%"> |
-| 2H | Mrs Suja Anbazhagan<br>[anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg)<br> | <img src="/images/p1cher16.jpg" style="width:30%"> ||
-| 2H | Mdm Chan Soo Ping <br>[chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg) | <img src="/images/p1cher15.jpg" style="width:30%"> |
+| 2A | Mrs Christine Ho<br>[tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  |
+| 2A | Mr Chhoa Kok Kheng <br>[chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  | 
+| 2B | Mr George Mui Seng Chiu<br>[george_mui_seng_chiu@moe.edu.sg](mailto:george_mui_seng_chiu@moe.edu.sg) <br> |
+| 2B | Mrs Heng Xiu Qin <br>[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg) <br> |
+| 2C | Mdm Li Chunju <br> [li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg) | 
+| 2C | Mr Charles Zhang Zong Yang<br>[zhang_zong_yang_charles@moe.edu.sg](mailto:zhang_zong_yang_charles@moe.edu.sg)  | 
+| 2D | Mdm Zarinah Eunos<br>[zarinah_mohamed_eunos@moe.edu.sg](mailto:zarinah_mohamed_eunos@moe.edu.sg) | 
+| 2D | Mdm Wong Mei Kuen<br>[wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg) | 
+| 2E | Mr Mark Leong Bao Wen<br>[leong_bao_wen_mark@moe.edu.sg](mailto:leong_bao_wen_mark@moe.edu.sg)<br> | 
+| 2E | Mdm Jovina Tan<br>[jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg) | 
+| 2F | Mdm Jenn Ang <br> [jenn_ang@moe.edu.sg](mailto:jenn_ang@moe.edu.sg) | 
+| 2F | Mdm Zahara Osman<br>[zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)<br> |
+| 2G | Mdm Siti Karmila<br>[siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg) | 
+| 2G | Mdm Tan Sin Min<br>[Tan_sin_min@moe.edu.sg](mailto:Tan_sin_min@moe.edu.sg) | 
+| 2G | Mr Goh Teoh Chuan (Richard) <br> [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg) | 
+| 2H | Mrs Suja Anbazhagan<br>[anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg)<br> |
+| 2H | Mdm Chan Soo Ping <br>[chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg) | 
 |
 
 ##### **Primary 3**
