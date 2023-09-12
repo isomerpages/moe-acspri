@@ -37,58 +37,42 @@ Please refer to the attached Student iCON Onboarding guide for the list of defau
 
 ##### Q5. What is the password requirement?
 
-
 Please follow the password requirements below:
 
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must be at least 8 character(s) long
+	Password must be at least 8 character(s) long
+	Password must contain at least 1 lowercase letter(s).
+	Password must contain at least 1 numeric character(s).
+	Password must contain at least 1 uppercase letter(s).
+	Password must contain at least 2 alphabetic character(s).
+	Password must not be longer than 24 character(s).
+	Password must not be one of 3 previous passwords.
+ 	Password must not match or contain first name.
+	Password must not match or contain last name.
+	Password must not match or contain user ID.
 
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must contain at least 1 lowercase letter(s).
-
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must contain at least 1 numeric character(s).
-
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must contain at least 1 uppercase letter(s).
-
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must contain at least 2 alphabetic character(s).
-
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not be longer than 24 character(s).
-
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not be one of 3 previous passwords.
-
-  
-
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not match or contain first name.
-
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not match or contain last name.
-
-×&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Password must not match or contain user ID.
 
 ##### Q6. What should I do if I have encountered one of the following problems:
+	
+	Error AADSTS900561 given by the Google website.
+	
+	Website does not load.
+	Website keeps refreshing between two sites without loading any page.
+	Website keeps refreshing itself without loading the page.
 
+a)	Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate
+to https://workspace.google.com/dashboard and repeat the logging in procedure.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Error AADSTS900561 given by the Google website.
+b)	If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to https://workspace.google.com/dashboard and repeat the logging in procedure.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website does not load.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website keeps refreshing between two sites without loading any page.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Website keeps refreshing itself without loading the page.
-
-a)&nbsp; Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate
-
-to [**https://workspace.google.com/dashboard**](https://workspace.google.com/dashboard) and repeat the logging in procedure.
-
-b)&nbsp; If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to [**https://workspace.google.com/dashboard**](https://workspace.google.com/dashboard) and repeat the logging in procedure.
-
-c)&nbsp; Contact the school's General Office at **6250 1633**.
+c)	Contact the school's General Office at 6250 1633.
 
 Operating Hours:
-
 Mondays to Thursdays: 7.30 a.m. to 5 p.m. Fridays: 7 a.m. to 5 p.m.
+*Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
 
-\*Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
 
 ##### Q7. I receive the following message: Your account is temporarily locked to prevent unauthorized use.
-====================================================================================================
+
 
 **What should I do?**
 
