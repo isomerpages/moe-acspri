@@ -10,7 +10,7 @@ third_nav_title: Admin Matters
   
 [Change Of Student's Address](/files/CHANGE%20OF%20STUDENT'S%20ADDRESS%20FORM%20(Form%20C).pdf)
   
-[Interbank Giro Application](/files/interbank%20giro.pdf)
+[Giro Application](/files/interbank%20giro.pdf)
   
 [Termination of Interbank Giro](/files/GIRO_Termination_Form_revisedSep19.pdf)
   
