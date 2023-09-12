@@ -4,10 +4,9 @@ permalink: /for-parents/personal-data-protection/privacy-policy/
 description: ""
 third_nav_title: Personal Data Protection
 ---
-##* Privacy Policy**                                                                                                                 
-**Privacy Policy**
+                                                                                                             
+##### **Privacy Policy**
 
-**Privacy Statement**
 
 1.  This is Anglo-Chinese School (Primary) website. Thank you for examining our privacy statement.
 
