@@ -4,14 +4,13 @@ permalink: /our-programmes/student-management/permalink/
 description: ""
 third_nav_title: Student Management
 ---
-
 ##  Student Management Department
 
 At ACS(P), we strive to provide a safe, caring and enabling environment for all students to learn, play and grow. This is achieved by having a consistent disciplinary framework, and at the same time,focusing on the well-being of our students by having a holistic peer support programme to strengthen the relationships between peers in the physical world as well as extending these skills and attributes in cyberspace. Last but not least, at ACS(P), every student is a leader and hence, there are ample opportunities for students to take on leadership roles.
 
  The Student Management Department in ACS(P) focuses on the following domains:
 
-![](file:///C:/Users/S27193~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+![](/images/CCA%2001.png)
 
 **Student Well- Being**
 
@@ -37,12 +36,12 @@ We adopt a proactive and positive approach in managing discipline. Students lear
 
 ●     **Replace and Restore** - The ultimate goal is for students to develop self-discipline and good character. Teachers help misbehaving students to replace their inappropriate behaviours with prosocial, appropriate ones, and to restore relationships with others who are hurt by their actions.
 
-![A diagram of a positive and proactive approach to discipline
-Description automatically generated](file:///C:/Users/S27193~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![](/images/studentmanagement2.png)
+
 
 Our tiered framework in supporting all students is shown below.
 
-![](file:///C:/Users/S27193~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif)
+![](/images/student_management3%20.png)
 
 **Leadership**
 
