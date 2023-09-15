@@ -6,7 +6,6 @@ third_nav_title: Experiential Learning
 ---
 ## **Internationalisation Programme**
 
-Internationalisation Programme
 
 The aim of the internationalisation programme is to instil in our students the 21st Century Competencies (21CC) of global awareness and cross-cultural skills. This is especially relevant in today's context as international cooperation is vital in our increasingly complex and interconnected world.  
   
