@@ -6,9 +6,6 @@ third_nav_title: Sports
 ---
 # **Track and Field**
 
-![](/images/track_field2.jpg)
-
-![](/images/track_field1.jpg)
 
 #### **Teacher in Charge**
 
@@ -42,6 +39,7 @@ National School Games
 * 7th in Junior 1 Medicine Ball Throw(2kg)
 * 8th in Junior 1 Overhand Beanbag Throw
 
-![](/images/track%20and%20field%204.jpg)
 
-![](/images/track%20and%20field%202.jpg)
+![](/images/track_field2.jpg)
+
+![](/images/track_field1.jpg)
