@@ -6,9 +6,7 @@ third_nav_title: Uniform Groups
 ---
 # **Boys Brigade**
 
-![](/images/boys%20brigade%202.JPG)
 
-![](/images/boys%20brigade.jpg)
 
 #### **Teachers in Charge**
 
@@ -42,3 +40,6 @@ The BB aims to advance Christ’s Kingdom and the promotion of habits of obedien
 
 ![](/images/boys%20brigade%206.jpg)
 
+![](/images/boys%20brigade%202.JPG)
+
+![](/images/boys%20brigade.jpg)
