@@ -9,6 +9,10 @@ description: ""
   
 #### Management Committee
 
+
+
+
+
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="600" style="width:449.75pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt"><td width="198" valign="top" style="width:148.25pt;border:solid black 1.0pt;
   mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -540,7 +544,7 @@ description: ""
 
   
 
-School Teaching Committee (STC)
+#### School Teaching Committee (STC)
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="594" style="width:445.25pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt"><td width="181" valign="top" style="width:135.95pt;border:solid windowtext 1.0pt;
@@ -714,9 +718,9 @@ School Teaching Committee (STC)
   &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none;
   mso-ansi-language:EN-US;mso-bidi-language:TA">ng_siew_may_gladys@moe.edu.sg</span></p></td></tr></tbody></table>
 
-Teachers by Department
+### Teachers by Department
 
-Aesthetics
+##### Aesthetics
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="541" style="width:405.65pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt"><td width="245" valign="top" style="width:184.0pt;border:solid black 1.0pt;
@@ -790,7 +794,7 @@ Aesthetics
   &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none;
   mso-ansi-language:EN-US;mso-bidi-language:TA"></span></p></td></tr></tbody></table>
 
-CCE
+#### CCE
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="765" style="width:573.55pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt;mso-row-margin-right:
@@ -872,7 +876,7 @@ CCE
   &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none;
   mso-ansi-language:EN-US;mso-bidi-language:TA"></span></p></td><td style="mso-cell-special:placeholder;border:none;padding:0in 0in 0in 0in" width="274"><p class="MsoNormal">&nbsp;</p></td></tr></tbody></table>
 
-English Department
+#### English Department
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="528" style="width:395.65pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt"><td width="245" valign="top" style="width:184.0pt;border:solid black 1.0pt;
@@ -1078,7 +1082,7 @@ English Department
   &quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;mso-ligatures:none;
   mso-ansi-language:EN-US;mso-bidi-language:TA"></span></p></td></tr></tbody></table>
 
-Gifted Education
+#### Gifted Education
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="494" style="width:370.65pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt"><td width="245" valign="top" style="width:184.0pt;border:solid windowtext 1.0pt;
