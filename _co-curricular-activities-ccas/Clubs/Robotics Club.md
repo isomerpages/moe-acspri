@@ -39,3 +39,8 @@ The objectives of the Robotics Club are to train members in programming and prov
 -	1st in Best Programming Award, 
 -	2nd and 3rd in Best Robot Performance Award, 
 -	1st and 3rd in Championship Award!
+
+![](/images/robotic.jpg)
+
+![](/images/robotic11AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.jpg)
+
