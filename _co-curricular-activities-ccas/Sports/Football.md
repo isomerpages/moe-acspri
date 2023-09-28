@@ -6,9 +6,6 @@ third_nav_title: Sports
 ---
 # **Football**
 
-![](/images/football%203.jpg)
-
-![](/images/football%204.jpg)
 
 
 #### **Teachers-In-Charge**
@@ -59,3 +56,8 @@ Football is a team sport which builds body and mental strength, agility and coor
 ![](/images/football%202.jpg)
 
 ![](/images/football%205.jpg)
+
+
+![](/images/football%203.jpg)
+
+![](/images/football%204.jpg)
