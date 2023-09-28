@@ -25,9 +25,7 @@ description: ""
 | Librarian ||Ms Amy Ng 
 <br>
 
-
 ##### **School Counsellor**
-
 | Title |  |Name |
 | -------- | ------| -------- |
 |Senior School Counsellor | | [Mr Desmond Liew](mailto:liew_shuh_onn@moe.edu.sg)<br>
