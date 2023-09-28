@@ -6,6 +6,7 @@ description: ""
 ### **Teachers by Department**
 
 
+
 ##### Aesthetics
 |   Name |    E-mail |
 | --------| -------- | 
@@ -17,8 +18,8 @@ description: ""
 |	Zubaidah Bte Sheik Mohamed Ishak (Ms)	|[zubaidah_sheik_mohamed_ishak@moe.edu.sg](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)|
 
 ##### CCE
-| Name | E-mail |
-| -------- | -------- |
+|   Name |    E-mail |
+| --------| -------- | 
 |	Christine Ho (Mrs)	|[tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)|
 |	Ho Lim Hwei (Ms)	|[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
 |	Desmond Liew	|[liew_shuh_onn@moe.edu.sg](mailto:liew_shuh_onn@moe.edu.sg)|
