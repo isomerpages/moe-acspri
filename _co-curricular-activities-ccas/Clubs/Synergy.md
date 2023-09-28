@@ -6,9 +6,6 @@ third_nav_title: Clubs
 ---
 # **Synergy**
 
-![](/images/synergy4.JPG)
-
-![](/images/synergy1.JPG)
 
 #### **Teachers in Charge**
 
@@ -34,3 +31,8 @@ The group is guided by veteran coach Mr Yutaki Ong. Teachers work with coach and
 * Participated in the 2022 SYF Presentation
 
 ![](/images/synergy%202.jpg)
+
+
+![](/images/synergy4.JPG)
+
+
