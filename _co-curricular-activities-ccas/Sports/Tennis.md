@@ -6,12 +6,6 @@ third_nav_title: Sports
 ---
 # **Tennis**
 
-![](/images/tennis1.JPG)
-
-
-![](/images/tennis3.JPG)
-
-![](/images/tennis2.JPG)
 
 #### **Teacher in Charge**
 
@@ -49,3 +43,11 @@ The Tennis CCA takes part in the National School Games (NSG) organised by the Si
 ![](/images/tennis%204.jpg)
 
 ![](/images/tennis%205.jpg)
+
+
+![](/images/tennis1.JPG)
+
+
+![](/images/tennis3.JPG)
+
+![](/images/tennis2.JPG)
