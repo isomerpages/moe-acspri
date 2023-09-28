@@ -5,10 +5,6 @@ description: ""
 ---
 ##### **Executive and Administration Staff**
 
-
-
-
-
 | Title |  |Name |
 | -------- | ------| -------- |
 |Admin Manager  || [Miss Lim Siew Lay](mailto:lim_siew_lay_a@schools.gov.sg)
