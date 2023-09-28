@@ -45,9 +45,11 @@ knowledge, skills and values in a nurturing manner<style>
 
 <span class="highlight">A</span>FFIRM
 
-Affirming each other by encouraging and providing emotional support
-(Affective domain).
-
+Affirming each other by encouraging and providing emotional support<style>    .highlight {
+      color: #CE0E2D;
+      font-size:20px
+    }
+  </style>(<span class="highlight">A</span>ffective domain).
 
 <span class="highlight">R</span>ELATE
 
