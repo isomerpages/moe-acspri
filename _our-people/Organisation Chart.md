@@ -62,12 +62,12 @@ description: ""
  | CL Level Representative - P2|Miss Patricia Lim | [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)  |
  |CL Level Representative - P3| Mdm Jeannie Yeo| [yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg) |
  | CL Level Representative - P3| Ms Tan Bee Po|[tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg) |
-|  Mr Chua Hoe Leong Daniel <br> CL Level Representative - P4 <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)   |
- | Ms Ho Lim Hwei <br> CL Level Representative - P5  <br>[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg) |
-|  Ms Chan Wai Kin <br> Level Head/Chinese Language CL Level Representative - P5 HCL <br> [chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg) |
- | Mdm Tan Poh Yee Wendy <br> CL Level Representative - P5 FCL <br>  [tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)   |
-  Mdm Li Chunju <br> CL Level Representative - P6 <br> [li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg) |
- |  Mr Chhoa Kok Kheng <br> CL Level Representative - P6 <br> [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  |
+|CL Level Representative - P4|  Mr Chua Hoe Leong Daniel | [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)   |
+ |CL Level Representative - P5| Ms Ho Lim Hwei |[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg) |
+| Level Head/Chinese Language CL Level Representative - P5 HCL| Ms Chan Wai Kin |[chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg) |
+ |  CL Level Representative - P5 FCL|Mdm Tan Poh Yee Wendy |  [tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)   |
+  |CL Level Representative - P6|Mdm Li Chunju|[li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg) |
+ |CL Level Representative - P6 |  Mr Chhoa Kok Kheng | [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  |
 | Mdm Ngoh Gek Luan <br> CL Level Representative - P6 FCL <br>  [ngoh_gek_luan@acsp.sg](mailto:ngoh_gek_luan@acsp.sg) |
 | Mdm Cheong Sinh Mei <br> [cheong_sinh_mei@acsp.sg](mailto:cheong_sinh_mei@acsp.sg) |
 |
