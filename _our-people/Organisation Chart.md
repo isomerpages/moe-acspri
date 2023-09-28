@@ -9,34 +9,33 @@ description: ""
 
 
 
-
-
-| Title | Name | E-mail |
+| Title| Name | E-mail |
 | -------- | -------- | -------- |
 |  Head of Department/English  |    Mdm Suzanna Hashim | suzanna_hashim@moe.edu.sg |  
 | Level Head/English|Mdm Jasmine Kaur | jasmine_kaur@moe.edu.sg| 
-| Mdm Sarah Su| |  [su_xinhui_sarah@moe.edu.sg]|
-| Mdm  Ida Nonanseh <br>Senior Teacher/English <br> [ida_nonanseh_abdul_rahman@moe.edu.sg](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg) |
-|  Mdm Zahara Osman <br> [zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)    |
-| Mrs Hoong Xiu Qin<br> [hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg) |
- | Mdm Renuka Devi Windersalam <br> [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) |
-|  Ms Siti Masyita Md Ali <br> [siti_masyita_mohammad_ali@moe.edu.sg](mailto:siti_masyita_mohammad_ali@moe.edu.sg) |
-| Ms Woon Yuet Meng <br> [woon_yuet_moon@moe.edu.sg](mailto:woon_yuet_moon@moe.edu.sg)  |
-|  Mr Edmund Wu <br> [edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg) |
-| &lt;  Mr Colin Sim <br> [sim_yaowen_colin@moe.edu.sg](mailto:sim_yaowen_colin@moe.edu.sg)  |
-|   Ms Chan Soo Ping <br>  [chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg) |
-|   Mr Adrian Kum <br> [kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg)  |
-| Ms Siti Nurjannah Saaet <br> EL Coordinator <br>  [siti_nurjannah_saaet@moe.edu.sg](mailto:siti_nurjannah_saaet@moe.edu.sg)  |
-|   Mrs Shirley Toh <br> [katherine_shirley_shanti_doray@moe.edu.sg](mailto:katherine_shirley_shanti_doray@moe.edu.sg)  |
-|  Mrs Jovina Lee <br> Learning Support Programme Coordinator<br>   [jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg) |
+| Teacher|Mdm Sarah Su |  su_xinhui_sarah@moe.edu.sg|
+| Senior Teacher/English|Mdm  Ida Nonanseh|  ida_nonanseh_abdul_rahman@moe.edu.sg|
+| Teacher | Mdm Zahara Osman |zahara_osman@moe.edu.sg |
+| Teacher|Mrs Hoong Xiu Qin|[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg) |
+ |Teacher | Mdm Renuka Devi Windersalam|[windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) |
+| Teacher | Ms Siti Masyita Md Ali |[siti_masyita_mohammad_ali@moe.edu.sg](mailto:siti_masyita_mohammad_ali@moe.edu.sg) |
+| Teacher |Ms Woon Yuet Meng |[woon_yuet_moon@moe.edu.sg](mailto:woon_yuet_moon@moe.edu.sg)  |
+| Teacher| Mr Edmund Wu |[edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg) |
+|Teacher|  Mr Colin Sim |[sim_yaowen_colin@moe.edu.sg](mailto:sim_yaowen_colin@moe.edu.sg)  |
+|Teacher| Ms Chan Soo Ping |  [chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg) |
+| Teacher|  Mr Adrian Kum |[kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg)  |
+|  EL Coordinator|Ms Siti Nurjannah Saaet | [siti_nurjannah_saaet@moe.edu.sg](mailto:siti_nurjannah_saaet@moe.edu.sg)  |
+| Teacher|  Mrs Shirley Toh |[katherine_shirley_shanti_doray@moe.edu.sg](mailto:katherine_shirley_shanti_doray@moe.edu.sg)  |
+| Learning Support<br> Programme Coordinator  |Mrs Jovina Lee| <br> [jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg) |
 |
 
 ##### **Mathematics Department**
 
-|  |  |
-|:---:|:---:|
-| Miss Tay Kwee Hong (Diana) <br> Head of Department/Mathematics <br> [tay_kwee_hong@moe.edu.sg](mailto:tay_kwee_hong@moe.edu.sg) |
-| Mrs Farisa Hussain <br> Senior Teacher/Mathematics <br>  [farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg) |
+
+| Title| Name | E-mail |
+| -------- | -------- | -------- |
+|Head of Department/Mathematics| Miss Tay Kwee Hong (Diana)| [tay_kwee_hong@moe.edu.sg](mailto:tay_kwee_hong@moe.edu.sg) |
+| Senior Teacher/Mathematics | Mrs Farisa Hussain|  [farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg) |
 |  Mdm Punita Kasipandy <br> 2023  P5 MA Representative  2023 P1 LSM Programme Coordinator <br> [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg) |
 |  Mrs Jasmine Lim <br> 2021 P1 MA Representative <br>     [ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg) |
 |   Mr Vijayakumaran Govindasamy <br> 2021 P3 MA Representative <br>    [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg) |
