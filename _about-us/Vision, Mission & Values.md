@@ -36,13 +36,18 @@ The Best Is Yet To Be
 <span class="highlight">C</span>OACH
 
 Coaching involves guiding each other in the expected behaviours where we educate one another in
-knowledge, skills and values in a nurturing manner
-(Affective, Cognitive, Social, Physical domains).
+knowledge, skills and values in a nurturing manner<style>
+    .highlight {
+      color: #CE0E2D;
+      font-size:20px
+    }
+  </style>(<span class="highlight">A</span>ffective, <span class="highlight">C</span>ognitive, <span class="highlight">S</span>ocia, <span class="highlight">P</span>hysical domain)
 
 <span class="highlight">A</span>FFIRM
 
 Affirming each other by encouraging and providing emotional support
 (Affective domain).
+
 
 <span class="highlight">R</span>ELATE
 
