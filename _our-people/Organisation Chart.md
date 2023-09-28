@@ -11,10 +11,10 @@ description: ""
 
 
 
-| Name |  Title | E-mail |
+| Title | Name | E-mail |
 | -------- | -------- | -------- |
-|  Mdm Suzanna Hashim   | Head of Department/Englis    | suzanna_hashim@moe.edu.sg   |  
-| Mdm Jasmine Kaur| Level Head/English| jasmine_kaur@moe.edu.sg| 
+|  Head of Department/English  |    Mdm Suzanna Hashim | suzanna_hashim@moe.edu.sg |  
+| Level Head/English|Mdm Jasmine Kaur | jasmine_kaur@moe.edu.sg| 
 | Mdm Sarah Su| |  [su_xinhui_sarah@moe.edu.sg]|
 | Mdm  Ida Nonanseh <br>Senior Teacher/English <br> [ida_nonanseh_abdul_rahman@moe.edu.sg](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg) |
 |  Mdm Zahara Osman <br> [zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)    |
