@@ -54,14 +54,29 @@ Affirming each other by encouraging and providing emotional support<style>    .h
 <span class="highlight">R</span>ELATE
 
 Establishing meaningful and effective rapport with one another and building a congenial and collaborative
-school/working environment
-(Social domain).
+school/working environment<style>    .highlight {
+      color: #CE0E2D;
+      font-size:20px
+    }
+  </style>(<span class="highlight">S</span>ocial domain).
 
-<span class="highlight">E</span>NTHUSE
+<span class="highlight">R</span>ELATE
+
+
+
 
 Engaging one another so as to motivate each other to be innovative and to excel in whatever we do,
-whether academically or in our chosen sports or areas of interest
-(Affective, Cognitive, Social, Physical domains).
+whether academically or in our chosen sports or areas of interest<style>
+    .highlight {
+      color: #CE0E2D;
+      font-size:20px
+    }
+  </style>(<span class="highlight">A</span>ffective, <span class="highlight">C</span>ognitive, <span class="highlight">S</span>ocia, <span class="highlight">P</span>hysical domain)
+
+
+
+
+
 
 #### **Our Strategic Thrusts**
 
