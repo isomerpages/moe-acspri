@@ -16,13 +16,10 @@ description: ""
 ### **Small Things Matter Much**
 
 
-<img src="/images/ppp11263456.jpg" style="width:40%;margin-right:5px;" align="right">
+<img src="/images/ppp11263456.jpg" style="width:30%;margin-right:0px;" align="right">
 Here is a boy with five small loaves of barley bread. He also has two small fish. But how far will that go in such a large crowd?_ – John 6:9 (NIRV) 
 
 Many of us love picnics. I have fond memories of picnics at the Singapore Botanic Gardens. In true Asian style, our picnic food consisted not of sandwiches, salads or pies packed into vintage baskets, but of _ju kueh_ from a famous hawker stall, home-cooked _char bee hoon_ and traditional local baguette to dip in chicken curry.&nbsp; There was always plenty to eat.
-
-
-
 
 We are told of another picnic that took place more than two thousand years ago where 5,000 men were present (or some 15,000 if we included women and children). A large crowd was following Jesus because they had seen Him perform miracles. As it was getting late, He told His disciples to give the people something to eat. Phillip, a disciple quick with mental sums, estimated that it would take two hundred denarii (a denarius was a day’s wage for a labourer) to buy enough food to feed all of them.
 
