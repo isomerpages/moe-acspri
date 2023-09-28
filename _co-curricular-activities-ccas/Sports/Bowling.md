@@ -6,11 +6,7 @@ third_nav_title: Sports
 ---
 # **Bowling**
 
-![](/images/bowling1.jpg)
 
-![](/images/bowling2.jpg)
-
-![](/images/bowling3.jpg)
 
 #### **1. Bowling Development**
 Bowling (Development) CCA is set up as a training platform for non-school team bowlers. Pupils who have interest in this sport may sign up for this CCA. They will undergo a selection trial during the first bowling session. Pupils not selected will be channeled to the other CCAs that they have chosen. Two-way transport is provided.
@@ -48,3 +44,9 @@ Only for School Team members. Two-way transport is provided for both Mon and Wed
 ##### **Schedule**
 Mondays, 2.30 p.m. – 4.30 p.m.,&nbsp;Venue will change depending on competition venue.<br>
 Wednesdays, 2 .30 p.m. – 4.30 p.m., SAFRA (Toa Payoh)
+
+![](/images/bowling1.jpg)
+
+![](/images/bowling2.jpg)
+
+![](/images/bowling3.jpg)
