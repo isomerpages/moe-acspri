@@ -5,11 +5,6 @@ description: ""
 third_nav_title: Sports
 ---
 # **Rugby**
-![](/images/rugby3.jpg)
-
-![](/images/rugby2.jpg)
-
-![](/images/rugby1.jpg)
 
 
 
@@ -21,8 +16,10 @@ Rugby also inculcates important values such as perseverance, unity and sportsman
 
 ##### **Teachers-In-Charge**
 
-| Name | Email ID |
-|:---:|:---:|
+
+
+| Name | E-Mail | 
+| -------- | -------- | 
 | Mr Ho Shin Hoo (i/c) | [ho_shin_hoo@moe.edu.sg](mailto:ho_shin_hoo@moe.edu.sg) |
 | Mr George Mui | [george_mui_seng_chiu@moe.edu.sg](mailto:george_mui_seng_chiu@moe.edu.sg)  |
 | Mr Kelvin Chan | [kelvin_chan_yong_meng@moe.edu.sg](mailto:kelvin_chan_yong_meng@moe.edu.sg) |
@@ -39,3 +36,9 @@ Saturdays, 8.00 a.m. – 9.30 a.m., Venue to be confirmed
   
 **Enrichment**<br>
 Saturdays,9.45 a.m. – 11.15 a.m.,&nbsp; Venue to be confirmed
+
+![](/images/rugby3.jpg)
+
+![](/images/rugby2.jpg)
+
+![](/images/rugby1.jpg)
