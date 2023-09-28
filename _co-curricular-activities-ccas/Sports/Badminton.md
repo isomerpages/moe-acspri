@@ -5,13 +5,7 @@ description: ""
 third_nav_title: Sports
 ---
 # **Badminton**
-![](/images/badminton%202.jpg)
 
-![](/images/badminton1.JPG)
-
-![](/images/badminton2.JPG)
-
-![](/images/badminton3.JPG)
 
 
 #### **Teachers in Charge**
@@ -40,3 +34,11 @@ The achievements of our school teams have always inspired the boys in the Recrea
 * NSG Badminton Senior Boys 2021&nbsp;– 1st Runner-Up
 
 ![](/images/badminton%203.jpg)
+
+![](/images/badminton%202.jpg)
+
+![](/images/badminton1.JPG)
+
+![](/images/badminton2.JPG)
+
+![](/images/badminton3.JPG)
