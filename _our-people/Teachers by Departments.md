@@ -7,11 +7,8 @@ description: ""
 
 
 ##### Aesthetics
-	
-	
-
-| Name | E-mail |
-| -------- | -------- | 
+|   Name |    E-mail |
+| --------| -------- | 
 |	Jillianne Chew (Mdm)	|[jillianne_chew_li_ing@moe.edu.sg](mailto:jillianne_chew_li_ing@moe.edu.sg)|
 |	Anna Asha Mohan (Mdm)	|[anna_asha_mohan@moe.edu.sg](mailto:anna_asha_mohan@moe.edu.sg)|
 |	Gomathi Ravindra (Mrs)	|[gomathi_ravindra@moe.edu.sg](mailto:gomathi_ravindra@moe.edu.sg)|
@@ -19,12 +16,9 @@ description: ""
 |	Sharron Yap (Mrs)	|[tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg)|
 |	Zubaidah Bte Sheik Mohamed Ishak (Ms)	|[zubaidah_sheik_mohamed_ishak@moe.edu.sg](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)|
 
-
 ##### CCE
-	
-	
 | Name | E-mail |
-| -------- | -------- | 
+| -------- | -------- |
 |	Christine Ho (Mrs)	|[tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)|
 |	Ho Lim Hwei (Ms)	|[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
 |	Desmond Liew	|[liew_shuh_onn@moe.edu.sg](mailto:liew_shuh_onn@moe.edu.sg)|
@@ -32,8 +26,10 @@ description: ""
 |	Ho Lim Hwei (Ms)	|[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
 |	Vani (Miss)	|[kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)|
 |	Wendy Tan (Mdm)	|[tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)|
-|		|[](mailto:)|
-|	English Department	|[](mailto:)|
+
+##### English Department
+| Name | E-mail |
+| -------- | -------- | 
 |	Suzanna Hashim (Mdm)	|[suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg)|
 |	Jasmine Kaur (Mdm)	|[jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)|
 |	Siti Nurjannah (Ms)	|[siti_nurjannah_saaet@moe.edu.sg](mailto:siti_nurjannah_saaet@moe.edu.sg)|
@@ -75,8 +71,7 @@ description: ""
 |	Tan Yoke Joo (Mdm)	|[tan_yoke_joo@moe.edu.sg](mailto:tan_yoke_joo@moe.edu.sg)|
 |	Stanley Yeo Hwee Meng	|[yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg)|
 |
-##### Infocomm Technology	
-	
+##### Infocomm Technology
 | Name | E-mail |
 | -------- | -------- | 
 |	Heng Siok Pheng (Mdm)	|[heng_siok_pheng@moe.edu.sg](mailto:heng_siok_pheng@moe.edu.sg)|
@@ -85,7 +80,6 @@ description: ""
 |
 
 ##### Mathematics Department
-	
 | Name | E-mail |
 | -------- | -------- | 
 |	Diana Tay (Miss)	|[tay_kwee_hong@moe.edu.sg](mailto:tay_kwee_hong@moe.edu.sg)|
@@ -110,7 +104,6 @@ description: ""
 |	
 
 ##### Mother Tongue Language Department
-	
 | Name | E-mail |
 | -------- | -------- | 
 |	Angeline Ong (Ms)	|[ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg)|
@@ -138,7 +131,6 @@ description: ""
 
 
 ##### Physical Education Department	
-	
 | Name | E-mail |
 | -------- | -------- | 
 |	Kelvin Lim	|[lim_wee_meng_kelvin@moe.edu.sg](mailto:lim_wee_meng_kelvin@moe.edu.sg)|
@@ -151,7 +143,6 @@ description: ""
 |	
 
 ##### Science Department
-	
 | Name | E-mail |
 | -------- | -------- | 
 |	Lincoln Shen	|[shen_pinhong@moe.edu.sg](mailto:shen_pinhong@moe.edu.sg)|
@@ -164,18 +155,16 @@ description: ""
 |	Wan Mohamed	|[wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)|
 |		
 ##### 	Special Educational Need
-	
 | Name | E-mail |
 | -------- | -------- | 
-|	Angeline Yung (Mrs) 	|[chan_xiuwen@moe.edu.sg](mailto:chan_xiuwen@moe.edu.sg)|
-|	Jane Chong (Mdm)	|[chong_mee_fong_jane@moe.edu.sg](mailto:chong_mee_fong_jane@moe.edu.sg)|
-|	Daphne Heng (Miss)	|[heng_syn_yee_daphne@moe.edu.sg](mailto:heng_syn_yee_daphne@moe.edu.sg)|
+|	Angeline Yung (Mrs) |[chan_xiuwen@moe.edu.sg](mailto:chan_xiuwen@moe.edu.sg)|
+|Jane Chong (Mdm)	|[chong_mee_fong_jane@moe.edu.sg](mailto:chong_mee_fong_jane@moe.edu.sg)|
+|Daphne Heng (Miss)	|[heng_syn_yee_daphne@moe.edu.sg](mailto:heng_syn_yee_daphne@moe.edu.sg)|
 |	Stephanie Hooi (Miss)	|[hooi_li_qiong_stephanie@moe.edu.sg](mailto:hooi_li_qiong_stephanie@moe.edu.sg)|
 |	Muhammad Jumadi Bin Jamaludin	|[muhammad_jumadi_jamaludin@moe.edu.sg](mailto:muhammad_jumadi_jamaludin@moe.edu.sg)|
 |	Gladys Lim (Mrs)	|[ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg)|
 |		
 ##### 	Student Management
-	
 | Name | E-mail |
 | -------- | -------- | 
 |	Jasmine Lim (Mrs)	|[ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg)|
@@ -184,7 +173,6 @@ description: ""
 |	
 
 ##### 	Year Head Department
-	
 | Name | E-mail |
 | -------- | -------- | 
 |	Koh Yee Lee 	|[koh_yee_lee@moe.edu.sg](mailto:koh_yee_lee@moe.edu.sg)|
