@@ -52,14 +52,16 @@ description: ""
 
 ##### **Chinese Language Department**
 
-|  |  |
-|:---:|:---:|
- | Mrs Angeline Oon <br> Head of Department/Mother Tongue <br>  [ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg) |
-| Mdm Chiew Hwee Ling <br> Level Head/Chinese Language CL Level Representative - P4 <br> [chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) |
-  |Mdm Wong Mei Kuen <br> CL Level Representative - P1 <br> [wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg)   |
- | Miss Patricia Lim <br> CL Level Representative - P2 <br> [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)  |
- | Mdm Jeannie Yeo <br> CL Level Representative - P3 <br> [yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg) |
- | Ms Tan Bee Po <br> CL Level Representative - P3 <br> [tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg) |
+
+
+| Title| Name | E-mail |
+| -------- | -------- | -------- |
+|Head of Department/Mother Tongue | Mrs Angeline Oon|<br>  [ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg) |
+| Level Head/Chinese Language CL Level Representative - P4|Mdm Chiew Hwee Ling |[chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) |
+  |CL Level Representative - P1 |Mdm Wong Mei Kuen | [wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg)   |
+ | CL Level Representative - P2|Miss Patricia Lim | [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)  |
+ |CL Level Representative - P3| Mdm Jeannie Yeo| [yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg) |
+ | CL Level Representative - P3| Ms Tan Bee Po|[tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg) |
 |  Mr Chua Hoe Leong Daniel <br> CL Level Representative - P4 <br> [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)   |
  | Ms Ho Lim Hwei <br> CL Level Representative - P5  <br>[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg) |
 |  Ms Chan Wai Kin <br> Level Head/Chinese Language CL Level Representative - P5 HCL <br> [chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg) |
