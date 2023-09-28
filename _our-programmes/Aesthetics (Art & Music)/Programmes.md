@@ -6,9 +6,6 @@ third_nav_title: Aesthetics (Art & Music)
 ---
 # **Programmes**
 
-![](/images/aesthetics%208.JPG)
-
-![](/images/aesthetics%207.jpg)
 
 ### **Departments (IP or PAM)**
 
@@ -111,3 +108,7 @@ Pupils are also treated to performances during assembly to provide them with exp
 
 * SYF Arts Presentation
 * SYF Art Exhibition
+
+![](/images/aesthetics%208.JPG)
+
+![](/images/aesthetics%207.jpg)
