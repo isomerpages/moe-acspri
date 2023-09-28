@@ -83,9 +83,9 @@ description: ""
 
 ##### **Tamil Language Department**
 
-|  |  |
-|:---:|:---:|
- Miss Kogilavani (Vani) <br> Tamil Language/Lead Teacher Tamil Language Coordinator <br> [kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg) |
-| Mdm Najuma Banu <br> [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg)  |
- | Mrs Suja Anbazhagan <br> [anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg) |
+| Title| Name | E-mail |
+| -------- | -------- | -------- |
+ |Tamil Language/Lead Teacher Tamil Language Coordinator|Miss Kogilavani (Vani) | [kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg) |
+| Teacher|Mdm Najuma Banu |[najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg)  |
+ | Teacher|Mrs Suja Anbazhagan |[anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg) |
 |
