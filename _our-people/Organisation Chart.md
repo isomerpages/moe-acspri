@@ -7,11 +7,15 @@ description: ""
 
 ##### **English Language Department**
 
-|  |  |
-|:---:|:---:|
-|  Mdm Suzanna Hashim <br> Head of Department/English<br>   [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) |
-| Mdm Jasmine Kaur<br> Level Head/English <br> [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg) |
-| Mdm Sarah Su <br>  [su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)  |
+
+
+
+
+| Name |  Title | E-mail |
+| -------- | -------- | -------- |
+|  Mdm Suzanna Hashim   | Head of Department/Englis    | suzanna_hashim@moe.edu.sg   |  
+| Mdm Jasmine Kaur| Level Head/English| jasmine_kaur@moe.edu.sg| 
+| Mdm Sarah Su| |  [su_xinhui_sarah@moe.edu.sg]|
 | Mdm  Ida Nonanseh <br>Senior Teacher/English <br> [ida_nonanseh_abdul_rahman@moe.edu.sg](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg) |
 |  Mdm Zahara Osman <br> [zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)    |
 | Mrs Hoong Xiu Qin<br> [hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg) |
@@ -82,4 +86,3 @@ Mdm Siti Karmila Abu <br> 2023 P2 LSM Programme  Coordinator 2023 P2 MA Represen
 | Mdm Najuma Banu <br> [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg)  |
  | Mrs Suja Anbazhagan <br> [anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg) |
 |
-
