@@ -6,6 +6,7 @@ description: ""
 # **School Teaching Committee (STC)**
 
 
+
 | Title| Name | E-mail |
 | -------- | -------- | -------- |
 |	SSD	|	Vanessa Tan (Ms)	|[tan_bee_choo_b@moe.edu.sg](mailto:tan_bee_choo_b@moe.edu.sg)|
