@@ -129,7 +129,7 @@ description: ""
 | 6A | Miss Kogilavani Vathumalai | [kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)  | 
 | 6B | Mr Kelvin Lim Wee Meng | [lim_wee_meng_kelvin@moe.edu.sg](mailto:lim_wee_meng_kelvin@moe.edu.sg)  | 
 | 6B | Mdm Wendy Tan | [tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg) | 
-| 6C | Miss Ho Lim Hwei  |[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)| | 
+| 6C | Miss Ho Lim Hwei  |[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|  
 | 6C | Mr Seow Kian Yong | [seow_kian_yong@moe.edu.sg](mailto:seow_kian_yong@moe.edu.sg) | 
 | 6D | Mdm Ida Nonanseh Abdul Rahman | [ida_nonanseh_abdul_rahman@moe.edu.sg](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg) | 
 | 6D | Miss Tay Kwee Hong (Diana) | [tay_kwee_hong@moe.edu.sg](mailto:tay_kwee_hong@moe.edu.sg)  | 
