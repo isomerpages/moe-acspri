@@ -43,12 +43,10 @@ description: ""
 |2023 P2 LSM Programme  Coordinator<br> 2023 P2 MA Representative|Mdm Siti Karmila Abu | [siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg)   |
 | 2021 P2 MA Representative| Mdm Zarinah Md Eunos | [zarinah_mohamed_eunos@moe.edu.sg](mailto:zarinah_mohamed_eunos@moe.edu.sg) |
 | Teacher|  Mrs Vanessa Lim | [vanessa.lim@acsp.sg](mailto:vanessa.lim@acsp.sg) |
-<br>
+|
 
 
 ##### **Chinese Language Department**
-
-
 
 | Title| Name | E-mail |
 | -------- | -------- | -------- |
