@@ -8,7 +8,6 @@ description: ""
 ##### **Primary 1**
 
 
-
 | Class | Name | E-mail |
 | -------- | -------- | -------- |
 |1A   |  Ms Chan Wai Ying|[Chan_wai_ying@moe.edu.sg](mailto:Chan_wai_ying@moe.edu.sg)  |
