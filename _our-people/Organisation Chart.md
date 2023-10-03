@@ -43,11 +43,11 @@ description: ""
 | 2021 P3 MA Representative| Mr Vijayakumaran Govindasamy|   [vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg) |
 | 2023 P4 MA Representative| Miss Mazeedah M Azmi |  [mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg)  |
 |2021 P6 MA Representative | Ms  Aubrey Ong | [ong_pei_khim_aubrey@moe.edu.sg](mailto:ong_pei_khim_aubrey@moe.edu.sg) |
-|2023 Financial Literacy Programme IC <br> 2023 Financial Literacy Programme Advisor| Mrs Lee Ting Ting  |[foo_ting_ting@moe.edu.sg] mailto:foo_ting_ting@moe.edu.sg) |
+|2023 Financial Literacy Programme IC <br> 2023 Financial Literacy Programme Advisor| Mrs Lee Ting Ting  |[foo_ting_ting@moe.edu.sg]( mailto:foo_ting_ting@moe.edu.sg) |
 |2023 P2 LSM Programme  Coordinator<br> 2023 P2 MA Representative|Mdm Siti Karmila Abu | [siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg)   |
 | 2021 P2 MA Representative| Mdm Zarinah Md Eunos | [zarinah_mohamed_eunos@moe.edu.sg](mailto:zarinah_mohamed_eunos@moe.edu.sg) |
 | Teacher|  Mrs Vanessa Lim | [vanessa.lim@acsp.sg](mailto:vanessa.lim@acsp.sg) |
-
+<br>
 
 
 ##### **Chinese Language Department**
