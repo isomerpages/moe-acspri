@@ -20,7 +20,7 @@ sections:
         - title: Physical
           description: ""
           url: /physical/
-      background: /images/School_Logo/acs-banner-gif.gif
+      background: /images/School_Logo/Main_Gif.gif
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
