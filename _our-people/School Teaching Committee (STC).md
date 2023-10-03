@@ -6,7 +6,7 @@ description: ""
 # **School Teaching Committee (STC)**
 
 
-| Title | Name | E-mail |
+| Title| Name | E-mail |
 | -------- | -------- | -------- |
 |	SSD	|	Vanessa Tan (Ms)	|[tan_bee_choo_b@moe.edu.sg](mailto:tan_bee_choo_b@moe.edu.sg)|
 |	LT/EL	|	Chui Yuen Phun (Mdm)	|[chui_yuen_phun@moe.edu.sg](mailto:chui_yuen_phun@moe.edu.sg)|
