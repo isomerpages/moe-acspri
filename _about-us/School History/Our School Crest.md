@@ -8,7 +8,12 @@ third_nav_title: School History
 
 
 
+
+
+
+
 <img src="/images/acsp_school_crest_full_colour_l.png" style="width:30%;margin:0 auto;" align="midle">
+
 
 The upper part of the crest shows a creature with a lion head, eagle wings and a dragon body with claws,
 symbolizing the fact that the school was founded when Singapore was a British Colony, by the American
