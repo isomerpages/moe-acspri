@@ -39,7 +39,7 @@ description: ""
 |	LH/EL	|	Jasmine Kaur (Mdm)	|	[jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)|
 |	LH/EL	|	Siti Nurjannah (Ms)	|[siti_nurjannah_saaet@moe.edu.sg](mailto:siti_nurjannah_saaet@moe.edu.sg)|
 |	LH/MA	|	Jessica Goh (Ms)	|	[goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg)|
-|	LH/SC	|	Chan Tai Yao	|	|[chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg)|
+|	LH/SC	|	Chan Tai Yao		|[chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg)|
 |	LT/EL	|	Chui Yuen Phun (Mdm)	|[chui_yuen_phun@moe.edu.sg](mailto:chui_yuen_phun@moe.edu.sg)|
 |	LT/MA	|	Terry Tan	|	[tan_chee_liang_terry@moe.edu.sg](mailto:tan_chee_liang_terry@moe.edu.sg)|
 |	LT/TL	|	Kogilavani d/o Vathumalai (Miss)	|[kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)|
