@@ -14,7 +14,7 @@ description: ""
 |  Head of Department/English  |    Mdm Suzanna Hashim | [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) |  
 | Level Head/English|Mdm Jasmine Kaur | [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)|
 | Teacher|Mdm Sarah Su |[su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)|
-| Senior Teacher/English|Mdm  Ida Nonanseh| [ida_nonanseh_abdul_rahman@moe.edu.sg]((mailto:ida_nonanseh_abdul_rahman@moe.edu.sg)|
+| Senior Teacher/English|Mdm  Ida Nonanseh| [ida_nonanseh_abdul_rahman@moe.edu.sg](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg)|
 | Teacher | Mdm Zahara Osman |[zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)|
 | Teacher|Mrs Hoong Xiu Qin|[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg) |
  |Teacher | Mdm Renuka Devi Windersalam|[windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) |
