@@ -7,14 +7,69 @@ third_nav_title: Character & Citizenship
 # **Social Studies**
 
 
-The Social Studies (SS) curriculum spans across the primary and secondary levels. The curriculum aspires towards the educative growth of the SS learner as an informed, concerned and participative citizen at the end of a full course of SS education.
+##### **Vison**
+Nurturing ACSians to be informed, concerned and participative citizens of Singapore.
 
-##### **The Philosophy of Social Studies**
-At the heart of the Singapore Social Studies (SS) curriculum is the preparation of our pupils to be citizens of tomorrow through a better understanding of the connection between Singapore and the world they live in, as well as by appreciating the complexities of the human experience. Drawing on the social life that is of meaning and interest to the learners, SS seeks to arouse the pupils’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, SS helps pupils to obtain relevant knowledge and gain an understanding of these issues, to develop critical and reflective thinking skills, and to appreciate multiple perspectives.
+##### **Curriculum**
+Social Studies (SS) aims to help students to grow in knowledge, develop skills and learn values through examining issues that are of concern to our society and the world in which we live. 
 
-SS seeks to inculcate in pupils a deeper understanding of the values that define the Singaporean society. It is also aimed at nurturing dispositions to show concern for the world they live in and to demonstrate empathy in their relationships with others. The curriculum therefore envisions the SS pupil as an informed, concerned and participative citizen who is competent in quality decision-making and has an impassioned spirit to contribute responsibly in the world he/she lives in.
+It seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives.
 
-##### **Social Studies in ACS(P)**
-In ACS(P), pupils go on inter-disciplinary SS learning journeys to complement their learning in the classrooms. These learning journeys best exemplify one of the school’s key approaches to learning - experiential education.
+In ACS, we prepare our students to be effective citizens by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human experience.
 
-Authentic assessments are implemented for SS. Pupils are holistically assessed based on differentiated project tasks and reflections for learning journeys._Content for ‘Social Studies in Singapore’ and ‘Philosophy of Social Studies’ adapted from CPDD (Humanities) online information for educators_
+**CurriculumAs informed citizens, ACSians will:**
+
+*   understand the rights and responsibilities of citizens and the role of the government in society; 
+*  understand their identity as Singaporeans, with a regional and global outlook; 
+*  understand the Singapore perspective on key national, regional and global issues; 
+*  analyse and negotiate complex issues through evaluating multiple sources with different perspectives; and 
+*  arrive at well-reasoned, responsible decisions through reflective thought and discernment. 
+
+**As concerned citizens, ACSians will:** 
+*  have a sense of belonging to the nation, appreciate and be committed to building social cohesion in a diverse society; 
+*  be motivated to engage in issues of societal concern; and 
+*  reflect on the ethical considerations and consequences of decision making. 
+
+**As participative citizens, ACSians will:** 
+*  take responsible personal and collective actions to effect change for the good of society; and 
+*  be resilient in addressing concerns of society in spite of challenges faced.
+
+
+Through Social Studies, we hope to inculcate in ACSians a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world in which they live, and demonstrate empathy in their relationships with others.
+
+
+##### **Assessment matters**
+
+Learning Journeys are part of National Education and ACS(P) plans them for our students to support and complement the curriculum. Learning Journeys are the experiential and multi-disciplinary learning trips that students make to make learning from the texts come alive for them so that they have a greater appreciation of Singapore’s history, culture and uniqueness. 
+
+**Learning Journeys in 2023:**
+
+**Primary 1 – Discovering Self and Immediate Environment**
+Knowing Myself, Others and My Surroundings
+* Learning Journey to Whampoa Neighbourhood
+
+**Primary 2 – Discovering Self and Immediate Environment**
+Coming Together as a Nation
+*Learning Journey to Toa Payoh Town Centre
+
+**Primary 3 – Understanding Singapore in the Past and Present**
+Understanding Singapore’s Environment and Challenges
+*Learning Journey to Kok Fah Technology Farm
+
+**Primary 4 – Understanding Singapore in the Past and Present**
+Understanding Our Past
+*Cohort Learning Journey to the Kreta Ayer Heritage Gallery 
+*Cohort Learning Journey to the Geylang Serai Heritage Gallery
+
+**Primary 5 – Appreciating Singapore, the Region and the World We Live In**
+Part 1: Understanding Singapore’s Development as a Nation 
+Part 2: Understanding Southeast Asia’s Diversity and Interconnectedness
+*NE Show
+*Cohort Learning Journey to the Indian Heritage Centre
+
+**Primary 6 – Appreciating Singapore, the Region and the World We Live In**
+Understanding Features and Legacies of Civilisations
+ *Cohort Learning Journey to the Asian Civilisations Museum (ACM)
+ 
+ 
+ 
