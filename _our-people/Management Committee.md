@@ -46,4 +46,12 @@ description: ""
 |	SH/Aesthetics	|	Anna Asha Mohan (Mdm)	|	[anna_asha_mohan@moe.edu.sg](mailto:anna_asha_mohan@moe.edu.sg)|
 |	SH/Discipline	|	Neo Lin Li (Mrs)	|[tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg)|
 |	SH/ICT	|	Benedict Yap	|	[benedict_yap_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg)|
+ST/ART 	|	Tan Jian Horng (Mrs Sharron Yap-Mdm)	|	tan_jian_horng@moe.edu.sg	|[tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg)|
+ST/CL	|	Li Chunju(Mdm)	|	li_chunju@moe.edu.sg	|[li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg)|
+ST/EL	|	Ida Nonanseh Abdul Rahman(Mdm)	|	ida_nonanseh_abdul_rahman@moe.edu.sg	|[ida_nonanseh_abdul_rahman@moe.edu.sg](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg)|
+ST/MA	|	Farisa Begame Abdul Salam (Mrs Farisa Hussain (Mdm))	|	farisa_begame_abdul_salam@moe.edu.sg	|[farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg)|
+ST/SC	|	Wan Mohamed Nazrith	|	wan_mohamed@moe.edu.sg	|[wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)|
+ST/SC 	|	Aminda Chua Nyap Kin(Mdm)	|	aminda_chua_nyap_kin@moe.edu.sg	|[aminda_chua_nyap_kin@moe.edu.sg](mailto:aminda_chua_nyap_kin@moe.edu.sg)|
+ST/SEN	|	Ng Siew May Gladys (Mrs Gladys Lim Mdm)	|	ng_siew_may_gladys@moe.edu.sg	|[ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg)|
+ST/Learner Profile (High Achieving Learners)	|	Tan Yoke Joo(Mdm)	|	tan_yoke_joo@moe.edu.sg	|[tan_yoke_joo@moe.edu.sg](mailto:tan_yoke_joo@moe.edu.sg)|
  |
