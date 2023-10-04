@@ -26,8 +26,8 @@ description: ""
 |
 
 ##### **School Counsellor**
-| Title |  |Name |
-| -------- | ------| -------- |
-|Senior School Counsellor | | [Mr Desmond Liew](mailto:liew_shuh_onn@moe.edu.sg)|
-|Part-time School Counsellor| | [Mdm Chan Chee Har](mailto:chan_chee_har@acsp.sg)|
+| Name | E-Mail  |
+|---|---|
+|Senior School Counsellor | [Mr Desmond Liew](mailto:liew_shuh_onn@moe.edu.sg)|
+|Part-time School Counsellor| [Mdm Chan Chee Har](mailto:chan_chee_har@acsp.sg)|
 |
