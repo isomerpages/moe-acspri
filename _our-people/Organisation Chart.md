@@ -32,7 +32,7 @@ description: ""
 ##### **Mathematics Department**
 | Title| Name | E-mail |
 | -------- | -------- | -------- |
-|Head of Department/Mathematics| Miss Tay Kwee Hong (Diana)| [tay_kwee_hong@moe.edu.sg](mailto:tay_kwee_hong@moe.edu.sg) |
+|Head of Department/Mathematics| Miss Tay Kwee Hong Diana| [tay_kwee_hong@moe.edu.sg](mailto:tay_kwee_hong@moe.edu.sg) |
 | Senior Teacher/Mathematics | Mrs Farisa Hussain|  [farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg) |
 |  2023  P5 MA Representative <br> 2023 P1 LSM Programme Coordinator|Mdm Punita Kasipandy | [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg) |
 | 2021 P1 MA Representative| Mrs Jasmine Lim|    [ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg) |
