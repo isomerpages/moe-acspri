@@ -6,9 +6,7 @@ third_nav_title: Clubs
 ---
 # **String Ensemble**
 
-![](/images/strings%20ensemble.jpg)
 
-![](/images/strings%20ensemble%202.jpg)
 
 #### **Teachers in Charge**
 
@@ -24,4 +22,14 @@ Our String Ensemble unites passionate string players who enjoy playing in an ens
 
 Pupils in String Ensemble will have the opportunities to take part in the bi-annual Singapore Youth Festival (SYF) and perform at school and external events. In String Ensemble, we encourage pupils to practise their respective parts diligently and work in unity to present beautiful music pieces to our audience.
 
-![](/images/strings%20ensemble%203.JPG)
+
+<br>
+<img align="center" style="width:80%" src="/images/strings%20ensemble.jpg">
+<br>
+<br>
+<img align="center" style="width:80%" src="/images/strings%20ensemble%202.jpg">
+<br>
+<br>
+
+<img align="center" style="width:80%" src="/images/strings%20ensemble%203.JPG">
+<br>
