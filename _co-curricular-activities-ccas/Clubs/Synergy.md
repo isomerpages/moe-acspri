@@ -32,5 +32,7 @@ The group is guided by veteran coach Mr Yutaki Ong. Teachers work with coach and
 
 
 
-
-![](/images/synergy4.JPG)
+<br>
+<img src="/images/synergy4.JPG" style="width:80%" align="center">
+<br>
+<br>
