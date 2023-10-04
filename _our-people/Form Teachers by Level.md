@@ -27,7 +27,7 @@ description: ""
 | 1G | Miss Patricia Lim | [natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)     |
 | 1H | Mrs Janis Pavia | [lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg) | 
 | 1H | Mdm Najuma Banu | [najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg) | 
-<br>
+|
 
 ##### **Primary 2**
 
@@ -73,7 +73,6 @@ description: ""
 
 ##### **Primary 4**
 
-
 | Class | Name | E-mail |
 | -------- | -------- | -------- |
 | 4A | Mdm Renuka Devi Windersalam| [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | 
@@ -94,7 +93,7 @@ description: ""
 | 4H | Miss Ho Hui Xin | [ho_hui_xin@moe.edu.sg](mailto:ho_hui_xin@moe.edu.sg) | 
 | 4H | Mr Tan Yew Chai | [tan_yew_chai@moe.edu.sg](mailto:tan_yew_chai@moe.edu.sg) | 
 | 4H | Ms Aminda Chua Nyap Kin | [aminda_chua_nyap_kin@moe.edu.sg](mailto:aminda_chua_nyap_kin@moe.edu.sg)  | 
-<br>
+|
 
 ##### **Primary 5**
 
