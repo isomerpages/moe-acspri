@@ -35,17 +35,10 @@ The Music programme incorporates:
 For Primary 1 to Primary 3, the Music curriculum revolves around “experience”, “concept” and “application”.&nbsp; From Primary 4, musical concepts are taught in greater depth to achieve the outcomes of a student-centric music curriculum through instrumental playing and listening and responding to music. We adopt a holistic approach in enriching the pupils aesthetically by bringing the necessary musical experiences into our classrooms.
 <br>
 <br>
-<img src="/images/aesthetics%203.jpg" style="width:70%;margin-right:25px;" align="Centre">
+<img src="/images/aesthetics%203.jpg" style="width:80%" align="center">
 <br>
 <br>
 
-
-
-
-
-
-
-<br>
 
 ###### Visual Art
 
@@ -62,7 +55,7 @@ For Primary 1 to Primary 3, the visual art curriculum focuses on the hands-on, e
 
 <br>
 <br>
-<img src="/images/aesthetics%205.jpg" style="width:70%;margin-right:25px;" align="center">
+<img src="/images/aesthetics%205.jpg" style="width:80%" align="center">
 <br>
 <br>
 
@@ -88,8 +81,12 @@ Holistic assessment is carried out through various tasks to determine if pupils 
     
 *   Provide varied platforms to showcase students’ talents in performing&nbsp;and visual arts
 
-![](/images/aesthetics%204.jpg)
-    
+ <br>
+<br>
+<img src="/images/aesthetics%204.jpg" style="width:80%" align="center">
+<br>
+<br>
+		
 ##### **PAL**
 
 ###### Visual Arts  
@@ -109,7 +106,11 @@ Arts Fest in ACS(P) is an annual event alternating between performing arts and v
 
 Arts Fest Appreciate! focuses on showcasing our students’ artwork in an exhibition, featuring a wide range of displays selected from each class.
 
-![](/images/aesthetics%202.JPG)
+<br>
+<br>
+<img src="/images/aesthetics%202.JPG" style="width:80%" align="center">
+<br>
+<br>
 
 ###### Aesthetics CCAs
 
@@ -121,13 +122,28 @@ Arts Fest Kaleidoscope and Arts Fest Appreciate! are held biannually with focus 
 
 Pupils are also treated to performances during assembly to provide them with exposure to various arts genres.
 
-![](/images/aesthetics%206.jpg)
+
+<br>
+<br>
+<img src="/images/aesthetics%206.jpg" style="width:80%" align="center">
+<br>
+<br>
 
 #### **Competitions**
 
 * SYF Arts Presentation
 * SYF Art Exhibition
 
-![](/images/aesthetics%208.JPG)
 
-![](/images/aesthetics%207.jpg)
+<br>
+<br>
+<img src="/images/aesthetics%208.JPG" style="width:80%" align="center">
+<br>
+<br>
+
+
+<br>
+<br>
+<img src="/images/aesthetics%207.jpg" style="width:80%" align="center">
+<br>
+<br>
