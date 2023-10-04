@@ -6,7 +6,6 @@ description: ""
 ### **Teachers by Department**
 
 
-
 ##### Aesthetics
 |   Name |    E-mail |
 | --------| -------- | 
@@ -16,6 +15,8 @@ description: ""
 |	Jessica Lai Kit Mun (Mdm)	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|
 |	Sharron Yap (Mrs)	|[tan_jian_horng@moe.edu.sg](mailto:tan_jian_horng@moe.edu.sg)|
 |	Zubaidah Bte Sheik Mohamed Ishak (Ms)	|[zubaidah_sheik_mohamed_ishak@moe.edu.sg](mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg)|
+|
+
 ##### CCE
 |   Name |    E-mail |
 | --------| -------- | 
@@ -26,6 +27,8 @@ description: ""
 |	Ho Lim Hwei (Ms)	|[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
 |	Vani (Miss)	|[kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)|
 |	Wendy Tan (Mdm)	|[tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)|
+|
+
 ##### English Department
 |   Name |    E-mail |
 | --------| -------- | 
