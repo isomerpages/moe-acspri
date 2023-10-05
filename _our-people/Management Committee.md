@@ -32,10 +32,10 @@ description: ""
 |	HOD/Student Management	|	Mr Edwin Tan	|	[tan_loon_kiat_edwin@moe.edu.sg](mailto:tan_loon_kiat_edwin@moe.edu.sg)|
 |	LT/EL	|	Mdm Chui Yuen Phun 	|[chui_yuen_phun@moe.edu.sg](mailto:chui_yuen_phun@moe.edu.sg)|
 |	LT/MA	|	Mr Terry Tan	|	[tan_chee_liang_terry@moe.edu.sg](mailto:tan_chee_liang_terry@moe.edu.sg)|
-|	LT/TL	|	Miss Kogilavani d/o Vathumalai )	|[kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)|
+|	LT/TL	|	Miss Kogilavani d/o Vathumalai 	|[kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)|
 |	YH/Middle Primary	|Mdm Teresa Liew 	|[liew_sin_tong_teresa@moe.edu.sg](mailto:liew_sin_tong_teresa@moe.edu.sg)|
 |	YH/Upper Primary	|	Mr Koh Yee Lee 	|[koh_yee_lee@moe.edu.sg](mailto:koh_yee_lee@moe.edu.sg)|
-|	AYH/Lower Primary	|	Mrs Janis Pavia )	|	[lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg)|
+|	AYH/Lower Primary	|	Mrs Janis Pavia	|	[lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg)|
 |	AYH/Upper Primary	|Ms Aubrey Ong  |	[ong_pei_khim_aubrey@moe.edu.sg](mailto:ong_pei_khim_aubrey@moe.edu.sg)|
 |	LH/CL	|	Mdm Chiew Hwee Ling |	[chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg)|
 |	LH/CL	|	Mdm Chan Wai Kin 	|	[chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg)|
