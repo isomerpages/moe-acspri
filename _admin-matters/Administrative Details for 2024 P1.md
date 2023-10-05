@@ -6,7 +6,8 @@ description: ""
 ### **Administrative Details for 2024 P1**
 
 
-[1a. One-Time On-Boarding PG Info Sheet.pdf   ](/files/p1_admin_details/1aOneTimeOnBoardingPGInfoSheet.pdf)   
+[1a. One-Time On-Boarding PG Info Sheet.pdf](/files/P1_admin_details/1aonetimeonboardingpginfosheet.pdf)
+
 
 1b. PG Tips to Read PDFs easily on mobile.pdf                        
 4. NMTL.pdf                                                          
