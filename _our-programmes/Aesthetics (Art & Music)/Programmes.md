@@ -57,8 +57,6 @@ Holistic assessment is carried out through various tasks to determine if pupils 
 
 ### **Programme (For all levels)**
 
-#### **Programme**
-
 ###### Experience
 
 *   For students who have no prior knowledge in the arts
