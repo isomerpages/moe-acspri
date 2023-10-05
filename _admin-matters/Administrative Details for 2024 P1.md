@@ -7,7 +7,7 @@ description: ""
 
 
                        
-[1a. One-Time On-Boarding PG Info Sheet.pdf   ]()1a. One-Time On-Boarding PG Info Sheet.pdf                           
+[1a. One-Time On-Boarding PG Info Sheet.pdf   ](/files/one_timeonboarding_pg_info_sheet.pdf)              
 1b. PG Tips to Read PDFs easily on mobile.pdf                        
 4. NMTL.pdf                                                          
 4. NTIL.pdf                                                          
