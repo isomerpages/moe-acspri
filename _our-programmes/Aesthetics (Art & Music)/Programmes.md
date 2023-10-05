@@ -4,16 +4,8 @@ permalink: /our-programmes/aesthetics-art-and-music/programmes/
 description: ""
 third_nav_title: Aesthetics (Art & Music)
 ---
-# **Programmes**
+## Aesthetics (Art &amp; Music)
 
-
-### **Departments (IP or PAM)**
-
-Aesthetic
-
-#### **Staff**
-
-Mdm Jillianne Chew (HOD/ Aesthetics) <br> Mdm Anna Asha Mohan (SG/ Aesthetics) <br> Mrs Sharron Yap (ST/ Art) <br> Mrs Gomathi Ravindra (Art Coordinator) <br> Ms Jessica Lai (Art Coordinator) <br> Mrs Lee Ting Ting <br> Mrs Dawn Wee <br> Ms Zubaidah Binte Sheik Mohamed Ishak <br> Mdm Tan Sin Min
 
 #### **Vision**
 
