@@ -5,9 +5,11 @@ description: ""
 ---
 ##### **Executive and Administration Staff**
 
-| Title | Name & E-Mail  |
-|---|---|
-|Admin Manager  | [Miss Lim Siew Lay](mailto:lim_siew_lay_a@schools.gov.sg)|
+
+
+| Title | Name | Email |
+| -------- | -------- | -------- |
+|Admin Manager  | [Miss Lim Siew Lay] |(mailto:lim_siew_lay_a@schools.gov.sg)|
 | Admin Manager  | [Mr Ernest Fu](mailto:Ernest_Fu@schools.gov.sg)|
 |   ICT Manager |[Mr Lee Byung Woo](mailto:Lee_Byung_Woo@moe.edu.sg)|
 | Operations Manager|   [Mr Lee Yong Yiang](mailto:lee_yong_yiang@moe.edu.sg)|
