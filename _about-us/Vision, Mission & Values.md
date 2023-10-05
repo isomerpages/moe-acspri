@@ -36,7 +36,7 @@ The Best Is Yet To Be
 <span class="highlight">C</span>OACH
 
 Coaching involves guiding each other in the expected behaviours where we educate one another in
-knowledge, skills and values in a nurturing manner<style>
+knowledge, skills and values in a nurturing manner <style>
     .highlight {
       color: #CE0E2D;
       font-size:20px
@@ -45,7 +45,7 @@ knowledge, skills and values in a nurturing manner<style>
 
 <span class="highlight">A</span>FFIRM
 
-Affirming each other by encouraging and providing emotional support<style>    .highlight {
+Affirming each other by encouraging and providing emotional support <style>    .highlight {
       color: #CE0E2D;
       font-size:20px
     }
@@ -54,7 +54,7 @@ Affirming each other by encouraging and providing emotional support<style>    .h
 <span class="highlight">R</span>ELATE
 
 Establishing meaningful and effective rapport with one another and building a congenial and collaborative
-school/working environment<style>    .highlight {
+school/working environment <style>    .highlight {
       color: #CE0E2D;
       font-size:20px
     }
@@ -66,12 +66,12 @@ school/working environment<style>    .highlight {
 
 
 Engaging one another so as to motivate each other to be innovative and to excel in whatever we do,
-whether academically or in our chosen sports or areas of interest<style>
+whether academically or in our chosen sports or areas of interest <style>
     .highlight {
       color: #CE0E2D;
       font-size:20px
     }
-  </style>(<span class="highlight">A</span>ffective, <span class="highlight">C</span>ognitive, <span class="highlight">S</span>ocia, <span class="highlight">P</span>hysical domain)
+  </style>(<span class="highlight">A</span>ffective, <span class="highlight">C</span>ognitive, <span class="highlight">S</span>ocial, <span class="highlight">P</span>hysical domain)
 
 
 
@@ -94,8 +94,7 @@ whether academically or in our chosen sports or areas of interest<style>
 
 #### **Our Goals**
 
-To develop and strengthen the pupils’ character by imparting Christian values and principles and by role-
-modeling.
+To develop and strengthen the pupils’ character by imparting Christian values and principles and by role-modeling.
 
 To help our pupils be the best that they can be through the nurturing of their talents and potential.
 
@@ -107,7 +106,7 @@ To inculcate loyalty and commitment for the school through a sense of identity, 
 
 Traits of an ACSian (TACS):
 
-**i HOPEFUL Leader**
+**iHOPEFUL Leader**
 
 Grounded in ACS(P)’s iHOPEFUL values, the iHOPEFUL leader is an ACS(P) gentleman who enjoys an
 educaiton that is anchored on Christian principles. He is aware of his national and cultural identity and
