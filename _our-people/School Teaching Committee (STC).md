@@ -22,5 +22,5 @@ description: ""
 |	ST/MA	|	Mrs Farisa Hussain 	|[farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg)|
 |	ST/SC	|Ms Aminda Chua 	|[aminda_chua_nyap_kin@moe.edu.sg](mailto:aminda_chua_nyap_kin@moe.edu.sg)|
 |	ST/SC	|Mr Wan Mohamed	|[wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)|
-|	ST/SEN	|	Mrs Gladys Lim )	|[ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg)|
+|	ST/SEN	|	Mrs Gladys Lim 	|[ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg)|
 |
