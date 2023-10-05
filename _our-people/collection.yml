@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - Organisation Chart.md
       - Management Committee.md
       - School Teaching Committee (STC).md
       - Form Teachers by Level.md
+      - Organisation Chart.md
       - Teachers by Departments.md
       - Executive & Admin Staff.md
