@@ -29,8 +29,6 @@ For Primary 1 to Primary 3, the Music curriculum revolves around â€œexperienceâ€
 <br>
 <img src="/images/aesthetics%203.jpg" style="width:80%" align="center">
 <br>
-<br>
-
 
 ###### Visual Art
 
