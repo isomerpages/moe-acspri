@@ -3,7 +3,8 @@ title: Teachers by Departments1
 permalink: /our-programmes/english-language/organisation-chart/
 description: ""
 ---
-# **Organisation Chart**
+# **Teachers by Departments**
+
 
 ##### **English Language Department**
 
