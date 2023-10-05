@@ -31,8 +31,6 @@ links:
         url: /school-information/pdlp/
       - title: Privacy Policy
         url: /school-information/privacy-policy/
-      - title: "P1 Orientation "
-        url: /permalink
   - title: Admin Matters
     url: /admin-matters/learning-management-system/
     sublinks:
@@ -52,6 +50,8 @@ links:
         url: /admin-matters/school-uniform/
       - title: School Bus
         url: /admin-matters/school-bus/
+      - title: Admin Details for 2024 P1
+        url: /permalink
   - title: Partners
     url: /partners/introduction/
     sublinks:
