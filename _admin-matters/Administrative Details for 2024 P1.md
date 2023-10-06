@@ -15,7 +15,7 @@ description: ""
                                                  
 [5a. ACS (Pri) PACIFIC BOOKSTORES Purchase Information 2023.pdf](/files/P1_admin_details/5aacsbprimarypacificbookstorespurchaseinformation2023.pdf) 
 
-[5b. ACSB Primary PACIFIC BOOKSTORES ONLINE PURCHASE GUIDE 2023.pdf   ](/files/P1_admin_details/5bacsbprimarypacificbookstoresonlinepurchaseguide2023.pdf)
+[5b. ACS (Pri) PACIFIC BOOKSTORES ONLINE PURCHASE GUIDE 2023.pdf   ](/files/P1_admin_details/5bacsbprimarypacificbookstoresonlinepurchaseguide2023.pdf)
 
 [6a. ACS Pri NameTag (P1-2024).pdf ](/files/P1_admin_details/6aacsprinametagp12024.pdf)      
 
