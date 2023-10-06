@@ -13,11 +13,11 @@ description: ""
  
 [4. NTIL.pdf](/files/P1_admin_details/4ntil1234.pdf)
                                                  
-[5a. ACSB (Primary) PACIFIC BOOKSTORES Purchase Information 2023.pdf](/files/P1_admin_details/5aacsbprimarypacificbookstorespurchaseinformation2023.pdf) 
+[5a. ACS (Pri) PACIFIC BOOKSTORES Purchase Information 2023.pdf](/files/P1_admin_details/5aacsbprimarypacificbookstorespurchaseinformation2023.pdf) 
 
-[5b. ACSB Primary PACIFIC BOOKSTORES ONLINE PURCHASE GUIDE 2023.pdf   ](/files/P1_admin_details/5bacsbprimarypacificbookstoresonlinepurchaseguide2023.pdf)
+[5b. ACS (Pri) PACIFIC BOOKSTORES ONLINE PURCHASE GUIDE 2023.pdf   ](/files/P1_admin_details/5bacsbprimarypacificbookstoresonlinepurchaseguide2023.pdf)
 
-[6a. ACS Pri NameTag (P1-2024).pdf ](/files/P1_admin_details/6aacsprinametagp12024.pdf)      
+[6a. ACS (Pri) NameTag (P1-2024).pdf ](/files/P1_admin_details/6aacsprinametagp12024.pdf)      
 
 [6b. ACS (Pri) 2024 -P1.pdf  ](/files/P1_admin_details/6bacspri2024p1.pdf)
 
