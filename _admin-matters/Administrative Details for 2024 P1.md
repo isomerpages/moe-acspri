@@ -5,7 +5,6 @@ description: ""
 ---
 ### **Administrative Details for 2024 P1**
 
-
 [1a. One-Time On-Boarding PG Info Sheet.pdf](/files/P1_admin_details/1aonetimeonboardingpginfosheet.pdf)
 
 [1b. PG Tips to Read PDFs easily on mobile.pdf](/files/P1_admin_details/1bpgtipstoreadpdfseasilyonmobile.pdf)
@@ -35,3 +34,4 @@ description: ""
 [15. Methodist Educational Brochure.pdf ](/files/P1_admin_details/15methodisteducationalbrochure.pdf)     
 
 [ P1 Handbook for Parents 2024.pdf](/files/P1_admin_details/p1handbookforparents2024.pdf)
+
