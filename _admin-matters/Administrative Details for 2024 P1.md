@@ -13,7 +13,7 @@ description: ""
  
 [4. NTIL.pdf](/files/P1_admin_details/4ntil1234.pdf)
                                                  
-[5a. ACSB (Primary) PACIFIC BOOKSTORES Purchase Information 2023.pdf](/files/P1_admin_details/5aacsbprimarypacificbookstorespurchaseinformation2023.pdf) 
+[5a. ACS (Pri) PACIFIC BOOKSTORES Purchase Information 2023.pdf](/files/P1_admin_details/5aacsbprimarypacificbookstorespurchaseinformation2023.pdf) 
 
 [5b. ACSB Primary PACIFIC BOOKSTORES ONLINE PURCHASE GUIDE 2023.pdf   ](/files/P1_admin_details/5bacsbprimarypacificbookstoresonlinepurchaseguide2023.pdf)
 
