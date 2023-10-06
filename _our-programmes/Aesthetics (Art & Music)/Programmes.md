@@ -4,19 +4,8 @@ permalink: /our-programmes/aesthetics-art-and-music/programmes/
 description: ""
 third_nav_title: Aesthetics (Art & Music)
 ---
-# **Programmes**
+## Aesthetics (Art &amp; Music)
 
-![](/images/aesthetics%208.JPG)
-
-![](/images/aesthetics%207.jpg)
-
-### **Departments (IP or PAM)**
-
-Aesthetic
-
-#### **Staff**
-
-Mdm Jillianne Chew (HOD/ Aesthetics) <br> Mdm Anna Asha Mohan (SG/ Aesthetics) <br> Mrs Sharron Yap (ST/ Art) <br> Mrs Gomathi Ravindra (Art Coordinator) <br> Ms Jessica Lai (Art Coordinator) <br> Mrs Lee Ting Ting <br> Mrs Dawn Wee <br> Ms Zubaidah Binte Sheik Mohamed Ishak <br> Mdm Tan Sin Min
 
 #### **Vision**
 
@@ -26,7 +15,6 @@ Nurturing ACSians of Character, Capability and Creativity&nbsp; through the Arts
 
 ###### Music
 
-![](/images/aesthetics%203.jpg)
 
 The Music programme incorporates:
 
@@ -37,10 +25,13 @@ The Music programme incorporates:
 *   providing the basis to develop an informed and life-long involvement in music
 
 For Primary 1 to Primary 3, the Music curriculum revolves around “experience”, “concept” and “application”.&nbsp; From Primary 4, musical concepts are taught in greater depth to achieve the outcomes of a student-centric music curriculum through instrumental playing and listening and responding to music. We adopt a holistic approach in enriching the pupils aesthetically by bringing the necessary musical experiences into our classrooms.
+<br>
+<br>
+<img src="/images/aesthetics%203.jpg" style="width:80%" align="center">
+<br>
 
 ###### Visual Art
 
-![](/images/aesthetics%205.jpg)
 
 The Visual Art programme incorporates:
 
@@ -52,13 +43,19 @@ The Visual Art programme incorporates:
 
 For Primary 1 to Primary 3, the visual art curriculum focuses on the hands-on, experiential aspects where they get to ‘play’ and ‘explore’ different art media and art elements. For Primary 4 to Primary 6, students are ready to progress deeper in various art forms/media. The curriculum aims to ensure continuity in achieving the key learning outcomes of “seeing”, “expressing” and “appreciating”.
 
+<br>
+<br>
+<img src="/images/aesthetics%205.jpg" style="width:80%" align="center">
+<br>
+<br>
+
+
+
 #### **Assessment Matters**
 
 Holistic assessment is carried out through various tasks to determine if pupils have achieved the learning objectives in line with MOE curriculum.
 
 ### **Programme (For all levels)**
-
-#### **Programme**
 
 ###### Experience
 
@@ -72,8 +69,12 @@ Holistic assessment is carried out through various tasks to determine if pupils 
     
 *   Provide varied platforms to showcase students’ talents in performing&nbsp;and visual arts
 
-![](/images/aesthetics%204.jpg)
-    
+ <br>
+<br>
+<img src="/images/aesthetics%204.jpg" style="width:80%" align="center">
+<br>
+<br>
+		
 ##### **PAL**
 
 ###### Visual Arts  
@@ -93,7 +94,11 @@ Arts Fest in ACS(P) is an annual event alternating between performing arts and v
 
 Arts Fest Appreciate! focuses on showcasing our students’ artwork in an exhibition, featuring a wide range of displays selected from each class.
 
-![](/images/aesthetics%202.JPG)
+<br>
+<br>
+<img src="/images/aesthetics%202.JPG" style="width:80%" align="center">
+<br>
+<br>
 
 ###### Aesthetics CCAs
 
@@ -105,9 +110,28 @@ Arts Fest Kaleidoscope and Arts Fest Appreciate! are held biannually with focus 
 
 Pupils are also treated to performances during assembly to provide them with exposure to various arts genres.
 
-![](/images/aesthetics%206.jpg)
+
+<br>
+<br>
+<img src="/images/aesthetics%206.jpg" style="width:80%" align="center">
+<br>
+<br>
 
 #### **Competitions**
 
 * SYF Arts Presentation
 * SYF Art Exhibition
+
+
+<br>
+<br>
+<img src="/images/aesthetics%208.JPG" style="width:80%" align="center">
+<br>
+<br>
+
+
+<br>
+<br>
+<img src="/images/aesthetics%207.jpg" style="width:80%" align="center">
+<br>
+<br>

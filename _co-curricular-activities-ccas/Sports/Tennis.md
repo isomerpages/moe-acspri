@@ -6,9 +6,6 @@ third_nav_title: Sports
 ---
 # **Tennis**
 
-![](/images/tennis.jpg)
-
-![](/images/tennis%202.jpg)
 
 #### **Teacher in Charge**
 
@@ -24,7 +21,7 @@ Every Mondays, 02:15 pm – 04:15 pm
 ###### School Team and Training Squad
 Every Wednesdays, 02:15 pm – 05:15 pm
 
-![](/images/tennis%203.jpg)
+![](/images/tennis4.jpg)
 
 #### **Programme/ Development**
 
@@ -46,3 +43,11 @@ The Tennis CCA takes part in the National School Games (NSG) organised by the Si
 ![](/images/tennis%204.jpg)
 
 ![](/images/tennis%205.jpg)
+
+
+![](/images/tennis1.JPG)
+
+
+![](/images/tennis3.JPG)
+
+![](/images/tennis2.JPG)

@@ -6,10 +6,6 @@ third_nav_title: Sports
 ---
 # **Floor Ball**
 
-![](/images/floorball%202.jpg)
-
-![](/images/floorball.jpg)
-
 #### **Teacher in Charge**
 
 
@@ -30,3 +26,8 @@ Floorball trainings are usually conducted every Monday and Wednesday. From the t
 #### **Competition**
 
 * National School Games Junior &amp; Senior Floorball Competition
+
+
+![](/images/floorball1.jpg)
+
+![](/images/floorball3.jpg)

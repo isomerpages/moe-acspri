@@ -6,6 +6,8 @@ third_nav_title: Sports
 ---
 # **Swimming**
 
+
+
 The Swimming CCA programme in ACS Primary aims to educate pupils on how to be safe when in and around water as well as skills in swimming and personal aquatic survival.
 
 As picking up swimming is a progression, we have two tracks in the Swimming CCA to help the pupils achieve excellence in swimming. First, the Learn to Swim group comprise five different ability levels for the pupils to acquire and achieve foundational swimming skills and strokes.
@@ -16,11 +18,19 @@ We are eager to carry on the tradition and heritage that in ACS, All-Can-Swim, a
 
 ##### **Teachers-In-Charge**
 
-| Name | Email ID |
-|:---:|:---:|
+
+
+
+| Name  |    E-Mail |
+| -------- |  -------- |
 | Mdm Ida Nonanseh (i/c) | [ida_nonaseh_abdul_rahman@moe.edu.sg](mailto:ida_nonaseh_abdul_rahman@moe.edu.sg) |
-| Mr Richard Goh Teoh Chuan | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg)     |
+ | Mr Richard Goh Teoh Chuan | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg)   |
 | Mr Chhoa Kok Kheng | [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg) |
 | Mr Perry Chan Chee Keong| [cperry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg) |
+
 ##### **Schedule**
 Mondays & Wednesdays, 2.15 p.m. - 4.15 p.m., ACS(P) Shaw Pool
+
+![](/images/swimming1.jpg)
+
+![](/images/swimming2.jpg)

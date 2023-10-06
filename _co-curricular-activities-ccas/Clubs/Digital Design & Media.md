@@ -9,9 +9,7 @@ third_nav_title: Clubs
 ### **Departments (CCE/ SDT)**
 Digital Media &amp; Design Club
 
-![](/images/digital%20media%20&amp;%20design%20club%20pic%201.jpeg)
 
-![](/images/digital%20media%20&amp;%20design%20club%20pic%202.jpeg)
 
 #### **Teachers in Charge**
 
@@ -73,3 +71,8 @@ Mdm Najuma Banu <br> Mrs Gladys Lim
 * 7th National Primary School Photography Competition – Merit Award
 
 * 8th&nbsp; National Primary School Photography Competition – Merit Award
+
+
+![](/images/digital%20media%20&amp;%20design%20club%20pic%201.jpeg)
+
+![](/images/digital%20media%20&amp;%20design%20club%20pic%202.jpeg)

@@ -34,6 +34,8 @@ links:
   - title: Admin Matters
     url: /admin-matters/learning-management-system/
     sublinks:
+      - title: Admin Details for 2024 P1
+        url: /admin-matters/admin-details/
       - title: Learning Management System
         url: /admin-matters/learning-management-system/
       - title: Bookshop

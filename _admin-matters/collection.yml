@@ -2,6 +2,7 @@ collections:
   admin-matters:
     output: true
     order:
+      - Administrative Details for 2024 P1.md
       - Learning Management System.md
       - Bookshop.md
       - Calendar.md

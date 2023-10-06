@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Clubs
 ---
 # **Science Club**
-### **Departments**
-CCA - Non-aesthetic
-
-Science Club
+###
 
 #### **Teachers in Charge**
 

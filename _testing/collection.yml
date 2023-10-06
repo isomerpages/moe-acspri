@@ -1,5 +1,0 @@
-collections:
-  testing:
-    output: true
-    order:
-      - Testing.md

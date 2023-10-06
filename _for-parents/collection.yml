@@ -1,0 +1,23 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - School Booklist 2023.md
+      - P1 Registration Information.md
+      - Calendar of Events/.keep
+      - Calendar of Events/School Term (Info from MOE).md
+      - Admin Matters/.keep
+      - Admin Matters/Forms.md
+      - Admin Matters/Transit Link Hotline.md
+      - Admin Matters/Car Decal Application.md
+      - Admin Matters/School Bus.md
+      - Personal Data Protection/Personal Data Protection Policy.md
+      - Personal Data Protection/.keep
+      - Personal Data Protection/Privacy Policy.md
+      - Vendor/.keep
+      - Vendor/Student Care Centre.md
+      - Vendor/School Bookshop.md
+      - Health Care/.keep
+      - Health Care/Dental Clinic.md
+      - School Publication/.keep
+      - School Publication/ECHO.md

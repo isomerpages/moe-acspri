@@ -5,17 +5,18 @@ description: ""
 third_nav_title: Clubs
 ---
 # **Choir**
-![](/images/choir%202.jpg)
 
-![](/images/choir%203.jpg)
 
 #### **Teachers in Charge**
 
-| Name&nbsp;&nbsp;&nbsp;  |     Email ID |      |
-|:---:|:---:|:---:|
 
-Mrs Gomathi Ravindra (I/C) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [gomathi_ravindra@moe.edu.sg](mailto:gomathi\_ravindra@moe.edu.sg) <br> Mdm Jasmine Kaur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)](mailto:jasmine_kaur@moe.edu.sg) <br>
-Ms Tan Sin Min &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [tan_sin_min@moe.edu.sg](mailto:tan_sin_min@moe.edu.sg)
+
+| Name | E-Mail|
+| -------- | -------- | 
+|Mrs Gomathi Ravindra (I/C)| [gomathi_ravindra@moe.edu.sg](mailto:gomathi\_ravindra@moe.edu.sg) |
+|Mdm Jasmine Kaur|  [[jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)](mailto:jasmine_kaur@moe.edu.sg) |
+|Ms Tan Sin Min |[tan_sin_min@moe.edu.sg](mailto:tan_sin_min@moe.edu.sg)
+|
 
 #### **Schedule**
 
@@ -43,3 +44,6 @@ The Choir members have also been involved in projects such as the collaboration 
 * Methodist Get-together (2015)
 
 ![](/images/acs%20choir.jpg)
+![](/images/choir%202.jpg)
+
+![](/images/choir%203.jpg)

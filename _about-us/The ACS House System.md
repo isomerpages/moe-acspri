@@ -3,9 +3,9 @@ title: The ACS House System
 permalink: /about-us/acs-house-system/
 description: ""
 ---
-### **The ACS House System**
+# **The ACS House System**
 
-##### **Background to the ACS House System**
+### **Background to the ACS House System**
 
 The ACS House System was officially introduced on 16 April 1929, one of the innovations of Mr T W Hinch who became Principal in the same year. Named after distinguished people who had contributed greatly to the cause of ACS, it aims to promote and develop clean and keen competition both individually and among the Houses. 
 
