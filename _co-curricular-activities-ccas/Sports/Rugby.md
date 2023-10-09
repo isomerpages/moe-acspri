@@ -37,14 +37,21 @@ Saturdays, 8.00 a.m. – 9.30 a.m., Venue to be confirmed
 **Enrichment**<br>
 Saturdays,9.45 a.m. – 11.15 a.m.,&nbsp; Venue to be confirmed
 
-![](/images/rugby3.jpg)
+<br>
+<br>
+<img src="/images/rugby3.jpg" style="width:80%" align="center">
+<br>
 
-![](/images/CCA_photos/rugby_ascp5.jpeg)
+<br>
+<img src="/images/CCA_photos/rugby_ascp5.jpeg" style="width:80%" align="center">
+<br>
 
-![](/images/CCA_photos/rugby_ascp1.jpeg)
+<br>
+<img src="/images/CCA_photos/rugby_ascp1.jpeg" style="width:50%" align="center"> 
+<br>
+<img src="/images/CCA_photos/rugby_ascp2.jpeg" style="width:50%" align="center">
+<br>
+<br>
+<img src="/images/CCA_photos/rugby_ascp3.jpeg" style="width:50%" align="center">
 
-![](/images/CCA_photos/rugby_ascp4.jpeg)
-
-![](/images/CCA_photos/rugby_ascp2.jpeg)
-
-![](/images/CCA_photos/rugby_ascp3.jpeg)
+\![](/images/CCA_photos/rugby_ascp4.jpeg)
