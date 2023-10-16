@@ -53,7 +53,7 @@ description: ""
   ||CL Level Representative - P6|Mdm Li Chunju|[li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg) |
  ||CL Level Representative - P6 |  Mr Chhoa Kok Kheng | [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  |
 || CL Level Representative - P6 FCL |Mdm Ngoh Gek Luan |  [ngoh_gek_luan@acsp.sg](mailto:ngoh_gek_luan@acsp.sg) |
-| |TeaCHER|Mdm Cheong Sinh Mei |[cheong_sinh_mei@acsp.sg](mailto:cheong_sinh_mei@acsp.sg) |
+| |Teacher|Mdm Cheong Sinh Mei |[cheong_sinh_mei@acsp.sg](mailto:cheong_sinh_mei@acsp.sg) |
 | **Malay Language Department**||||
 || Malay Language Coordinator|Mdm Sri Dewi Md Hashim | [sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg) |
  ||Teacher|  Mdm Norharyati Harun  |[norharyati_harun@moe.edu.sg](mailto:norharyati_harun@moe.edu.sg) |
