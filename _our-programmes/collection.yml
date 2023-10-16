@@ -4,7 +4,6 @@ collections:
     order:
       - Aesthetics (Art & Music)/.keep
       - Aesthetics (Art & Music)/Programmes.md
-      - Character & Citizenship/Social Studies.md
       - Character & Citizenship/.keep
       - Character & Citizenship/Form Teachers Guidance Period.md
       - Character & Citizenship/Pastoral Care Programme.md
@@ -13,6 +12,7 @@ collections:
       - Character & Citizenship/Education and Career Guidance.md
       - Character & Citizenship/Value in Action Programme.md
       - Character & Citizenship/Citizenship Programme.md
+      - Character & Citizenship/Social Studies.md
       - English Language/.keep
       - English Language/Programmes.md
       - English Language/Assessment Matters.md
