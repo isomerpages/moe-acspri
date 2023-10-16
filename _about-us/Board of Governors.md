@@ -8,7 +8,7 @@ description: ""
 * Mr Richard Seow (Chairman)
 * Mr Lock Wai Han (Vice-Chairman)
 * Rev Kenneth Huang
-* Rev Malcolm Tan
+* Rev Dr Aaron Tay
 * Dr David Tan
 * Dr Wong Chiang Yin
 * Dr Wong Heng Yu
