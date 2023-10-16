@@ -18,7 +18,7 @@ description: ""
 [5b. ACS (Pri) PACIFIC BOOKSTORES ONLINE PURCHASE GUIDE 2023.pdf   ](/files/P1_admin_details/5bacsbprimarypacificbookstoresonlinepurchaseguide2023.pdf)
 
 
-[5c. P1 Booklist](/files/P1_admin_details/5cp1booklist.pdf)
+[5c. P1 Booklist.pdf](/files/P1_admin_details/5cp1booklist.pdf)
 
 [6a. ACS (Pri) NameTag (P1-2024).pdf ](/files/P1_admin_details/6aacsprinametagp12024.pdf)      
 
