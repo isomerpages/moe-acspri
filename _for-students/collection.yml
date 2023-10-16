@@ -4,8 +4,8 @@ collections:
     order:
       - School Rules.md
       - Student Learning Space/.keep
-      - Student Learning Space/FAQ?.md
       - Student Learning Space/Student Learning Space.md
+      - Student Learning Space/FAQ?.md
       - Student iCON/.keep
       - Student iCON/FAQ?.md
       - Student iCON/Student iCON.md
