@@ -4,8 +4,7 @@ permalink: /our-programmes/experiential-learning/permalink/
 description: ""
 third_nav_title: Experiential Learning
 ---
-
- Interdisciplinary Project Work (IPW) is a programme aimed at developing students’ capacity to think critically and laterally across disciplines and apply knowledge learnt to real-life situations.
+Interdisciplinary Project Work (IPW) is a programme aimed at developing students’ capacity to think critically and laterally across disciplines and apply knowledge learnt to real-life situations.
 
 Below are short descriptions of our school-based IPW for Primary 3 & 4 students:
 
