@@ -39,7 +39,7 @@ description: ""
 ||2023 P2 LSM Programme  Coordinator<br> 2023 P2 MA Representative|Mdm Siti Karmila Abu | [siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg)   |
 || 2021 P2 MA Representative| Mdm Zarinah Md Eunos | [zarinah_mohamed_eunos@moe.edu.sg](mailto:zarinah_mohamed_eunos@moe.edu.sg) |
 | |Teacher|  Mrs Vanessa Lim | [vanessa.lim@acsp.sg](mailto:vanessa.lim@acsp.sg) |
-| **Chinese Language Department**||||
+| **Mother Tongue Languages**||||
 ||Head of Department/Mother Tongue | Mrs Angeline Oon|<br>  [ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg) |
 | |Level Head/Chinese Language CL Level Representative - P4|Mdm Chiew Hwee Ling |[chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) |
   ||CL Level Representative - P1 |Mdm Wong Mei Kuen | [wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg)   |
@@ -54,10 +54,10 @@ description: ""
  ||CL Level Representative - P6 |  Mr Chhoa Kok Kheng | [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  |
 || CL Level Representative - P6 FCL |Mdm Ngoh Gek Luan |  [ngoh_gek_luan@acsp.sg](mailto:ngoh_gek_luan@acsp.sg) |
 | |Teacher|Mdm Cheong Sinh Mei |[cheong_sinh_mei@acsp.sg](mailto:cheong_sinh_mei@acsp.sg) |
-| **Malay Language Department**||||
+| **Malay Language**||||
 || Malay Language Coordinator|Mdm Sri Dewi Md Hashim | [sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg) |
  ||Teacher|  Mdm Norharyati Harun  |[norharyati_harun@moe.edu.sg](mailto:norharyati_harun@moe.edu.sg) |
-| **Tamil Language Department**||||
+| **Tamil Language**||||
 ||Tamil Language/Lead Teacher Tamil Language Coordinator|Miss Kogilavani (Vani) | [kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg) |
 || Teacher|Mdm Najuma Banu |[najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg)  |
  || Teacher|Mrs Suja Anbazhagan |[anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg) |
