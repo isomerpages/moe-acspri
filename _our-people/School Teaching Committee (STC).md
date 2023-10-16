@@ -3,8 +3,6 @@ title: School Teaching Committee (STC)
 permalink: /our-people/school-teaching-committee/
 description: ""
 ---
-
-
 | Title| Name | E-mail |
 | -------- | -------- | -------- |
 |	SSD	|	Ms Vanessa Tan	|[tan_bee_choo_b@moe.edu.sg](mailto:tan_bee_choo_b@moe.edu.sg)|
