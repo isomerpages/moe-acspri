@@ -3,7 +3,6 @@ title: Board of Governors
 permalink: /about-us/board-of-governors/
 description: ""
 ---
-# Board of Governors
 
 * Mr Richard Seow (Chairman)
 * Mr Lock Wai Han (Vice-Chairman)
