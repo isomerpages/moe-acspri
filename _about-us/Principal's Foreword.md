@@ -3,10 +3,6 @@ title: Principal's Foreword
 permalink: /about-us/principal-foreword/
 description: ""
 ---
-# **Principal’s Message**
-
-
-
 ### **Small Things Matter Much**
 
 <br>
