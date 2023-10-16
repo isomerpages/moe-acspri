@@ -3,10 +3,6 @@ title: Executive & Admin Staff
 permalink: /our-people/executive-admin-staff/
 description: ""
 ---
-##### **Executive and Administration Staff**
-
-
-
 | Title | Name | Email |
 | -------- | -------- | -------- |
 Admin Manager  	|	Miss Lim Siew Lay	|	lim_siew_lay_a@moe.edu.sg	|[lim_siew_lay_a@moe.edu.sg](mailto:lim_siew_lay_a@moe.edu.sg)|
