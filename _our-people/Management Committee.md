@@ -3,7 +3,6 @@ title: Management Committee
 permalink: /our-people/management-committee/
 description: ""
 ---
-  
 #### Management Committee
 
 
@@ -51,4 +50,5 @@ ST/SC	|	Mr Wan Mohamed Nazrith	|	wan_mohamed@moe.edu.sg	|[wan_mohamed@moe.edu.sg
 ST/SC 	|Mdm Aminda Chua Nyap Kin	|	aminda_chua_nyap_kin@moe.edu.sg	|[aminda_chua_nyap_kin@moe.edu.sg](mailto:aminda_chua_nyap_kin@moe.edu.sg)|
 ST/SEN	| Mdm	Ng Siew May Gladys  |	ng_siew_may_gladys@moe.edu.sg	|[ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg)|
 ST/Learner Profile (High Achieving Learners)	|Mdm Tan Yoke Joo	|	tan_yoke_joo@moe.edu.sg	|[tan_yoke_joo@moe.edu.sg](mailto:tan_yoke_joo@moe.edu.sg)|
+|	ST/CCE	|Ms Ho Lim Hwei	|[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
  |
