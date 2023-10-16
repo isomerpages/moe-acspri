@@ -3,9 +3,6 @@ title: School Teaching Committee (STC)
 permalink: /our-people/school-teaching-committee/
 description: ""
 ---
-# **School Teaching Committee (STC)**
-
-
 
 
 | Title| Name | E-mail |
