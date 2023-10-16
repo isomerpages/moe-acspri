@@ -3,9 +3,6 @@ title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values/
 description: ""
 ---
-# **Vision, Mission and Values**
-
-
 ##### **Our Vision**
 
 Every ACSian, a young man of character, capability and creativity.
