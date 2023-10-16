@@ -2,17 +2,17 @@ collections:
   co-curricular-activities-ccas:
     output: true
     order:
+      - Clubs/.keep
+      - Clubs/Art Club.md
+      - Clubs/Chess Club.md
+      - Clubs/Choir.md
+      - Clubs/Digital Design & Media.md
+      - Clubs/Guitar Ensemble.md
       - Clubs/Robotics Club.md
       - Clubs/Public Address Club.md
-      - Clubs/.keep
       - Clubs/Synergy.md
       - Clubs/String Ensemble.md
       - Clubs/Science Club.md
-      - Clubs/Guitar Ensemble.md
-      - Clubs/Digital Design & Media.md
-      - Clubs/Choir.md
-      - Clubs/Chess Club.md
-      - Clubs/Art Club.md
       - Uniform Groups/.keep
       - Uniform Groups/Boys Brigade.md
       - Uniform Groups/Cub Scouts.md
