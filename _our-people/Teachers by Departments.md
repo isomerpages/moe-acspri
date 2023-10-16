@@ -10,7 +10,7 @@ description: ""
 
 | Dept| Title| Name | E-mail | 
 | -------- | -------- | -------- | -------- |
-| **English Language Department**||||
+| **English Language**||||
 | |  Head of Department/English  |    Mdm Suzanna Hashim | [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) |  
 | |Level Head/English|Mdm Jasmine Kaur | [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)|
 | |Teacher|Mdm Sarah Su |[su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)|
@@ -27,7 +27,7 @@ description: ""
 | | EL Coordinator|Ms Siti Nurjannah Saaet | [siti_nurjannah_saaet@moe.edu.sg](mailto:siti_nurjannah_saaet@moe.edu.sg)  |
 | |Teacher|  Mrs Shirley Toh |[katherine_shirley_shanti_doray@moe.edu.sg](mailto:katherine_shirley_shanti_doray@moe.edu.sg)  |
 || Learning Support<br> Programme Coordinator  |Mrs Jovina Lee| <br> [jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg) |
-| **Mathematics Department**||||
+| **Mathematics**||||
 ||Head of Department/Mathematics| Miss Tay Kwee Hong Diana| [tay_kwee_hong@moe.edu.sg](mailto:tay_kwee_hong@moe.edu.sg) |
 || Senior Teacher/Mathematics | Mrs Farisa Hussain|  [farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg) |
 | | 2023  P5 MA Representative <br> 2023 P1 LSM Programme Coordinator|Mdm Punita Kasipandy | [punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg) |
@@ -40,6 +40,7 @@ description: ""
 || 2021 P2 MA Representative| Mdm Zarinah Md Eunos | [zarinah_mohamed_eunos@moe.edu.sg](mailto:zarinah_mohamed_eunos@moe.edu.sg) |
 | |Teacher|  Mrs Vanessa Lim | [vanessa.lim@acsp.sg](mailto:vanessa.lim@acsp.sg) |
 | **Mother Tongue Languages**||||
+| **Chinese Language**||||
 ||Head of Department/Mother Tongue | Mrs Angeline Oon|<br>  [ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg) |
 | |Level Head/Chinese Language CL Level Representative - P4|Mdm Chiew Hwee Ling |[chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) |
   ||CL Level Representative - P1 |Mdm Wong Mei Kuen | [wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg)   |
