@@ -4,7 +4,6 @@ permalink: /our-ccas/sports/bowling/
 description: ""
 third_nav_title: Sports
 ---
-
 #### **1. Bowling Development**
 Bowling (Development) CCA is set up as a training platform for non-school team bowlers. Pupils who have interest in this sport may sign up for this CCA. They will undergo a selection trial during the first bowling session. Pupils not selected will be channeled to the other CCAs that they have chosen. Two-way transport is provided.
 
@@ -12,7 +11,7 @@ Bowling (Development) CCA is set up as a training platform for non-school team b
 
 | Name | Email ID |
 |---|---|
-|Ms Tan Bee Po (i/c) | [tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)   |
+|Ms Tan Bee Po (I/C) | [tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)   |
 | Miss Ngoh Gek Luan | [ngoh_gek_luan@moe.edu.sg](mailto:goh_gek_luan@moe.edu.sg)  |
 |
 
