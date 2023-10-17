@@ -4,10 +4,6 @@ permalink: /our-ccas/sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-# **Badminton**
-
-
-
 #### **Teachers in Charge**
 
 Mdm Jovina Tan (Teacher-in-charge of School Team and Training Squad) <br> Mdm Siti Karmila (Teacher-in-charge of Recreation Team) <br> Ms Ong Pei Khim Aubrey <br> Mdm Jessica Lai Kit Mun <br> Mr Tiong Sze Chiat Terry <br> Ms An Rui Ying
