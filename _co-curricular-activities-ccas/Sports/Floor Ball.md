@@ -4,12 +4,11 @@ permalink: /our-ccas/sports/floor-ball/
 description: ""
 third_nav_title: Sports
 ---
-# **Floor Ball**
 
 #### **Teacher in Charge**
 
 
-Mr Charles Zhang (Overall IC) <br> Mrs Geraldine Ortega <br> Mdm Chan Wai Kin <br> Mdm Jessica Goh <br> Ms Shanice Lim Wei Tong
+Mr Charles Zhang (I/C) <br> Mrs Geraldine Ortega <br> Mdm Chan Wai Kin <br> Mdm Jessica Goh <br> Ms Shanice Lim Wei Tong
 
 #### **Schedule**
 
