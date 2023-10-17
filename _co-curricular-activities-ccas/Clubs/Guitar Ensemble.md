@@ -4,19 +4,16 @@ permalink: /our-ccas/clubs/guitar-ensemble/
 description: ""
 third_nav_title: Clubs
 ---
-# **Guitar Ensemble**
-![](/images/guitar%20ensemble.jpeg)
-
-![](/images/guitar%20ensemble%202.jpeg)
-
 
 #### **Teachers in Charge**
 
-| Name&nbsp;&nbsp;&nbsp;  |     Email  |      |
-|:---:|:---:|:---:|
+| Name |     Email  |      |
+|---|---|---|
+Mdm Sri Dewi (I/C) |[sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg)|
+| Mdm Jasmine Ong | [[ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg)](mailto:ong_cui_yun@moe.edu.sg) |
+|Mrs Janis Pavia | [[lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg)](mailto:lau_kah_ling_janis@moe.edu.sg)|
+|
 
-Mdm Sri Dewi (I/C) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg) <br> Mdm Jasmine Ong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg)](mailto:ong_cui_yun@moe.edu.sg) <br>
-Mrs Janis Pavia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg)](mailto:lau_kah_ling_janis@moe.edu.sg)
    
 
 #### **Schedule**
@@ -47,3 +44,6 @@ SYF AP 2016 (Distinction Award)&nbsp;
 ![](/images/guitar%20ensemble%204.JPG)
 
 ![](/images/guitar%20ensemble%203.jpeg)
+![](/images/guitar%20ensemble.jpeg)
+
+![](/images/guitar%20ensemble%202.jpeg)
