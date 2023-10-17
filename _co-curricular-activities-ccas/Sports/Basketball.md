@@ -4,10 +4,9 @@ permalink: /our-ccas/sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-
 #### **Teachers in Charge**
 
-Mdm Chan Soo Ping <br> Mdm Su Xinhui Sarah <br> Mdm Jenn Ang
+Mdm Chan Soo Ping(I/C) <br> Mdm Su Xinhui Sarah <br> Mdm Jenn Ang
  <br> Mdm Jeannie Yeo <br> Mdm Tan Siow Hwee <br> 
 
 #### **Schedule**
