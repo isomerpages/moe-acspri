@@ -4,12 +4,11 @@ permalink: /our-ccas/clubs/synergy/
 description: ""
 third_nav_title: Clubs
 ---
-# **Synergy**
 
 
 #### **Teachers in Charge**
 
-Ms Ho Lim Hwei <br> Mdm Punitha Kasipandy <br> Ms Woon Yuet Meng
+Ms Ho Lim Hwei (I/C)<br> Mdm Punitha Kasipandy <br> Ms Woon Yuet Meng
 
 #### **Schedule**
 
