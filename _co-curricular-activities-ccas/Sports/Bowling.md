@@ -4,9 +4,6 @@ permalink: /our-ccas/sports/bowling/
 description: ""
 third_nav_title: Sports
 ---
-# **Bowling**
-
-
 
 #### **1. Bowling Development**
 Bowling (Development) CCA is set up as a training platform for non-school team bowlers. Pupils who have interest in this sport may sign up for this CCA. They will undergo a selection trial during the first bowling session. Pupils not selected will be channeled to the other CCAs that they have chosen. Two-way transport is provided.
