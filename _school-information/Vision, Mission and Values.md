@@ -62,7 +62,7 @@ Traits of an ACSian (TACS):
 Grounded in ACS(P)'s iHOPEFUL values, the iHOPEFUL leader is an ACS(P) gentleman who enjoys an education that is anchored on Christian principles. He is aware of his national and cultural identity and seeks to be a leader of self, of his peers, and of his community.
 
 **Creative Learner**<br>
-The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issued in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
+The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issues in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
 
 **Effective Communicator**<br>The ACS(P) gentleman is an effective communicator who is articulate and eloquent. He is effectively billingual and is able to persuade others and present his thoughts in EL and in his MTL with clarity. He is expressive and knows how to carry himself in both the real-world and the virtual-world domains.
 
