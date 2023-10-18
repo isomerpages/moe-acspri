@@ -7,7 +7,7 @@ description: ""
 
 
 
-| Title | Name | E-mail |
+| Title | Name | Email |
 | -------- | -------- | -------- |
 |	Principal	|Mrs Leong-Ho Hil May 	|[ho_hil_may@schools.gov.sg](mailto:ho_hil_may@schools.gov.sg)|
 |	Vice Principal (EO)	| Mrs	Celia Lau  	|	[celia_choh@schools.gov.sg](mailto:celia_choh@schools.gov.sg)|
