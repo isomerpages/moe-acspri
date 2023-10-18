@@ -6,9 +6,7 @@ description: ""
 ### **Small Things Matter Much**
 
 
-
-
-<img src="images/2023%20New%20Staffs/principal1.jpg" style="width:30%;margin-right:30x;" align="right">
+<img src="images//principal3.jpg" style="width:30%;margin-right:30x;" align="right">
 
 
 
