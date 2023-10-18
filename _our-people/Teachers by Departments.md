@@ -8,7 +8,7 @@ description: ""
 
 
 
-| Dept| Title| Name | E-mail | 
+| Dept| Title| Name | Email | 
 | -------- | -------- | -------- | -------- |
 | **English Language**||||
 | |  Head of Department/English  |    Mdm Suzanna Hashim | [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) |  
