@@ -3,7 +3,6 @@ title: Teachers by Departments
 permalink: /our-people/teachers-by-departments/
 description: ""
 ---
-## **Teachers by Departments**
 
 
 
