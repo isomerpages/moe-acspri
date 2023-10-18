@@ -11,7 +11,7 @@ Every ACSian a young man of character, capability and creativity
 Anglo-Chinese School (Primary) believes in providing an all-round education in an environment which seeks to bring out the potential in every pupil to the fullest, and to develop in him a strong moral character, imbued with Christian values and principles to guide and prepare him for life ahead.
 
 ##### **Our Shared Values**
-**_i_**ntegrity, **H**umility, **O**bedience, **P**erseverance, **E**mpathy, **F**aithfulness, **U**nity and **L**oyalty (_i_ HOPEFUL)
+**_i_**ntegrity,&nbsp;**H**umility,&nbsp;**O**bedience,&nbsp;**P**erseverance,&nbsp;**E**mpathy,&nbsp;**F**aithfulness,&nbsp;**U**nity and&nbsp;**L**oyalty (_i_&nbsp;HOPEFUL)
 
 ##### **Our Motto**
 The Best Is Yet To Be
@@ -58,8 +58,8 @@ To inculcate loyalty and commitment for the school through a sense of identity, 
 ##### **Our Desired Outcome**
 Traits of an ACSian (TACS):
 
-**_i_ HOPEFUL Leader**<br>
-Grounded in ACS(P)'s iHOPEFUL values, the iHOPEFUL leader is an ACS(P) gentleman who enjoys an educaiton that is anchored on Christian principles. He is aware of his national and cultural identity and seeks to be a leader of self, of his peers, and of his community.
+**_i_&nbsp;HOPEFUL Leader**<br>
+Grounded in ACS(P)'s iHOPEFUL values, the iHOPEFUL leader is an ACS(P) gentleman who enjoys an education that is anchored on Christian principles. He is aware of his national and cultural identity and seeks to be a leader of self, of his peers, and of his community.
 
 **Creative Learner**<br>
 The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issued in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He Processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
