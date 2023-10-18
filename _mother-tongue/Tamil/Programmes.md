@@ -4,7 +4,7 @@ permalink: /cognitive/mother-tongue/tamil/programmes/
 description: ""
 third_nav_title: Tamil
 ---
-### **Programmes**
+
 *   Our Mother Tongue Department (Tamil) focuses on the holistic development of each pupil and organises programmes to that end. Our weekly Buddy Reading programme encourages upper primary pupils to help the lower primary pupils in their reading skills. The Tamil Speech and Drama Workshop is an annual workshop conducted to develop confidence in the language through enjoyable and engaging activities. 
 
 *   MTL Fortnight activities are conducted for pupils to appreciate the language and culture better. This year, Silambaattam (Indian Martial Arts) was introduced to the pupils. They were very enthused in learning the traditional art of self-defense. They were also introduced to traditional Indian cuisine called Idiyaappam and the Indian art of henna painting. Primary 5 pupils also had an enriching experience during the MTL Camp at UPTLC. 
