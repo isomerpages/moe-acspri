@@ -20,13 +20,6 @@ Operations Support Officer	|	Mr Jahroni Karadi	|
 Operations Support Officer  	|	Mdm Saeyah	|	saeyah_iksan@moe.edu.sg	|[saeyah_iksan@moe.edu.sg](mailto:saeyah_iksan@moe.edu.sg)|
  Science Lab Assistant  	|	Ms Marsytha	|		|[](mailto:)|
  Librarian 	|	Ms Amy Ng	|		
- |
- 
- 
-
-##### **School Counsellor**
-| Title | Name | Email |
-| -------- | -------- | -------- |
 Senior School Counsellor 	|	Mr Desmond Liew	|	liew_shuh_onn@moe.edu.sg	|[liew_shuh_onn@moe.edu.sg](mailto:liew_shuh_onn@moe.edu.sg)|
 Part-time School Counsellor	|	Mdm Chan Chee Har	|	chan_chee_har@acsp.sg	|[chan_chee_har@acsp.sg](mailto:chan_chee_har@acsp.sg)|
 |
