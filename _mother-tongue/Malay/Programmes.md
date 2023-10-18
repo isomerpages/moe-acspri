@@ -4,7 +4,7 @@ permalink: /cognitive/mother-tongue/malay/programmes/
 description: ""
 third_nav_title: Malay
 ---
-### **Programmes**
+
 *   Our Mother Tongue Department (Malay Language ) believes that learning should be exploratory and exciting. Our Learning Journeys include trips to the Singapore Zoo, the National Museum, HortPark and Gardens by the Bay . The objective of the trip is to bring classroom studies to reality. All trips include customised worksheets and fun-filled activities such as games and quizzes for the pupils.
 
 *   During these trips, pupils apply the four main skills of reading, writing, listening and speaking. This enriches our pupils’ knowledge and oratorical skills as they do a write-up on their trip and share their learning experiences with their peers.
