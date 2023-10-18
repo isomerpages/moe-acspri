@@ -106,7 +106,7 @@ Traits of an ACSian (TACS):
 **iHOPEFUL Leader**
 
 Grounded in ACS(P)’s iHOPEFUL values, the iHOPEFUL leader is an ACS(P) gentleman who enjoys an
-educaiton that is anchored on Christian principles. He is aware of his national and cultural identity and
+education that is anchored on Christian principles. He is aware of his national and cultural identity and
 seeks to be a leader of self, of his peers, and of his community.
 
 **Creative Learner**
