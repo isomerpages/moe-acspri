@@ -5,8 +5,11 @@ description: ""
 ---
 ### **Small Things Matter Much**
 
-<br>
+
+
+
 <img src="images/2023%20New%20Staffs/principal1.jpg" style="width:30%;margin-right:30x;" align="right">
+
 
 
 Here is a boy with five small loaves of barley bread. He also has two small fish. But how far will that go in such a large crowd? – John 6:9 (NIRV) 
