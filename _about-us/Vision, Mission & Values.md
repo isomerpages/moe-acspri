@@ -111,7 +111,7 @@ seeks to be a leader of self, of his peers, and of his community.
 
 **Creative Learner**
 
-The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issued in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
+The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issues in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
 
 **Effective Communicator**
 
