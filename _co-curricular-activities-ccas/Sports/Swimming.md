@@ -4,8 +4,6 @@ permalink: /our-ccas/sports/swimming/
 description: ""
 third_nav_title: Sports
 ---
-# **Swimming**
-
 
 
 The Swimming CCA programme in ACS Primary aims to educate pupils on how to be safe when in and around water as well as skills in swimming and personal aquatic survival.
@@ -23,7 +21,7 @@ We are eager to carry on the tradition and heritage that in ACS, All-Can-Swim, a
 
 | Name  |    E-Mail |
 | -------- |  -------- |
-| Mdm Ida Nonanseh (i/c) | [ida_nonaseh_abdul_rahman@moe.edu.sg](mailto:ida_nonaseh_abdul_rahman@moe.edu.sg) |
+| Mdm Ida Nonanseh (I/C) | [ida_nonaseh_abdul_rahman@moe.edu.sg](mailto:ida_nonaseh_abdul_rahman@moe.edu.sg) |
  | Mr Richard Goh Teoh Chuan | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg)   |
 | Mr Chhoa Kok Kheng | [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg) |
 | Mr Perry Chan Chee Keong| [cperry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg) |

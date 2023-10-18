@@ -4,7 +4,6 @@ permalink: /cognitive/mother-tongue/chinese/assessment-matters/
 description: ""
 third_nav_title: Chinese
 ---
-### **Assessment Matters**
 **(Only for IP departments)**
 
 We focus on six main core skills, namely listening skills, speaking skills, reading skills, writing skills, interactive conversational skills and interactive writing skills.

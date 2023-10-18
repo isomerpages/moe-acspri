@@ -4,7 +4,6 @@ permalink: /our-ccas/clubs/choir/
 description: ""
 third_nav_title: Clubs
 ---
-# **Choir**
 
 
 #### **Teachers in Charge**

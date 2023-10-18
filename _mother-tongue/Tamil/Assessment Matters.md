@@ -4,7 +4,6 @@ permalink: /cognitive/mother-tongue/tamil/assessment-matters/
 description: ""
 third_nav_title: Tamil
 ---
-### **Assessment Matters**
 **(Only for IP departments)**
 
 Our Assessment focuses mainly on the four skills which are reading, writing, listening and speaking. Pupils are given ample practice to develop these skills.

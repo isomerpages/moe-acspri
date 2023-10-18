@@ -3,9 +3,6 @@ title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values/
 description: ""
 ---
-# **Vision, Mission and Values**
-
-
 ##### **Our Vision**
 
 Every ACSian, a young man of character, capability and creativity.
@@ -109,12 +106,12 @@ Traits of an ACSian (TACS):
 **iHOPEFUL Leader**
 
 Grounded in ACS(P)’s iHOPEFUL values, the iHOPEFUL leader is an ACS(P) gentleman who enjoys an
-educaiton that is anchored on Christian principles. He is aware of his national and cultural identity and
+education that is anchored on Christian principles. He is aware of his national and cultural identity and
 seeks to be a leader of self, of his peers, and of his community.
 
 **Creative Learner**
 
-The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issued in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He Processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
+The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issues in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
 
 **Effective Communicator**
 

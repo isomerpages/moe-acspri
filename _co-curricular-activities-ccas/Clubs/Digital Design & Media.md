@@ -4,7 +4,7 @@ permalink: /our-ccas/clubs/digital-design-media/
 description: ""
 third_nav_title: Clubs
 ---
-# **Digital Design &amp; Media**
+
 
 ### **Departments (CCE/ SDT)**
 Digital Media &amp; Design Club
@@ -13,7 +13,7 @@ Digital Media &amp; Design Club
 
 #### **Teachers in Charge**
 
-Mdm Najuma Banu <br> Mrs Gladys Lim
+Mdm Najuma Banu (I/C) <br> Mrs Gladys Lim
 
 #### **Schedule**
 

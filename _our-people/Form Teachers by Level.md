@@ -8,7 +8,7 @@ description: ""
 ##### **Primary 1**
 
 
-| Class | Name | E-mail |
+| Class | Name | Email |
 | -------- | -------- | -------- |
 |1A   |  Ms Chan Wai Ying|[Chan_wai_ying@moe.edu.sg](mailto:Chan_wai_ying@moe.edu.sg)  |
 | 1A | Mrs Koay Gui Mei |[he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg) | 
@@ -31,7 +31,7 @@ description: ""
 
 ##### **Primary 2**
 
-| Class | Name | E-mail |
+| Class | Name | Email |
 | -------- | -------- | -------- |
 | 2A | Mrs Christine Ho|[tan_lay_hoon_christine@moe.edu.sg](mailto:tan_lay_hoon_christine@moe.edu.sg)  |
 | 2A | Mr Chhoa Kok Kheng |[chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg)  | 
@@ -54,7 +54,7 @@ description: ""
 
 ##### **Primary 3**
 
-| Class | Name | E-mail |
+| Class | Name | Email |
 | -------- | -------- | -------- |
 | 3A | Mdm Suzanna Hashim | [suzanna_hashim@moe.edu.sg](mailto:suzanna_hashim@moe.edu.sg) |
 | 3A | Mdm Tan Lin Li | [tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg) | 
@@ -73,7 +73,7 @@ description: ""
 
 ##### **Primary 4**
 
-| Class | Name | E-mail |
+| Class | Name | Email |
 | -------- | -------- | -------- |
 | 4A | Mdm Renuka Devi Windersalam| [windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg) | 
 | 4A | Mr Low Chong Jian Edwin|  [low_chong_jian_edwin@moe.edu.sg](mailto:low_chong_jian_edwin@moe.edu.sg) | 
@@ -99,7 +99,7 @@ description: ""
 
 ##### **Primary 5**
 
-| Class | Name | E-mail |
+| Class | Name | Email |
 | -------- | -------- | -------- |
 | 5A | Mdm Chiew Hwee Ling | [chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) | 
 | 5A | Mdm Divya Dharshini | [divya_dharshini_harikrishan@moe.edu.sg](mailto:divya_dharshini_harikrishan@moe.edu.sg) | 
@@ -125,7 +125,7 @@ description: ""
 
 ##### **Primary 6**
 
-| Class | Name | E-mail |
+| Class | Name | Email |
 | -------- | -------- | -------- |
 | 6A | Mrs Jess Teng | [jess_teng-chong_su_hwa@moe.edu.sg](mailto:jess_teng-chong_su_hwa@moe.edu.sg) | 
 | 6A | Miss Kogilavani Vathumalai | [kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)  | 

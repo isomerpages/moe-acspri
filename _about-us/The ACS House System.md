@@ -3,7 +3,6 @@ title: The ACS House System
 permalink: /about-us/acs-house-system/
 description: ""
 ---
-# **The ACS House System**
 
 ### **Background to the ACS House System**
 

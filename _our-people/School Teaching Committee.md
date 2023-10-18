@@ -1,14 +1,9 @@
 ---
-title: School Teaching Committee (STC)
+title: School Teaching Committee
 permalink: /our-people/school-teaching-committee/
 description: ""
 ---
-# **School Teaching Committee (STC)**
-
-
-
-
-| Title| Name | E-mail |
+| Title| Name | Email |
 | -------- | -------- | -------- |
 |	SSD	|	Ms Vanessa Tan	|[tan_bee_choo_b@moe.edu.sg](mailto:tan_bee_choo_b@moe.edu.sg)|
 |	LT/EL	| Mdm	Chui Yuen Phun 	|[chui_yuen_phun@moe.edu.sg](mailto:chui_yuen_phun@moe.edu.sg)|

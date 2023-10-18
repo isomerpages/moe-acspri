@@ -4,7 +4,7 @@ permalink: /cognitive/mother-tongue/malay/assessment-matters/
 description: ""
 third_nav_title: Malay
 ---
-### **Assessment Matters**
+
 **(Only for IP departments)**
 
 We focus on four main core skills: listening skills, speaking skills, reading skills and writing skills. By sharpening their listening skills, pupils will be able to listen and understand texts from different genres such as short stories, novels and poetry and be able to respond to questions based on the texts. Practice in speaking skills enables pupils to communicate in clear, fluent and effective Standard Malay Language. Reading skills training empowers the pupils to read texts from different genres with understanding and to make appropriate response. Pupils will be able to read with the proper intonation, appropriate to the context of the sentence.

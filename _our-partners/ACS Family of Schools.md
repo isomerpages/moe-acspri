@@ -3,7 +3,6 @@ title: ACS Family of Schools
 permalink: /our-partners/acs-family-of-schools/
 description: ""
 ---
-# **ACS Family of Schools**
 [Anglo-Chinese Junior College](https://acjc.moe.edu.sg/)
 
 [Anglo-Chinese School (Barker Road)](http://www.acsbr.moe.edu.sg/)

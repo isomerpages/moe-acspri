@@ -4,7 +4,6 @@ permalink: /for-students/student-icon/student-icon/
 description: ""
 third_nav_title: Student iCON
 ---
-# **Student iCON**
 
 [Student iCON Onboarding - Guide for Parents]()
 

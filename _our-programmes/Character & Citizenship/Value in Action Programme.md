@@ -14,8 +14,6 @@ ACS(P) VIA programme consists of age-appropriate activities for all the pupils t
 *  Peer/School
 * Community/Nation/World
 
-<img style="width:75%" src="/images/via1.jpg">
-
 VIA activities/projects are designed around these 3 domains and each level will have at least 1 activity/project from each of these domains. Some examples of the VIA activities that were carried out are:
 
 <img style="width:75%" src="/images/via2.jpg">

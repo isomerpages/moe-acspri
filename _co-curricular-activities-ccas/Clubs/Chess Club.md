@@ -4,12 +4,10 @@ permalink: /our-ccas/clubs/chess-club/
 description: ""
 third_nav_title: Clubs
 ---
-# **Chess Club**
-
 
 #### **Teachers in Charge**
 
-Mrs Dawn Wee <br> Mdm Li Chunju <br> Mdm Leong Lilian
+Mrs Dawn Wee (I/C) <br> Mdm Li Chunju <br> Mdm Leong Lilian
 
 #### **Schedule**
 

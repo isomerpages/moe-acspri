@@ -4,18 +4,14 @@ permalink: /our-ccas/sports/bowling/
 description: ""
 third_nav_title: Sports
 ---
-# **Bowling**
-
-
-
 #### **1. Bowling Development**
 Bowling (Development) CCA is set up as a training platform for non-school team bowlers. Pupils who have interest in this sport may sign up for this CCA. They will undergo a selection trial during the first bowling session. Pupils not selected will be channeled to the other CCAs that they have chosen. Two-way transport is provided.
 
 ##### **Teacher in Charge**
 
 | Name | Email ID |
-|:---:|:---:|
-| Ms Tan Bee Po (i/c) | [tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)   |
+|---|---|
+|Ms Tan Bee Po (I/C) | [tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)   |
 | Miss Ngoh Gek Luan | [ngoh_gek_luan@moe.edu.sg](mailto:goh_gek_luan@moe.edu.sg)  |
 |
 
@@ -34,7 +30,7 @@ Only for School Team members. Two-way transport is provided for both Mon and Wed
 ##### **Teachers-In-Charge**
 
 | Name | Email ID |
-|:---:|:---:|
+|---|---|
 | Mdm Farisa Hussain  (i/c) | [farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg)     |
 | Ms Ee Li Hua Elizabeth | [ee_li_hua_elizabeth@moe.edu.sg](mailto:ee_li_hua_elizabeth@moe.edu.sg) |
 | Mdm Norharyati Harun |    [norharyati_harun@moe.edu.sg](mailto:norharyati_harun@moe.edu.sg) |

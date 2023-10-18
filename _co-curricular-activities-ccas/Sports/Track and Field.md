@@ -4,13 +4,10 @@ permalink: /our-ccas/sports/track-and-field/
 description: ""
 third_nav_title: Sports
 ---
-# **Track and Field**
-
-
 #### **Teacher in Charge**
 
 
-Ms Ho Yong Ying <br> Mdm Siti Masyita <br> Mr Tan Yew Chai <br>Ms Chan Wai Ying Elyse
+Ms Ho Yong Ying(/C) Mdm Siti Masyita <br> Mr Tan Yew Chai <br>Ms Chan Wai Ying Elyse
 
 #### **Schedule**
 

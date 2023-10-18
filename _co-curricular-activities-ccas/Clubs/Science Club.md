@@ -4,12 +4,9 @@ permalink: /our-ccas/clubs/science-club/
 description: ""
 third_nav_title: Clubs
 ---
-# **Science Club**
-###
-
 #### **Teachers in Charge**
 
-Mdm Divya Dharshini <br> Mr Wan Mohamed
+Mdm Divya Dharshini (I/C) <br> Mr Wan Mohamed
 
 #### **Schedule**
 

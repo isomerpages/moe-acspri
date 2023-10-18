@@ -4,13 +4,11 @@ permalink: /our-ccas/uniform-groups/boys-brigade/
 description: ""
 third_nav_title: Uniform Groups
 ---
-# **Boys Brigade**
-
 
 
 #### **Teachers in Charge**
 
-Mr Adrian Kum <br> Mr Seow Kian Yong <br> Mr Chan Tao Yao
+Mr Adrian Kum (I/C) <br> Mr Seow Kian Yong <br> Mr Chan Tao Yao
 
 #### **Schedule**
 

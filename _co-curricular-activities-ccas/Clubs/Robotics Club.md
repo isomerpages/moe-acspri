@@ -4,8 +4,6 @@ permalink: /co-curricular-activities-ccas/clubs/permalink/
 description: ""
 third_nav_title: Clubs
 ---
-# **Robotics Club**
-
 
 ##### Teachers-in-charge<br>
 
@@ -42,6 +40,5 @@ The objectives of the Robotics Club are to train members in programming and prov
 
 
 <br>
-<img src="/images/robotic1.jpg" style="width:80%" align="center">
-<br>
+
 <br>
