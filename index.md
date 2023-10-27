@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: For Staffs
           description: ""
-          url: /for-staffs/
+          url: https://acspri.sg/for-staffs/
         - title: For Students
           description: ""
           url: /for-students/
