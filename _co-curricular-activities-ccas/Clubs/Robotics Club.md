@@ -4,7 +4,6 @@ permalink: /co-curricular-activities-ccas/clubs/permalink/
 description: ""
 third_nav_title: Clubs
 ---
-
 ##### Teachers-in-charge<br>
 
 Mdm Tan Yoke Joo (I/C)<br>
@@ -38,7 +37,8 @@ The objectives of the Robotics Club are to train members in programming and prov
 -	2nd and 3rd in Best Robot Performance Award, 
 -	1st and 3rd in Championship Award!
 
-
 <br>
 
-<br>
+![](/images/acs%20robotics%20club%202.jpg)
+
+![](/images/acs%20robotics%20club.jpg)
