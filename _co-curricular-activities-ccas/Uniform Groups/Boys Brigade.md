@@ -4,7 +4,7 @@ permalink: /our-ccas/uniform-groups/boys-brigade/
 description: ""
 third_nav_title: Uniform Groups
 ---
-
+## **Boys Brigade**
 
 #### **Teachers in Charge**
 
