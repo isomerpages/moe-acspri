@@ -4,6 +4,7 @@ permalink: /our-ccas/uniform-groups/cub-scouts/
 description: ""
 third_nav_title: Uniform Groups
 ---
+## **Cub Scouts**
 
 Scouting with the ACS(P) Cub Scouts encourages the holistic physical, mental, spiritual and social development of each pupil with a strong emphasis on duty to God, duty to country, and helping other people. The mission of Scouting is to contribute to the education of young people, through a value system based on the Scout Promise and Law, to help build a better world where people are self-fulfilled as individuals and play a constructive role in society.
 
