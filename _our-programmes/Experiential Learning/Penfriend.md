@@ -4,6 +4,8 @@ permalink: /our-programmes/experiential-learning/penfriend/
 description: ""
 third_nav_title: Experiential Learning
 ---
+## **Penfriend**
+
 Cultivating students' international vision, global awareness, and cross-cultural understanding is a key component of the framework for 21st-century competencies and student outcomes.
 
 To mitigate the impact of COVID-19 and create a platform for students to communicate, our school is cooperating with the  Nanjing Xingzhi Primary School in China to carry out the "Writing Buddy" project. This project aims to cultivate students' communication and collaborative skills, helping them become confident and independent learners.
