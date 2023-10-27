@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Campus Map.md
       - Principal's Foreword.md
       - Vision, Mission & Values.md
       - School History/.keep
@@ -12,3 +11,4 @@ collections:
       - School History/Gallery.md
       - The ACS House System.md
       - Board of Governors.md
+      - Campus Map.md
