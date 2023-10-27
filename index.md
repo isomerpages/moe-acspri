@@ -27,4 +27,8 @@ sections:
         Oldham’s vision of the ACS philosophy of education.
       button: click here to read more -
       url: /acs-brand-of-education/
+  - resources:
+      title: Announcement
+      id: resources
+      button: Read More
 ---
