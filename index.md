@@ -17,9 +17,6 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
-        - title: Physical
-          description: ""
-          url: /physical/
       background: /images/School_Logo/Main_Gif.gif
   - infobar:
       title: The ACS(P) Brand of Education
