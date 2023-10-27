@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Affective
+        - title: For Staffs
           description: ""
-          url: /affective/
+          url: /for-staffs/
         - title: Cognitive
           description: ""
           url: /cognitive/
