@@ -1,5 +1,9 @@
 logo: /images/ACSP_Logo.jpg
 links:
+  - title: About Us
+    collection: about-us
+  - title: Our People
+    collection: our-people
   - title: School Information
     url: /school-information/
     sublinks:
