@@ -11,12 +11,12 @@ sections:
         - title: For Staffs
           description: ""
           url: /for-staffs/
-        - title: Cognitive
+        - title: For Students
           description: ""
-          url: /cognitive/
-        - title: Social
+          url: /for-students/
+        - title: For Parents
           description: ""
-          url: /social/
+          url: /for-parents/
         - title: Physical
           description: ""
           url: /physical/
