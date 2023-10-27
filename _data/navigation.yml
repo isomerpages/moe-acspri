@@ -4,6 +4,14 @@ links:
     collection: about-us
   - title: Our People
     collection: our-people
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Our CCAs
+    collection: co-curricular-activities-ccas
+  - title: Our Partners
+    collection: our-partners
+  - title: Contact Us
+    url: https://ask.gov.sg/acps
   - title: School Information
     url: /school-information/
     sublinks:
@@ -80,5 +88,3 @@ links:
         url: /publications/school-magazine/
   - title: Home-Based Learning
     url: /home-based-learning/
-  - title: Have a question?
-    url: https://ask.gov.sg/acps
