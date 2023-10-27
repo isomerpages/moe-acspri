@@ -8,8 +8,6 @@ links:
     collection: our-programmes
   - title: Our CCAs
     collection: co-curricular-activities-ccas
-  - title: Our Partners
-    collection: our-partners
   - title: Contact Us
     url: https://ask.gov.sg/acps
   - title: School Information
@@ -86,5 +84,3 @@ links:
         url: /publications/echo/
       - title: School Magazine
         url: /publications/school-magazine/
-  - title: Home-Based Learning
-    url: /home-based-learning/
