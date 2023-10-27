@@ -4,7 +4,7 @@ permalink: /our-ccas/sports/swimming/
 description: ""
 third_nav_title: Sports
 ---
-
+## **Swimming**
 
 The Swimming CCA programme in ACS Primary aims to educate pupils on how to be safe when in and around water as well as skills in swimming and personal aquatic survival.
 
