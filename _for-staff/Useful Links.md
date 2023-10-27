@@ -5,42 +5,42 @@ description: ""
 ---
 ### **Useful Links**
 
-##### Form SG
+##### **Form SG**
 https://form.gov.sg/
 
-##### HR & Payroll portal (HRP)
+##### **HR & Payroll Portal (HRP)**
 https://www.hrp.gov.sg/
 
 
-##### iCON 2.0
+##### **iCON 2.0**
 
 http://icon.moe.edu.sg/
 
-##### MIMS
+##### **MIMS**
 
 https://portal.mims.moe.gov.sg/
 
-##### MOE
+##### **Ministry of Education (MOE)**
 
 https://www.moe.gov.sg/
 
-##### Parents Gateway
+##### **Parents Gateway**
 
 https://pg.moe.edu.sg/
 
-##### School Cockpit
+##### **School Cockpit**
 
 https://schoolcockpit.moe.gov.sg/
 
-##### SSOE2 Portal
+##### **SSOE2 Portal**
 
 https://ssoe2.moe.edu.sg/
 
-##### Student Learning Space (SLS)
+##### **Student Learning Space (SLS)**
 
 https://vle.learning.moe.edu.sg/login
 
 
-##### OPAL 2.0
+##### **OPAL 2.0**
 
 https://idm.opal2.moe.edu.sg/
