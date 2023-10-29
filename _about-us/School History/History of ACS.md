@@ -4,6 +4,8 @@ permalink: /about-us/school-history/
 description: ""
 third_nav_title: School History
 ---
+## **History of ACS**
+
 #### **How we came about**
 
 <img src="/images/sch%20history.jpg" style="width:30%;margin-right:15px;" align="left">
