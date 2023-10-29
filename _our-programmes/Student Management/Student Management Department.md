@@ -4,7 +4,7 @@ permalink: /our-programmes/student-management/permalink/
 description: ""
 third_nav_title: Student Management
 ---
-##  Student Management Department
+##  **Student Management Department**
 
 At ACS(P), we strive to provide a safe, caring and enabling environment for all students to learn, play and grow. This is achieved by having a consistent disciplinary framework, and at the same time,focusing on the well-being of our students by having a holistic peer support programme to strengthen the relationships between peers in the physical world as well as extending these skills and attributes in cyberspace. Last but not least, at ACS(P), every student is a leader and hence, there are ample opportunities for students to take on leadership roles.
 
