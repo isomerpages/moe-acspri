@@ -4,8 +4,6 @@ permalink: /our-ccas/clubs/choir/
 description: ""
 third_nav_title: Clubs
 ---
-
-
 #### **Teachers in Charge**
 
 
@@ -43,6 +41,7 @@ The Choir members have also been involved in projects such as the collaboration 
 * Methodist Get-together (2015)
 
 ![](/images/acs%20choir.jpg)
+
 ![](/images/choir%202.jpg)
 
 ![](/images/choir%203.jpg)
