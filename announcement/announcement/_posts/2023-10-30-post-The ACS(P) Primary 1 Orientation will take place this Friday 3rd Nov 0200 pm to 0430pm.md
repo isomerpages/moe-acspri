@@ -7,3 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
+## **ACS(P) Primary 1 Orientation**
+
+
+The ACS(P) Primary 1 Orientation will take place this Friday 3rd Nov 2 pm to 04:30 pm.
