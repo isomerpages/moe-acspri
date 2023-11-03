@@ -13,7 +13,7 @@ sections:
           url: /for-staff/useful-links/
         - title: For Students
           description: ""
-          url: /for-students/
+          url: /For-students/school-rules/
         - title: For Parents
           description: ""
           url: /for-parents/
