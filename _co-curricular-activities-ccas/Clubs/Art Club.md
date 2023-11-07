@@ -3,14 +3,17 @@ title: Art Club
 permalink: /our-ccas/clubs/art-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-# **Art Club**
-
 
 #### **Teachers in Charge**
 
-Ms Jessica Lai <br>
-Mrs Lee Ting Ting
+| Name | E-Mail|
+| -------- | -------- | 
+|	Jessica Lai Kit Mun (Mdm)	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
+|	Lee Ting Ting (Mrs)	|[foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg)|		
+|
+		
 
 #### **Schedule**
 
