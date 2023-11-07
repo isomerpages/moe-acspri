@@ -8,12 +8,12 @@ variant: markdown
 #### **Teachers in Charge**
 
 
-
-|Name  |email |
-| -------- | -------- | -------- |
-|	Mrs Dawn Wee 	|[wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg)|		
+ | Name | Email |
+ | -------- | -------- |
+|	Mrs Dawn Wee (I/C)	|[wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg)|		
 |	Mdm Li Chunju 	|[li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg)|		
 |	Mdm Leong Lilian 	|[leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg)|		
+|
 
 
 
