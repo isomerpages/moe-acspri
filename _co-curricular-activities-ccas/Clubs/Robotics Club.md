@@ -42,7 +42,3 @@ The objectives of the Robotics Club are to train members in programming and prov
 -	1st and 3rd in Championship Award!
 
 <br>
-
-![](/images/acs%20robotics%20club%202.jpg)
-
-![](/images/acs%20robotics%20club.jpg)
