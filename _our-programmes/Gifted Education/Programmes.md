@@ -3,6 +3,7 @@ title: Programmes
 permalink: /our-programmes/gifted-education/programmes/
 description: ""
 third_nav_title: Gifted Education
+variant: markdown
 ---
 # **Programmes**
 
@@ -17,7 +18,7 @@ Head of Department (GEP/ Humanities)&nbsp;<br>
 [see\_kwan\_hui\_josephine@moe.edu.sg](mailto:see_kwan_hui_josephine@moe.edu.sg)
 
 Mdm Kathleen Chan <br>
-Head of Department (GEP/ Mathematics &amp; Science)&nbsp;
+Head of Department (GEP/ Mathematics &amp; Science)&nbsp;<br>
 [chan\_yin\_hong\_kathleen@moe.edu.sg](mailto:chan_yin_hong_kathleen@moe.edu.sg)
 
 Ms Vanessa Tan
