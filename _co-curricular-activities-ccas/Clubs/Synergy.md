@@ -3,10 +3,16 @@ title: Synergy
 permalink: /our-ccas/clubs/synergy/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 #### **Teachers in Charge**
 
-Ms Ho Lim Hwei (I/C)<br> Mdm Punitha Kasipandy <br> Ms Woon Yuet Meng
+ | Name | Email |
+ | -------- | -------- |
+|Ms Ho Lim Hwei (I/C)|[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
+|Mdm Punitha Kasipandy |[punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)|
+|Ms Woon Yuet Meng |[woon_yuet_meng@moe.edu.sg](mailto:woon_yuet_meng@moe.edu.sg)|
+|
 
 #### **Schedule**
 
