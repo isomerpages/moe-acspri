@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-
 ##### Teachers in charge
 
  | Name | Email |
  | -------- | -------- |
-|Mr	Daniel Chua	|[chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)|
+|Mr	Daniel Chua (I/C)	|[chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg)|
 |Mr	Koh Chaik Khoon	|[koh_chaik_khoon@moe.edu.sg](mailto:koh_chaik_khoon@moe.edu.sg)|
 |Mr	Aravinthan s/o A Karuppiah	|[aravinthan_a_karuppiah@moe.edu.sg](mailto:aravinthan_a_karuppiah@moe.edu.sg)|
 |Mr	Richard Goh 	|[goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg)|	
