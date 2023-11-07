@@ -10,8 +10,8 @@ variant: markdown
 
 | Name | E-Mail|
 | -------- | -------- | 
-|	Jessica Lai Kit Mun (Mdm)	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
-|	Lee Ting Ting (Mrs)	|[foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg)|		
+|	Mdm Jessica Lai Kit Mun 	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
+|	Mrs Lee Ting Ting 	|[foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg)|		
 |
 		
 
