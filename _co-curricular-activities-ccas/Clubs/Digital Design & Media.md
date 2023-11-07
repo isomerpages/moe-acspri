@@ -3,17 +3,16 @@ title: Digital Design & Media
 permalink: /our-ccas/clubs/digital-design-media/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-
-
-### **Departments (CCE/ SDT)**
-Digital Media &amp; Design Club
-
-
 
 #### **Teachers in Charge**
 
-Mdm Najuma Banu (I/C) <br> Mrs Gladys Lim
+ | Name | Email |
+ | -------- | -------- |
+|	Mdm Najuma Banu (I/C)	|[najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg)|	
+|	Mrs Gladys Lim 	|[ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg)|		
+|
 
 #### **Schedule**
 
