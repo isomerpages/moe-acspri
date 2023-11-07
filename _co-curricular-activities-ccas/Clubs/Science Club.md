@@ -10,8 +10,8 @@ variant: markdown
 
  | Name | Email |
  | -------- | -------- |
-|	Divya Dharshini (Mdm)	|[divya_dharshini_harikrishan@moe.edu.sg](mailto:divya_dharshini_harikrishan@moe.edu.sg)|
-|	Wan Mohamed	|[wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)|	
+|Mdm Divya Dharshini |[divya_dharshini_harikrishan@moe.edu.sg](mailto:divya_dharshini_harikrishan@moe.edu.sg)|
+|Mr Wan Mohamed	|[wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)|	
 |
 
 #### **Schedule**
