@@ -3,12 +3,13 @@ title: Choir
 permalink: /our-ccas/clubs/choir/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 #### **Teachers in Charge**
 
 
 
-| Name | E-Mail|
+| Name | EMail|
 | -------- | -------- | 
 |Mrs Gomathi Ravindra (I/C)| [gomathi_ravindra@moe.edu.sg](mailto:gomathi\_ravindra@moe.edu.sg) |
 |Mdm Jasmine Kaur|  [[jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)](mailto:jasmine_kaur@moe.edu.sg) |
