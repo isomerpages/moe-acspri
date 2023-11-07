@@ -3,11 +3,21 @@ title: Chess Club
 permalink: /our-ccas/clubs/chess-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-
 #### **Teachers in Charge**
 
-Mrs Dawn Wee (I/C) <br> Mdm Li Chunju <br> Mdm Leong Lilian
+
+
+|Name  |email |
+| -------- | -------- | -------- |
+|	Mrs Dawn Wee 	|[wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg)|		
+|	Mdm Li Chunju 	|[li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg)|		
+|	Mdm Leong Lilian 	|[leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg)|		
+
+
+
+
 
 #### **Schedule**
 
