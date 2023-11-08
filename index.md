@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: For Staffs
           description: ""
-          url: /for-staffs/useful-links/
+          url: /for-staff/useful-links/
         - title: For Students
           description: ""
           url: /for-students/school-rules/
