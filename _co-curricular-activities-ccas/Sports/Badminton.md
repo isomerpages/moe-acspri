@@ -3,10 +3,19 @@ title: Badminton
 permalink: /our-ccas/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 #### **Teachers in Charge**
 
-Mdm Jovina Tan (Teacher-in-charge of School Team and Training Squad) <br> Mdm Siti Karmila (Teacher-in-charge of Recreation Team) <br> Ms Ong Pei Khim Aubrey <br> Mdm Jessica Lai Kit Mun <br> Mr Tiong Sze Chiat Terry <br> Ms An Rui Ying
+| Name | EMail|
+| -------- | -------- | 
+|Mdm Jovina Tan (I/C)	|[jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg)|		
+| Mdm Siti Karmila 	|[siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg)|		
+|Ms Aubrey Ong	|[ong_pei_khim_aubrey@moe.edu.sg](mailto:ong_pei_khim_aubrey@moe.edu.sg)|		
+|Mdm Jessica Lai Kit Mun	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
+|Ms  An Ruiying	|[an_ruiying@moe.edu.sg](mailto:an_ruiying@moe.edu.sg)|	
+|
+
 
 #### **Schedule**
 
