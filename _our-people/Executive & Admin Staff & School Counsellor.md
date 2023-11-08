@@ -7,7 +7,7 @@ variant: markdown
 | Title | Name | Email |
 | -------- | -------- | -------- |
 Admin Manager  	|	Miss Lim Siew Lay	|	lim_siew_lay_a@moe.edu.sg	|[lim_siew_lay_a@moe.edu.sg](mailto:lim_siew_lay_a@moe.edu.sg)|
-Admin Manager  	|	Mr Ernest Fu	|	:Ernest_Fu@moe.edu.sg	|[Ernest_Fu@moe.edu.sg](mailto::Ernest_Fu@moe.edu.sg)|
+Admin Manager  	|	Mr Ernest Fu	|	Ernest_Fu@moe.edu.sg	|[Ernest_Fu@moe.edu.sg](mailto::Ernest_Fu@moe.edu.sg)|
 ICT Manager 	|	Mr Lee Byung Woo	|	lee_byung_woo@moe.edu.sg	|[lee_byung_woo@moe.edu.sg](mailto:lee_byung_woo@moe.edu.sg)|
 Operations Manager  	|	Mr Lee Yong Yiang	|	lee_yong_yiang@moe.edu.sg	|[lee_yong_yiang@moe.edu.sg](mailto:lee_yong_yiang@moe.edu.sg)|
 Operations Manager  	|	M Keith Chong	|	keith_chong@moe.edu.sg	|[keith_chong@moe.edu.sg](mailto:keith_chong@moe.edu.sg)|
