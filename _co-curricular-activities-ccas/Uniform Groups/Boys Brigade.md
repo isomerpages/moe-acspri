@@ -16,7 +16,6 @@ variant: markdown
 
 
 
-
 #### **Schedule**
 
 Every Wednesdays - 02:15pm to 04:15pm <br>
