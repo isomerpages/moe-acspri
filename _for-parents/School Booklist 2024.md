@@ -4,7 +4,6 @@ permalink: /for-parents/school-booklist-2024/
 description: ""
 variant: markdown
 ---
-### ***   School Booklist 2023**
 
 
 [2024 P2 Book List](/files/2024_Book_list/p2_book.pdf)
