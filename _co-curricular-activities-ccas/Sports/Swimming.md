@@ -20,6 +20,8 @@ variant: markdown
 | Mr Perry Chan Chee Keong| [cperry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg) |
 |
 
+##### **Schedule**
+Mondays & Wednesdays, 2.15 p.m. - 4.15 p.m., ACS(P) Shaw Pool
 
 
 #### **Programme/ Development**
@@ -32,8 +34,7 @@ For those pupils who wish to progress further, there are opportunities to advanc
 
 We are eager to carry on the tradition and heritage that in ACS, All-Can-Swim, and all pupils be enriched with water survival skills and sound swimming skills for any water sport
 
-##### **Schedule**
-Mondays & Wednesdays, 2.15 p.m. - 4.15 p.m., ACS(P) Shaw Pool
+
 
 ![](/images/swimming1.jpg)
 
