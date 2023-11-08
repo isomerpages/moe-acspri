@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Uniform Groups
 variant: markdown
 ---
-
-
-##### **Teachers-In-Charge**
+##### **Teachers In Charge**
 
 | Name | Email ID |
 |---|---|
