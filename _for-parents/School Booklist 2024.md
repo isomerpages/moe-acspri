@@ -4,8 +4,6 @@ permalink: /for-parents/school-booklist-2024/
 description: ""
 variant: markdown
 ---
-
-
 [2024 P2 Book List](/files/2024_Book_list/p2_book.pdf)
 
 [2024 P3 Book List](/files/2024_Book_list/p3_book.pdf)
@@ -25,6 +23,3 @@ variant: markdown
 [2024 P6 FDN Book List](/files/2024_Book_list/p6fdn_book.pdf)
 
 [2024 P6 GEP Book List](/files/2024_Book_list/p6gep_book.pdf)
-
-
-
