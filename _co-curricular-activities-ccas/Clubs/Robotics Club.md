@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-##### Teachers-in-charge<br>
+##### Teachers in charge<br>
 
  | Name | Email |
  | -------- | -------- |
