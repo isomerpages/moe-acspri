@@ -43,4 +43,3 @@ variant: markdown
 
 
 #### [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
-
