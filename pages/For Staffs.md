@@ -20,11 +20,11 @@ variant: markdown
 
 ##### **iCON 2.0**
 
-http://icon.moe.edu.sg/
+[](http://icon.moe.edu.sg/)http://icon.moe.edu.sg/
 
 ##### **MIMS**
 
-https://portal.mims.moe.gov.sg/
+[](https://portal.mims.moe.gov.sg/)https://portal.mims.moe.gov.sg/
 
 ##### **Ministry of Education (MOE)**
 
