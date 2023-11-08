@@ -2,9 +2,25 @@
 title: School Booklist 2024
 permalink: /for-parents/school-booklist-2024/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 ### ***   School Booklist 2023**
+
+[2024 P2 Book List](/files/2024_Book_list/p2_book.pdf)
+
+[2024 P3 Book List](/files/2024_Book_list/p3_book.pdf)
+
+[2024 P4 Book List](/files/2024_Book_list/p4_book.pdf)
+
+[2024 P4 GEP Book List](/files/2024_Book_list/p4gep_book.pdf)
+
+[2024 P5 Book List](/files/2024_Book_list/p5_book.pdf)
+
+
+
+
+
+
 
 
 [2023 P2 Book List](/files/2023_Book_List/P2.pdf)
