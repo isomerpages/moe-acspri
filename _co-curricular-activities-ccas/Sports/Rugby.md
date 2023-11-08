@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-
 ##### **Teachers In Charge**
 
 
@@ -19,7 +18,7 @@ variant: markdown
 | Mr Aravinthan s/o A Karuppiah | [aravinthan_a_karuppiah@moe.edu.sg](mailto:aravinthan_a_karuppiah@moe.edu.sg) |
 | Mr Daniel Chua | [chua_hoe_leong@moe.edu.sg](mailto:chua_hoe_leong@moe.edu.sg) |
 |
-## **Rugby**
+#### **Programme/ Development**
 
 Rugby is a fun-filled and fast-paced sport. There are many health benefits in playing rugby such as cardiovascular fitness and endurance, developing strength in the upper and lower body, agility, speed, ball handling and kicking skills, weight loss, better coordination and many others. It is also a sport in which pupils can have fun with their friends and make new ones too.
 
