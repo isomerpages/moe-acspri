@@ -10,7 +10,7 @@ variant: markdown
 | -------- | -------- | 
 |	Adrian Kum (I/C)	|[kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg)|
 |	Seow Kian Yong	|[seow_kian_yong@moe.edu.sg](mailto:seow_kian_yong@moe.edu.sg)|		
-|	Chan Tai Yao	|[chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg)|\
+|	Chan Tai Yao	|[chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg)|
 |
 
 
