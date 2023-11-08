@@ -45,6 +45,5 @@ The BB aims to advance Christ’s Kingdom and the promotion of habits of obedien
 
 ![](/images/boys%20brigade%206.jpg)
 
-![](/images/boys%20brigade%202.JPG)
 
 ![](/images/boys%20brigade.jpg)
