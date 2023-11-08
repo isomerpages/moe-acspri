@@ -9,8 +9,10 @@ variant: markdown
  
  Here is a boy with five small loaves of barley bread. He also has two small fish. But how far will that go in such a large crowd? – John 6:9 (NIRV) 
 
+
+![](/images/2023%20New%20Staffs/principal1.jpg)
  <br>
-<img src="/images/principal1.jpg" style="width:150%" align="center">
+<img src="/images/2023_New_Staffs/principal1.jpg" style="width:150%" align="center">
 <br>
 
   ![](/images/2023%20New%20Staffs/principal1.jpg)
