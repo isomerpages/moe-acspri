@@ -12,7 +12,7 @@ variant: markdown
 | Name | Email ID |
 |---|---|
 |Ms Tan Bee Po (I/C) | [tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)   |
-| Miss Ngoh Gek Luan | [ngoh_gek_luan@moe.edu.sg](mailto:goh_gek_luan@moe.edu.sg)  |
+|Miss Ngoh Gek Luan | [ngoh_gek_luan@moe.edu.sg](mailto:goh_gek_luan@moe.edu.sg)  |
 |
 
 ##### **Schedule**
