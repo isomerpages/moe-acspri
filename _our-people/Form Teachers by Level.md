@@ -2,8 +2,8 @@
 title: Form Teachers by Level
 permalink: /our-people/form-teachers-by-level/
 description: ""
+variant: markdown
 ---
-### **Form Teachers 2023**
 
 ##### **Primary 1**
 
