@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **Teachers in Charge**
 
-| Name | EMail|
+| Name | Email|
 | -------- | -------- | 
 |Mdm Jovina Tan (I/C)	|[jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg)|		
 | Mdm Siti Karmila 	|[siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg)|		
@@ -23,9 +23,7 @@ School Team and Training Squad <br>
 Every Mondays and Wednesdays - 02:15pm to 05:15pm <br>
 Wednesdays - 02:30pm to 04:30pm
 
-#### **Programme/ Development**
 
-CCA members meet on Wednesdays to learn the rules of the game and different strategies from Chess coaches. They also get to put these strategies to play when they spar with their friends during the CCA sessions.
 	
 #### **Competition**
 
@@ -42,8 +40,3 @@ The achievements of our school teams have always inspired the boys in the Recrea
 
 ![](/images/badminton%202.jpg)
 
-![](/images/badminton1.JPG)
-
-![](/images/badminton2.JPG)
-
-![](/images/badminton3.JPG)
