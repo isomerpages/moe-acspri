@@ -26,7 +26,7 @@ Closer home, the group has performed on Founder’s Day as well as Teachers’ D
 
 The group is guided by veteran coach Mr Yutaki Ong. Teachers work with coach and parents alike to provide the best aesthetic learning experiences for the members.
 
-#### ***Past Accolades***
+#### **Past Accolades**
 
 * Awarded Distinction for 2014 SYF Presentation
 * Awarded Distinction for 2016 SYF Presentation&nbsp;
@@ -37,5 +37,7 @@ The group is guided by veteran coach Mr Yutaki Ong. Teachers work with coach and
 
 <br>
 <img src="/images/synergy4.JPG" style="width:80%" align="center">
+
+
 <br>
 <br>
