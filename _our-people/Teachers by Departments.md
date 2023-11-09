@@ -102,10 +102,10 @@ variant: markdown
 |	|	 Mr Terry Tiong	|[tiong_sze_chiat@moe.edu.sg](mailto:tiong_sze_chiat@moe.edu.sg)|
 |	|	Mdm Wong Mei Kuen	|[wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg)|
 |	|	Mdm Jeannie Yeo	|[yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg)|
-|		 Mother Tongue Language Department-Malay Language	|[](mailto:)|
+|		 Mother Tongue Language Department-Malay |[](mailto:)|
 |	|	Mdm Sri Dewi	|[sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg)|
 |	|	Mrs Norharyati Binte Harun		|[norharyati_harun@moe.edu.sg](mailto:norharyati_harun@moe.edu.sg)|
-|		 Mother Tongue Language Department-Tamil Language	 |[](mailto:)|
+|		 Mother Tongue Language Department-Tamil  |[](mailto:)|
 |	|	Miss Kogilavani d/o Vathumalai	|[kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)|
 |	|	Mdm Najuma Banu	|[najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg)|
 |	|	Mrs Suja Anbazhagan	|[anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg)|
