@@ -83,7 +83,7 @@ variant: markdown
 |	|	Mdm Teo Chin Wen	|[teo_chin_wen@moe.edu.sg](mailto:teo_chin_wen@moe.edu.sg)|
 |	|	Mr Vijayakumaran Govindasamy	|[vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)|
 |	|	Mdm Zarinah Bte Mohamed Eunos 	|[zarinah_mohamed_eunos@moe.edu.sg](mailto:zarinah_mohamed_eunos@moe.edu.sg)|
-|		 Mother Tongue Language Department	|[](mailto:)|
+|		 Mother Tongue Language Department-Chinese 	|[](mailto:)|
 |	|	Ms Angeline Ong 	|[ong_ghim_muay@moe.edu.sg](mailto:ong_ghim_muay@moe.edu.sg)|
 |	|	Mdm Chan Wai Kin	|[chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg)|
 |	|	Mdm Chiew Hwee Ling	|[chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg)|
@@ -95,18 +95,23 @@ variant: markdown
 |	|	Mdm Jenn Ang Weihermueller	|[jenn_ang@moe.edu.sg](mailto:jenn_ang@moe.edu.sg)|
 |	|	Mdm Leong Lilian	|[leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg)|
 |	|	Mdm Li Chunju	|[li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg)|
-|	|	Mdm Najuma Banu	|[najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg)|
 |	|	Ms Patricia Lim 	|[natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)|
 |	|	Miss Ngoh Gek Luan 	|[ngoh_gek_luan@moe.edu.sg](mailto:ngoh_gek_luan@moe.edu.sg)|
 |	|	Mdm Norharyati Bte Harun	|[norharyati_harun@moe.edu.sg](mailto:norharyati_harun@moe.edu.sg)|
-|	|	Mdm Sri Dewi	|[sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg)|
 |	|	Ms Tan Bee Po 	|[tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)|
 |	|	Ms Tan Siow Hwee 	|[tan_siow_hwee@moe.edu.sg](mailto:tan_siow_hwee@moe.edu.sg)|
 |	|	 Mr Terry Tiong	|[tiong_sze_chiat@moe.edu.sg](mailto:tiong_sze_chiat@moe.edu.sg)|
 |	|	Mdm Wong Mei Kuen	|[wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg)|
 |	|	Mdm Jeannie Yeo	|[yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg)|
+|		 Mother Tongue Language Department-Malay Language	|[](mailto:)|
+|	|	Mdm Sri Dewi	|[sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg)|
+|	|	Mrs Norharyati Binte Harun		|[norharyati_harun@moe.edu.sg](mailto:norharyati_harun@moe.edu.sg)|
+|		 Mother Tongue Language Department-Tamil Language	 |[](mailto:)|
+|	|	Miss Kogilavani d/o Vathumalai	|[kogilavani_vathumalai@moe.edu.sg](mailto:kogilavani_vathumalai@moe.edu.sg)|
+|	|	Mdm Najuma Banu	|[najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg)|
+|	|	Mrs Suja Anbazhagan	|[anbazhagansuja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg)|
 |		 Physical Education Department	|[](mailto:)|
-|	|	 Mr Kelvin Lim	|[lim_wee_meng_kelvin@moe.edu.sg](mailto:lim_wee_meng_kelvin@moe.edu.sg)|
+|	| Mr Kelvin Lim	|[lim_wee_meng_kelvin@moe.edu.sg](mailto:lim_wee_meng_kelvin@moe.edu.sg)|
 |	|	 Mr George Mui Seng Chiu	|[george_mui_seng_chiu@moe.edu.sg](mailto:george_mui_seng_chiu@moe.edu.sg)|
 |	|	Miss Ho Hui Xin 	|[ho_hui_xin@moe.edu.sg](mailto:ho_hui_xin@moe.edu.sg)|
 |	|	Miss Ho Yong Ying 	|[ho_yong_ying@moe.edu.sg](mailto:ho_yong_ying@moe.edu.sg)|
