@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: For Staffs
+        - title: For Staff
           description: ""
           url: /for-staff/useful-links/
         - title: For Students
