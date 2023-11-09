@@ -7,9 +7,9 @@ variant: markdown
 ---
 #### **Teachers in Charge**
 
-| Name | EMail|
+| Name | Email|
 | -------- | -------- | 
-|	Mdm Jessica Lai Kit Mun(I/C) 	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
+|	Mdm Jessica Lai Kit Mun (I/C) 	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
 |	Mrs Lee Ting Ting 	|[foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg)|		
 |
 		
