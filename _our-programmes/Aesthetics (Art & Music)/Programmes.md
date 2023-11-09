@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Aesthetics (Art & Music)
 variant: markdown
 ---
-## Aesthetics (Art &amp; Music)
+
+## **Aesthetics (Art &amp; Music)**
 
 
 #### **Vision**
