@@ -49,4 +49,4 @@ This programme aims to:
 
 To develop the love for the English Language, the department has planned language-rich activities to motivate our students. For examples, the P3 students will be exposed to Reader’s Theatre while the P4 students to write haikus.
 
-Teachers-in-charge: Mr Colin Sim
+Teacher-in-charge: Mr Colin Sim
