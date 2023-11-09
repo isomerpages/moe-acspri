@@ -2,11 +2,8 @@
 title: Teachers by Departments
 permalink: /our-people/teachers-by-departments/
 description: ""
+variant: markdown
 ---
-
-
-
-
 | Dept| Title| Name | Email | 
 | -------- | -------- | -------- | -------- |
 | **English Language**||||
