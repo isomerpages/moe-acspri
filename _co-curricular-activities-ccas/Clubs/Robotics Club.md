@@ -17,12 +17,11 @@ variant: markdown
 |Ms Patricia Lim	|[natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)|		
 |Ms Koay Guimei|[he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg)|
 |
-
-##### Schedule
+#### **Schedule**
 Competition Group: Every Wednesday and stipulated Monday 2.15 to 4.15pm<br>
 Basic and Intermediate Group: Every Wednesday 2.15 to 4.15pm<br>
 
-##### Programme/ Development
+#### Programme/ Development
 
 The Robotics Club encompasses a group of passionate pupils who are interested in robots and the use of robots in everyday life.
 The objectives of the Robotics Club are to train members in programming and provide them with hands-on experience in the building robots for various missions and scenarios. Members get to expand their horizons by learning EV3 classroom. Our members are given different situations to programme and build robots to complete various missions. They become well-versed in EV3 programming and the building of robots. Our trainers are experienced and friendly and they go the extra mile to ensure that members are well prepared for competitions and help them through the steps in problem-solving.
