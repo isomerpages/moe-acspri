@@ -3,8 +3,8 @@ title: Guitar Ensemble
 permalink: /our-ccas/clubs/guitar-ensemble/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-
 #### **Teachers in Charge**
 
 | Name |     Email  |      |
@@ -41,7 +41,7 @@ SYF AP 2016 (Distinction Award)&nbsp;
 
 • SYF AP 2022 (Certificate of Participation as SYF AP for Primary level was not benchmarked)
 
-![](/images/guitar%20ensemble%204.JPG)
+
 
 ![](/images/guitar%20ensemble%203.jpeg)
 ![](/images/guitar%20ensemble.jpeg)
