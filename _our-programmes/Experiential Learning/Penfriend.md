@@ -3,8 +3,8 @@ title: Penfriend
 permalink: /our-programmes/experiential-learning/penfriend/
 description: ""
 third_nav_title: Experiential Learning
+variant: markdown
 ---
-## **Penfriend**
 
 Cultivating students' international vision, global awareness, and cross-cultural understanding is a key component of the framework for 21st-century competencies and student outcomes.
 
