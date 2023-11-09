@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 
-| Dept| Title| Name | Email | 
+| Dept| Name| Email | | 
 | -------- | -------- | -------- | -------- |
 |		Aesthetics|	
 |	|	Mdm Jillianne Chew	|[jillianne_chew_li_ing@moe.edu.sg](mailto:jillianne_chew_li_ing@moe.edu.sg)|
@@ -32,7 +32,6 @@ variant: markdown
 |	|	Mdm Ida Nonanseh	|[ida_nonanseh_abdul_rahman@moe.edu.sg](mailto:ida_nonanseh_abdul_rahman@moe.edu.sg)|
 |	|	Mrs Shirley Toh  	|[katherine_shirley_shanti_doray@moe.edu.sg](mailto:katherine_shirley_shanti_doray@moe.edu.sg)|
 |	|	Mr Adrian Kum	|[kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg)|
-|	|	Mrs Amy Ng 	|[](mailto:)|
 |	|	Mdm Sheryn Pang	|[pang_shing_hsiu@moe.edu.sg](mailto:pang_shing_hsiu@moe.edu.sg)|
 |	|	Mr Perry Chan	|[perry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg)|
 |	|	Mr Colin Sim	|[sim_yaowen_colin@moe.edu.sg](mailto:sim_yaowen_colin@moe.edu.sg)|
