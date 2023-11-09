@@ -4,12 +4,11 @@ permalink: /our-people/management-committee/
 description: ""
 variant: markdown
 ---
-
 | Title | Name | Email |
 | -------- | -------- | -------- |
 |	Principal	|Mrs Leong-Ho Hil May 	|[ho_hil_may@schools.gov.sg](mailto:ho_hil_may@schools.gov.sg)|
-|	Vice Principal (EO)	| Mrs	Celia Lau  	|	[celia_choh@schools.gov.sg](mailto:celia_choh@schools.gov.sg)|
-|	Vice Principal (EO)	|	Mr Max Chua 	|	[chua_thian_keong@schools.gov.sg](mailto:chua_thian_keong@schools.gov.sg)|
+|	Vice Principal 	| Mrs	Celia Lau  	|	[celia_choh@schools.gov.sg](mailto:celia_choh@schools.gov.sg)|
+|	Vice Principal 	|	Mr Max Chua 	|	[chua_thian_keong@schools.gov.sg](mailto:chua_thian_keong@schools.gov.sg)|
 |	Vice Principal (Admin)	|	Ms Eileen Seow 	|[seow_lay_yen@schools.gov.sg](mailto:seow_lay_yen@schools.gov.sg)|
 |	SSD	|	Vanessa Tan (Ms)	|[tan_bee_choo_b@moe.edu.sg](mailto:tan_bee_choo_b@moe.edu.sg)|
 |	HOD/Aesthetics	| Mdm	Jillianne Chew 	|[jillianne_chew_li_ing@moe.edu.sg](mailto:jillianne_chew_li_ing@moe.edu.sg)|
