@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Education
 variant: markdown
 ---
-### **Vision**
+#### **Vision**
 
 Enhance student’s physical well-being, and develop in them a passion for sports and other physical activities.
 
@@ -13,8 +13,10 @@ Enhance student’s physical well-being, and develop in them a passion for sport
 
 The aim of the PE Department in ACS(P) is to equip all pupils with fundamental movement skills and games concepts which they can apply to any sport. It also aims to encourage all pupils to lead a physically active lifestyle right through to their adulthood.
 
+#### **Learning for Life Programme (LLP) – Building Character through Swimming**
 
-#### Learning for Life Programme (LLP) – Building Character through Swimming
+
+
 •	The aim of this programme is for all pupils to achieve at least a bronze award and to learn the skills of flippa ball and kayaking.
 
 •	All P1 to P5 pupils undergo a 4-sessions and all P6 pupils undergo 8-sessions swimming programme during their PE periods.
@@ -37,8 +39,7 @@ Programme for Active Learning (Sports &amp; Games)
 Programme for Active Learning (Outdoor Education)
 •	The Outdoor Education module emphasises on development of interpersonal skills, relationship management and responsible decision-making competencies for P1 pupils.
 
-
-#### Events
+#### **Events**
 Annual Swim Meet &amp; Games Day
 •	The Swim Meet and Games Day is for all pupils from P3 to P6.
 
@@ -50,8 +51,8 @@ TerrAqua Fest
 •	All P1 and P2 pupils take part in this event and all participants are awarded a medal.
 
 
+#### **Useful links**
 
-#### Useful links
 
 Useful sports information for children and parents:
 •	www.myactivesg.com <br>
@@ -59,4 +60,3 @@ Useful sports information for children and parents:
 •	www.sportsingapore.gov.sg<br>
 Games resources:<br>
 •	www.peuniverse.com
-
