@@ -3,28 +3,8 @@ title: Programmes
 permalink: /our-programmes/physical-education/programmes/
 description: ""
 third_nav_title: Physical Education
+variant: markdown
 ---
-# **Programmes**
-
-### **Department (IP or PAM)**
-
-##### **Physical Department**
-
-### ***Staff***
-Mr Kelvin Lim <br>
-Head of Department/ Physical Education <br>
-
-Mr Edwin Tan <br>
-Subject Head/ CCA
-
-Mdm Heng Siok Pheng <br>
-Mr Seow Kin Yong <br>
-Mr Charles Zhang <br>
-Mr Mark Leong <br>
-Ms Ho Yong Ying <br>
-Mr George Mui Seng Chiu <br>
-Ms Ho Hui Xin <br>
-
 
 ### **Vision**
 
