@@ -3,8 +3,8 @@ title: Programmes
 permalink: /our-programmes/english-language/programmes/
 description: ""
 third_nav_title: English Language
+variant: markdown
 ---
-# **Programmes**
 
 **Whole-School Approach to Effective Communication (WSA-EC)**<br>
 WSA-EC aims to help our teachers and pupils become effective communicators of English. We would like to raise awareness on the importance of good English, both in the spoken and written forms.&nbsp;As such, we carry out activities in class, during recess and post-examination periods for our pupils.&nbsp;We also have contact time activities for our staff to promote the use of Standard English in the school.
