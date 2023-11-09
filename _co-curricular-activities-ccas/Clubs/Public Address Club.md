@@ -20,7 +20,7 @@ variant: markdown
 
 Mondays to Fridays 7.10am <br>
 
-#### **Programme/ Developmen**
+#### **Programme/ Development**
 
 
 Members duties include setting up of the school’s PA system for morning assembly and school events. 
