@@ -12,12 +12,12 @@ variant: markdown
 
 
 
-| Name  |    E-Mail |
+| Name  |    Email |
 | -------- |  -------- |
 | Mdm Ida Nonanseh (I/C) | [ida_nonaseh_abdul_rahman@moe.edu.sg](mailto:ida_nonaseh_abdul_rahman@moe.edu.sg) |
  | Mr Richard Goh Teoh Chuan | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg)   |
 | Mr Chhoa Kok Kheng | [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg) |
-| Mr Perry Chan Chee Keong| [cperry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg) |
+| Mr Perry Chan Chee Keong| [perry_chan@moe.edu.sg](mailto:perry_chan@moe.edu.sg) |
 |
 
 ##### **Schedule**
