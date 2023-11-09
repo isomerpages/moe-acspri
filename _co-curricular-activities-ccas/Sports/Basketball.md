@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **Teachers in Charge**
 
-| Name | EMail|
+| Name | Email|
 | -------- | -------- |
 |	Mdm Chan Soo Ping (I/C)	|[chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg)|
 |	Mdm Sarah Su 	|[su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)|		
@@ -19,14 +19,12 @@ variant: markdown
 
 #### **Schedule**
 
-###### Venue <br>
+###### Venue
 ACSP Sports Hall
-
-###### Recreational <br>
+###### Recreational
 Wednesdays - 02:15pm to 04:15pm
-
-###### School  &amp; Development Team <br>
-Every Mondays and Wednesday - 02:15pm to 04:15pm <br>
+###### School  &amp; Development Team 
+Every Mondays and Wednesday - 02:15pm to 04:15pm 
 
 #### **Programme/ Development**
 
