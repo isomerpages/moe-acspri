@@ -2,10 +2,8 @@
 title: School Executive Committee
 permalink: /our-people/management-committee/
 description: ""
+variant: markdown
 ---
-####  School Executive Committee
-
-
 
 | Title | Name | Email |
 | -------- | -------- | -------- |
