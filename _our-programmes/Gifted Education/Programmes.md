@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Gifted Education
 variant: markdown
 ---
-### **Gifted Education Programme (GEP)**
 
 The GEP caters for the intellectually gifted pupils. All P3 pupils are invited to participate in the GEP identification exercise. Identified pupils join the GEP in P4.&nbsp;
 
