@@ -39,19 +39,13 @@ Our team of coaches comes from Oldham Club, which is made up of old boys who vol
 Rugby also inculcates important values such as perseverance, unity and sportsmanship.
 
 <br>
-<br>
 <img src="/images/rugby3.jpg" style="width:80%" align="center">
 <br>
-
-<br>
 <img src="/images/CCA_photos/rugby_ascp5.jpeg" style="width:80%" align="center">
-<br>
-
 <br>
 <img src="/images/CCA_photos/rugby_ascp1.jpeg" style="width:50%" align="center"> 
 <br>
 <img src="/images/CCA_photos/rugby_ascp2.jpeg" style="width:50%" align="center">
-<br>
 <br>
 <img src="/images/CCA_photos/rugby_ascp3.jpeg" style="width:50%" align="center">
 
