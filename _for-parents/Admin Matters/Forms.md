@@ -3,8 +3,8 @@ title: Forms
 permalink: /for-parents/admin-matters/forms/
 description: ""
 third_nav_title: Admin Matters
+variant: markdown
 ---
-## **Forms**
 
 [Application for Waitlist](https://form.gov.sg/62c28e4333ac0000127277a0)  
   
