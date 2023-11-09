@@ -3,8 +3,9 @@ title: School Bookshop
 permalink: /for-parents/vendor/school-bookshop/
 description: ""
 third_nav_title: Vendor
+variant: markdown
 ---
-## **Bookshop**
+
 ### Pacific Bookstore
 Tel: 6358-0491
 
