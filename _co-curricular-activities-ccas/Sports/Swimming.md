@@ -7,7 +7,7 @@ variant: markdown
 ---
 .
 
-##### **Teachers In Charge**
+##### **Teachers in Charge**
 
 
 
