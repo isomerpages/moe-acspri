@@ -3,14 +3,12 @@ title: Programmes
 permalink: /our-programmes/science/programmes/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
-# **Programmes**
 
-### **Department (IP or PAM)**
+## **Science**
 
-##### **Science**
-
-### ***Staff***
+### Staff
 Mr Lincoln Shen Pinhong <br>
 Mr Chan Tai Yao <br>
 Mdm Divya Dharshini <br>
