@@ -41,9 +41,12 @@ Programme for Active Learning (Outdoor Education)
 #### Events
 Annual Swim Meet &amp; Games Day
 •	The Swim Meet and Games Day is for all pupils from P3 to P6.
+
 •	These 2 events aim at mass participation and the pupils are encouraged to sign up.
+
 TerrAqua Fest
 •	This is a land-and-water games day for all P1 and P2 pupils with the aim of introducing friendly competition for young children.
+
 •	All P1 and P2 pupils take part in this event and all participants are awarded a medal.
 
 
