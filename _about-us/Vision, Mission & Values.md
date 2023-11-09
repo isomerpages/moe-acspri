@@ -2,6 +2,7 @@
 title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values/
 description: ""
+variant: markdown
 ---
 ##### **Our Vision**
 
@@ -17,8 +18,7 @@ character, imbued with Christian values and principles to guide and prepare him 
 
 <style>
     .highlight {
-      color: #CE0E2D;
-      font-size:24px
+          font-size:24px
     }
   </style>
 <span class="highlight">i</span>ntegrity, <span class="highlight">H</span>umility, <span class="highlight">O</span>bedience, <span class="highlight">P</span>erseverance, <span class="highlight">E</span>mpathy, <span class="highlight">F</span>aithfulness, <span class="highlight">U</span>nity and <span class="highlight">L</span>oyalty (<span class="highlight">i</span>HOPEFUL)
@@ -38,7 +38,7 @@ knowledge, skills and values in a nurturing manner <style>
       color: #CE0E2D;
       font-size:20px
     }
-  </style>(<span class="highlight">A</span>ffective, <span class="highlight">C</span>ognitive, <span class="highlight">S</span>ocia, <span class="highlight">P</span>hysical domain)
+  </style>(<span class="highlight">A</span>ffective, <span class="highlight">C</span>ognitive, <span class="highlight">S</span>ocial, <span class="highlight">P</span>hysical domain)
 
 <span class="highlight">A</span>FFIRM
 
@@ -111,7 +111,7 @@ seeks to be a leader of self, of his peers, and of his community.
 
 **Creative Learner**
 
-The ACS(P) gentleman is a creative and intentive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issues in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
+The ACS(P) gentleman is a creative and inventive thinker who is aware of the socio-cultural sensitivities and possesses a global outlook to issues in the world. He is curious and creative, and seeks to understand complexities and ambiguities. He processes information and knowledge, solves challenges, and is not only a consumer of knowledge but is bold to suggest new ways of doing things.
 
 **Effective Communicator**
 
