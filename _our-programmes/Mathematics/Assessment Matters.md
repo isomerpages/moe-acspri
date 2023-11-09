@@ -3,10 +3,9 @@ title: Assessment Matters
 permalink: /our-programmes/mathematics/assessment-matters/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
-# **Assessment Matters**
 
-**(Only for IP departments)**
 
 &nbsp;1. What do the assessments focus on for all pupils?<br>&nbsp;
 The Mathematics curriculum is to ensure that pupils will acquire and apply Mathematical concepts and skills. Pupils will develop cognitive and metacognitive skills through a Mathematical approach to problem- solving and develop positive attitudes towards learning Mathematics.&nbsp;
