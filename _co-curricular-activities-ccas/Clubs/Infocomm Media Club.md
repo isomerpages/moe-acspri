@@ -50,7 +50,7 @@ variant: markdown
 
 * Photography and Photo-Editing Skills using Adobe Lightroom Classic
 
-* Videography and Video-Editing Skills using Capcut/Kinemaster
+* Videography and Video-Editing Skills using CapCut/Kinemaster
 
 
 #### **Competition**
