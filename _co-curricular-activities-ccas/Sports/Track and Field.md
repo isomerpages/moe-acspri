@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-#### **Teacher in Charge**
+#### **Teachers in Charge**
 
-| Name | EMail|
+| Name | Email|
 | -------- | -------- | 
 |Miss	Ho Yong Ying (I/C)	|[ho_yong_ying@moe.edu.sg](mailto:ho_yong_ying@moe.edu.sg)|		
 |Ms Siti Masyita Bte Mohd Ali 	|[siti_masyita_mohammad_ali@moe.edu.sg](mailto:siti_masyita_mohammad_ali@moe.edu.sg)|		
@@ -17,10 +17,10 @@ variant: markdown
 #### **Schedule**
 
 ###### School Team
-Every Mondays, 02:15 pm – 04:15 pm
+Every Monday, 02:15 pm – 04:15 pm
 
 ###### Recreational Team
-Every Wednesdays, 02:15 pm – 04:15 pm
+Every Wednesday, 02:15 pm – 04:15 pm
 
 #### **Programme/ Development**
 
