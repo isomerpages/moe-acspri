@@ -3,9 +3,8 @@ title: Programmes
 permalink: /our-programmes/information-and-communications/programmes/
 description: ""
 third_nav_title: Information & Communications
+variant: markdown
 ---
-#### Information and Communication Technology (ICT)
-
 ##### Vision
 
 To build digitally ready ACSians of Capability, Character and Creativity, harnessing ICT to go beyond. 
