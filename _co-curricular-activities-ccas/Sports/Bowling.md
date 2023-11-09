@@ -32,7 +32,7 @@ Two-way transport is provided for both Mon and Wed sessions.
 
 ##### **Schedule**
 Mondays, 2.30 p.m. – 4.30 p.m. Venue will change depending on competition venue.<br>
-Wednesdays, 2 .30 p.m. – 4.30 p.m. SAFRA (Toa Payoh)
+Wednesdays, 2.30 p.m. – 4.30 p.m. SAFRA (Toa Payoh)
 
 ![](/images/bowling1.jpg)
 
