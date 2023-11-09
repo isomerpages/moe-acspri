@@ -25,6 +25,6 @@ Today, Jesus is once again inviting us to offer up our five loaves and two fish 
 As we participate in God’s mission for our school, let us watch and wait in eager anticipation for how He will multiply our five loaves and two fish as we offer them up to Him. He is able to do immeasurably more than all we ask or imagine, according to His power that is at work within us (Ephesians 3:20)! To God Be The Glory. The Best Is Yet To Be!
  
  
-Mrs Leong-Ho Hil May
-Principal 
+Mrs Leong-Ho Hil May <br>
+Principal <br>
 ACS (Primary)
