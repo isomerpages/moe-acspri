@@ -3,9 +3,8 @@ title: Social Studies
 permalink: /our-programmes/character-and-citizenship/permalink/
 description: ""
 third_nav_title: Character & Citizenship
+variant: markdown
 ---
-# **Social Studies**
-
 
 ##### **Vison**
 Nurturing ACSians to be informed, concerned and participative citizens of Singapore.
@@ -15,9 +14,9 @@ Social Studies (SS) aims to help students to grow in knowledge, develop skills a
 
 It seeks to ignite students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, Social Studies helps students to attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives.
 
-In ACS, we prepare our students to be effective citizens by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human experience.
+In ACS(P), we prepare our students to be effective citizens by helping them to better understand the interconnectedness of Singapore and the world they live in, and appreciate the complexities of the human experience.
 
-**CurriculumAs informed citizens, ACSians will:**
+**Curriculum as informed citizens, ACSians will:**
 
 *   understand the rights and responsibilities of citizens and the role of the government in society; 
 *  understand their identity as Singaporeans, with a regional and global outlook; 
@@ -70,6 +69,3 @@ Part 2: Understanding Southeast Asia’s Diversity and Interconnectedness
 **Primary 6 – Appreciating Singapore, the Region and the World We Live In**
 Understanding Features and Legacies of Civilisations
  *Cohort Learning Journey to the Asian Civilisations Museum (ACM)
- 
- 
- 
