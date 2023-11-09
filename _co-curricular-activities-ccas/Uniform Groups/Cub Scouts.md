@@ -7,11 +7,11 @@ variant: markdown
 ---
 ##### **Teachers In Charge**
 
-| Name | Email ID |
+| Name | Email |
 |---|---|
 |   Mdm Loh Su Hian (I/C)  | [loh_su_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg)  |
-|  Mr Benedict Yap |  [benedict_yap_hsien-min@moe.edu.sg](mailto:benedict_yap_hsien-min@moe.edu.sg)  |
-|    Mdm Chiew Hwee Ling |     [chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) |
+|	Mr Koh Chaik Khoon	|[koh_chaik_khoon@moe.edu.sg](mailto:koh_chaik_khoon@moe.edu.sg)|		
+|   Mdm Chiew Hwee Ling |     [chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) |
 |
 
 ##### **Schedule**
