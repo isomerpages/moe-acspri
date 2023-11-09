@@ -9,7 +9,7 @@ variant: markdown
 
 
 
-| Name | EMail|
+| Name | Email|
 | -------- | -------- | 
 |Mrs Gomathi Ravindra (I/C)| [gomathi_ravindra@moe.edu.sg](mailto:gomathi\_ravindra@moe.edu.sg) |
 |Mdm Jasmine Kaur|  [[jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg)](mailto:jasmine_kaur@moe.edu.sg) |
