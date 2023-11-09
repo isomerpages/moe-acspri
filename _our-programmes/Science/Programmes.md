@@ -5,18 +5,7 @@ description: ""
 third_nav_title: Science
 variant: markdown
 ---
-
 ## **Science**
-
-### Staff
-Mr Lincoln Shen Pinhong <br>
-Mr Chan Tai Yao <br>
-Mdm Divya Dharshini <br>
-Ms Ee Li Hua Elizabeth <br>
-Mr Ho Shin Hoo <br>
-Mr Ho Yoongkian (Leon Ho) <br>
-Mr Koh Yee Lee <br>
-Mr Wan Mohamed Nazrith B Salleh <br>
 
 ### **Vision**
 
