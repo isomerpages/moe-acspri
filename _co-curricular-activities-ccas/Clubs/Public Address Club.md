@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-##### Teachers in charge
+
+
+#### **Teachers in Charge**
 
  | Name | Email |
  | -------- | -------- |
@@ -16,8 +18,7 @@ variant: markdown
 |	Mdm Sarah Su 	|[su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)|
 |
 
-
-##### Schedule
+#### **Schedule**
 Mondays to Fridays 7.10am <br>
 Programme/ Development<br>
 
