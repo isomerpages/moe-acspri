@@ -5,6 +5,7 @@ date: 2023-10-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ## **ACS(P) Primary 1 Orientation**
 
