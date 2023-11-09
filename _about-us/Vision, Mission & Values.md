@@ -115,7 +115,7 @@ The ACS(P) gentleman is a creative and inventive thinker who is aware of the soc
 
 **Effective Communicator**
 
-The ACS(P) gentleman is an effective communicator who is articulate and eloquent. He is effectively billingual and is able to persuade others and present his thoughts in EL and in his MTL with clarity. He is expressive and knows how to carry himself in both the real-world and the virtual-world domains.
+The ACS(P) gentleman is an effective communicator who is articulate and eloquent. He is effectively billingual and is able to persuade others and present his thoughts in EL and his MTL with clarity. He is expressive and knows how to carry himself in both the real-world and the virtual-world domains.
 
 **Community Collaborator**
 
