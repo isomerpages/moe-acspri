@@ -28,4 +28,4 @@ The staff VIA serves as a platform for the school to develop our teachers as&nbs
 
 Examples of staff VIA activities this year include Art &amp; Craft workshops, culinary workshop and&nbsp;games sessions.
 
-<img style="width:75%" src="/images/via3.jpg">
+<img style="width:115%" src="/images/via3.jpg">
