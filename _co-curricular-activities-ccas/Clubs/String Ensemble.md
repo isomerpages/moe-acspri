@@ -8,11 +8,11 @@ variant: markdown
 #### **Teachers in Charge**
  | Name | Email |
  | -------- | -------- |
-|	Mrs Heng Xiu Qin (I/C) 	|[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg)|
-|	Mdm Wendy Tan 	|[tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)|
-|	Mr Edmund Wu	|[edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)|
-|	Mdm Anna Asha Mohan |[anna_asha_mohan@moe.edu.sg](mailto:anna_asha_mohan@moe.edu.sg)|	
-|
+|Mrs Heng Xiu Qin (I/C)|[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg)|
+|Mdm Wendy Tan 	|[tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)|
+|Mr Edmund Wu	         |[edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)|			
+|Mdm Anna Asha Mohan|[anna_asha_mohan@moe.edu.sg](mailto:anna_asha_mohan@moe.edu.sg)|
+|					
 
 #### **Schedule**
 
@@ -32,6 +32,3 @@ Pupils in String Ensemble will have the opportunities to take part in the bi-ann
 
 <img align="center" style="width:80%" src="/images/strings%20ensemble%202.jpg">
 <br>
-
-
-
