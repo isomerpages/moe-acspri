@@ -15,7 +15,7 @@ variant: markdown
 |Mrs	Neo Lin Li 	|[tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg)|	
 |Ms Lu Youge 	|[lu_youge@moe.edu.sg](mailto:lu_youge@moe.edu.sg)|	
 |Ms Patricia Lim	|[natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)|		
-|Ms Koay Guimei|[he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg)|
+|Ms Koay Guimei|[he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg)
 |
 #### **Schedule**
 Competition Group: Every Wednesday and stipulated Monday 2.15 to 4.15pm<br>
