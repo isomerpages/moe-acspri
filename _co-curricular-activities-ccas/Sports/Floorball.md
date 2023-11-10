@@ -1,5 +1,5 @@
 ---
-title: Floor Ball
+title: Floorball
 permalink: /our-ccas/sports/floor-ball/
 description: ""
 third_nav_title: Sports
@@ -9,7 +9,7 @@ variant: markdown
 
 
 
-| Name | EMail|
+| Name | Email|
 | -------- | -------- | 
 |Mr Charles Zhang(I/C)	|[zhang_zong_yang_charles@moe.edu.sg](mailto:zhang_zong_yang_charles@moe.edu.sg)|	
 |Mrs	Geraldine Ortega	|[geraldine_ortega@moe.edu.sg](mailto:geraldine_ortega@moe.edu.sg)|		
