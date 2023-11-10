@@ -32,6 +32,3 @@ Pupils in String Ensemble will have the opportunities to take part in the bi-ann
 
 <img align="center" style="width:80%" src="/images/strings%20ensemble%202.jpg">
 <br>
-
-
-
