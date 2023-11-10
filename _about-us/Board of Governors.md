@@ -2,13 +2,11 @@
 title: Board of Governors
 permalink: /about-us/board-of-governors/
 description: ""
+variant: markdown
 ---
-
-
 |  | | 
 | -------- | -------- | 
 | Chairman    | 	Mr Richard Seow Yung Liang  | 
-Vice-Chairman	|Mr Lock Wai Han
 |	Vice-Chairman	|	Mr Lock Wai Han	|
 |	Member	|	Dr David Tan Hsien Yung	|
 |	Member	|	Mr Adam Tan Chin Han	|
