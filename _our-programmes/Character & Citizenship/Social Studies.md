@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Character & Citizenship
 variant: markdown
 ---
-
-##### **Vison**
+##### **Vision**
 Nurturing ACSians to be informed, concerned and participative citizens of Singapore.
 
 ##### **Curriculum**
