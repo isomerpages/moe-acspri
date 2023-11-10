@@ -4,7 +4,6 @@ permalink: /our-partners/our-partners/
 description: ""
 variant: markdown
 ---
-
 ### **ACS Family of Schools**
 
 [Anglo-Chinese Junior College](https://acjc.moe.edu.sg/)
@@ -19,10 +18,6 @@ variant: markdown
 
 [ACS Jakarta](http://www.acsjakarta.sch.id/)
 
-### **Virtual Tour of ACS(P) Heritage Gallery**
-
-
-[ACS(P) Heritage Gallery Virtual Tour](http://oneacsheritagegallery.com/welcome-tour)
 
 ### **ACS Old Boys’ Association**
 
