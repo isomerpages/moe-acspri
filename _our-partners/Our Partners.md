@@ -2,8 +2,8 @@
 title: Our Partners
 permalink: /our-partners/our-partners/
 description: ""
+variant: markdown
 ---
-## **Our Partners**
 
 ### **ACS Family of Schools**
 
