@@ -2,6 +2,7 @@
 title: The ACS(P) Brand of Education
 permalink: /acs-brand-of-education/
 description: ""
+variant: markdown
 ---
 ### **The ACS(P) Brand of Education**
 
@@ -11,19 +12,6 @@ This is rooted on Academic Excellence, Strength of Character and Christian Servi
 
 The ACSian lies at the heart of the ACS(P) brand of education; every&nbsp;programme that the school puts in place is to provide a holistic education&nbsp;which the Year Head Team oversees to cater to the all-round development of&nbsp;the students in the following domains:
 
-To realise our vision, the school hopes to develop in our young ACS(P) gentlemen four traits; these are the&nbsp;_i_HOPEFUL Leader, a Creative Learner, an Effective Communicator and a Community Collaborator.
+To realise our vision, the school hopes to develop in our young ACS(P) gentlemen four traits; these are the&nbsp;iHOPEFUL Leader, a Creative Learner, an Effective Communicator and a Community Collaborator.
 
-At ACS (Primary), we also offer the [Gifted Education Programme](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/cognitive/gifted-education/) that covers the mainstream core syllabus in greater depth and breadth, providing enrichment in terms of the content, process, product and learning environment to develop intellectual rigour and character.  
-
-
-<p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/news/2021/">
-<img style="width:35%" src="/images/news.jpg" align="left">
-</a></p>
-
-<p><a href="https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/gallery/">
-<img style="width:35%" src="/images/gallery.jpg" align="left">
-</a></p>
-
-<br>
-
-Please click [here](https://staging.d2dvjpmqjtgsfn.amplifyapp.com/school-information/gallery/) for Gallery
+At ACS (Primary), we also offer the Gifted Education Programme that covers the mainstream core syllabus in greater depth and breadth, providing enrichment in terms of the content, process, product and learning environment to develop intellectual rigour and character.  
