@@ -1,11 +1,9 @@
 ---
-title: Programmes
-permalink: /our-programmes/aesthetics-art-and-music/programmes/
+title: Aesthetics (Art & Music)
+permalink: /our-programmes/aesthetics-art-and-music/
 description: ""
-third_nav_title: Aesthetics (Art & Music)
 variant: markdown
 ---
-
 ## **Aesthetics (Art &amp; Music)**
 
 

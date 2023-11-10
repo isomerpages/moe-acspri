@@ -39,6 +39,7 @@ The establishment of the Lee Foundation in 1952, served as a platform for furthe
 
 <img src="/images/oldham%20house.jpg" style="width:30%;margin-right:15px;" align="left"> Oldham House was named after Bishop William F Oldham who founded ACS in 1886. His first tour of duty in Singapore lasted about five years and the Methodist Mission was well and truly established when he left Singapore. Poor health forced him to return to America. In 1926, he and his wife visited Singapore and participated in the 40th anniversary of the School, and again in 1935 at the Golden Jubilee of the Methodist Mission.
 
+<br>
 ##### **Shaw Vee Meng House (SVM)**
 
 <img src="/images/shaw%20vee%20meng.jpg" style="width:30%;margin-right:15px;" align="left"> Dr Shaw Vee Meng is the Chairman of the Shaw Foundation. He is the elder son of Sir Run Run Shaw and is an ACSian. He is also the Chairman of The Shaw Organisation Pte Ltd. The Shaw Foundation was set up by Tan Sri Dr Runme Shaw and Sir Run Run Shaw in 1957. 
@@ -46,6 +47,8 @@ The establishment of the Lee Foundation in 1952, served as a platform for furthe
 One of Asia’s most respected philanthropists, the Shaw brothers were prominent businessmen, who made their fortune from film production and distribution. Their overriding principle was wealth gained through society should be returned and in generous measures. The Shaw Foundation is one of the largest philanthropic organizations in the world, distributing generously to various fields of education, welfare, medicine and heritage.
 
 In 1970, Shaw Foundation financed a new Olympic-sized pool, Shaw Pool, at the ACS at Barker Road, making it the first school in Singapore to own such a sporting facility. In later years, the Shaw Foundation also funded the building of one block of classrooms, named Shaw Block in the old Barker Road Campus and the Shaw Library at ACS (Independent). The Shaw Foundation has made generous donations to the ACS family of Schools, in support of educational pursuits and the arts.
+
+
 
 ##### **Tan Chin Tuan House (TCT)**
 
@@ -60,6 +63,8 @@ Through his deeds, Tan Sri Tan Chin Tuan represents the values of kindness, dili
 
 <img src="/images/tan%20kah%20kee.jpg" style="width:30%;margin-right:15px;" align="left"> Mr Tan Kah Kee was a folk hero, not only in Singapore but also in the Aseanregion and in China. A visionary, he was a pioneer industrialist, philanthropist,social reformer and, above all, a patriarch. Mr Tan was keenly interested ineducation and had given large donations to the Anglo-Chinese School and the then proposed Anglo-Chinese College.
 
+
+<br>
 ##### **Thoburn House (THO)**
 
 <img src="/images/thoburn.jpg" style="width:30%;margin-right:15px;" align="left"> Thoburn House was named after Bishop Dr James Thoburn. He was responsiblefor initiating and accompanying the pioneer mission to Singapore. He (and BishopOldham) were responsible in the setting up of the Methodist Church as a Missionin Singapore in 1885. Bishop Dr Thoburn’s vision (and Bishop Oldham) madepossible the birth of ACS. Had it not been for him, there might not have been anACS. It was his personal initiative as an important leader in the MethodistConference in India that resulted in the planting of the first Methodist Church inSingapore in 1885.
