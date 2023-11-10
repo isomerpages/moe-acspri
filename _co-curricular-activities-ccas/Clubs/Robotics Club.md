@@ -17,6 +17,7 @@ variant: markdown
 |	Ms Patricia Lim	|	[natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)	|		
 |	Ms Koay Guimei	|	[he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg)	|		
 |
+
 #### **Schedule**
 Competition Group: Every Wednesday and stipulated Monday 2.15 to 4.15pm<br>
 Basic and Intermediate Group: Every Wednesday 2.15 to 4.15pm
