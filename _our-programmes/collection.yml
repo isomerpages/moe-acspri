@@ -2,7 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
-      - Programmes.md
+      - Aesthetics (Art & Music).md
       - Aesthetics (Art & Music)/.keep
       - Character & Citizenship/.keep
       - Character & Citizenship/Form Teachers Guidance Period.md
