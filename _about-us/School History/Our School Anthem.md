@@ -3,6 +3,7 @@ title: Our School Anthem
 permalink: /about-us/school-history/our-school-anthem/
 description: ""
 third_nav_title: School History
+variant: markdown
 ---
 ## **Our School Anthem**
 
@@ -32,4 +33,7 @@ Chorus:
 Sing ACS forever more our ACS forever  
 God save our land and Heaven bless our ACS forever.  
   
-\-Words by H.M. Hoisington
+-Words by H.M. Hoisington
+
+
+<iframe width="448" height="252" src="https://www.youtube.com/embed/glAbYvERduw" title="The Anglo-Chinese School Anthem (Lyrics) | Henry M. Hoisington (1926)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
