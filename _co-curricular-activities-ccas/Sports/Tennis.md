@@ -3,14 +3,21 @@ title: Tennis
 permalink: /our-ccas/sports/tennis/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 # **Tennis**
 
 
-#### **Teacher in Charge**
+#### **Teachers in Charge**
 
-
-Ms Mazeedah <br> Mdm Renuka Devi Windersalam <br> Mdm Zahara Osman <br> Mdm Wong Mei Kuen <br> Mr Stanley Yeo
+| Name | Email|
+| -------- | -------- | 
+|Miss	Mazeedah Azmi (I/C)	|[mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg)|		
+|Mdm	Renuka Devi Windersalam |[windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg)|		
+|Mdm	Zahara Osman|[zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)|		
+|	Mdm Wong Mei Kuen |[wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg)|		
+|	Mr Stanley Yeo Hwee Meng	|[yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg)|
+|
 
 #### **Schedule**
 
@@ -21,7 +28,7 @@ Every Mondays, 02:15 pm – 04:15 pm
 ###### School Team and Training Squad
 Every Wednesdays, 02:15 pm – 05:15 pm
 
-![](/images/tennis4.jpg)
+
 
 #### **Programme/ Development**
 
@@ -39,15 +46,8 @@ The Tennis CCA takes part in the National School Games (NSG) organised by the Si
 
 * National School Games 2022 Tennis Senior Division (2nd)
 * National School Games 2021 Tennis Senior Division (1st)
+![](/images/tennis4.jpg)
 
 ![](/images/tennis%204.jpg)
 
 ![](/images/tennis%205.jpg)
-
-
-![](/images/tennis1.JPG)
-
-
-![](/images/tennis3.JPG)
-
-![](/images/tennis2.JPG)

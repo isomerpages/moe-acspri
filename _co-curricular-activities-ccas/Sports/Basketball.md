@@ -3,22 +3,28 @@ title: Basketball
 permalink: /our-ccas/sports/basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 #### **Teachers in Charge**
 
-Mdm Chan Soo Ping(I/C) <br> Mdm Su Xinhui Sarah <br> Mdm Jenn Ang
- <br> Mdm Jeannie Yeo <br> Mdm Tan Siow Hwee <br> 
+| Name | Email|
+| -------- | -------- |
+|	Mdm Chan Soo Ping (I/C)	|[chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg)|
+|	Mdm Sarah Su 	|[su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)|		
+|Mdm	Jenn Ang Weihermueller	|[jenn_ang@moe.edu.sg](mailto:jenn_ang@moe.edu.sg)|		
+|	Mdm Jeannie Yeo 	|[yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg)|	
+|	Ms Tan Siow Hwee 	|[tan_siow_hwee@moe.edu.sg](mailto:tan_siow_hwee@moe.edu.sg)|		
+|	
+
 
 #### **Schedule**
 
-###### Venue <br>
+###### Venue
 ACSP Sports Hall
-
-###### Recreational <br>
+###### Recreational
 Wednesdays - 02:15pm to 04:15pm
-
-###### School  &amp; Development Team <br>
-Every Mondays and Wednesday - 02:15pm to 04:15pm <br>
+###### School  &amp; Development Team 
+Every Mondays and Wednesday - 02:15pm to 04:15pm 
 
 #### **Programme/ Development**
 

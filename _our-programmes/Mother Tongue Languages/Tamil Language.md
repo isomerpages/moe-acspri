@@ -3,24 +3,8 @@ title: Tamil Language
 permalink: /our-programmes/mother-tongue-languages/tamil-language/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
-# **Tamil Language**
-
-### **Department (IP or PAM)**
-
-##### **MOTHER TONGUE LANGUAGES DEPARTMENT (TAMIL LANGUAGE)**
-
-### ***Staff***
-Kogilavani d/o Vathumalai <br>
-TL Coordinator <br>
-Lead Teacher/Tamil Language <br>
-Representative – Primary 4 and 6
-
-Najuma Banu <br>
-Representative – Primary 1 and 3
-
-Suja Anbazhagan <br>
-Representative – Primary 2 and 5
 
 ### **Vision**
 

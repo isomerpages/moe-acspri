@@ -3,8 +3,8 @@ title: Guitar Ensemble
 permalink: /our-ccas/clubs/guitar-ensemble/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-
 #### **Teachers in Charge**
 
 | Name |     Email  |      |
@@ -23,7 +23,7 @@ ACS(P) Band Room
 
 #### **Programme Development**
 
-Our Guitar Ensemble comprises of two groups: the beginners and the grand ensemble seniors. Our objective is to build on music fundamentals, learn guitar techniques and perform as an ensemble. We aim to play modern-day popular tunes on the classical guitar to create music that is exciting and contemporary.
+Our Guitar Ensemble comprises two groups: the beginners and the grand ensemble seniors. Our objective is to build on music fundamentals, learn guitar techniques and perform as an ensemble. We aim to play modern-day popular tunes on the classical guitar to create music that is exciting and contemporary.
 
 Our students will start in the beginners’ group, learning the fundamentals of guitar playing such as basic music notation, counting rhythms and plucking as well as strumming. Upon successful completion, they will progress to the grand ensemble group where they learn to play more advanced techniques such as Tremelo, Harmonics and Pizzicato. We hope to ignite their interest and develop them to be confident guitar performers. They will be given opportunities to perform in school-based events such as the Honours Day as well as the prestigious biennial Singapore Youth Festival.
 
@@ -41,9 +41,10 @@ SYF AP 2016 (Distinction Award)&nbsp;
 
 • SYF AP 2022 (Certificate of Participation as SYF AP for Primary level was not benchmarked)
 
-![](/images/guitar%20ensemble%204.JPG)
+
 
 ![](/images/guitar%20ensemble%203.jpeg)
+
 ![](/images/guitar%20ensemble.jpeg)
 
 ![](/images/guitar%20ensemble%202.jpeg)

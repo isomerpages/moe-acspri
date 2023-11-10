@@ -3,9 +3,8 @@ title: Programme for Active Learning (PAL)
 permalink: /our-programmes/physical-education/programme-for-active-learning/
 description: ""
 third_nav_title: Physical Education
+variant: markdown
 ---
-# **Programme for Active Learning (PAL)**
-
 ##### **PAL (Outdoor Education)**
 In this module, students will be engaged in exploring, experimenting and discovering the outdoors. They will express themselves via fun and games. Key elements in the programme are Outdoor Skills, Environmental Awareness and the SEL Competencies.  Students will explore the outdoors and make links to concepts learnt in the classroom (i.e. science and art). They will experience outdoor activities in an engaging and fun way. Fun elements will be infused throughout the lessons.
 

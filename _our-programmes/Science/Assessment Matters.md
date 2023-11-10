@@ -3,10 +3,8 @@ title: Assessment Matters
 permalink: /our-programmes/science/assessment-matters/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
-
-**(Only for IP Departments)**
-
 The assessments in Science are both formative and summative in nature.
 
 ##### **Formative Assessments**

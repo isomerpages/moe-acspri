@@ -3,8 +3,8 @@ title: School Bus
 permalink: /for-parents/admin-matters/school-bus/
 description: ""
 third_nav_title: Admin Matters
+variant: markdown
 ---
-### **School Bus**
 For school bus transport matters, please contact:
 
 Ms Carrie Lee

@@ -3,10 +3,16 @@ title: Synergy
 permalink: /our-ccas/clubs/synergy/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 #### **Teachers in Charge**
 
-Ms Ho Lim Hwei (I/C)<br> Mdm Punitha Kasipandy <br> Ms Woon Yuet Meng
+ | Name | Email |
+ | -------- | -------- |
+|Ms Ho Lim Hwei (I/C)|[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
+|Mdm Punitha Kasipandy |[punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)|
+|Ms Woon Yuet Meng |[woon_yuet_meng@moe.edu.sg](mailto:woon_yuet_meng@moe.edu.sg)|
+|
 
 #### **Schedule**
 
@@ -20,7 +26,7 @@ Closer home, the group has performed on Founder’s Day as well as Teachers’ D
 
 The group is guided by veteran coach Mr Yutaki Ong. Teachers work with coach and parents alike to provide the best aesthetic learning experiences for the members.
 
-#### ***Past Accolades***
+#### **Past Accolades**
 
 * Awarded Distinction for 2014 SYF Presentation
 * Awarded Distinction for 2016 SYF Presentation&nbsp;
@@ -31,5 +37,7 @@ The group is guided by veteran coach Mr Yutaki Ong. Teachers work with coach and
 
 <br>
 <img src="/images/synergy4.JPG" style="width:80%" align="center">
+
+
 <br>
 <br>

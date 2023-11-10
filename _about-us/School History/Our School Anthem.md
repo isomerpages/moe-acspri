@@ -4,6 +4,8 @@ permalink: /about-us/school-history/our-school-anthem/
 description: ""
 third_nav_title: School History
 ---
+## **Our School Anthem**
+
 ![](/images/s_anthem1.jpg)
 
 In days of yore from Western shores  

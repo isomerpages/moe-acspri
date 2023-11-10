@@ -3,7 +3,9 @@ title: Forms
 permalink: /for-parents/admin-matters/forms/
 description: ""
 third_nav_title: Admin Matters
+variant: markdown
 ---
+
 [Application for Waitlist](https://form.gov.sg/62c28e4333ac0000127277a0)  
   
 [Mobile Phone / Smartwatch Registration Form](/files/Mobile%20Phone%20or%20Smartwatch%20Registration%20Form.pdf)

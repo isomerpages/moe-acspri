@@ -3,8 +3,8 @@ title: Programmes
 permalink: /our-programmes/mathematics/programmes/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
-# **Programmes**
 
 ##### **P1 to P6**
 **Financial Literacy Programme**<br>

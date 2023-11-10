@@ -3,12 +3,19 @@ title: Boys Brigade
 permalink: /our-ccas/uniform-groups/boys-brigade/
 description: ""
 third_nav_title: Uniform Groups
+variant: markdown
 ---
-
-
 #### **Teachers in Charge**
 
-Mr Adrian Kum (I/C) <br> Mr Seow Kian Yong <br> Mr Chan Tao Yao
+| Name | Email |
+|---|---|
+|	Mr Adrian Kum (I/C)	|[kum_kin_meng@moe.edu.sg](mailto:kum_kin_meng@moe.edu.sg)|
+|	Mr Seow Kian Yong	|[seow_kian_yong@moe.edu.sg](mailto:seow_kian_yong@moe.edu.sg)|
+|	Mr Chan Tai Yao	|[chan_tai_yao@moe.edu.sg](mailto:chan_tai_yao@moe.edu.sg)|
+|
+
+
+
 
 #### **Schedule**
 
@@ -17,7 +24,7 @@ Venue: 2BLC, 3D and 3E Classrooms
 
 #### **Programme Development**
 
-The BB aims to advance Christ’s Kingdom and the promotion of habits of obedience, reverence, discipline and self-respect. Activities include a fun camp during the June Holidays, drills, Community Service activities, First Aid and Knot activities. Boys are also given the opportunities to participate in Brigade-wide competitions such as Character Quest and Adventure Quest. Pupils need not be a Christian to join.
+The BB aims to advance Christ’s Kingdom and the promotion of habits of obedience, reverence, discipline and self-respect. Activities include a fun camp during the June holidays, drills, community service activities, First Aid and knot activities. Boys are also given opportunities to participate in Brigade-wide competitions such as Character Quest and Adventure Quest. Pupils need not be a Christian to join.
 
 #### **Competition**
 
@@ -38,6 +45,5 @@ The BB aims to advance Christ’s Kingdom and the promotion of habits of obedien
 
 ![](/images/boys%20brigade%206.jpg)
 
-![](/images/boys%20brigade%202.JPG)
 
 ![](/images/boys%20brigade.jpg)

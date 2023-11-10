@@ -3,10 +3,19 @@ title: Badminton
 permalink: /our-ccas/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 #### **Teachers in Charge**
 
-Mdm Jovina Tan (Teacher-in-charge of School Team and Training Squad) <br> Mdm Siti Karmila (Teacher-in-charge of Recreation Team) <br> Ms Ong Pei Khim Aubrey <br> Mdm Jessica Lai Kit Mun <br> Mr Tiong Sze Chiat Terry <br> Ms An Rui Ying
+| Name | Email|
+| -------- | -------- | 
+|Mdm Jovina Tan (I/C)	|[jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg)|		
+| Mdm Siti Karmila 	|[siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg)|		
+|Ms Aubrey Ong	|[ong_pei_khim_aubrey@moe.edu.sg](mailto:ong_pei_khim_aubrey@moe.edu.sg)|		
+|Mdm Jessica Lai Kit Mun	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
+|Ms  An Ruiying	|[an_ruiying@moe.edu.sg](mailto:an_ruiying@moe.edu.sg)|	
+|
+
 
 #### **Schedule**
 
@@ -14,9 +23,7 @@ School Team and Training Squad <br>
 Every Mondays and Wednesdays - 02:15pm to 05:15pm <br>
 Wednesdays - 02:30pm to 04:30pm
 
-#### **Programme/ Development**
 
-CCA members meet on Wednesdays to learn the rules of the game and different strategies from Chess coaches. They also get to put these strategies to play when they spar with their friends during the CCA sessions.
 	
 #### **Competition**
 
@@ -33,8 +40,3 @@ The achievements of our school teams have always inspired the boys in the Recrea
 
 ![](/images/badminton%202.jpg)
 
-![](/images/badminton1.JPG)
-
-![](/images/badminton2.JPG)
-
-![](/images/badminton3.JPG)

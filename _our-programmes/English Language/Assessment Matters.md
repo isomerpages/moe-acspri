@@ -3,15 +3,13 @@ title: Assessment Matters
 permalink: /our-programmes/english-language/assessment-matters/
 description: ""
 third_nav_title: English Language
+variant: markdown
 ---
-# **Assessment Matters**
+##### **Areas of language learning**
 
-**(Only for IP departments)**<br>
-Areas of language learning:
 *   Listening, Reading and Viewing (Receptive Skills)
 *   Speaking, Writing and Representing (Productive Skills)
-*   Grammar and Vocabulary (Knowledge about Language)
-
+*   Grammar and Vocabulary (Knowledge about Language)   
 ##### **Listening, Reading and Viewing**
 We give our pupils opportunities for extensive reading and viewing to build general knowledge and to help them become fluent, independent readers.
 

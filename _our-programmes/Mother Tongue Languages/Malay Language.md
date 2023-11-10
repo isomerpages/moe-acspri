@@ -3,20 +3,8 @@ title: Malay Language
 permalink: /our-programmes/mother-tongue-languages/malay-language/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
-# **Malay Language**
-
-### **Department (IP or PAM)**
-
-##### **MOTHER TONGUE LANGUAGES DEPARTMENT (MALAY LANGUAGE)**
-
-### ***Staff***
-Sri Dewi Binte Mohamed Hashim <br>
-ML Coordinator <br>
-Representative – Primary 1, 3 &amp; 5
-
-Norharyati Binte Harun <br>
-Representative – P2, 4 &amp; 6
 
 ### **Vision**
 

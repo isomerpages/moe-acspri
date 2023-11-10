@@ -3,12 +3,19 @@ title: Floor Ball
 permalink: /our-ccas/sports/floor-ball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-
 #### **Teacher in Charge**
 
 
-Mr Charles Zhang (I/C) <br> Mrs Geraldine Ortega <br> Mdm Chan Wai Kin <br> Mdm Jessica Goh <br> Ms Shanice Lim Wei Tong
+
+| Name | EMail|
+| -------- | -------- | 
+|Mr Charles Zhang(I/C)	|[zhang_zong_yang_charles@moe.edu.sg](mailto:zhang_zong_yang_charles@moe.edu.sg)|	
+|Mrs	Geraldine Ortega	|[geraldine_ortega@moe.edu.sg](mailto:geraldine_ortega@moe.edu.sg)|		
+|Mdm	Chan Wai Kin	|[chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg)|		
+|Ms	Jessica Goh 	|[goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg)|		
+|	Ms Shanice Toh 	|[lim_wei_tong_shanice@moe.edu.sg](mailto:lim_wei_tong_shanice@moe.edu.sg)|		
 
 #### **Schedule**
 

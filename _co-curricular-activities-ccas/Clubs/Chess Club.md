@@ -3,11 +3,21 @@ title: Chess Club
 permalink: /our-ccas/clubs/chess-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-
 #### **Teachers in Charge**
 
-Mrs Dawn Wee (I/C) <br> Mdm Li Chunju <br> Mdm Leong Lilian
+
+ | Name | Email |
+ | -------- | -------- |
+|	Mrs Dawn Wee (I/C)	|[wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg)|		
+|	Mdm Li Chunju 	|[li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg)|		
+|	Mdm Leong Lilian 	|[leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg)|		
+|
+
+
+
+
 
 #### **Schedule**
 
@@ -21,7 +31,7 @@ CCA members meet on Wednesdays to learn the rules of the game and different stra
 
 * National Inter-School Team Chess Championships 2022
 
-* The U9&nbsp; and U11 teams secured 3rd place in South Zone while the Open Category team came in 1st in South Zone.**
+* The U9&nbsp; and U11 teams secured 3rd place in South Zone while the Open Category team came in 1st in South Zone.
  
 ![](/images/chess%20club.jpg)
 

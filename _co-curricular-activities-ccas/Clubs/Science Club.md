@@ -3,10 +3,16 @@ title: Science Club
 permalink: /our-ccas/clubs/science-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 #### **Teachers in Charge**
 
-Mdm Divya Dharshini (I/C) <br> Mr Wan Mohamed
+
+ | Name | Email |
+ | -------- | -------- |
+|Mdm Divya Dharshini |[divya_dharshini_harikrishan@moe.edu.sg](mailto:divya_dharshini_harikrishan@moe.edu.sg)|
+|Mr Wan Mohamed	|[wan_mohamed@moe.edu.sg](mailto:wan_mohamed@moe.edu.sg)|	
+|
 
 #### **Schedule**
 

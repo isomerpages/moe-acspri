@@ -8,18 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Affective
+        - title: For Staff
           description: ""
-          url: /affective/
-        - title: Cognitive
+          url: /for-staff/useful-links/
+        - title: For Students
           description: ""
-          url: /cognitive/
-        - title: Social
+          url: /for-students/school-rules/
+        - title: For Parents
           description: ""
-          url: /social/
-        - title: Physical
-          description: ""
-          url: /physical/
+          url: /for-parents/p1-registration-information/
       background: /images/School_Logo/Main_Gif.gif
   - infobar:
       title: The ACS(P) Brand of Education
@@ -27,4 +24,8 @@ sections:
         Oldham’s vision of the ACS philosophy of education.
       button: click here to read more -
       url: /acs-brand-of-education/
+  - resources:
+      title: Announcement
+      id: resources
+      button: Read More
 ---

@@ -4,11 +4,8 @@ permalink: /about-us/school-history/our-school-crest/
 description: ""
 third_nav_title: School History
 ---
-
-
-
-
-
+## **Our School Crest**
+<br>
 
 <img src="/images/acsp_school_crest_full_colour_l.png" style="width:30%;margin:0 auto;" align="midle">
 

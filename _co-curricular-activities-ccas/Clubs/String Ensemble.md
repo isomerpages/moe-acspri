@@ -3,14 +3,16 @@ title: String Ensemble
 permalink: /our-ccas/clubs/string-ensemble/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-# **String Ensemble**
-
-
-
 #### **Teachers in Charge**
-
-Mrs Heng Xiu Qin <br> Mdm Wendy Tan <br> Mr Edmund Wu <br> Mdm Anna Mohan
+ | Name | Email |
+ | -------- | -------- |
+|	Mrs Heng Xiu Qin (I/C) 	|[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg)|
+|	Mdm Wendy Tan 	|[tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)|
+|	Mr Edmund Wu	|[edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)|
+|	Mdm Anna Asha Mohan |[anna_asha_mohan@moe.edu.sg](mailto:anna_asha_mohan@moe.edu.sg)|	
+|
 
 #### **Schedule**
 
@@ -32,5 +34,4 @@ Pupils in String Ensemble will have the opportunities to take part in the bi-ann
 <br>
 
 
-<img align="center" style="width:80%" src="/images/strings%20ensemble%203.JPG">
-<br>
+

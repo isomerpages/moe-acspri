@@ -1,7 +1,8 @@
 ---
 title: P1 Registration Information
-permalink: /for-parents/permalink/
+permalink: /for-parents/p1-registration-information/
 description: ""
+variant: markdown
 ---
 ### **2024 P1 ADMINISTRATIVE DETAILS – ANNEX A**
 

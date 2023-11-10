@@ -3,8 +3,10 @@ title: Programmes
 permalink: /our-programmes/aesthetics-art-and-music/programmes/
 description: ""
 third_nav_title: Aesthetics (Art & Music)
+variant: markdown
 ---
-## Aesthetics (Art &amp; Music)
+
+## **Aesthetics (Art &amp; Music)**
 
 
 #### **Vision**
@@ -31,7 +33,6 @@ For Primary 1 to Primary 3, the Music curriculum revolves around “experience�
 <br>
 
 ###### Visual Art
-
 
 The Visual Art programme incorporates:
 
@@ -94,11 +95,6 @@ Arts Fest in ACS(P) is an annual event alternating between performing arts and v
 
 Arts Fest Appreciate! focuses on showcasing our students’ artwork in an exhibition, featuring a wide range of displays selected from each class.
 
-<br>
-<br>
-<img src="/images/aesthetics%202.JPG" style="width:80%" align="center">
-<br>
-<br>
 
 ###### Aesthetics CCAs
 
@@ -122,12 +118,6 @@ Pupils are also treated to performances during assembly to provide them with exp
 * SYF Arts Presentation
 * SYF Art Exhibition
 
-
-<br>
-<br>
-<img src="/images/aesthetics%208.JPG" style="width:80%" align="center">
-<br>
-<br>
 
 
 <br>
