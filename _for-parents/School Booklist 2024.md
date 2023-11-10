@@ -18,7 +18,7 @@ variant: markdown
 
 [2024 P5 GEP Book List](/files/2024_Book_list/p5gep_book.pdf)
 
-[2024 P6 FDN Book List](/files/2024_Book_list/p6_book.pdf)
+[2024 P6 Book List](/files/2024_Book_list/p6_book.pdf)
 
 [2024 P6 FDN Book List](/files/2024_Book_list/p6fdn_book.pdf)
 
