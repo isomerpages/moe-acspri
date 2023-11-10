@@ -13,7 +13,7 @@ variant: markdown
 |Mr	Koh Chaik Khoon	|[koh_chaik_khoon@moe.edu.sg](mailto:koh_chaik_khoon@moe.edu.sg)|
 |Mr	Aravinthan s/o A Karuppiah	|[aravinthan_a_karuppiah@moe.edu.sg](mailto:aravinthan_a_karuppiah@moe.edu.sg)|
 |	Mdm Sarah Su 	|[su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)|
-|	Vijayakumaran Govindasamy	|[vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)|		
+|	Vijayakumaran Govindasamy	|[vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)		
 |
 
 #### **Schedule**

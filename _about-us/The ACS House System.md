@@ -2,8 +2,8 @@
 title: The ACS House System
 permalink: /about-us/acs-house-system/
 description: ""
+variant: markdown
 ---
-
 ### **Background to the ACS House System**
 
 The ACS House System was officially introduced on 16 April 1929, one of the innovations of Mr T W Hinch who became Principal in the same year. Named after distinguished people who had contributed greatly to the cause of ACS, it aims to promote and develop clean and keen competition both individually and among the Houses. 
@@ -20,7 +20,10 @@ Today, the House System aims to inculcate and encourage team spirit as well as t
 
 <img src="/images/cheong%20koon%20seng.jpg" style="width:30%;margin-right:15px;" align="left">  Mr Cheong Koon Seng was for many years the President of ACSOBA. One of the earliest ACSians he joined ACS in 1891. In the 1934 ACS Magazine, Mr Cheong was memorialized as “a genial friend, a sound businessman and a loyal old boy of the school to which he had rendered valuable and ungrudging help.” Working very closely with the Methodist Mission, he helped to acquire the land at Barker Road where the ACS (Barker Road) complex now stands.
 
+<br>
+
 ##### **Goh Hood Keng House (GHK)**
+
 
 <img src="/images/goh%20hoon%20keng.jpg" style="width:30%;margin-right:15px;" align="left"> Rev Goh Hood Keng was one of the most remarkable ACSians. He taught for about 20 years in ACS and distinguished himself as one of the most esteemed teachers of the school. He was the first Singaporean ordained Methodist Minister. As a minister of the Methodist Church, he pastured the Straits Chinese Methodist Church (Kampong Kapor Methodist Church) for nearly 40 years until he retired in 1952. As a preacher, Bishop Doraisamy considered him a “legend before his time”. Combining his gift of teaching with that of preaching was perhaps why the School named one of the Houses after him.
 
