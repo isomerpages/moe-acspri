@@ -7,8 +7,9 @@ variant: markdown
 ---
 #### **Teachers in Charge**
 
- | Name | Email |
- | -------- | -------- |
+
+| Name | Email|
+| -------- | -------- | 
 |Mdm Tan Yoke Joo (I/C)	|[tan_yoke_joo@moe.edu.sg](mailto:tan_yoke_joo@moe.edu.sg)|		
 |Mr Vijayakumaran Govindasamy	|[vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)|
 |Mrs	Neo Lin Li 	|[tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg)|	
