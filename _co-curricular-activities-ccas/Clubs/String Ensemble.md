@@ -7,7 +7,8 @@ variant: markdown
 ---
 #### **Teachers in Charge**
 
-| Name | Email |
+
+| Name| Email |
 | -------- | -------- |
 |Mrs Heng Xiu Qin (I/C)	|[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg)|
 |Mdm Wendy Tan|[tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)|
