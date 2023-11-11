@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **Teachers in Charge**
 
-| Name | Email|
+| Name | Email |
 | -------- | -------- | 
 |	MrsHengXiuQin(I/C)	|	[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg)
 |	MdmWendyTan	|	[tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)
