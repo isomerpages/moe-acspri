@@ -7,13 +7,16 @@ variant: markdown
 ---
 #### **Teachers in Charge**
 
-| Name | Email |
-| -------- | -------- |
-|Mrs Heng Xiu Qin (I/C)|[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg)|
-|Mdm Wendy Tan 	|[tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)|
-|Mr Edmund Wu	         |[edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)|			
-|Mdm Anna Asha Mohan|[anna_asha_mohan@moe.edu.sg](mailto:anna_asha_mohan@moe.edu.sg)|
-|	
+
+ | Name | Email |
+ | ----------------- | ---------- |
+|	Mrs Heng Xiu Qin (I/C)	|	[hoong_xiu_qin@moe.edu.sg](mailto:hoong_xiu_qin@moe.edu.sg)
+|	Mdm Wendy Tan	|	[tan_poh_yee@moe.edu.sg](mailto:tan_poh_yee@moe.edu.sg)
+|	Mr Edmund Wu	|	[edmund_wu_kok_ming@moe.edu.sg](mailto:edmund_wu_kok_ming@moe.edu.sg)
+|	Mdm Anna Asha Mohan	|	[anna_asha_mohan@moe.edu.sg](mailto:anna_asha_mohan@moe.edu.sg)
+|
+
+
 #### **Schedule**
 
 Mondays - 02:15pm to 04:15pm
