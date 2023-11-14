@@ -62,8 +62,11 @@ b)	If the above does not work, use Incognito mode on your browser to login. Upon
 c)	Contact the school's General Office at 6250 1633.
 
 Operating Hours:
-Mondays to Thursdays: 7.30 a.m. to 5 p.m. Fridays: 7 a.m. to 5 p.m.
-*Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
+
+
+Mondays - Fridays: 8:00 am - 4:00 pm**
+
+Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
 
 
 ##### Q7. I receive the following message: Your account is temporarily locked to prevent unauthorized use.
@@ -76,4 +79,4 @@ a)&nbsp; Contact the school's General Office at **6250 1633**.
 Operating Hours:
 Mondays - Fridays: 8:00 am - 4:00 pm**
 
-\*Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
+Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
