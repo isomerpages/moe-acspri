@@ -3,6 +3,7 @@ title: Student Learning Space
 permalink: /for-students/student-learning-space/
 description: ""
 third_nav_title: Student Learning Space
+variant: markdown
 ---
 ## **Student Learning Space**
 
@@ -10,7 +11,7 @@ third_nav_title: Student Learning Space
 
 The **Singapore&nbsp;Student Learning Space&nbsp;(SLS)** is a Learning Management System (LMS) which tracks, manages and delivers online learning. Through a repository of curriculum-based digital content, SLS portal readily provides access to educational resources for both teachers and students.
 
-WEBSITE:&nbsp;&nbsp;[SLS Login Window](https://vle.learning.moe.edu.sg/login) **privacy error**
+WEBSITE:&nbsp;&nbsp;[SLS Login Window](https://vle.learning.moe.edu.sg/login) 
 
 #### **SLS Support for Home-based Learning**
 

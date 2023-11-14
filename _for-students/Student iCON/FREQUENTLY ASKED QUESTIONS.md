@@ -1,15 +1,10 @@
 ---
-title: FAQ?
+title: FREQUENTLY ASKED QUESTIONS
 permalink: /for-students/student-icon/faq/
 description: ""
 third_nav_title: Student iCON
+variant: markdown
 ---
-# **FAQ**
-
-##### FREQUENTLY ASKED QUESTIONS
-         
-FREQUENTLY ASKED QUESTIONS
-
 ##### Q1. What is the naming convention for Student iCON email address?
 
 a.&nbsp;&nbsp; The student’s email address will be based on @students.edu.sg.
@@ -67,8 +62,11 @@ b)	If the above does not work, use Incognito mode on your browser to login. Upon
 c)	Contact the school's General Office at 6250 1633.
 
 Operating Hours:
-Mondays to Thursdays: 7.30 a.m. to 5 p.m. Fridays: 7 a.m. to 5 p.m.
-*Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
+
+
+Mondays - Fridays: 8:00 am - 4:00 pm**
+
+Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
 
 
 ##### Q7. I receive the following message: Your account is temporarily locked to prevent unauthorized use.
@@ -79,11 +77,6 @@ Mondays to Thursdays: 7.30 a.m. to 5 p.m. Fridays: 7 a.m. to 5 p.m.
 a)&nbsp; Contact the school's General Office at **6250 1633**.
 
 Operating Hours:
+Mondays - Fridays: 8:00 am - 4:00 pm**
 
-Mondays to Thursdays: 7.30 a.m. to 5 p.m. Fridays: 7 a.m. to 5 p.m.
-
-\*Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
-
-b)&nbsp; ![Qr code  Description automatically generated ](file:///C:/Users/S27193~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)Submit request to reset the password via the FormSG “ACS(P) ICT \- Request Reset of Password”, accessible via the link:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [https://go.gov.sg/acspict-accountreset](https://go.gov.sg/acspict-accountreset)
-
-You can also use the QR code to access the above URL. The same link will also be uploaded on our school website.
+Closed on Saturdays, Sundays and Public Holidays Please provide your child’s full name and class.
