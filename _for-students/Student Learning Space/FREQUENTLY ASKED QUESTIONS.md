@@ -5,4 +5,3 @@ description: ""
 third_nav_title: Student Learning Space
 variant: markdown
 ---
-# **FAQ**
