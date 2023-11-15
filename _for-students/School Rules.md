@@ -44,7 +44,7 @@ A student’s personal conduct contributes to his success in school and to a con
 ##### **Hairstyle and Fingernails**
 *   &nbsp;Male students must be neat in appearance, clean-shaven and no facial hair is allowed.
 
-<img src="/images/schrulepic1.jpg" style="width:65%">
+<img src="/images/schrulepic1.jpg" style="width:55%">
 		 
 *   Hair should be short, properly combed and kept neat to present a smart appearance. It should be sloped and not touch the ears and the collar. The fringe should not fall on the forehead or touch the eyebrows
 *   Extreme hairstyles, the use of hair colouring or hair gel are not allowed.
@@ -95,7 +95,7 @@ A student’s personal conduct contributes to his success in school and to a con
 
 11\. The school will not be responsible for any loss or damage of the student’s mobile phone/smartwatch.
 
-##### **Early Release**<br>**Request for Early Release from School**
+##### **Early Release Request for Early Release from School**
 
 Pupils may seek for early release from school only for the following reasons:  
 
