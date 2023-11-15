@@ -2,9 +2,8 @@
 title: School Rules
 permalink: /for-students/school-rules/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-## **School Rules**
 
 ##### **Personal Conduct**
 A student’s personal conduct contributes to his success in school and to a conducive learning environment for all. Students are therefore expected to be in their best of conduct by showing respect to teachers, members of staff, fellow students, school property and activities. This expectation is reflected in the following code of discipline:
