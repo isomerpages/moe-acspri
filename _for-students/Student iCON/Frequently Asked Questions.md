@@ -1,5 +1,5 @@
 ---
-title: FREQUENTLY ASKED QUESTIONS
+title: Frequently Asked Questions
 permalink: /for-students/student-icon/faq/
 description: ""
 third_nav_title: Student iCON

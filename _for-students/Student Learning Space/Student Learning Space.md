@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Student Learning Space
 variant: markdown
 ---
-## **Student Learning Space**
-
+    
 ### **Learning Management System**
 
 The **Singapore&nbsp;Student Learning Space&nbsp;(SLS)** is a Learning Management System (LMS) which tracks, manages and delivers online learning. Through a repository of curriculum-based digital content, SLS portal readily provides access to educational resources for both teachers and students.
