@@ -32,17 +32,22 @@ Pupils who have interest in bowling or have shown bowling potential during mini-
 ##### Elite Stage  
 Pupils who display greater potential will be invited to join the Bowling (School Team) CCA, which trains every Wednesday and Friday. They will have a chance to represent our school in both National and International bowling tournaments.
 
-##### **Programme for Active Learning (Sports &amp; Games)**
+
+#### **Programme for Active Learning (Sports &amp; Games)**
 
 The Sports and Games module aims to develop communicative skills and teamwork among P2 pupils through various enjoyable games.
 
-##### **Programme for Active Learning (Outdoor Education)**
+#### **Programme for Active Learning (Outdoor Education)**
 
 The Outdoor Education module&nbsp;emphasises&nbsp;on development of interpersonal skills,&nbsp;relationship management and responsible decision-making competencies for P1 pupils.
 
 
 
+#### **PAL (Outdoor Education)**
+In this module, students will be engaged in exploring, experimenting and discovering the outdoors. They will express themselves via fun and games. Key elements in the programme are Outdoor Skills, Environmental Awareness and the SEL Competencies.  Students will explore the outdoors and make links to concepts learnt in the classroom (i.e. science and art). They will experience outdoor activities in an engaging and fun way. Fun elements will be infused throughout the lessons.
 
+##### **PAL (Sports and Games)**
+In this module, students are taught the game of parachute and mini bowling. The main focus in these two games is to bring out curiosity, creativity and confidence of each student. The students learn team building skills in a group setting. Through the two games, students will learn to self- manage, relate with others and make responsible decisions for themselves and for the team.
 
 
 
