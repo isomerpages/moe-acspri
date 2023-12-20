@@ -21,7 +21,7 @@ character, imbued with Christian values and principles to guide and prepare him 
           font-size:24px
     }
   </style>
-<span class="highlight">I</span>ntegrity, <span class="highlight">H</span>umility, <span class="highlight">O</span>bedience, <span class="highlight">P</span>erseverance, <span class="highlight">E</span>mpathy, <span class="highlight">F</span>aithfulness, <span class="highlight">U</span>nity and <span class="highlight">L</span>oyalty (<span class="highlight">*i*</span>HOPEFUL)
+<span class="highlight">I</span>ntegrity, <span class="highlight">H</span>umility, <span class="highlight">O</span>bedience, <span class="highlight">P</span>erseverance, <span class="highlight">E</span>mpathy, <span class="highlight">F</span>aithfulness, <span class="highlight">U</span>nity and <span class="highlight">L</span>oyalty (<span class="highlight">*i*</span> HOPEFUL)
 
  
 ##### **Our Motto**
