@@ -10,11 +10,11 @@ collections:
       - Personal Data Protection/.keep
       - Personal Data Protection/Personal Data Protection Policy.md
       - Personal Data Protection/Privacy Policy.md
-      - Vendor/School Bus.md
-      - Vendor/School Uniform.md
       - Vendor/.keep
+      - Vendor/School Uniform.md
       - Vendor/Student Care Centre.md
       - Vendor/School Bookshop.md
+      - Vendor/School Bus.md
       - Health Care/.keep
       - Health Care/Dental Clinic.md
       - School Publication/.keep
