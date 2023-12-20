@@ -21,7 +21,7 @@ character, imbued with Christian values and principles to guide and prepare him 
           font-size:24px
     }
   </style>
-<span class="highlight">i</span>ntegrity, <span class="highlight">H</span>umility, <span class="highlight">O</span>bedience, <span class="highlight">P</span>erseverance, <span class="highlight">E</span>mpathy, <span class="highlight">F</span>aithfulness, <span class="highlight">U</span>nity and <span class="highlight">L</span>oyalty (<span class="highlight">i</span>HOPEFUL)
+<span class="highlight">I</span>ntegrity, <span class="highlight">H</span>umility, <span class="highlight">O</span>bedience, <span class="highlight">P</span>erseverance, <span class="highlight">E</span>mpathy, <span class="highlight">F</span>aithfulness, <span class="highlight">U</span>nity and <span class="highlight">L</span>oyalty (<span class="highlight">*i*</span>HOPEFUL)
 
  
 ##### **Our Motto**
@@ -103,9 +103,9 @@ To inculcate loyalty and commitment for the school through a sense of identity, 
 
 Traits of an ACSian (TACS):
 
-**iHOPEFUL Leader**
+***i* HOPEFUL Leader**
 
-Grounded in ACS(P)’s iHOPEFUL values, the iHOPEFUL leader is an ACS(P) gentleman who enjoys an
+Grounded in ACS(P)’s *i* HOPEFUL values, the *i* HOPEFUL leader is an ACS(P) gentleman who enjoys an
 education that is anchored on Christian principles. He is aware of his national and cultural identity and
 seeks to be a leader of self, of his peers, and of his community.
 
