@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Physical Education
 variant: markdown
 ---
-
 ### **Vision**
 
 Enhance student’s physical well-being, and develop in them a passion for sports and other physical activities.
@@ -24,13 +23,13 @@ The aim of the PE Department in ACS(P) is to equip all pupils with fundamental m
 
 ##### **Learning for Life Programme (LLP) - Building Character through Bowling**
 
-###### Exposure Stage  
+##### Exposure Stage  
 All pupils from P1 to P4 undergo four sessions of mini-bowling during curriculum time. At P2, pupils with bowling potential will be invited to join the Bowling (Development) CCA.
     
-###### Development Stage
+##### Development Stage
 Pupils who have interest in bowling or have shown bowling potential during mini-bowling lessons may join the Bowling (Development) CCA, which trains every Friday.
     
-###### Elite Stage  
+##### Elite Stage  
 Pupils who display greater potential will be invited to join the Bowling (School Team) CCA, which trains every Wednesday and Friday. They will have a chance to represent our school in both National and International bowling tournaments.
 
 ##### **Programme for Active Learning (Sports &amp; Games)**
@@ -40,6 +39,13 @@ The Sports and Games module aims to develop communicative skills and teamwork am
 ##### **Programme for Active Learning (Outdoor Education)**
 
 The Outdoor Education module&nbsp;emphasises&nbsp;on development of interpersonal skills,&nbsp;relationship management and responsible decision-making competencies for P1 pupils.
+
+
+
+
+
+
+
 
 ### **Events**
 
