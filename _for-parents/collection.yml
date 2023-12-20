@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 Registration Information.md
       - Admin Matters/.keep
       - Admin Matters/Forms.md
       - Admin Matters/Transit Link Hotline.md
+      - P1 Registration Information.md
       - School Booklist 2024.md
       - Personal Data Protection/.keep
       - Personal Data Protection/Personal Data Protection Policy.md
