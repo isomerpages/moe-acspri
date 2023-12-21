@@ -50,11 +50,11 @@ For Primary 1 to Primary 3, the visual art curriculum focuses on the hands-on, e
 
 
 
-#### **Assessment Matters**
+
+### **Programme (For all levels)**
 
 Holistic assessment is carried out through various tasks to determine if pupils have achieved the learning objectives in line with MOE curriculum.
 
-### **Programme (For all levels)**
 
 ###### Experience
 
