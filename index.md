@@ -16,13 +16,13 @@ sections:
           url: /for-students/school-rules/
         - title: For Parents
           description: ""
-          url: /for-parents/p1-registration-information/
+          url: For-parents/admin-matters/forms/
       background: /images/School_Logo/Main_Gif.gif
   - infobar:
       title: The ACS(P) Brand of Education
       description: The ACS(P) brand of education is anchored on our Founder, Bishop
         Oldham’s vision of the ACS philosophy of education.
-      button: "click here to read more "
+      button: click here to read more
       url: /acs-brand-of-education/
   - resources:
       title: Announcement
