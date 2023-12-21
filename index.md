@@ -16,7 +16,7 @@ sections:
           url: /for-students/school-rules/
         - title: For Parents
           description: ""
-          url: /For-parents/admin-matters/forms/
+          url: /for-parents/admin-matters/forms/
       background: /images/School_Logo/Main_Gif.gif
   - infobar:
       title: The ACS(P) Brand of Education
