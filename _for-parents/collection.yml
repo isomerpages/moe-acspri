@@ -2,19 +2,19 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 Registration Information.md
       - Admin Matters/.keep
       - Admin Matters/Forms.md
       - Admin Matters/Transit Link Hotline.md
-      - Admin Matters/School Bus.md
+      - P1 Registration Information.md
       - School Booklist 2024.md
       - Personal Data Protection/.keep
       - Personal Data Protection/Personal Data Protection Policy.md
       - Personal Data Protection/Privacy Policy.md
-      - Vendor/School Uniform.md
       - Vendor/.keep
+      - Vendor/School Uniform.md
       - Vendor/Student Care Centre.md
       - Vendor/School Bookshop.md
+      - Vendor/School Bus.md
       - Health Care/.keep
       - Health Care/Dental Clinic.md
       - School Publication/.keep

@@ -2,7 +2,7 @@
 title: School Bus
 permalink: /for-parents/admin-matters/school-bus/
 description: ""
-third_nav_title: Admin Matters
+third_nav_title: Vendor
 variant: markdown
 ---
 For school bus transport matters, please contact:

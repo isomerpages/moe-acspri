@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Mathematics
 variant: markdown
 ---
-
 ##### **P1 to P6**
 **Financial Literacy Programme**<br>
 In line with the objective to promote and provide a learning environment that encourages critical and inventive thinking and creative problem-solvers among pupils, the Financial Literacy Programme imparts pupils with basic financial literacy skills through hands-on activities. The programme emphasizes on Mathematics. The programme enriches pupils’ skills on decision-making, following directions, listening responsively and making observations. They also develop teamwork through recognizing symbols and money in the form of role-playing. Furthermore, pupils learn financial life skills through interactive games and varied activities which encourage pupils to think innovatively and unleash their ideas, fostering an entrepreneurial mind-set amongst them.&nbsp;
@@ -69,7 +68,7 @@ During the E2K sessions, pupils will be assigned challenging Math problems. They
 Teachers-in-charge:<br>
 Mr Vijayakumaran Govindasamy&nbsp;<br>
 Miss Mazeedah M Azmi <br>
-Mr Vijayakumaran Govindasamy
+
 
 ##### **P5 and P6**
 _**Remedial and Supplementary Lessons**_<br>
