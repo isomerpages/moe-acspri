@@ -86,6 +86,8 @@ The Swift Explorer Singapore Coding Challenge, often referred to as SES, is an a
 
 SES 2023 was great opportunity and exposure for our students to experience coding in Swift Playground. Swift is a powerful and versatile programming language developed by Apple. While designing an app that centres inclusion and accessibility, it develops empathy in our student while encouraging them to think critically, collaborate, and approach problems from different angles.
 
+#### **Assessment Matters**
+
 
 &nbsp;1. What do the assessments focus on for all pupils?<br>&nbsp;
 The Mathematics curriculum is to ensure that pupils will acquire and apply Mathematical concepts and skills. Pupils will develop cognitive and metacognitive skills through a Mathematical approach to problem- solving and develop positive attitudes towards learning Mathematics.&nbsp;
