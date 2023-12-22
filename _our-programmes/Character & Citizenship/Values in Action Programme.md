@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Character & Citizenship
 variant: markdown
 ---
-
-
 Values in Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills.&nbsp;VIA also moulds a platform for pupils to develop community leadership.  
   
 ACS(P) VIA programme consists of age-appropriate activities for all the pupils to participate in. They are encouraged to put values into action within the context of real-life situations in 3 broad domains:
@@ -26,6 +24,3 @@ After completing the VIA activities, pupils will do reflection in their&nbsp;iCA
 ##### **Staff VIA**
 The staff VIA serves as a platform for the school to develop our teachers as&nbsp;_i_ HOPEFUL Educators&nbsp;and provides opportunities for our staff to role model the&nbsp;_i_ HOPEFUL values and Traits of an&nbsp;ACSian (_i_ HOPEFUL Leader and Community Collaborator) that we want to nurture in our pupils.&nbsp;
 
-Examples of staff VIA activities this year include Art &amp; Craft workshops, culinary workshop and&nbsp;games sessions.
-
-<img style="width:115%" src="/images/via3.jpg">
