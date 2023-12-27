@@ -2,7 +2,7 @@
 title: Programmes
 permalink: /our-programmes/information-and-communications/programmes/
 description: ""
-third_nav_title: Information & Communications
+third_nav_title: Infocomm & Communications
 variant: markdown
 ---
 ### **Vision**

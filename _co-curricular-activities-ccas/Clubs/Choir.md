@@ -13,7 +13,6 @@ variant: markdown
 | -------- | -------- | 
 |Mrs Gomathi Ravindra (I/C)| [gomathi_ravindra@moe.edu.sg](mailto:gomathi_ravindra@moe.edu.sg) |
 |Mdm Jasmine Kaur|  [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg) |
-|Ms Tan Sin Min |[tan_sin_min@moe.edu.sg](mailto:tan_sin_min@moe.edu.sg) 
 |
 
 #### **Schedule**
@@ -34,12 +33,7 @@ The Choir members have also been involved in projects such as the collaboration 
 * International Choral Festival Choir Performance (2019)
 * Singapore Youth Festival Arts Presentation for Choir (Primary School Level) (2022)
 
-#### **Past Accolades**
 
-* ACS Golf Challenge (2014)
-* Combined Choir Concert (ACS Independent and ACS (BR) (2014)
-* National Day Performance (SG50) - Moulmein-Kallang GRC (2015)
-* Methodist Get-together (2015)
 
 ![](/images/acs%20choir.jpg)
 

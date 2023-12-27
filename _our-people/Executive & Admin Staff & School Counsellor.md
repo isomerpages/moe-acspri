@@ -2,25 +2,6 @@
 title: Executive & Admin Staff & School Counsellor
 permalink: /our-people/executive-admin-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-| Title | Name | Email |
-| -------- | -------- | -------- |
-Admin Manager  	|	Miss Lim Siew Lay	|	lim_siew_lay_a@moe.edu.sg	|[lim_siew_lay_a@moe.edu.sg](mailto:lim_siew_lay_a@moe.edu.sg)|
-Admin Manager  	|	Mr Ernest Fu	|	Ernest_Fu@moe.edu.sg	|[Ernest_Fu@moe.edu.sg](mailto::Ernest_Fu@moe.edu.sg)|
-ICT Manager 	|	Mr Lee Byung Woo	|	lee_byung_woo@moe.edu.sg	|[lee_byung_woo@moe.edu.sg](mailto:lee_byung_woo@moe.edu.sg)|
-Operations Manager  	|	Mr Lee Yong Yiang	|	lee_yong_yiang@moe.edu.sg	|[lee_yong_yiang@moe.edu.sg](mailto:lee_yong_yiang@moe.edu.sg)|
-Operations Manager  	|	M Keith Chong	|	keith_chong@moe.edu.sg	|[keith_chong@moe.edu.sg](mailto:keith_chong@moe.edu.sg)|
- Admin Executive  	|	Ms Angelina Tan	|	tan_qian_ning_angelina@moe.edu.sg	|[tan_qian_ning_angelina@moe.edu.sg](mailto:tan_qian_ning_angelina@moe.edu.sg)|
- Corporate Support Officer  	|	Mdm Chia Siang Keng	|	chia_siang_keng@moe.edu.sg	|[chia_siang_keng@moe.edu.sg](mailto:chia_siang_keng@moe.edu.sg)|
-  Corporate Support Office 	|	Mdm Vasundara Devi	|	vasundara_devi@moe.edu.sg	|[vasundara_devi@moe.edu.sg](mailto:vasundara_devi@moe.edu.sg)|
- Corporate Support Officer 	|	Ms Asiah Bibi Binte Ali	|	asiah_bibi_ali@moe.edu.sg	|[asiah_bibi_ali@moe.edu.sg](mailto:asiah_bibi_ali@moe.edu.sg)|
- Operations Support Office	|	Mr Muhd Fuad	|		
-Operations Support Officer	|	Mr Jahroni Karadi	|		
- Operations Support Officer	|	Mdm Letchimi	|		
-Operations Support Officer  	|	Mdm Saeyah	|	saeyah_iksan@moe.edu.sg	|[saeyah_iksan@moe.edu.sg](mailto:saeyah_iksan@moe.edu.sg)|
- Science Lab Assistant  	|	Ms Marsytha	|		|[](mailto:)|
- Librarian 	|	Ms Amy Ng	|		
-Senior School Counsellor 	|	Mr Desmond Liew	|	liew_shuh_onn@moe.edu.sg	|[liew_shuh_onn@moe.edu.sg](mailto:liew_shuh_onn@moe.edu.sg)|
-Part-time School Counsellor	|	Mdm Chan Chee Har	|	chan_chee_har@acsp.sg	|[chan_chee_har@acsp.sg](mailto:chan_chee_har@acsp.sg)|
-|
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Title</p></th><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>Admin Manager</p></td><td rowspan="1" colspan="1"><p>Miss Lim Siew Lay</p></td><td rowspan="1" colspan="1"><p>lim_siew_lay_a@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Admin Manager</p></td><td rowspan="1" colspan="1"><p>Mr Ernest Fu</p></td><td rowspan="1" colspan="1"><p>Ernest_Fu@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>ICT Manager</p></td><td rowspan="1" colspan="1"><p>Mr Lee Byung Woo</p></td><td rowspan="1" colspan="1"><p>lee_byung_woo@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>Mr Lee Yong Yiang</p></td><td rowspan="1" colspan="1"><p>lee_yong_yiang@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>M Keith Chong</p></td><td rowspan="1" colspan="1"><p>keith_chong@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Admin Executive</p></td><td rowspan="1" colspan="1"><p>Ms Angelina Tan</p></td><td rowspan="1" colspan="1"><p>tan_qian_ning_angelina@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Chia Siang Keng</p></td><td rowspan="1" colspan="1"><p>chia_siang_keng@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Corporate Support Office</p></td><td rowspan="1" colspan="1"><p>Mdm Vasundara Devi</p></td><td rowspan="1" colspan="1"><p>vasundara_devi@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>Ms Asiah Bibi Binte Ali</p></td><td rowspan="1" colspan="1"><p>asiah_bibi_ali@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Office</p></td><td rowspan="1" colspan="1"><p>Mr Muhd Fuad</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mr Jahroni Karadi</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Letchimi</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Saeyah</p></td><td rowspan="1" colspan="1"><p>saeyah_iksan@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Science Lab Assistant</p></td><td rowspan="1" colspan="1"><p>Ms Marsytha</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Librarian</p></td><td rowspan="1" colspan="1"><p>Ms Amy Ng</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Senior School Counsellor</p></td><td rowspan="1" colspan="1"><p>Mr Desmond Liew</p></td><td rowspan="1" colspan="1"><p>liew_shuh_onn@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Part-time School Counsellor</p></td><td rowspan="1" colspan="1"><p>Mdm Chan Chee Har</p></td><td rowspan="1" colspan="1"><p>chan_chee_har@acsp.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
