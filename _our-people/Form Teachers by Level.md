@@ -4,7 +4,6 @@ permalink: /our-people/form-teachers-by-level/
 description: ""
 variant: markdown
 ---
-
 ##### **Primary 1**
 
 
