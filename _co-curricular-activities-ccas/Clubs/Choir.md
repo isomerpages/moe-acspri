@@ -33,12 +33,7 @@ The Choir members have also been involved in projects such as the collaboration 
 * International Choral Festival Choir Performance (2019)
 * Singapore Youth Festival Arts Presentation for Choir (Primary School Level) (2022)
 
-#### **Past Accolades**
 
-* ACS Golf Challenge (2014)
-* Combined Choir Concert (ACS Independent and ACS (BR) (2014)
-* National Day Performance (SG50) - Moulmein-Kallang GRC (2015)
-* Methodist Get-together (2015)
 
 ![](/images/acs%20choir.jpg)
 
