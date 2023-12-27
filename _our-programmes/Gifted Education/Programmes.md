@@ -17,7 +17,9 @@ variant: markdown
 
 *   Listening, Reading and Viewing (Receptive Skills)
 *   Speaking, Writing and Representing (Productive Skills)
-*   Grammar and Vocabulary (Knowledge about Language)   
+*   Grammar and Vocabulary (Knowledge about Language)
+
+
 ##### **Listening, Reading and Viewing**
 We give our pupils opportunities for extensive reading and viewing to build general knowledge and to help them become fluent, independent readers.
 
