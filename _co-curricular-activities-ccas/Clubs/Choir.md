@@ -13,7 +13,6 @@ variant: markdown
 | -------- | -------- | 
 |Mrs Gomathi Ravindra (I/C)| [gomathi_ravindra@moe.edu.sg](mailto:gomathi_ravindra@moe.edu.sg) |
 |Mdm Jasmine Kaur|  [jasmine_kaur@moe.edu.sg](mailto:jasmine_kaur@moe.edu.sg) |
-|Ms Tan Sin Min |[tan_sin_min@moe.edu.sg](mailto:tan_sin_min@moe.edu.sg) 
 |
 
 #### **Schedule**
