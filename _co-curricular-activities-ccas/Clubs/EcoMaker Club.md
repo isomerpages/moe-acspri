@@ -20,6 +20,6 @@ Wednesdays - 02:15pm to 04:15pm
 
 #### **Programme Development**
 
-The theme for of our Science Club this year is ‘Greening in our school’. Our club aims to provide a more outdoor experience to appreciate biodiversity. As Citizen Science, our members would have a chance to get to know the flora and fauna in ACS(P) better by doing extensive survey called Bioblitz. From this survey, we will embark on the ‘Community in Nature’ project where our members will work towards developing certain areas into interesting garden.
+The theme for our EcoMaker Club this year is ‘Greening in Our School’. Our club aims to provide members with an all rounded experience where members explore STEM through experiments in the lab as well as outdoor experiences to appreciate biodiversity. As citizen scientists, members have a chance to learn more about the flora and fauna in ACS(P) as they conduct Bioblitz, an extensive survey initiative by NParks. Members also embarked on the ‘Community in Nature’ project where they worked towards redeveloping certain green areas in the school. 
 
-We hope that the garden would invite other organisms to drop by and make it their habitat. Once this garden is created, the members will learn to take care and as eco-stewards, they will promote awareness to their friends. There will also be opportunities to carry out experiments in this project.
+We hope these changes once finally in place will attract more biodiversity to ACS(P). We are looking forward to the opportunity in future for our members to be eco stewards who will promote awareness of conserving biodiversity.
