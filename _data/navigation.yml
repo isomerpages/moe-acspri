@@ -1,0 +1,14 @@
+logo: /images/ACSP_Logo.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our People
+    collection: our-people
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Our CCAs
+    collection: co-curricular-activities-ccas
+  - title: Our Partners
+    collection: our-partners
+  - title: Contact Us
+    url: https://www.acspri.moe.edu.sg/contact-us/

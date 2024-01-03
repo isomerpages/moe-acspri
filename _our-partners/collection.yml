@@ -1,0 +1,5 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Our Partners.md

@@ -1,0 +1,14 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Foreword.md
+      - Vision, Mission & Values.md
+      - School History/.keep
+      - School History/History of ACS.md
+      - School History/Our School Crest.md
+      - School History/Our School Anthem.md
+      - School History/Gallery.md
+      - The ACS House System.md
+      - Board of Governors.md
+      - Campus Map.md
