@@ -3,20 +3,16 @@ title: Football
 permalink: /our-ccas/sports/football/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-
-
-
 #### **Teachers-In-Charge**
 
 | Name  | Email |
 | -------- | -------- | 
 |Mr Ho Yoong Kian Leon (I/C)|[ho_yoong_kian@moe.edu.sg](mailto:ho_yoong_kian@moe.edu.sg) |
 Miss Ho Hui Xin |[ho_hui_xin@moe.edu.sg](mailto:ho_hui_xin@moe.edu.sg) |
-|Mr Caleb Chua| [caleb_chua@moe.edu.sg](mailto:caleb_chua@moe.edu.sg)|
-|Mr Koh Chaik Khoon| [koh_chaik_khoon@moe.edu.sg](mailto:koh_chaik_khoon@moe.edu.sg)|
-|Mr Low Chong Jian Edwin|[low_chong_jian_edwin@moe.edu.sg](mailto:low_chong_jian_edwin@moe.edu.sg)|
-|Mrs Suja hagan|[suja_a@moe.edu.sg](mailto:anbazhagansuja_a@moe.edu.sg)|
+|Mr Chua Fu Qi| [chua_fu_qi@moe.edu.sg](mailto:chua_fu_qi@moe.edu.sg)|
+|Mr Tiong Sze Chiat| [tiong_sze_chiat@moe.edu.sg](mailto:tiong_sze_chiat@moe.edu.sg)|
 |
 
 #### **Schedule**
