@@ -11,11 +11,10 @@ variant: markdown
 
 | Name | Email|
 | -------- | -------- | 
-|Mr Charles Zhang(I/C)	|[zhang_zong_yang_charles@moe.edu.sg](mailto:zhang_zong_yang_charles@moe.edu.sg)|	
-|Mrs	Geraldine Ortega	|[geraldine_ortega@moe.edu.sg](mailto:geraldine_ortega@moe.edu.sg)|		
-|Mdm	Chan Wai Kin	|[chan_wai_kin@moe.edu.sg](mailto:chan_wai_kin@moe.edu.sg)|		
-|Ms	Jessica Goh 	|[goh_siow_hwee@moe.edu.sg](mailto:goh_siow_hwee@moe.edu.sg)|		
-|	Ms Shanice Toh 	|[lim_wei_tong_shanice@moe.edu.sg](mailto:lim_wei_tong_shanice@moe.edu.sg)|		
+|Mr Charles Zhang (I/C)	|[zhang_zong_yang_charles@moe.edu.sg](mailto:zhang_zong_yang_charles@moe.edu.sg)|	
+|Mrs	Shariza Binte Shari	|[shariza_shari_a@moe.edu.sg](mailto:shariza_shari_a@moe.edu.sg)|		
+|Mdm	Foo Ting Ting	|[foo_ting_ting@moe.edu.sg](mailto:foo_ting_ting@moe.edu.sg)	
+|	
 
 #### **Schedule**
 
