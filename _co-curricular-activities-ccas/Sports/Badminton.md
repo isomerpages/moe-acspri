@@ -9,11 +9,11 @@ variant: markdown
 
 | Name | Email|
 | -------- | -------- | 
-|Mdm Jovina Tan (I/C)	|[jovina_tan_chai_hong@moe.edu.sg](mailto:jovina_tan_chai_hong@moe.edu.sg)|		
-| Mdm Siti Karmila 	|[siti_karmila_abu@moe.edu.sg](mailto:siti_karmila_abu@moe.edu.sg)|		
+|Ms Jeannie Yeo (I/C)	|[yeo_mui_cheng_jeannie@moe.edu.sg](mailto:yeo_mui_cheng_jeannie@moe.edu.sg)|		
+|Mr Tan Yew Chai 	|[tan_yew_chai@moe.edu.sg](mailto:tan_yew_chai@moe.edu.sg)|		
 |Ms Aubrey Ong	|[ong_pei_khim_aubrey@moe.edu.sg](mailto:ong_pei_khim_aubrey@moe.edu.sg)|		
-|Mdm Jessica Lai Kit Mun	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
-|Ms  An Ruiying	|[an_ruiying@moe.edu.sg](mailto:an_ruiying@moe.edu.sg)|	
+|Ms Jessica Lai Kit Mun	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
+|Mrs Zahara Osman	|[zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)|	
 |
 
 
@@ -39,4 +39,3 @@ The achievements of our school teams have always inspired the boys in the Recrea
 ![](/images/badminton%203.jpg)
 
 ![](/images/badminton%202.jpg)
-
