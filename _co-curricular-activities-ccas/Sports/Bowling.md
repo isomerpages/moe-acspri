@@ -9,7 +9,7 @@ variant: markdown
 
 | Name | Email|
 |---|---|
-|Ms Tan Bee Po (I/C) | [tan_bee_po@moe.edu.sg](mailto:tan_bee_po@moe.edu.sg)   |
+|Mrs Norhayati Bte Harun (I/C) | [norharyati_harun@moe.edu.sg](mailto:norharyati_harun@moe.edu.sg)   |
 |Miss Ngoh Gek Luan | [ngoh_gek_luan@moe.edu.sg](mailto:goh_gek_luan@moe.edu.sg)  |
 |
 
