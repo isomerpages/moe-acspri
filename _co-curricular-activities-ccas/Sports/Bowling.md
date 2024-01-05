@@ -9,8 +9,10 @@ variant: markdown
 
 | Name | Email|
 |---|---|
-|Mrs Norhayati Bte Harun (I/C) | [norharyati_harun@moe.edu.sg](mailto:norharyati_harun@moe.edu.sg)   |
-|Miss Ngoh Gek Luan | [ngoh_gek_luan@moe.edu.sg](mailto:goh_gek_luan@moe.edu.sg)  |
+|Mrs Hussain Farisa (I/C) | [farisa_begame_abdul_salam@moe.edu.sg](mailto:farisa_begame_abdul_salam@moe.edu.sg)   |
+|Ms Elizabeth Ee | [ee_li_hua_elizabeth@moe.edu.sg](mailto:ee_li_hua_elizabeth@moe.edu.sg)  |
+|Mdm Bavani d/o Balasubarammany | [bavani_balasubarammany@moe.edu.sg](mailto:bavani_balasubarammany@moe.edu.sg)  |
+|Mr Chow Kai Loon | [chow_kai_loon@moe.edu.sg](mailto:chow_kai_loon@moe.edu.sg)  |
 |
 
 ##### **Schedule**
