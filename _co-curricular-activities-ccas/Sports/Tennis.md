@@ -12,11 +12,9 @@ variant: markdown
 
 | Name | Email|
 | -------- | -------- | 
-|Miss	Mazeedah Azmi (I/C)	|[mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg)|		
+|	Mr Stanley Yeo Hwee Meng (I/C)	|[yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg)|
+|Miss	Mazeedah Azmi 	|[mazeedah_mohamed_azmi@moe.edu.sg](mailto:mazeedah_mohamed_azmi@moe.edu.sg)|		
 |Mdm	Renuka Devi Windersalam |[windersalam_renuka_devi@moe.edu.sg](mailto:windersalam_renuka_devi@moe.edu.sg)|		
-|Mdm	Zahara Osman|[zahara_osman@moe.edu.sg](mailto:zahara_osman@moe.edu.sg)|		
-|	Mdm Wong Mei Kuen |[wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg)|		
-|	Mr Stanley Yeo Hwee Meng	|[yeo_hwee_meng_stanley@moe.edu.sg](mailto:yeo_hwee_meng_stanley@moe.edu.sg)|
 |
 
 #### **Schedule**
