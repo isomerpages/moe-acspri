@@ -9,10 +9,10 @@ variant: markdown
 
 | Name | Email|
 | -------- | -------- | 
-|Miss	Ho Yong Ying (I/C)	|[ho_yong_ying@moe.edu.sg](mailto:ho_yong_ying@moe.edu.sg)|		
-|Ms Siti Masyita Bte Mohd Ali 	|[siti_masyita_mohammad_ali@moe.edu.sg](mailto:siti_masyita_mohammad_ali@moe.edu.sg)|		
-|	Mr Tan Yew Chai	|[tan_yew_chai@moe.edu.sg](mailto:tan_yew_chai@moe.edu.sg)|		
-|	Ms Chan Wai Ying, Elyse 	|[chan_wai_ying@moe.edu.sg](mailto:chan_wai_ying@moe.edu.sg)|
+|	Ms Chan Wai Ying, Elyse (I/C) |[chan_wai_ying@moe.edu.sg](mailto:chan_wai_ying@moe.edu.sg)
+| Ms Suja Anbazhagan 	|[anbazhagansuja@moe.edu.sg](mailto:anbazhagansuja@moe.edu.sg)|		
+|	Mrs Shanice Toh	|[lim_wei_tong_shanice@moe.edu.sg](mailto:lim_wei_tong_shanice@moe.edu.sg)|		
+|
 
 #### **Schedule**
 
