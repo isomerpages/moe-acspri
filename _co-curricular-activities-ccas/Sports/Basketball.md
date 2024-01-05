@@ -12,7 +12,7 @@ variant: markdown
 |	Mdm Chan Soo Ping (I/C)	|[chan_soo_ping@moe.edu.sg](mailto:chan_soo_ping@moe.edu.sg)|
 |	Mdm Sarah Su 	|[su_xinhui_sarah@moe.edu.sg](mailto:su_xinhui_sarah@moe.edu.sg)|		
 |Mdm	Jenn Ang Weihermueller	|[jenn_ang@moe.edu.sg](mailto:jenn_ang@moe.edu.sg)|		
-|	Mdm Jeannie Yeo 	|[yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg)|	
+|	Mr Caleb Chua 	|[caleb_chua@moe.edu.sg](mailto:caleb_chua@moe.edu.sg)|	
 |	Ms Tan Siow Hwee 	|[tan_siow_hwee@moe.edu.sg](mailto:tan_siow_hwee@moe.edu.sg)|		
 |	
 
