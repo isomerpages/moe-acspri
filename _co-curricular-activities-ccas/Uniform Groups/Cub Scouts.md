@@ -9,9 +9,8 @@ variant: markdown
 
 | Name | Email |
 |---|---|
-|   Mdm Loh Su Hian (I/C)  | [loh_su_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg)  |
-|	Mr Koh Chaik Khoon	|[koh_chaik_khoon@moe.edu.sg](mailto:koh_chaik_khoon@moe.edu.sg)|		
-|   Mdm Chiew Hwee Ling |     [chiew_hwee_ling@moe.edu.sg](mailto:chiew_hwee_ling@moe.edu.sg) |
+| Mdm Loh Su Hian (I/C)  | [loh_su_hian@moe.edu.sg](mailto:loh_su_hian@moe.edu.sg)  |
+|	Mr Low Chong Jian Edwin	|[low_chong_jian_edwin@moe.edu.sg](mailto:low_chong_jian_edwin@moe.edu.sg)|		
 |
 
 ##### **Schedule**
