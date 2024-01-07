@@ -9,9 +9,10 @@ variant: markdown
 
  | Name | Email |
  | -------- | -------- |
-|Ms Ho Lim Hwei (I/C)|[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
-|Mdm Punitha Kasipandy |[punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)|
+|Mdm Punitha Kasipandy (I/C)|[punitha_kasipandy@moe.edu.sg](mailto:punitha_kasipandy@moe.edu.sg)|
+|Ms Ho Lim Hwei |[ho_lim_hwei@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
 |Ms Woon Yuet Meng |[woon_yuet_meng@moe.edu.sg](mailto:woon_yuet_meng@moe.edu.sg)|
+|Mdm Chiew Hwee Ling|[chiew_hwee_ling@moe.edu.sg](mailto:ho_lim_hwei@moe.edu.sg)|
 |
 
 #### **Schedule**
