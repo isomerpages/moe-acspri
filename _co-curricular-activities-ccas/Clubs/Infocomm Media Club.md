@@ -9,8 +9,7 @@ variant: markdown
 
  | Name | Email |
  | -------- | -------- |
-|	Mdm Najuma Banu (I/C)	|[najuma_banu@moe.edu.sg](mailto:najuma_banu@moe.edu.sg)|	
-|	Mrs Gladys Lim 	|[ng_siew_may_gladys@moe.edu.sg](mailto:ng_siew_may_gladys@moe.edu.sg)|		
+|	Mr Koh Chaik Khoon (I/C)	|[koh_chaik_khoon@moe.edu.sg](mailto:koh_chaik_khoon@moe.edu.sg)|	
 |
 
 #### **Schedule**
