@@ -10,9 +10,10 @@ variant: markdown
 
  | Name | Email |
  | -------- | -------- |
-|	Mrs Dawn Wee (I/C)	|[wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg)|		
-|	Mdm Li Chunju 	|[li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg)|		
-|	Mdm Leong Lilian 	|[leong_lilian@moe.edu.sg](mailto:leong_lilian@moe.edu.sg)|		
+|	Mdm Li Chunju (I/C) 	|[li_chunju@moe.edu.sg](mailto:li_chunju@moe.edu.sg)|		
+|	Mrs Dawn Wee |[wong_seow_seah_dawn@moe.edu.sg](mailto:wong_seow_seah_dawn@moe.edu.sg)|		
+|	Mdm Zhou Lingyu 	|[zhou_lingyu@moe.edu.sg](mailto:zhou_lingyu@moe.edu.sg)|
+|	Mdm Wong Mei Kuen 	|[wong_mei_kuen@moe.edu.sg](mailto:wong_mei_kuen@moe.edu.sg)|
 |
 
 
