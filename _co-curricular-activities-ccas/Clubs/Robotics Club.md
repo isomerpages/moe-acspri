@@ -1,6 +1,6 @@
 ---
 title: Robotics Club
-permalink: /co-curricular-activities-ccas/clubs/permalink/
+permalink: /our-ccasclubs/robotics-club/
 description: ""
 third_nav_title: Clubs
 variant: markdown
@@ -12,9 +12,9 @@ variant: markdown
 |Mdm Tan Yoke Joo (I/C)	|[tan_yoke_joo@moe.edu.sg](mailto:tan_yoke_joo@moe.edu.sg)|		
 |Mr Vijayakumaran Govindasamy	|[vijayakumaran_govindasamy@moe.edu.sg](mailto:vijayakumaran_govindasamy@moe.edu.sg)|
 |Mrs	Neo Lin Li 	|[tan_lin_li@moe.edu.sg](mailto:tan_lin_li@moe.edu.sg)|	
-|Ms Lu Youge 	|[lu_youge@moe.edu.sg](mailto:lu_youge@moe.edu.sg)|	
-|Ms Patricia Lim	|[natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)|		
-|Ms Koay Guimei|[he_guimei@moe.edu.sg](mailto:he_guimei@moe.edu.sg)
+|Mdm Natasha Patricia Lim Hwee Cheng 	|[natasha_patricia_lim@moe.edu.sg](mailto:natasha_patricia_lim@moe.edu.sg)|	
+|Mdm Vasanthi d/o Arumugam	|[vasanthi_arumugam@moe.edu.sg](mailto:vasanthi_arumugam@moe.edu.sg)|		
+|Ms Lu Youge|[lu_youge@moe.edu.sg](mailto:he_guimei@moe.edu.sg)
 |
 
 

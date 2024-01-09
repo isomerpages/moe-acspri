@@ -1,6 +1,6 @@
 ---
 title: Public Address Club
-permalink: /co-curricular-activities-ccas/clubs/permalink/
+permalink: /our-ccas/clubs/public-address-club/
 description: ""
 third_nav_title: Clubs
 variant: markdown

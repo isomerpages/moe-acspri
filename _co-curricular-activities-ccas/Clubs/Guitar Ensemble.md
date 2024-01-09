@@ -11,7 +11,6 @@ variant: markdown
 |---|---|---|
 Mdm Sri Dewi (I/C) |[sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg)|
 | Mdm Jasmine Ong | [ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg)|
-|Mrs Janis Pavia | [lau_kah_ling_janis@moe.edu.sg](mailto:lau_kah_ling_janis@moe.edu.sg)|
 |
 
    
