@@ -25,7 +25,7 @@ L: Loyalty
       font-size:24px
     }
   </style>
-<span class="highlight">i</span>ntegrity<br>
+<span class="highlight">*i* </span>ntegrity<br>
 <span class="highlight">H</span>umility <br>
 <span class="highlight">O</span>bedience<br>
 <span class="highlight">P</span>erseverance <br> 
