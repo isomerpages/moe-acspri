@@ -9,7 +9,7 @@ variant: markdown
 
 | Name | Email|
 | -------- | -------- | 
-|Ms Jeannie Yeo (I/C)	|[yeo_mui_cheng_jeannie@moe.edu.sg](mailto:yeo_mui_cheng_jeannie@moe.edu.sg)|		
+|Ms Jeannie Yeo (I/C)	|[yeo_mui_chng_jeannie@moe.edu.sg](mailto:yeo_mui_chng_jeannie@moe.edu.sg)|		
 |Mr Tan Yew Chai 	|[tan_yew_chai@moe.edu.sg](mailto:tan_yew_chai@moe.edu.sg)|		
 |Ms Aubrey Ong	|[ong_pei_khim_aubrey@moe.edu.sg](mailto:ong_pei_khim_aubrey@moe.edu.sg)|		
 |Ms Jessica Lai Kit Mun	|[jessica_lai_kit_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg)|		
