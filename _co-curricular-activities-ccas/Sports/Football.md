@@ -17,11 +17,9 @@ Miss Ho Hui Xin |[ho_hui_xin@moe.edu.sg](mailto:ho_hui_xin@moe.edu.sg) |
 
 #### **Schedule**
 
-###### School Team P4 to P6  
-Mondays, 02.15 p.m. – 04.15 p.m. <br> Futsal court at ACS Barker.
 
-###### School Team P3 to P6  
-Wednesdays, 03.00 p.m. – 05.00 p.m. <br> Centaurs Sports Park (200 Turf Club Rd, Singapore 287994)
+##### School Team P3 to P6  
+Wednesdays, 03.00 p.m. – 05.00 p.m. <br> 
 
 #### **Programme/ Development**
 
