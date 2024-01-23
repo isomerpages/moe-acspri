@@ -6,9 +6,6 @@ third_nav_title: Sports
 variant: markdown
 ---
 
-
-![](/images/CCA_photos/Sport.jpg)
-
 #### **Teachers in Charge**
 
 | Name | Email|
