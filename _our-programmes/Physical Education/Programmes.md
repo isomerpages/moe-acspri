@@ -17,20 +17,8 @@ The aim of the PE Department in ACS(P) is to equip all pupils with fundamental m
 
 ##### **Learning for Life Programme (LLP) – Building Character through Swimming**
 
-*   The aim of this programme is for all pupils to achieve at least a bronze award and to learn the skills of flippa ball and kayaking.
-*   All P1 to P5 pupils undergo a 4-sessions and all P6 pupils undergo 8-sessions swimming programme during their PE periods.
-*   In addition, P4 pupils are also taught flippa ball and P5 kayaking lessons.
-
-##### **Learning for Life Programme (LLP) - Building Character through Bowling**
-
-##### Exposure Stage  
-All pupils from P1 to P4 undergo four sessions of mini-bowling during curriculum time. At P2, pupils with bowling potential will be invited to join the Bowling (Development) CCA.
-    
-##### Development Stage
-Pupils who have interest in bowling or have shown bowling potential during mini-bowling lessons may join the Bowling (Development) CCA, which trains every Friday.
-    
-##### Elite Stage  
-Pupils who display greater potential will be invited to join the Bowling (School Team) CCA, which trains every Wednesday and Friday. They will have a chance to represent our school in both National and International bowling tournaments.
+*   The aim of this programme is for all pupils to achieve at least a bronze award.
+*   All P4 to P6 pupils undergo a 8-session swimming programme during their PE periods.
 
 
 #### **Programme for Active Learning (Sports &amp; Games)**
@@ -54,15 +42,11 @@ In this module, students are taught the game of parachute and mini bowling. The 
 
 ### **Events**
 
-**Annual Swim Meet &amp; Games Day**
+**Annual Games Day**
 
-*   The Swim Meet and Games Day is for all pupils from P3 to P6.
-*   These 2 events aim at mass participation and the pupils are encouraged to sign up.
+*    Games Day is for all pupils from P1 to P6.
+*   This event aims at mass participation and the pupils are encouraged to sign up.
 
-**TerrAqua Fest**
-
-*   This is a land-and-water games day for all P1 and P2 pupils with the aim of introducing friendly competition for young children.
-*   All P1 and P2 pupils take part in this event and all participants are awarded a medal.
 
 ### **Useful Links**
 
