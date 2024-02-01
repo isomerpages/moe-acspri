@@ -73,7 +73,7 @@ variant: tiptap
 </table>
 <h4><strong>Schedule</strong></h4>
 <p>School Team and Training Squad</p>
-<p>Every Monday and Wednesdays (school team): 2:15 to 5:15 pm
+<p>Every Monday and Wednesdays (school team) 2:15 to 5:15 pm
 <br>
 </p>
 <h4><strong>Competition</strong></h4>
