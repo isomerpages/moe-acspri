@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
+
+![](/images/CCA_photos/Chess_Club.jpeg)
 #### **Teachers in Charge**
 
 
