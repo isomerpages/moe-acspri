@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Strings_Ensemble.jpeg">
+</div>
+<p></p>
 <h4><strong>Teachers in Charge</strong></h4>
 <table>
 <tbody>
@@ -69,15 +74,10 @@ pieces to our audience.</p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/strings%20ensemble.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/strings%20ensemble%202.jpg">
-</div>
 <p>
 <br>
 </p>
+<p></p>
