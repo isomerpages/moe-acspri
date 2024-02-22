@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+
+![](/images/CCA_photos/Track_and_Field.jpeg)
+
 #### **Teachers in Charge**
 
 | Name | Email|
@@ -41,7 +44,3 @@ National School Games
 * 7th in Junior 1 Medicine Ball Throw(2kg)
 * 8th in Junior 1 Overhand Beanbag Throw
 
-
-![](/images/track_field2.jpg)
-
-![](/images/track_field1.jpg)
