@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
+
+![](/images/CCA_photos/Choir.jpeg)
 #### **Teachers in Charge**
-
-
 
 | Name | Email|
 | -------- | -------- | 
@@ -35,10 +35,3 @@ The Choir members have also been involved in projects such as the collaboration 
 * International Choral Festival Choir Performance (2019)
 * Singapore Youth Festival Arts Presentation for Choir (Primary School Level) (2022)
 
-
-
-![](/images/acs%20choir.jpg)
-
-![](/images/choir%202.jpg)
-
-![](/images/choir%203.jpg)
