@@ -100,20 +100,12 @@ Be The Glory. The Best Is Yet To Be!</p>
 </li>
 <li>
 <p>NSG Badminton Senior Boys 2021&nbsp;– 1st Runner-Up</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/badminton%203.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton%202.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
