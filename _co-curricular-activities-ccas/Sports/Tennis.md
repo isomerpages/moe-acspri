@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-# **Tennis**
+![](/images/CCA_photos/Tennis.jpeg)
 
 
 #### **Teachers in Charge**
@@ -44,8 +44,3 @@ The Tennis CCA takes part in the National School Games (NSG) organised by the Si
 
 * National School Games 2022 Tennis Senior Division (2nd)
 * National School Games 2021 Tennis Senior Division (1st)
-![](/images/tennis4.jpg)
-
-![](/images/tennis%204.jpg)
-
-![](/images/tennis%205.jpg)
