@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Guitar_Ensemble.jpeg">
+</div>
 <h4><strong>Teachers in Charge</strong></h4>
 <table>
 <tbody>
@@ -87,13 +90,5 @@ as well as the prestigious biennial Singapore Youth Festival.</p>
 <p>• SYF AP 2020 (Cancelled due to Covid)</p>
 <p>• SYF AP 2022 (Certificate of Participation as SYF AP for Primary level
 was not benchmarked)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guitar%20ensemble%203.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guitar%20ensemble.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/guitar%20ensemble%202.jpeg">
-</div>
+<p></p>
 <p></p>
