@@ -5,14 +5,10 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-.
+.![](/images/CCA_photos/Swimming.jpeg)
 
 ##### **Teachers in Charge**
-
-
-
-
-| Name  |    Email |
+ |Name  |    Email |
 | -------- |  -------- |
 | Mdm Ida Nonanseh (I/C) | [ida_nonaseh_abdul_rahman@moe.edu.sg](mailto:ida_nonaseh_abdul_rahman@moe.edu.sg) |
  | Mr Richard Goh Teoh Chuan | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg)   |
@@ -34,8 +30,5 @@ For those pupils who wish to progress further, there are opportunities to advanc
 
 We are eager to carry on the tradition and heritage that in ACS, All-Can-Swim, and all pupils be enriched with water survival skills and sound swimming skills for any water sport
 
-
-
-![](/images/swimming1.jpg)
 
 ![](/images/swimming2.jpg)
