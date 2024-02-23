@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Uniform Groups
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Boys_Brigade.jpeg">
+</div>
 <h4><strong>Teachers in Charge</strong></h4>
 <table>
 <tbody>
@@ -85,19 +90,4 @@ Pupils need not be a Christian to join.</p>
 Foundation</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/boys%20brigade%204.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/boys%20brigade%203.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/boys%20brigade%205.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/boys%20brigade%206.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/boys%20brigade.jpg">
-</div>
 <p></p>
