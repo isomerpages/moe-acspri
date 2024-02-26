@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-
 ![](/images/CCA_photos/Chess_Club.jpeg)
 #### **Teachers in Charge**
 
@@ -36,9 +35,3 @@ CCA members meet on Wednesdays to learn the rules of the game and different stra
 
 * The U9&nbsp; and U11 teams secured 3rd place in South Zone while the Open Category team came in 1st in South Zone.
  
-![](/images/chess%20club.jpg)
-
-![](/images/chess%20club%202.jpg)
-
-
-![](/images/chess%20club%203.jpg)
