@@ -14,7 +14,7 @@ variant: markdown
  | Mr Richard Goh Teoh Chuan | [goh_teoh_chuan@moe.edu.sg](mailto:goh_teoh_chuan@moe.edu.sg)   |
 | Mr Chhoa Kok Kheng | [chhoa_kok_kheng@moe.edu.sg](mailto:chhoa_kok_kheng@moe.edu.sg) |
 | Mr Aravinthan s/o Karuppiah| [aravinthan_a_karuppiah@moe.edu.sg](mailto:aranvinthan_a_karuppiah@moe.edu.sg) |
-|
+
 
 ##### **Schedule**
 Mondays & Wednesdays, 2.15 p.m. - 4.15 p.m., ACS(P) Shaw Pool
