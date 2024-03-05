@@ -3,10 +3,10 @@ title: Others
 permalink: /cognitive/mother-tongue/tamil/others/
 description: ""
 third_nav_title: Tamil
+variant: markdown
 ---
 ### **Others**
-**IMTL Login:**<br>
-[https://imtl.sg/login/index.php](https://imtl.sg/login/index.php)  
+
   
 **Uma Paluvar Tamil Language Centre (UPTLC):**<br>  [http://www.uptlc.moe.edu.sg/](http://www.uptlc.moe.edu.sg/)  
   
