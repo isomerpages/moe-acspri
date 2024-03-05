@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+![](/images/CCA_photos/Basketball_ACS.jpg)
+
 #### **Teachers in Charge**
 
 | Name | Email|
@@ -49,7 +51,5 @@ Every year, we will send a team of Senior Division and a team of junior division
 
 * 2022 NSG South Zone Junior Boys Division&nbsp; - second placing in Tier 1 grouping
 
-
-![](/images/basketball%202.jpg)
 
 ![](/images/basketball%204.jpg)

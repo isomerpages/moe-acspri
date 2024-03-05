@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+
 #### **Teacher in Charge**
-
-
 
 | Name | Email|
 | -------- | -------- | 

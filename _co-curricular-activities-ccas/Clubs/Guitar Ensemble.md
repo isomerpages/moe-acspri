@@ -3,47 +3,92 @@ title: Guitar Ensemble
 permalink: /our-ccas/clubs/guitar-ensemble/
 description: ""
 third_nav_title: Clubs
-variant: markdown
+variant: tiptap
 ---
-#### **Teachers in Charge**
-
-| Name |     Email  |      |
-|---|---|---|
-Mdm Sri Dewi (I/C) |[sri_dewi_mohamed_hashim@moe.edu.sg](mailto:sri_dewi_mohamed_hashim@moe.edu.sg)|
-| Mdm Jasmine Ong | [ong_cui_yun@moe.edu.sg](mailto:ong_cui_yun@moe.edu.sg)|
-|
-
-   
-
-#### **Schedule**
-
-Mondays - 02:15pm to 04:15pm<br>
-ACS(P) Band Room
-
-#### **Programme Development**
-
-Our Guitar Ensemble comprises two groups: the beginners and the grand ensemble seniors. Our objective is to build on music fundamentals, learn guitar techniques and perform as an ensemble. We aim to play modern-day popular tunes on the classical guitar to create music that is exciting and contemporary.
-
-Our students will start in the beginners’ group, learning the fundamentals of guitar playing such as basic music notation, counting rhythms and plucking as well as strumming. Upon successful completion, they will progress to the grand ensemble group where they learn to play more advanced techniques such as Tremelo, Harmonics and Pizzicato. We hope to ignite their interest and develop them to be confident guitar performers. They will be given opportunities to perform in school-based events such as the Honours Day as well as the prestigious biennial Singapore Youth Festival.
-
-#### **Competition**
-
-* Singapore Youth Festival Arts Presentation (SYF AP)
-
-#### **Past Accolades**
-
-SYF AP 2016 (Distinction Award)&nbsp;
-
-• SYF AP 2018 (Certificate of Accomplishment)&nbsp;&nbsp;
-
-• SYF AP 2020 (Cancelled due to Covid)
-
-• SYF AP 2022 (Certificate of Participation as SYF AP for Primary level was not benchmarked)
-
-
-
-![](/images/guitar%20ensemble%203.jpeg)
-
-![](/images/guitar%20ensemble.jpeg)
-
-![](/images/guitar%20ensemble%202.jpeg)
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Guitar_Ensemble.jpeg">
+</div>
+<h4><strong>Teachers in Charge</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sri Dewi (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sri_dewi_mohamed_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jasmine Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_cui_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cui_yun@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Schedule</strong></h4>
+<p>Mondays - 02:15pm to 04:15pm
+<br>ACS(P) Band Room</p>
+<h4><strong>Programme Development</strong></h4>
+<p>Our Guitar Ensemble comprises two groups: the beginners and the grand
+ensemble seniors. Our objective is to build on music fundamentals, learn
+guitar techniques and perform as an ensemble. We aim to play modern-day
+popular tunes on the classical guitar to create music that is exciting
+and contemporary.</p>
+<p>Our students will start in the beginners’ group, learning the fundamentals
+of guitar playing such as basic music notation, counting rhythms and plucking
+as well as strumming. Upon successful completion, they will progress to
+the grand ensemble group where they learn to play more advanced techniques
+such as Tremelo, Harmonics and Pizzicato. We hope to ignite their interest
+and develop them to be confident guitar performers. They will be given
+opportunities to perform in school-based events such as the Honours Day
+as well as the prestigious biennial Singapore Youth Festival.</p>
+<h4><strong>Competition</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival Arts Presentation (SYF AP)</p>
+</li>
+</ul>
+<h4><strong>Past Accolades</strong></h4>
+<p>SYF AP 2016 (Distinction Award)&nbsp;</p>
+<p>• SYF AP 2018 (Certificate of Accomplishment)&nbsp;&nbsp;</p>
+<p>• SYF AP 2020 (Cancelled due to Covid)</p>
+<p>• SYF AP 2022 (Certificate of Participation as SYF AP for Primary level
+was not benchmarked)</p>
+<p></p>
+<p></p>

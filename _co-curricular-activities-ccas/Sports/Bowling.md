@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+![](/images/CCA_photos/Bowling_ACS.jpg)
+
 ##### **Teacher in Charge**
 
 | Name | Email|
@@ -39,5 +41,3 @@ Wednesdays, 2.30 p.m. – 4.30 p.m. SAFRA (Toa Payoh)
 ![](/images/bowling1.jpg)
 
 ![](/images/bowling2.jpg)
-
-![](/images/bowling3.jpg)

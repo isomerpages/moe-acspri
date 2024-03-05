@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+
+![](/images/CCA_photos/Rugby.jpeg)
 ##### **Teachers in Charge**
-
-
-
 | Name | Email | 
 | -------- | -------- | 
 | Mr Ho Shin Hoo (I/C) | [ho_shin_hoo@moe.edu.sg](mailto:ho_shin_hoo@moe.edu.sg) |

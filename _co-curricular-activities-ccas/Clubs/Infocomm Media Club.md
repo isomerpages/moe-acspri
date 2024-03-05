@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-#### **Teachers in Charge**
+
+
+![](/images/CCA_photos/InfoComm_Media_Club.jpeg)#### **Teachers in Charge**
 
  | Name | Email |
  | -------- | -------- |
@@ -41,8 +43,3 @@ Wednesdays - 02:15pm to 04:15pm
 * 7th National Primary School Photography Competition – Merit Award
 
 * 8th&nbsp; National Primary School Photography Competition – Merit Award
-
-
-![](/images/digital%20media%20&amp;%20design%20club%20pic%201.jpeg)
-
-![](/images/digital%20media%20&amp;%20design%20club%20pic%202.jpeg)
