@@ -34,4 +34,3 @@ CCA members meet on Wednesdays to learn the rules of the game and different stra
 * National Inter-School Team Chess Championships 2022
 
 * The U9&nbsp; and U11 teams secured 3rd place in South Zone while the Open Category team came in 1st in South Zone.
- 
