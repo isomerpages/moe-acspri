@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Eco_Maker_CCA.jpg">
+</div>
+<p></p>
 <h4><strong>Teachers in Charge</strong></h4>
 <table>
 <tbody>
