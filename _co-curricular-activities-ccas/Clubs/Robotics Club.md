@@ -8,9 +8,8 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Robotics_Club.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Robotic__3_.jpg">
 </div>
-<p></p>
 <h4><strong>Teachers in Charge</strong></h4>
 <table>
 <tbody>
