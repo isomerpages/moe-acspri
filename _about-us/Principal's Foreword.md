@@ -4,7 +4,7 @@ permalink: /about-us/principal-foreword/
 description: ""
 variant: tiptap
 ---
-<h3>No Part Too Small &amp; No One, Insignificant  </h3>
+<h3>No Part Too Small &amp; No One, Insignificant</h3>
 <p></p>
 <p>&nbsp;If one part suffers, every part suffers with it; if one part is
 honored, every part rejoices with it –1 Corinthians 12:26 (NIV)</p>
