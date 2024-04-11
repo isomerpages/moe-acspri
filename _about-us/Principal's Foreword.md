@@ -10,7 +10,7 @@ variant: tiptap
 honored, every part rejoices with it –1 Corinthians 12:26 (NIV)</p>
 <p>&nbsp;Have you ever stubbed your pinky toe? I stubbed mine against a doorframe
 just last year. The jolt of pain was excruciating. I could not walk properly
-forweeks and had to rely on comfortable footwear to accommodate my injured
+for weeks and had to rely on comfortable footwear to accommodate my injured
 toe.</p>
 <p>&nbsp;The incident made me appreciate much more how five toes are needed
 on each foot to stand, walk or run. While the big toe is the most important
