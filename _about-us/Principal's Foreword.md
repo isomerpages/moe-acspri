@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <p>&nbsp;If one part suffers, every part suffers with it; if one part is
 honored, every part rejoices with it –1 Corinthians 12:26 (NIV)</p>
-<p>&nbsp;Have you ever stubbed your pinky toe? I stubbed mine against a doorframe
+<p>Have you ever stubbed your pinky toe? I stubbed mine against a doorframe
 just last year. The jolt of pain was excruciating. I could not walk properly
 for weeks and had to rely on comfortable footwear to accommodate my injured
 toe.</p>
