@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Character & Citizenship
 variant: markdown
 ---
-
 #### **1) NE Commemorative Days**
 
 ##### **Total Defence Day**
@@ -18,7 +17,8 @@ IFD is commemorated in schools on the 3rd Friday of Term 2 that is a working day
 On 21 July each year, schools in Singapore commemorate Racial Harmony Day (RHD) to mark the anniversary of the 1964 racial riots. On this day, students will reflect on and celebrate Singapore as a harmonious society built on a rich diversity of cultures.
 
 ##### **National Day**
-National Day marks our Separation from Malaysia, and our emergence as an independent country in the community of nations. Since 1998, a National Day Ceremony was introduced in schools. This Ceremony aims to bring to the students a greater sense of the historical importance and solemnity of National Day. Schools conduct a&nbsp;**15-minute National Day Ceremony**&nbsp;which is more formal than the festivities that schools usually organise.<br>[http://www.ne.edu.sg/core\_events.htm](http://www.ne.edu.sg/core_events.htm)
+National Day marks our Separation from Malaysia, and our emergence as an independent country in the community of nations. Since 1998, a National Day Ceremony was introduced in schools. This Ceremony aims to bring to the students a greater sense of the historical importance and solemnity of National Day. Schools conduct a&nbsp;**15-minute National Day Ceremony**&nbsp;which is more formal than the festivities that schools usually organise.<br>
+
 
 #### **2) Lead-up activities**
 In ACS(P), we commemorate NE Commerative Days by having lead-up activities to explicitly teach the pupils and do activities about the event. These activities are tied to our iHOPEFUL values and CCE learning outcomes. We provide pupils not only with skills and knowledge for the future, but with the values and attitudes to be good citizens, conscious of their responsibilities to family, community and country. We believe our pupils must learn the facts of how we became a nation, why our constraints and vulnerabilities make us different from other countries and why we must continue to work together and outperform others to succeed in future.
