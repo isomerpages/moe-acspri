@@ -30,9 +30,6 @@ variant: markdown
 ##### [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 
 
-##### [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
-
-
 ##### [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
 
