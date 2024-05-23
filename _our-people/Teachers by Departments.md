@@ -902,7 +902,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -937,6 +937,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_jumadi_jamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_jumadi_jamaludin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Elton Lim Zhan Kuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_zhan_kuan_elton@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zhan_kuan_elton@moe.edu.sg</a>
 </p>
 </td>
 </tr>
