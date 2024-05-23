@@ -863,7 +863,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -880,6 +880,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_yee_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yee_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hu Biying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hu_biying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_biying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
