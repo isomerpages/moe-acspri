@@ -4,7 +4,12 @@ permalink: /our-people/teachers-by-departments/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -429,7 +434,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="11" colspan="1">
 <p>Mathematics Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -473,15 +478,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Richard Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_teoh_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_teoh_chuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
