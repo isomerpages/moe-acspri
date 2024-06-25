@@ -8,65 +8,110 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Bowling_ACS.jpg">
 </div>
-<h5><strong>Teacher in Charge</strong></h5>
-<table>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Hussain Farisa (I/C)</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farisa_begame_abdul_salam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farisa_begame_abdul_salam@moe.edu.sg</a>
+<p><strong>Teachers in Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DAY / TIME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VENUE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DETAILS</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Elizabeth Ee</p>
+<td rowspan="2" colspan="1">
+<p>BOWLING (DEVELOPMENTAL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ee_li_hua_elizabeth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_li_hua_elizabeth@moe.edu.sg</a>
+<p>Mdm Norhayati (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="2" colspan="1">
+<p>WED
+<br>14:30-16:30</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>TPY SAFRA</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Bowling (Development) CCA is set up as a training platform for non-school
+team bowlers. Coaches are hired for the members. Pupils interested in this
+sport may sign up for this CCA. They will undergo a selection trial during
+the first bowling session(if the number exceed our quota). Pupils not selected
+will be channelled to the other CCAs that they have chosen, subject to
+availability. Two-way transport is provided.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bavani d/o Balasubarammany</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
+<p>Ms Ngoh Gek <a rel="noopener noreferrer nofollow" target="_blank">Luan<br>ngoh_gek_luan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chow Kai Loon</p>
+<td rowspan="3" colspan="1">
+<p>BOWLING (SCHOOL TEAM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
+<p>Mr Chow Kai Loon (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="3" colspan="1">
+<p>MON
+<br>14:30-16:30
+<br>
+<br>&nbsp;WED
+<br>14:30-16:60</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>NSG VENUE</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>This CCA is only for existing school team and training squad members who
+have been selected by the school.
+<br>
+<br>Two-way transport is provided for both Monday and Wednesday sessions.
+Coaches are hired for the school team members.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jonathan Lim</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Bavani D/O <a rel="noopener noreferrer nofollow" target="_blank">Balasubarammany<br>bavani_balasubarammany@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>Schedule</strong></h5>
-<p>Wednesdays, 2.30 p.m. – 4.30 p.m., SAFRA (Toa Payoh)</p>
+<p>&nbsp;</p>
 <h4><strong>1. Bowling Development</strong></h4>
 <p>Bowling (Development) CCA is set up as a training platform for non-school
 team bowlers. Pupils who have interest in this sport may sign up for this
