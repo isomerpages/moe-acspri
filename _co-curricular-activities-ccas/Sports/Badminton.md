@@ -89,13 +89,15 @@ have been selected by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aubrey Ong<a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
+<p>Ms Aubrey Ong</p>
+<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chiew Hwee Ling<a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_hwee_ling@moe.edu.sg</u></a>
+<p>Mdm Chiew Hwee Ling</p>
+<p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_hwee_ling@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -124,6 +126,23 @@ depending on the availability of the sports hall.</p>
 <td rowspan="1" colspan="1">
 <p>Mrs Zahara Osman <a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
