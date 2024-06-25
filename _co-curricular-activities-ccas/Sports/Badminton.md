@@ -70,9 +70,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="4" colspan="1">
-<p>MON / 2.15-5.15 p.m.</p>
-<p>
-<br>&nbsp;WED / 2.15 - 5.15 p.m</p>
+<p>MON</p>
+<p>14:15-17:15</p>
+<p>&nbsp;WED</p>
+<p>14.15-17:15</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>ISH</p>
@@ -112,7 +113,8 @@ have been selected by the school.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>WED / 2.15 - 4.15 p.m.</p>
+<p>WED</p>
+<p>14:15-16:15</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>SPORTS HALL</p>
