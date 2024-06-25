@@ -8,54 +8,105 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Choir_Edited.jpg">
 </div>
-<h4><strong>Teachers in Charge</strong></h4>
-<table>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Gomathi Ravindra (I/C)</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gomathi_ravindra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
+<p><strong>Teachers in Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DAY / TIME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VENUE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DETAILS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>CHOIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gomathi Ravindra (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>MON
+<br>4:15 - 16:15</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>L4 MUSIC ROOM</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Pupils interested in joining Choir CCA will need to go through an audition.
+Please e-mail the teacher-in-charge:- <a rel="noopener noreferrer nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasmine Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_kaur@moe.edu.sg</a>
+<p>Mdm Suzanna Hashim<a rel="noopener noreferrer nofollow" target="_blank"><br>suzanna_hashim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Anna Asha Mohan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anna_asha_mohan@moe.edu.sg</a>
+<p>Ms Anna Asha Mohan<a rel="noopener noreferrer nofollow" target="_blank"><br>anna_asha_mohan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Xuesong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_xuesong@moe.edu.sg</a>
+<p>Mdm Li <a rel="noopener noreferrer nofollow" target="_blank">Xuesong<br>li_xuesong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -65,8 +116,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Schedule</strong></h4>
-<p>Mondays - 02:15pm to 04:15pm ACS(P) Music Room (Level 4)</p>
+<p>&nbsp;</p>
 <h4><strong>Programme/ Development</strong></h4>
 <p>During choir sessions at ACS(P), we seek to develop a passion for music-making
 through singing. The objectives of the Choir are to train members to sing
