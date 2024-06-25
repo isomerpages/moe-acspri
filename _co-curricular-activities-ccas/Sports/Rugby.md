@@ -162,9 +162,6 @@ sportsmanship.</p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/rugby3.jpg">
-</div>
 <p>
 <br>
 </p>
