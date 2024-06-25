@@ -67,7 +67,7 @@ availability. Two-way transport is provided.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ngoh Gek <a rel="noopener noreferrer nofollow" target="_blank">Luan<br>ngoh_gek_luan@moe.edu.sg</a>
+<p>Ms Ngoh Gek Luan<a rel="noopener noreferrer nofollow" target="_blank"><br>ngoh_gek_luan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -105,7 +105,8 @@ Coaches are hired for the school team members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bavani D/O <a rel="noopener noreferrer nofollow" target="_blank">Balasubarammany<br>bavani_balasubarammany@moe.edu.sg</a>
+<p>Mdm Bavani D/O Balasubarammany</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
 </p>
 </td>
 </tr>
