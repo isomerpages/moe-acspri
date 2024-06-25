@@ -121,62 +121,6 @@ transport to pick their son up from the school transport centre.</p>
 </table>
 <p></p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chan Wai Ying, Elyse (I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_wai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wai_ying@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Suja Anbazhagan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anbazhagansuja@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anbazhagansuja@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Shanice Toh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_wei_tong_shanice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_tong_shanice@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Schedule</strong></h4>
-<h6>School Team</h6>
-<p>Every Monday, 02:15 pm – 04:15 pm</p>
-<h6>Recreational Team</h6>
-<p>Every Wednesday, 02:15 pm – 04:15 pm</p>
 <h4><strong>Programme/ Development</strong></h4>
 <p>The Track and Field is a sport which consist of various athletics events
 in running, jumping, and throwing. As students learn basic track and field
