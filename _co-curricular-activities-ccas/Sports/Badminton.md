@@ -70,7 +70,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="4" colspan="1">
-<p>MON / 2.15 - 5.15 p.m.
+<p>MON / 2.15-5.15 p.m.</p>
+<p>
 <br>&nbsp;WED / 2.15 - 5.15 p.m</p>
 </td>
 <td rowspan="4" colspan="1">
