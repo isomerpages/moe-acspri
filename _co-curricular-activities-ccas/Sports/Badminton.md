@@ -44,16 +44,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers in Charge</p>
+<p><strong>Teachers in Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DAY / TIME</p>
+<p><strong>DAY / TIME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VENUE</p>
+<p><strong>VENUE</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DETAILS</p>
+<p><strong>DETAILS</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -85,8 +89,7 @@ have been selected by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aubrey Ong</p>
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
+<p>Ms Aubrey Ong<a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
