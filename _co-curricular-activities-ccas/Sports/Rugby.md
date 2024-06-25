@@ -96,31 +96,31 @@ ACS(I) for Saturday trainings. There is no transport provided by the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hu <a rel="noopener noreferrer nofollow" target="_blank">Biying<br>hu_biying@moe.edu.sg</a>
+<p>Ms Hu Biying<a rel="noopener noreferrer nofollow" target="_blank"><br>hu_biying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin <a rel="noopener noreferrer nofollow" target="_blank">Chan<br>kelvin_chan_yong_meng@moe.edu.sg</a>
+<p>Mr Kelvin Chan<a rel="noopener noreferrer nofollow" target="_blank"><br>kelvin_chan_yong_meng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Jia <a rel="noopener noreferrer nofollow" target="_blank">Yee<br>lee_jia_yee_a@moe.edu.sg</a>
+<p>Ms Lee Jia Yee<a rel="noopener noreferrer nofollow" target="_blank"><br>lee_jia_yee_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel <a rel="noopener noreferrer nofollow" target="_blank">Chua<br>chua_hoe_leong@moe.edu.sg</a>
+<p>Mr Daniel Chua<a rel="noopener noreferrer nofollow" target="_blank"><br>chua_hoe_leong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Qin <a rel="noopener noreferrer nofollow" target="_blank">Chunni<br>qin_chunni@moe.edu.sg</a>
+<p>Ms Qin Chunni<a rel="noopener noreferrer nofollow" target="_blank"><br>qin_chunni@moe.edu.sg</a>
 </p>
 </td>
 </tr>
