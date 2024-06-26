@@ -10,18 +10,14 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -45,10 +41,6 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -68,12 +60,6 @@ variant: tiptap
 </td>
 <td rowspan="5" colspan="1">
 <p>ARENA</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>Football CCA Developmental Team is for pupils who love playing football
-and would like to develop their skills and talent for the sport. Members
-have a chance to be selected by the coach into the Provisional Training
-Squad (PTS) in Primary 4.</p>
 </td>
 </tr>
 <tr>
@@ -101,9 +87,6 @@ Squad (PTS) in Primary 4.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
