@@ -55,7 +55,7 @@ variant: tiptap
 <p>14:15 - 16:15</p>
 <p>For all
 <br>
-<br>Mon</p>
+<br>MON</p>
 <p>14:15 - 16:15</p>
 <p>For the competitive group (selected weeks)&nbsp;</p>
 </td>
