@@ -9,18 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Rugby.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -44,10 +40,6 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,22 +57,6 @@ variant: tiptap
 </td>
 <td rowspan="6" colspan="1">
 <p>ACS(I)</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>This training is catered for school team members. Coaches are provided.
-Two-way transport is provided for Wed training. Pupils may opt to take
-the transport back to school or wait for their parents at ACS(I). However,
-the pupils will not be able to go back to school to board the school bus
-as training ends at 5.00&nbsp; Hence, parents need to arrange private transport
-to pick their sons up from the school transport centre after the training.
-Parents must pick up their sons from the venue punctually at 5.00&nbsp;
-if they are not following the bus back to school. Pupils are to make their
-way to ACS(I) for Saturday trainings. There is no transport provided by
-the school.
-<br>
-<br>The rugby enrichment training will be held in ACS(I) on Saturdays. Pupils
-will learn the basic concepts of rugby. Pupils are to make their way to
-ACS(I) for Saturday trainings. There is no transport provided by the school.</p>
 </td>
 </tr>
 <tr>
@@ -114,9 +90,6 @@ ACS(I) for Saturday trainings. There is no transport provided by the school.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
