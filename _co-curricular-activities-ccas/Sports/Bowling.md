@@ -9,18 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Bowling_ACS.jpg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -44,10 +40,6 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,14 +54,6 @@ variant: tiptap
 </td>
 <td rowspan="2" colspan="1">
 <p>TPY SAFRA</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Bowling (Development) CCA is set up as a training platform for non-school
-team bowlers. Coaches are hired for the members. Pupils interested in this
-sport may sign up for this CCA. They will undergo a selection trial during
-the first bowling session(if the number exceed our quota). Pupils not selected
-will be channelled to the other CCAs that they have chosen, subject to
-availability. Two-way transport is provided.</p>
 </td>
 </tr>
 <tr>
@@ -95,13 +79,6 @@ availability. Two-way transport is provided.</p>
 <td rowspan="3" colspan="1">
 <p>NSG VENUE</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>This CCA is only for existing school team and training squad members who
-have been selected by the school.
-<br>
-<br>Two-way transport is provided for both Monday and Wednesday sessions.
-Coaches are hired for the school team members.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,9 +93,6 @@ Coaches are hired for the school team members.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
