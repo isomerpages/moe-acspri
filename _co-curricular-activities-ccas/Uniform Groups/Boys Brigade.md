@@ -22,16 +22,34 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers in Charge</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DAY / TIME</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VENUE</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DETAILS</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers in Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DAY / TIME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VENUE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DETAILS</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +60,7 @@ variant: tiptap
 </td>
 <td rowspan="3" colspan="1">
 <p>WED
-<br>14:15 - 16:15&nbsp;</p>
+<br>14:15-16:15&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>3E, 3F</p>
@@ -66,6 +84,20 @@ to join.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Tai Yao<a rel="noopener noreferrer nofollow" target="_blank"><br>chan_tai_yao@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
