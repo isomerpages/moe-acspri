@@ -47,7 +47,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Mr Daniel Chua (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">chua_hoe_leong@moe.edu.sg</a>
 </p>
@@ -60,30 +60,38 @@ variant: tiptap
 <p>Mr Vijayakumaran Govindasamy<a rel="noopener noreferrer nofollow" target="_blank"><br>vijayakumaran_govindasamy@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="6" colspan="1">
-<p>MON -FRI
-<br>07:10am&nbsp;</p>
+<td rowspan="1" colspan="1">
+<p>MON</p>
+<p>07:10am</p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Student Plaza</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TUE,WED</p>
+<p>07:10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Auditorium</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THU,FRI</p>
+<p>07:10am</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2BLC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="2">
 <p></p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <p>
