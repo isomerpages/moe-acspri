@@ -10,18 +10,14 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -45,10 +41,6 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,12 +54,6 @@ variant: tiptap
 </td>
 <td rowspan="3" colspan="1">
 <p>LEVEL 5 ART ROOM</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>The objectives of the Art Club are :
-<br>&nbsp;(1) To nurture appreciation of Art
-<br>&nbsp;(2) To lay a strong foundation for Art in ACS(P).
-<br>&nbsp;(3) To discover and develop future Artists in the making.</p>
 </td>
 </tr>
 <tr>
@@ -83,9 +69,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
