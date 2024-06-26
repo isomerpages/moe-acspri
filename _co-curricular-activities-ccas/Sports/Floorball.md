@@ -43,9 +43,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mr Charles Zhang (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
+</p>
+<p>Ms Shariza Binte <a rel="noopener noreferrer nofollow" target="_blank">Shari<br>shariza_shari_a@moe.edu.sg</a>
+</p>
+<p>Ms Foo Ting <a rel="noopener noreferrer nofollow" target="_blank">Ting<br>foo_ting_ting@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
@@ -58,18 +62,8 @@ variant: tiptap
 <p>MOVEMENT GYM</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shariza Binte <a rel="noopener noreferrer nofollow" target="_blank">Shari<br>shariza_shari_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Foo Ting <a rel="noopener noreferrer nofollow" target="_blank">Ting<br>foo_ting_ting@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
