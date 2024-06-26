@@ -43,7 +43,7 @@ description: ""
 hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.acsbr.moe.edu.sg/files/formbf7%20-%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Application Form</u></a>
+<p><a href="test" rel="noopener noreferrer nofollow" target="_blank"><u>Application Form</u></a>
 </p>
 </li>
 </ul>
