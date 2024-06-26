@@ -43,9 +43,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Ms Chan Soo Ping (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
+</p>
+<p>Mdm Sarah Su</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
+</p>
+<p>Mr Caleb Chua<a rel="noopener noreferrer nofollow" target="_blank"><br>caleb_chua@moe.edu.sg</a>
+</p>
+<p>Ms Amanda Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>lim_zhi_yan_amanda_b@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
@@ -61,25 +68,9 @@ variant: tiptap
 <p>SPORTS HALL</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarah Su</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Caleb Chua<a rel="noopener noreferrer nofollow" target="_blank"><br>caleb_chua@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Amanda Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>lim_zhi_yan_amanda_b@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
