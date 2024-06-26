@@ -80,7 +80,7 @@ new members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Low Chong Jian <a rel="noopener noreferrer nofollow" target="_blank">Edwin<br>low_chong_jian_edwin@moe.edu.sg</a>
+<p>Mr Low Chong Jian Edwin<a rel="noopener noreferrer nofollow" target="_blank"><br>low_chong_jian_edwin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
