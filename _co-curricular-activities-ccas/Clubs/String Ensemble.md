@@ -43,9 +43,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mdm Wendy Tan (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_poh_yee@moe.edu.sg</a>&nbsp;</p>
+<p>Mdm Hoong Xiu Qin<a rel="noopener noreferrer nofollow" target="_blank"><br>hoong_xiu_qin@moe.edu.sg</a>
+</p>
+<p>Mr Edmund Wu<a rel="noopener noreferrer nofollow" target="_blank"><br>edmund_wu_kok_ming@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>MON
@@ -59,18 +63,8 @@ variant: tiptap
 <p>L2 MUSIC ROOM</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Hoong Xiu Qin<a rel="noopener noreferrer nofollow" target="_blank"><br>hoong_xiu_qin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edmund Wu<a rel="noopener noreferrer nofollow" target="_blank"><br>edmund_wu_kok_ming@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
