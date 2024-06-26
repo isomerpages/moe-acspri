@@ -65,7 +65,7 @@ variant: tiptap
 <p>07:10am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Plaza</p>
+<p>Auditorium</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>07:10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Auditorium</p>
+<p>Student Plaza</p>
 </td>
 </tr>
 <tr>
