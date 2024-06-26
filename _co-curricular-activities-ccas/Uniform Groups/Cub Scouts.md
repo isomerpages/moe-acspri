@@ -44,8 +44,8 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mdm Loh Su Hian (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">loh_su_hian@moe.edu.sg</a>&nbsp;</p>
-<p>Mr Low Chong Jian Edwin<a rel="noopener noreferrer nofollow" target="_blank"><br>low_chong_jian_edwin@moe.edu.sg</a>
+<br><a href="mailto:loh_su_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_su_hian@moe.edu.sg</a>&nbsp;</p>
+<p>Mr Low Chong Jian Edwin<a href="mailto:low_chong_jian_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>low_chong_jian_edwin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">
