@@ -10,18 +10,14 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -45,10 +41,6 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -67,11 +59,6 @@ variant: tiptap
 </td>
 <td rowspan="4" colspan="1">
 <p>SPORTS HALL</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Coaches are hired to train our pupils. Pupils are strongly encouraged
-to learn the basics of the CCA well, take pride and show commitment when
-it comes to training sessions.</p>
 </td>
 </tr>
 <tr>
@@ -94,9 +81,6 @@ it comes to training sessions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
