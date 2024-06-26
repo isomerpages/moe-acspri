@@ -10,56 +10,101 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Strings_Ensemble.jpeg">
 </div>
 <p></p>
-<h4><strong>Teachers in Charge</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Heng Xiu Qin (I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wendy Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_poh_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_yee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edmund Wu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:edmund_wu_kok_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">edmund_wu_kok_ming@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers in Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DAY / TIME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VENUE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DETAILS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wendy Tan (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_poh_yee@moe.edu.sg</a>&nbsp;</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>
+<br>MON
+<br>14:15 - 16:15
+<br>&nbsp;1) Cello &amp; Double Bass
+<br>&nbsp;MON
+<br>14:15 - 16:15
+<br>&nbsp;2) Violin
+<br>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>L2 MUSIC ROOM</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>The String Ensemble seeks to grow our boys' understanding and love for
+ensemble playing.
+<br>
+<br>Only students with prior experience in playing the violin, cello or double
+bass will be accepted.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hoong Xiu <a rel="noopener noreferrer nofollow" target="_blank">Qin<br>hoong_xiu_qin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Edmund <a rel="noopener noreferrer nofollow" target="_blank">Wu<br>edmund_wu_kok_ming@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Schedule</strong></h4>
-<p>Mondays - 02:15pm to 04:15pm</p>
 <h4><strong>Programme Development</strong></h4>
 <p>Our String Ensemble unites passionate string players who enjoy playing
 in an ensemble setting. We have sectional training for pupils playing the
