@@ -13,18 +13,14 @@ variant: tiptap
 <p></p>
 <h4></h4>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -48,10 +44,6 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -68,10 +60,6 @@ variant: tiptap
 </td>
 <td rowspan="4" colspan="1">
 <p>ISH</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>This CCA is only for existing school team and training squad members who
-have been selected by the school.</p>
 </td>
 </tr>
 <tr>
@@ -108,11 +96,6 @@ have been selected by the school.</p>
 <td rowspan="2" colspan="1">
 <p>SPORTS HALL</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Pupils are required to bring their own rackets, shuttlecocks and water
-bottles. The CCA will be held in the sports hall selected Wednesday afternoons,
-depending on the availability of the sports hall.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -121,9 +104,6 @@ depending on the availability of the sports hall.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
