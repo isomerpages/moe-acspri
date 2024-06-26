@@ -9,9 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Bowling_ACS.jpg">
 </div>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -19,10 +18,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
 </p>
@@ -41,9 +36,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>BOWLING (DEVELOPMENTAL)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norhayati (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
@@ -52,6 +44,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>WED
 <br>14:30-16:30</p>
+<p>(DEVELOPMENTAL)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>TPY SAFRA</p>
@@ -72,9 +65,6 @@ availability. Two-way transport is provided.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>BOWLING (SCHOOL TEAM)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Chow Kai Loon (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
@@ -86,6 +76,7 @@ availability. Two-way transport is provided.</p>
 <br>
 <br>&nbsp;WED
 <br>14:30-16:60</p>
+<p>(SCHOOL TEAM)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>NSG VENUE</p>
