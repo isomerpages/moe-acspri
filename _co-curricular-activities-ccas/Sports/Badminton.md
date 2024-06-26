@@ -13,9 +13,8 @@ variant: tiptap
 <p></p>
 <h4></h4>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -35,14 +34,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
 </p>
@@ -61,9 +54,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>BADMINTON (SCHOOL TEAM)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Jeannie Yeo (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
@@ -74,6 +64,7 @@ variant: tiptap
 <p>14:15-17:15</p>
 <p>&nbsp;WED</p>
 <p>14.15-17:15</p>
+<p>(SCHOOL TEAM)</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>ISH</p>
@@ -104,9 +95,6 @@ have been selected by the school.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>BADMINTON (RECREATIONAL)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yew Chai (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
@@ -115,6 +103,7 @@ have been selected by the school.</p>
 <td rowspan="2" colspan="1">
 <p>WED</p>
 <p>14:15-16:15</p>
+<p>(RECREATIONAL)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>SPORTS HALL</p>
@@ -132,9 +121,6 @@ depending on the availability of the sports hall.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
