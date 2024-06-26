@@ -9,9 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Rugby.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -31,15 +30,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
 </p>
@@ -58,9 +50,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
-<p>RUGBY (ENRICHMENT &amp; SCHOOL TEAM)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Ho Shin Hoo (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
@@ -125,9 +114,6 @@ ACS(I) for Saturday trainings. There is no transport provided by the school.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
