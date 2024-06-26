@@ -46,9 +46,9 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mdm Punitha (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">punitha_kasipandy@moe.edu.sg</a>
+<br><a href="mailto:punitha_kasipandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punitha_kasipandy@moe.edu.sg</a>
 </p>
-<p>Ms Woon Yuet Meng<a rel="noopener noreferrer nofollow" target="_blank"><br>woon_yuet_meng@moe.edu.sg</a>
+<p>Ms Woon Yuet Meng<a href="mailto:woon_yuet_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>woon_yuet_meng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">
