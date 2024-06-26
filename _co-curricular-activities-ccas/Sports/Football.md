@@ -75,25 +75,25 @@ Squad (PTS) in Primary 4.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Hui <a rel="noopener noreferrer nofollow" target="_blank">Xin<br>ho_hui_xin@moe.edu.sg</a>
+<p>Ms Ho Hui Xin<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_hui_xin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Xu <a rel="noopener noreferrer nofollow" target="_blank">Jie<br>xu_jie@moe.edu.sg</a>
+<p>Ms Xu Jie<a rel="noopener noreferrer nofollow" target="_blank"><br>xu_jie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jasmine <a rel="noopener noreferrer nofollow" target="_blank">Lim<br>ong_cui_yun@moe.edu.sg</a>
+<p>Mrs Jasmine Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>ong_cui_yun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tiong Sze <a rel="noopener noreferrer nofollow" target="_blank">Chiat<br>tiong_sze_chiat@moe.edu.sg</a>
+<p>Mr Tiong Sze Chiat<a rel="noopener noreferrer nofollow" target="_blank"><br>tiong_sze_chiat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
