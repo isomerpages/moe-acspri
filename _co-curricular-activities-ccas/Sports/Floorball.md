@@ -10,45 +10,91 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Floorball_CCA.jpg">
 </div>
 <p></p>
-<h4><strong>Teacher in Charge</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Charles Zhang (I/C)</p>
+<p><strong>Teachers in Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_zong_yang_charles@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
+<p><strong>DAY / TIME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VENUE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DETAILS</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Shariza Binte Shari</p>
+<p>Mr Charles Zhang (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
+</p>
 </td>
+<td rowspan="3" colspan="1">
+<p>MON
+<br>&nbsp;14:15 - 17:15&nbsp; (Training Squad and School Team)
+<br>&nbsp;WED
+<br>14:15 -17:15 (Developmental Team)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>MOVEMENT GYM</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Coaches are hired for the P3 Developmental Team and P4 Training Squad.
+Students selected to join Floorball CCA will enter direct into their respective
+levels. Attire can be in corporate tee or pe tank top with proper court
+shoes like badminton shoes (not running shoes). P3 optional to have floorball
+stick as it will be provided however P4 students will be encouraged to
+get their own floorball sticks. Pupils who trained hard, have the right
+attitude and passion will move into the school team eventually in P5 and
+P6.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shariza_shari_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariza_shari_a@moe.edu.sg</a>
+<p>Ms Shariza Binte <a rel="noopener noreferrer nofollow" target="_blank">Shari<br>shariza_shari_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Ting Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
+<p>Ms Foo Ting <a rel="noopener noreferrer nofollow" target="_blank">Ting<br>foo_ting_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -58,11 +104,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Schedule</strong></h4>
-<h6>P5 Junior and P6 Senior School Teams</h6>
-<p>Mondays, 02.15 p.m. – 04.15 p.m.</p>
-<h6>P3 Developmental Team and P4 Training Squad</h6>
-<p>Wednesdays, 02.15 p.m. – 04.15 p.m.</p>
+<p>&nbsp;</p>
 <h4><strong>Programme/ Development</strong></h4>
 <p>Floorball trainings are usually conducted every Monday and Wednesday.
 From the time they join the development team, pupils are given the necessary

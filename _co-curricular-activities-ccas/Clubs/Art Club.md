@@ -8,36 +8,87 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Art_Club.jpg">
 </div>
-<h4><strong>Teachers in Charge</strong></h4>
-<table>
+<p></p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jessica Lai Kit Mun (I/C)</p>
+<p><strong>Teachers in Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+<p><strong>DAY / TIME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VENUE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DETAILS</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zubaidah Bte Sheik Mohamed Ishak</p>
+<p>Ms Jessica Lai (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+</p>
 </td>
+<td rowspan="3" colspan="1">
+<p>MON
+<br>14:15 - 16:15</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>LEVEL 5 ART ROOM</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>The objectives of the Art Club are :
+<br>&nbsp;(1) To nurture appreciation of Art
+<br>&nbsp;(2) To lay a strong foundation for Art in ACS(P).
+<br>&nbsp;(3) To discover and develop future Artists in the making.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
+<p>Mdm Jenn Ang<a rel="noopener noreferrer nofollow" target="_blank"><br>jenn_ang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zubaidah<a rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -47,8 +98,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Schedule</strong></h4>
-<p>Mondays - 02:15pm to 04:15pm</p>
+<p>&nbsp;</p>
 <h4><strong>Programme/ Development</strong></h4>
 <p>The Art Club recognises the relevance of art in the lives and development
 of our pupils. Positive learning ensues as activities are planned along

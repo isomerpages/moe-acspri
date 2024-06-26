@@ -11,63 +11,122 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Badminton.jpeg">
 </div>
 <p></p>
-<h4><strong>Teachers in Charge</strong></h4>
-<table>
+<h4></h4>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jeannie Yeo (I/C)</p>
+<p><strong>Teachers in Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_mui_chng_jeannie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
+<p><strong>DAY / TIME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VENUE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DETAILS</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yew Chai</p>
+<p>Ms Jeannie Yeo (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
+</p>
 </td>
+<td rowspan="4" colspan="1">
+<p>MON</p>
+<p>14:15-17:15</p>
+<p>&nbsp;WED</p>
+<p>14.15-17:15</p>
+<p>(SCHOOL TEAM)</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>ISH</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>This CCA is only for existing school team and training squad members who
+have been selected by the school.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
+<p>Ms Jessica Lai <a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Aubrey Ong</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Lai Kit Mun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+<p>Mdm Chiew Hwee Ling</p>
+<p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_hwee_ling@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Zahara Osman</p>
+<p>Mr Tan Yew Chai (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
+</p>
 </td>
+<td rowspan="2" colspan="1">
+<p>WED</p>
+<p>14:15-16:15</p>
+<p>(RECREATIONAL)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>SPORTS HALL</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Pupils are required to bring their own rackets, shuttlecocks and water
+bottles. The CCA will be held in the sports hall selected Wednesday afternoons,
+depending on the availability of the sports hall.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zahara_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahara_osman@moe.edu.sg</a>
+<p>Mrs Zahara Osman <a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -77,11 +136,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Schedule</strong></h4>
-<p>School Team and Training Squad</p>
-<p>Every Monday and Wednesdays (school team) 2:15 to 5:15 pm
-<br>
-</p>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Competition</strong></h4>
 <p>After a two-year hiatus, our Junior Team members were exuberant when they
 took part in the inaugural new format championship. Denson Sjahada Harjanto

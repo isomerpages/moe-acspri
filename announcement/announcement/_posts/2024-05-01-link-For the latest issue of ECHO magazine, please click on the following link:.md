@@ -1,6 +1,6 @@
 ---
 title: "For the latest issue of ECHO magazine, please click on the following link:"
-date: 2023-10-30
+date: 2024-05-01
 layout: link
 description: ""
 image: ""
