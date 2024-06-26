@@ -71,7 +71,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>TUE,WED</p>
-<p>07:10</p>
+<p>07:10am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Plaza</p>
