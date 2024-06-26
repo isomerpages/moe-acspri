@@ -50,7 +50,8 @@ variant: tiptap
 <p>Ms Jeannie Yeo (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
 </p>
-<p>Ms Jessica Lai <a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+<p>Ms Jessica Lai</p>
+<p> <a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
 </p>
 <p>Ms Aubrey Ong</p>
 <p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
@@ -61,7 +62,8 @@ variant: tiptap
 <p>Mr Tan Yew Chai (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
 </p>
-<p>Mrs Zahara Osman <a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
+<p>Mrs Zahara Osman
+<br> <a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
