@@ -49,15 +49,15 @@ variant: tiptap
 <tr>
 <td rowspan="5" colspan="1">
 <p>Mr Daniel Chua (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">chua_hoe_leong@moe.edu.sg</a>
+<br><a href="mailto:chua_hoe_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hoe_leong@moe.edu.sg</a>
 </p>
-<p>Mr Koh Chaik Khoon<a rel="noopener noreferrer nofollow" target="_blank"><br>koh_chaik_khoon@moe.edu.sg</a>
+<p>Mr Koh Chaik Khoon<a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>koh_chaik_khoon@moe.edu.sg</a>
 </p>
-<p>Mr Aravinthan s/o A Karuppiah<a rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
+<p>Mr Aravinthan s/o A Karuppiah<a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
 </p>
-<p>Mdm Sarah Su<a rel="noopener noreferrer nofollow" target="_blank"><br>su_xinhui_sarah@moe.edu.sg</a>
+<p>Mdm Sarah Su<a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>su_xinhui_sarah@moe.edu.sg</a>
 </p>
-<p>Mr Vijayakumaran Govindasamy<a rel="noopener noreferrer nofollow" target="_blank"><br>vijayakumaran_govindasamy@moe.edu.sg</a>
+<p>Mr Vijayakumaran Govindasamy<a href="mailto:vijayakumaran_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>vijayakumaran_govindasamy@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
