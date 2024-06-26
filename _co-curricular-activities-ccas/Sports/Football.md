@@ -10,9 +10,8 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -32,14 +31,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
 </p>
@@ -58,9 +51,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
-<p>FOOTBALL (DEVELOPMENTAL, PROVISIONAL &amp; SCHOOL TEAM)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Leon Ho (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">ho_yoong_kian@moe.edu.sg</a>&nbsp;</p>
@@ -108,9 +98,6 @@ Squad (PTS) in Primary 4.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
