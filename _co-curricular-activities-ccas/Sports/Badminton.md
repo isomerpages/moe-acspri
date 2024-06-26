@@ -46,7 +46,7 @@ variant: tiptap
 <tr>
 <td rowspan="4" colspan="1">
 <p>Ms Jeannie Yeo (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
+<br><a href="mailto:yeo_mui_chng_jeannie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
 </p>
 <p>Ms Jessica Lai</p>
 <p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
@@ -78,8 +78,8 @@ variant: tiptap
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mrs Zahara Osman
-<br><a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
+<p>Mrs Zahara Osman</p>
+<p><a href="mailto:zahara_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahara_osman@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">

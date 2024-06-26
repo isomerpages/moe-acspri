@@ -45,14 +45,14 @@ variant: tiptap
 <tr>
 <td rowspan="4" colspan="1">
 <p>Ms Chan Soo Ping (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
+<br><a href="mailto:chan_soo_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
 </p>
 <p>Mdm Sarah Su</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
+<p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
 </p>
-<p>Mr Caleb Chua<a rel="noopener noreferrer nofollow" target="_blank"><br>caleb_chua@moe.edu.sg</a>
+<p>Mr Caleb Chua<a href="mailto:caleb_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>caleb_chua@moe.edu.sg</a>
 </p>
-<p>Ms Amanda Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>lim_zhi_yan_amanda_b@moe.edu.sg</a>
+<p>Ms Amanda Lim<a href="mailto:lim_zhi_yan_amanda_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>lim_zhi_yan_amanda_b@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">

@@ -48,7 +48,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Sri Dewi (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
+<br><a href="mailto:sri_dewi_mohamed_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

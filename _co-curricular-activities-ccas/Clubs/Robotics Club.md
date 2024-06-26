@@ -47,21 +47,21 @@ variant: tiptap
 <tr>
 <td rowspan="7" colspan="1">
 <p>Mdm Tan Yoke Joo (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
+<br><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
 </p>
-<p>Mr Vijayakumaran<a rel="noopener noreferrer nofollow" target="_blank"><br>vijayakumaran_govindasamy@moe.edu.sg</a>
+<p>Mr Vijayakumaran<a href="mailto:vijayakumaran_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>vijayakumaran_govindasamy@moe.edu.sg</a>
 </p>
 <p>Mrs Neo Lin Li
-<br><a rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
+<br><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
 </p>
 <p>Ms Natasha Patricia Lim Hwee Cheng
-<br><a rel="noopener noreferrer nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
+<br><a href="mailto:natasha_patricia_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
 </p>
-<p>Mdm Renuka<a rel="noopener noreferrer nofollow" target="_blank"><br>windersalam_renuka_devi@moe.edu.sg</a>
+<p>Mdm Renuka<a href="mailto:windersalam_renuka_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>windersalam_renuka_devi@moe.edu.sg</a>
 </p>
-<p>Mdm Vasanthi<a rel="noopener noreferrer nofollow" target="_blank"><br>vasanthi_arumugam@moe.edu.sg</a>
+<p>Mdm Vasanthi<a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>vasanthi_arumugam@moe.edu.sg</a>
 </p>
-<p>Mdm Lu Youge<a rel="noopener noreferrer nofollow" target="_blank"><br>lu_youge@moe.edu.sg</a>
+<p>Mdm Lu Youge<a href="mailto:lu_youge@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>lu_youge@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="7" colspan="1">

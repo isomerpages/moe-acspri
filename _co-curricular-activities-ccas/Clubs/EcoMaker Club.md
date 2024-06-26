@@ -45,9 +45,9 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p>Mr Wan Mohamed (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
+<br><a href="mailto:wan_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
 </p>
-<p>Ms Ee Li Hua Elizabeth<a rel="noopener noreferrer nofollow" target="_blank"><br>ee_li_hua_elizabeth@moe.edu.sg</a>
+<p>Ms Ee Li Hua Elizabeth<a href="mailto:ee_li_hua_elizabeth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>ee_li_hua_elizabeth@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">
