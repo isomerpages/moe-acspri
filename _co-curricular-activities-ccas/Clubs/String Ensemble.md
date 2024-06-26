@@ -48,8 +48,7 @@ variant: tiptap
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_poh_yee@moe.edu.sg</a>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>
-<br>MON
+<p>MON
 <br>14:15 - 16:15
 <br>&nbsp;1) Cello &amp; Double Bass
 <br>&nbsp;MON
@@ -64,13 +63,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hoong Xiu <a rel="noopener noreferrer nofollow" target="_blank">Qin<br>hoong_xiu_qin@moe.edu.sg</a>
+<p>Mdm Hoong Xiu Qin<a rel="noopener noreferrer nofollow" target="_blank"><br>hoong_xiu_qin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edmund <a rel="noopener noreferrer nofollow" target="_blank">Wu<br>edmund_wu_kok_ming@moe.edu.sg</a>
+<p>Mr Edmund Wu<a rel="noopener noreferrer nofollow" target="_blank"><br>edmund_wu_kok_ming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
