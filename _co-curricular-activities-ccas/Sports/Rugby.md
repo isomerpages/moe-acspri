@@ -42,9 +42,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p>Mr Ho Shin Hoo (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
+</p>
+<p>Ms Hu Biying<a rel="noopener noreferrer nofollow" target="_blank"><br>hu_biying@moe.edu.sg</a>
+</p>
+<p>Mr Kelvin Chan<a rel="noopener noreferrer nofollow" target="_blank"><br>kelvin_chan_yong_meng@moe.edu.sg</a>
+</p>
+<p>Ms Lee Jia Yee<a rel="noopener noreferrer nofollow" target="_blank"><br>lee_jia_yee_a@moe.edu.sg</a>
+</p>
+<p>Mr Daniel Chua<a rel="noopener noreferrer nofollow" target="_blank"><br>chua_hoe_leong@moe.edu.sg</a>
+</p>
+<p>Ms Qin Chunni<a rel="noopener noreferrer nofollow" target="_blank"><br>qin_chunni@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="6" colspan="1">
@@ -59,36 +69,11 @@ variant: tiptap
 <p>ACS(I)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hu Biying<a rel="noopener noreferrer nofollow" target="_blank"><br>hu_biying@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kelvin Chan<a rel="noopener noreferrer nofollow" target="_blank"><br>kelvin_chan_yong_meng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Jia Yee<a rel="noopener noreferrer nofollow" target="_blank"><br>lee_jia_yee_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Daniel Chua<a rel="noopener noreferrer nofollow" target="_blank"><br>chua_hoe_leong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Qin Chunni<a rel="noopener noreferrer nofollow" target="_blank"><br>qin_chunni@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
