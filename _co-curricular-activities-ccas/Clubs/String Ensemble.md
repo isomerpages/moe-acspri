@@ -10,18 +10,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Strings_Ensemble.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -45,23 +41,20 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mdm Wendy Tan (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_poh_yee@moe.edu.sg</a>&nbsp;</p>
+<p>Mdm Hoong Xiu Qin<a rel="noopener noreferrer nofollow" target="_blank"><br>hoong_xiu_qin@moe.edu.sg</a>
+</p>
+<p>Mr Edmund Wu<a rel="noopener noreferrer nofollow" target="_blank"><br>edmund_wu_kok_ming@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>
-<br>MON
+<p>MON
 <br>14:15 - 16:15
 <br>&nbsp;1) Cello &amp; Double Bass
-<br>&nbsp;MON
-<br>14:15 - 16:15
 <br>&nbsp;2) Violin
 <br>
 </p>
@@ -69,30 +62,10 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p>L2 MUSIC ROOM</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>The String Ensemble seeks to grow our boys' understanding and love for
-ensemble playing.
-<br>
-<br>Only students with prior experience in playing the violin, cello or double
-bass will be accepted.</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Hoong Xiu <a rel="noopener noreferrer nofollow" target="_blank">Qin<br>hoong_xiu_qin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edmund <a rel="noopener noreferrer nofollow" target="_blank">Wu<br>edmund_wu_kok_ming@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>

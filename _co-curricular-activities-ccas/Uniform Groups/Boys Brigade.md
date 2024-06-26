@@ -12,18 +12,14 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -47,49 +43,28 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mr Adrian Kum (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">kum_kin_meng@moe.edu.sg</a>
+</p>
+<p>Mr Seow Kian Yong<a rel="noopener noreferrer nofollow" target="_blank"><br>seow_kian_yong@moe.edu.sg</a>
+</p>
+<p>Mr Chan Tai Yao<a rel="noopener noreferrer nofollow" target="_blank"><br>chan_tai_yao@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
 <p>WED
-<br>14:15-16:15&nbsp;</p>
+<br>14:15 - 16:15&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>3E, 3F</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>The BB aims to advance Christ's Kingdom and the promotion of habits of
-obedience, reverence, discipline and self-respect. Activities include camps,
-drills, community service activities, First Aid and many others. Boys are
-also given the opportunities to participate in Brigade-wide competitions
-such as Character Quest and Adventure Quest. Pupils need not be a Christian
-to join.</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Seow Kian Yong<a rel="noopener noreferrer nofollow" target="_blank"><br>seow_kian_yong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Tai Yao<a rel="noopener noreferrer nofollow" target="_blank"><br>chan_tai_yao@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

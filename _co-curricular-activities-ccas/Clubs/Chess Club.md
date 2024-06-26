@@ -9,18 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Chess_Club.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -44,51 +40,31 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mdm Li Chunju (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">li_chunju@moe.edu.sg</a>
+</p>
+<p>Mrs Dawn Wong<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_seow_seah_dawn@moe.edu.sg</a>
+</p>
+<p>Ms Zubaidah<a rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
+</p>
+<p>Mdm Wong Mei Kuen<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_mei_kuen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
 <p>WED
-<br>14:15-16:15</p>
+<br>14:15 - 16:15</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>5B, 5C, 5D</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>During the first 2-3 CCA sessions, the coaches will assess and group pupils
-according to their abilities.</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Dawn Wong<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_seow_seah_dawn@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zubaidah<a rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Mei Kuen<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_mei_kuen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>

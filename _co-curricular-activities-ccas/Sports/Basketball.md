@@ -10,18 +10,14 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -45,15 +41,18 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Ms Chan Soo Ping (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
+</p>
+<p>Mdm Sarah Su</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
+</p>
+<p>Mr Caleb Chua<a rel="noopener noreferrer nofollow" target="_blank"><br>caleb_chua@moe.edu.sg</a>
+</p>
+<p>Ms Amanda Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>lim_zhi_yan_amanda_b@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
@@ -68,35 +67,11 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p>SPORTS HALL</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>Coaches are hired to train our pupils. Pupils are strongly encouraged
-to learn the basics of the CCA well, take pride and show commitment when
-it comes to training sessions.</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarah Su</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Caleb Chua<a rel="noopener noreferrer nofollow" target="_blank"><br>caleb_chua@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Amanda Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>lim_zhi_yan_amanda_b@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>

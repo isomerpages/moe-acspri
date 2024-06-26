@@ -11,20 +11,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Badminton.jpeg">
 </div>
 <p></p>
-<h4></h4>
-<p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -48,15 +42,20 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Ms Jeannie Yeo (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
+</p>
+<p>Ms Jessica Lai</p>
+<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+</p>
+<p>Ms Aubrey Ong</p>
+<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
+</p>
+<p>Mdm Chiew Hwee Ling</p>
+<p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_hwee_ling@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
@@ -69,35 +68,18 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p>ISH</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>This CCA is only for existing school team and training squad members who
-have been selected by the school.</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jessica Lai <a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aubrey Ong</p>
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chiew Hwee Ling</p>
-<p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_hwee_ling@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mr Tan Yew Chai (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mrs Zahara Osman
+<br><a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">
@@ -108,22 +90,9 @@ have been selected by the school.</p>
 <td rowspan="2" colspan="1">
 <p>SPORTS HALL</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Pupils are required to bring their own rackets, shuttlecocks and water
-bottles. The CCA will be held in the sports hall selected Wednesday afternoons,
-depending on the availability of the sports hall.</p>
-</td>
 </tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Zahara Osman <a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -136,8 +105,6 @@ depending on the availability of the sports hall.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <h4><strong>Competition</strong></h4>
 <p>After a two-year hiatus, our Junior Team members were exuberant when they

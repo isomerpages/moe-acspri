@@ -9,18 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Choir_Edited.jpg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -44,15 +40,17 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mdm Gomathi Ravindra (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
+</p>
+<p>Mdm Suzanna Hashim<a rel="noopener noreferrer nofollow" target="_blank"><br>suzanna_hashim@moe.edu.sg</a>
+</p>
+<p>Ms Anna Asha Mohan<a rel="noopener noreferrer nofollow" target="_blank"><br>anna_asha_mohan@moe.edu.sg</a>
+</p>
+<p>Mdm Li Xuesong<a rel="noopener noreferrer nofollow" target="_blank"><br>li_xuesong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
@@ -62,34 +60,11 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p>L4 MUSIC ROOM</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>Pupils interested in joining Choir CCA will need to go through an audition.
-Please e-mail the teacher-in-charge:- <a rel="noopener noreferrer nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
-</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Suzanna Hashim<a rel="noopener noreferrer nofollow" target="_blank"><br>suzanna_hashim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Anna Asha Mohan<a rel="noopener noreferrer nofollow" target="_blank"><br>anna_asha_mohan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Li <a rel="noopener noreferrer nofollow" target="_blank">Xuesong<br>li_xuesong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

@@ -10,18 +10,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Swimming.jpeg">
 </div>
 <h5></h5>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
@@ -45,15 +41,15 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mdm Ida Nonanseh (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">ida_nonanseh_abdul_rahman@moe.edu.sg</a>
+</p>
+<p>Mr Chhoa Kok Kheng<a rel="noopener noreferrer nofollow" target="_blank"><br>chhoa_kok_kheng@moe.edu.sg</a>
+</p>
+<p>Aravinthan S/O A Karuppiah<a rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
@@ -66,30 +62,10 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p>SHAW POOL</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>Pupils signing up for the swimming programme can choose to sign up for
-Monday or Wednesday session. Priority will be given to pupils who sign
-up for only one session a week (either Monday session or Wednesday session).
-<br>New members will have to take a Swimming skill assessment so as to allocate
-them to their respective skill competency level.</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chhoa Kok Kheng<a rel="noopener noreferrer nofollow" target="_blank"><br>chhoa_kok_kheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aravinthan S/O A Karuppiah<a rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>

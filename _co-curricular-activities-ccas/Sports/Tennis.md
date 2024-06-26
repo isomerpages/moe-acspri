@@ -9,18 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Tennis.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -44,15 +40,17 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mr Stanley Yeo (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_meng_stanley@moe.edu.sg</a>
+</p>
+<p>Ms Mazeedah<a rel="noopener noreferrer nofollow" target="_blank"><br>mazeedah_mohamed_azmi@moe.edu.sg</a>
+</p>
+<p>Ms Ho Lim Hwei<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_lim_hwei@moe.edu.sg</a>
+</p>
+<p>Ms Tan Siow Hwee<a rel="noopener noreferrer nofollow" target="_blank"><br>tan_siow_hwee@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
@@ -66,34 +64,11 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p>BARKER TENNIS COURTS</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>This CCA is only for existing school team and training squad members who
-have been selected by the school. Coaches are hired to train the pupils.
-Pupils are required to bring their own racquets, caps and water-bottles.</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Mazeedah<a rel="noopener noreferrer nofollow" target="_blank"><br>mazeedah_mohamed_azmi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ho Lim Hwei<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_lim_hwei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Siow Hwee<a rel="noopener noreferrer nofollow" target="_blank"><br>tan_siow_hwee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

@@ -13,9 +13,8 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -31,22 +30,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers in Charge</p>
+<p><strong>Teachers in Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DAY / TIME</p>
+<p><strong>DAY / TIME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VENUE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DETAILS</p>
+<p><strong>VENUE</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,17 +60,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>BAND ROOM (ANNEX)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Our objective is to build on music fundamentals, learn guitar techniques
-and perform as an ensemble. Pupils need to purchase their own guitar based
-on our instructor's advice. Pupils with music background are highly encouraged
-to sign up for this CCA.</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

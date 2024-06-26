@@ -9,18 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Track_and_Field.jpeg">
 </div>
 <h4></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -44,15 +40,15 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Ms Chan Wai Ying Elyse (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">chan_wai_ying@moe.edu.sg</a>
+</p>
+<p>Mdm Suja Anbazhagan<a rel="noopener noreferrer nofollow" target="_blank"><br>anbazhagansuja_a@moe.edu.sg</a>
+</p>
+<p>Mrs Toh Wei Tong Shanice<a rel="noopener noreferrer nofollow" target="_blank"><br>lim_wei_tong_shanice@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
@@ -67,33 +63,10 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p>TPY STADIUM</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>This CCA is for pupils who are keen to join Track &amp; Field.
-<br>Coaches are hired to train the pupils. Training will be held at the school
-auditorium for now.
-<br>Should students be training outside school, 2-way bus service will be
-provided to and from external stadium for ALL members. However, the pupils
-will not be able to go back to school on time to board the school bus as
-training ends at 4.30&nbsp; Hence, parents will need to arrange private
-transport to pick their son up from the school transport centre.</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Suja Anbazhagan<a rel="noopener noreferrer nofollow" target="_blank"><br>anbazhagansuja_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Toh Wei Tong Shanice<a rel="noopener noreferrer nofollow" target="_blank"><br>lim_wei_tong_shanice@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

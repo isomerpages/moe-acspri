@@ -11,18 +11,14 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -46,15 +42,13 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mdm Punitha (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">punitha_kasipandy@moe.edu.sg</a>
+</p>
+<p>Ms Woon Yuet Meng<a rel="noopener noreferrer nofollow" target="_blank"><br>woon_yuet_meng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">
@@ -68,25 +62,9 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>MUSIC STUDIO</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Our objective is to build on dance fundamentals, learn dance techniques
-and perform as a team, representing our school for competitions and events
-in school and externally with approval by the school. Pupils need to purchase
-their own costumes based on our instructor's advice. Pupils with dance
-background and with a passion in dance are highly encouraged to sign up
-for this CCA.</p>
-</td>
 </tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Woon Yuet Meng<a rel="noopener noreferrer nofollow" target="_blank"><br>woon_yuet_meng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

@@ -10,18 +10,14 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -45,65 +41,41 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Mr Leon Ho (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">ho_yoong_kian@moe.edu.sg</a>&nbsp;</p>
 <p></p>
 <p></p>
+<p>Ms Ho Hui Xin<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_hui_xin@moe.edu.sg</a>
+</p>
+<p>Ms Xu Jie<a rel="noopener noreferrer nofollow" target="_blank"><br>xu_jie@moe.edu.sg</a>
+</p>
+<p>Mrs Jasmine Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>ong_cui_yun@moe.edu.sg</a>
+</p>
+<p>Mr Tiong Sze Chiat<a rel="noopener noreferrer nofollow" target="_blank"><br>tiong_sze_chiat@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="5" colspan="1">
+<p>MON
+<br>15:00-17:00 (DEVELOPMENTAL TEAM)
+<br>&nbsp;</p>
 <p>WED
 <br>14:15-16:15</p>
 <p>(SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)
 <br>&nbsp;</p>
-<p>MON
-<br>15:00-17:00 (DEVELOPMENTAL TEAM)
-<br>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="5" colspan="1">
 <p>ARENA</p>
 </td>
-<td rowspan="5" colspan="1">
-<p>Football CCA Developmental Team is for pupils who love playing football
-and would like to develop their skills and talent for the sport. Members
-have a chance to be selected by the coach into the Provisional Training
-Squad (PTS) in Primary 4.</p>
-</td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ho Hui Xin<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_hui_xin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Xu Jie<a rel="noopener noreferrer nofollow" target="_blank"><br>xu_jie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Jasmine Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>ong_cui_yun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tiong Sze Chiat<a rel="noopener noreferrer nofollow" target="_blank"><br>tiong_sze_chiat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

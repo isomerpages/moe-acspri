@@ -9,18 +9,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Cub_Scouts_2.jpg">
 </div>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -44,15 +40,13 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mdm Loh Su Hian (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">loh_su_hian@moe.edu.sg</a>&nbsp;</p>
+<p>Mr Low Chong Jian Edwin<a rel="noopener noreferrer nofollow" target="_blank"><br>low_chong_jian_edwin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>WED
@@ -61,33 +55,9 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>3A</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Our unit aims to develop every pupil's full physical, intellectual, emotional,
-social and spiritual capacities as individuals and as members of society.
-We hope to achieve this through fun activities during the weekly meetings
-and various outings.
-<br>&nbsp;
-<br>&nbsp;Please note that:
-<br>&nbsp;1) There are 2 Residential camps that are held over weekends in
-school before March Holidays and June Holidays. (subject to SMM stipulated
-by MOE)
-<br>&nbsp;2) There are District camps and events held during the holidays
-and on certain Saturdays. (subject to SMM stipulated by MOE)
-<br>&nbsp;3) New members need to purchase a set of scout uniform to participate
-in this CCA and this will be an organised buying as there is a grant for
-new members.</p>
-</td>
 </tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Low Chong Jian Edwin<a rel="noopener noreferrer nofollow" target="_blank"><br>low_chong_jian_edwin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
