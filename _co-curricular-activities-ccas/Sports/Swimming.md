@@ -45,11 +45,11 @@ variant: tiptap
 <tr>
 <td rowspan="3" colspan="1">
 <p>Mdm Ida Nonanseh (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">ida_nonanseh_abdul_rahman@moe.edu.sg</a>
+<br><a href="mailto:ida_nonanseh_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ida_nonanseh_abdul_rahman@moe.edu.sg</a>
 </p>
-<p>Mr Chhoa Kok Kheng<a rel="noopener noreferrer nofollow" target="_blank"><br>chhoa_kok_kheng@moe.edu.sg</a>
+<p>Mr Chhoa Kok Kheng<a href="mailto:chhoa_kok_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>chhoa_kok_kheng@moe.edu.sg</a>
 </p>
-<p>Aravinthan S/O A Karuppiah<a rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
+<p>Aravinthan S/O A Karuppiah<a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
