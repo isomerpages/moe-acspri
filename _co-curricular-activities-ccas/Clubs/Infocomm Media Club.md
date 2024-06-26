@@ -11,9 +11,8 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -33,15 +32,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
 </p>
@@ -61,9 +53,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>INFOCOMM MEDIA CLUB</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Koh Chaik Khoon (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
 </p>
@@ -81,9 +70,6 @@ digital technology.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
