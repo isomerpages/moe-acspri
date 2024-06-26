@@ -43,16 +43,20 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers in Charge</p>
+<p><strong>Teachers in Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DAY / TIME</p>
+<p><strong>DAY / TIME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VENUE</p>
+<p><strong>VENUE</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DETAILS</p>
+<p><strong>DETAILS</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,9 +69,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="7" colspan="1">
-<p>WED / 14:15 - 16:15&nbsp; for all
+<p>WED</p>
+<p>14:15 - 16:15&nbsp;</p>
+<p>for all
 <br>
-<br>Mon / 14:15 - 16:15&nbsp; for the competitive group (selected weeks)&nbsp;</p>
+<br>Mon</p>
+<p>14:15 - 16:15&nbsp;</p>
+<p>for the competitive group (selected weeks)&nbsp;</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>5ALC, 5A, 6A, 6E, 6F</p>
