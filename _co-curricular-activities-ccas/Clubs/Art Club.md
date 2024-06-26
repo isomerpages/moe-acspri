@@ -43,9 +43,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Ms Jessica Lai (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+</p>
+<p>Mdm Jenn Ang<a rel="noopener noreferrer nofollow" target="_blank"><br>jenn_ang@moe.edu.sg</a>
+</p>
+<p>Ms Zubaidah<a rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
@@ -56,18 +60,8 @@ variant: tiptap
 <p>LEVEL 5 ART ROOM</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Jenn Ang<a rel="noopener noreferrer nofollow" target="_blank"><br>jenn_ang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zubaidah<a rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
