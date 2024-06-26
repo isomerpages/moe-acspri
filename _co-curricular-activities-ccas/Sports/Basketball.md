@@ -10,9 +10,8 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -20,9 +19,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
 </p>
@@ -41,9 +37,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>BASKETBALL (RECREATIONAL &amp; SCHOOL TEAM)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Soo Ping (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
@@ -87,9 +80,6 @@ it comes to training sessions.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
