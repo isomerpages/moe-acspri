@@ -44,13 +44,13 @@ variant: tiptap
 <tr>
 <td rowspan="4" colspan="1">
 <p>Mdm Li Chunju (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">li_chunju@moe.edu.sg</a>
+<br><a href="mailto:li_chunju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_chunju@moe.edu.sg</a>
 </p>
 <p>Mrs Dawn Wong<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_seow_seah_dawn@moe.edu.sg</a>
 </p>
-<p>Ms Zubaidah<a rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
+<p>Ms Zubaidah<a href="mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
 </p>
-<p>Mdm Wong Mei Kuen<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_mei_kuen@moe.edu.sg</a>
+<p>Mdm Wong Mei Kuen<a href="mailto:wong_mei_kuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>wong_mei_kuen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
