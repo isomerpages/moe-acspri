@@ -10,18 +10,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Floorball_CCA.jpg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -45,10 +41,6 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,16 +57,6 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p>MOVEMENT GYM</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>Coaches are hired for the P3 Developmental Team and P4 Training Squad.
-Students selected to join Floorball CCA will enter direct into their respective
-levels. Attire can be in corporate tee or pe tank top with proper court
-shoes like badminton shoes (not running shoes). P3 optional to have floorball
-stick as it will be provided however P4 students will be encouraged to
-get their own floorball sticks. Pupils who trained hard, have the right
-attitude and passion will move into the school team eventually in P5 and
-P6.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -89,9 +71,6 @@ P6.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
