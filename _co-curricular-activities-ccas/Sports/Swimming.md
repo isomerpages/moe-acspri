@@ -10,9 +10,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Swimming.jpeg">
 </div>
 <h5></h5>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -32,15 +31,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
 </p>
@@ -59,9 +51,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>SWIMMING</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ida Nonanseh (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">ida_nonanseh_abdul_rahman@moe.edu.sg</a>
@@ -98,9 +87,6 @@ them to their respective skill competency level.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
