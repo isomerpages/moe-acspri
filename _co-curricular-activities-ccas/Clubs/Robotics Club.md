@@ -12,9 +12,8 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -34,14 +33,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
 </p>
@@ -60,9 +53,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
-<p>ROBOTICS</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Yoke Joo (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
@@ -127,9 +117,6 @@ be held on Mondays as well.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
