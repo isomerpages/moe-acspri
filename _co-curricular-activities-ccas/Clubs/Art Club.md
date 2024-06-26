@@ -45,7 +45,7 @@ variant: tiptap
 <tr>
 <td rowspan="3" colspan="1">
 <p>Ms Jessica Lai (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+<br><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
 </p>
 <p>Mdm Jenn Ang<a rel="noopener noreferrer nofollow" target="_blank"><br>jenn_ang@moe.edu.sg</a>
 </p>
