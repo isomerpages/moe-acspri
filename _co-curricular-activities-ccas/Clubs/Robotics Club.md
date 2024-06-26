@@ -10,72 +10,126 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Robotic__3_.jpg">
 </div>
-<h4><strong>Teachers in Charge</strong></h4>
-<table>
+<p></p>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yoke Joo (I/C)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
+<p>Teachers in Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DAY / TIME</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VENUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DETAILS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>ROBOTICS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Yoke Joo (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>WED / 14:15 - 16:15&nbsp; for all
+<br>
+<br>Mon / 14:15 - 16:15&nbsp; for the competitive group (selected weeks)&nbsp;</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>5ALC, 5A, 6A, 6E, 6F</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Pupils will learn how to design and build robot using LEGO EV3/SPIKE.
+Pupils will also program the robot using EV3/SPIKE Classroom. Selected
+pupils will take part in the IDE Challenge (or similiar competition) in
+May/June and the National Robotics Competition in September.
+<br>&nbsp;
+<br>Please note that some training sessions for the competition group will
+be held on Mondays as well.&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vijayakumaran<a rel="noopener noreferrer nofollow" target="_blank"><br>vijayakumaran_govindasamy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vijayakumaran Govindasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vijayakumaran_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayakumaran_govindasamy@moe.edu.sg</a>
+<p>Mrs Neo Lin Li
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Neo Lin Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
+<p>Ms Natasha Patricia Lim Hwee Cheng
+<br><a rel="noopener noreferrer nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Natasha Patricia Lim Hwee Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:natasha_patricia_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
+<p>Mdm Renuka<a rel="noopener noreferrer nofollow" target="_blank"><br>windersalam_renuka_devi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vasanthi d/o Arumugam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthi_arumugam@moe.edu.sg</a>
+<p>Mdm Vasanthi<a rel="noopener noreferrer nofollow" target="_blank"><br>vasanthi_arumugam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lu Youge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:he_guimei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_youge@moe.edu.sg</a>
+<p>Mdm Lu Youge<a rel="noopener noreferrer nofollow" target="_blank"><br>lu_youge@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -85,9 +139,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Schedule</strong></h4>
-<p>Competition Group: Every Wednesday and stipulated Monday 2.15 to 4.15pm
-<br>Basic and Intermediate Group: Every Wednesday 2.15 to 4.15pm</p>
 <h4><strong>Programme/ Development</strong></h4>
 <p>The Robotics Club encompasses a group of passionate pupils who are interested
 in robots and the use of robots in everyday life. The objectives of the
