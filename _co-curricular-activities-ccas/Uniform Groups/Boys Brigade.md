@@ -10,57 +10,67 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Boys_Brigade.jpeg">
 </div>
-<h4><strong>Teachers in Charge</strong></h4>
-<table>
+<p></p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Teachers in Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DAY / TIME</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VENUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DETAILS</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Adrian Kum (I/C)</p>
+<p>Mr Adrian Kum (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">kum_kin_meng@moe.edu.sg</a>
+</p>
 </td>
+<td rowspan="3" colspan="1">
+<p>WED
+<br>14:15 - 16:15&nbsp;</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>3E, 3F</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>The BB aims to advance Christ's Kingdom and the promotion of habits of
+obedience, reverence, discipline and self-respect. Activities include camps,
+drills, community service activities, First Aid and many others. Boys are
+also given the opportunities to participate in Brigade-wide competitions
+such as Character Quest and Adventure Quest. Pupils need not be a Christian
+to join.</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kum_kin_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_kin_meng@moe.edu.sg</a>
+<p>Mr Seow Kian Yong<a rel="noopener noreferrer nofollow" target="_blank"><br>seow_kian_yong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seow Kian Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seow_kian_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_kian_yong@moe.edu.sg</a>
+<p>Mr Chan Tai Yao<a rel="noopener noreferrer nofollow" target="_blank"><br>chan_tai_yao@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Tai Yao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_tai_yao@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Schedule</strong></h4>
-<p>Every Wednesdays - 02:15pm to 04:15pm
-<br>Venue: 2BLC, 3D and 3E Classrooms</p>
+<h4></h4>
 <h4><strong>Programme Development</strong></h4>
 <p>The BB aims to advance Christ’s Kingdom and the promotion of habits of
 obedience, reverence, discipline and self-respect. Activities include a
