@@ -106,8 +106,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
 <h4><strong>Competition</strong></h4>
 <p>After a two-year hiatus, our Junior Team members were exuberant when they
 took part in the inaugural new format championship. Denson Sjahada Harjanto
