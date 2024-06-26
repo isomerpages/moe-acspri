@@ -51,8 +51,6 @@ variant: tiptap
 <p>MON
 <br>14:15 - 16:15
 <br>&nbsp;1) Cello &amp; Double Bass
-<br>&nbsp;MON
-<br>14:15 - 16:15
 <br>&nbsp;2) Violin
 <br>
 </p>
