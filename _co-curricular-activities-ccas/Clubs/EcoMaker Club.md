@@ -43,9 +43,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mr Wan Mohamed (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
+</p>
+<p>Ms Ee Li Hua Elizabeth<a rel="noopener noreferrer nofollow" target="_blank"><br>ee_li_hua_elizabeth@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">
@@ -56,12 +58,7 @@ variant: tiptap
 <p>L3 AND L4 SCIENCE ROOM</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ee Li Hua Elizabeth<a rel="noopener noreferrer nofollow" target="_blank"><br>ee_li_hua_elizabeth@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
