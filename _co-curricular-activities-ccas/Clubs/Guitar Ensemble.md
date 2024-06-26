@@ -13,9 +13,8 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -35,14 +34,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Teachers in Charge</p>
 </td>
@@ -57,9 +50,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>GUITAR ENSEMBLE</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sri Dewi (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
@@ -82,9 +72,6 @@ to sign up for this CCA.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
