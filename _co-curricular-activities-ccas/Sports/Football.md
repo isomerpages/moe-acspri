@@ -54,14 +54,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Leon Ho (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">ho_yoong_kian@moe.edu.sg</a>&nbsp;</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="5" colspan="1">
+<p>WED
+<br>14:15-16:15</p>
 <p>(SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)
-<br>&nbsp; WED
-<br>&nbsp;14:15 - 16:15
-<br>&nbsp; (DEVELOPMENTAL TEAM)
-<br>&nbsp; MON
-<br>&nbsp;15:00 - 17:00</p>
+<br>&nbsp;</p>
+<p>MON
+<br>15:00-17:00 (DEVELOPMENTAL TEAM)
+<br>&nbsp;</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>ARENA</p>
