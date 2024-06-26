@@ -43,11 +43,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Mr Leon Ho (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">ho_yoong_kian@moe.edu.sg</a>&nbsp;</p>
 <p></p>
 <p></p>
+<p>Ms Ho Hui Xin<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_hui_xin@moe.edu.sg</a>
+</p>
+<p>Ms Xu Jie<a rel="noopener noreferrer nofollow" target="_blank"><br>xu_jie@moe.edu.sg</a>
+</p>
+<p>Mrs Jasmine Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>ong_cui_yun@moe.edu.sg</a>
+</p>
+<p>Mr Tiong Sze Chiat<a rel="noopener noreferrer nofollow" target="_blank"><br>tiong_sze_chiat@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>MON
@@ -63,30 +71,10 @@ variant: tiptap
 <p>ARENA</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ho Hui Xin<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_hui_xin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Xu Jie<a rel="noopener noreferrer nofollow" target="_blank"><br>xu_jie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Jasmine Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>ong_cui_yun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tiong Sze Chiat<a rel="noopener noreferrer nofollow" target="_blank"><br>tiong_sze_chiat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
