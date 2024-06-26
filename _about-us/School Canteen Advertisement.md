@@ -70,17 +70,18 @@ email OR to the School’s General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 60 Barker Road, Singapore 309919</p>
+<p>Address: 50 Barker Road Singapore 309918</p>
 </li>
 <li>
-<p>Contact No: 62561633</p>
-</li>
-<li>
-<p>Email: <a href="https://www.acsbr.moe.edu.sg/files/formbf7%20-%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">acsbr@moe.edu.sg</a>
+<p>Contact No: <a href="tel:+6562501633" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6250 1633</u></a>
 </p>
 </li>
 <li>
-<p>Contact Person: Mr Glenn Tan or Ms Nur Ezzati</p>
+<p>Email: <a href="mailto:acps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>acps@moe.edu.sg</u></a>
+</p>
+</li>
+<li>
+<p>Contact Person: Mr Kieth</p>
 </li>
 </ul>
 <h4><strong>How to get there?</strong></h4>
