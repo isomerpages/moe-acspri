@@ -33,13 +33,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers in Charge</p>
+<p><strong>Teachers in Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DAY / TIME</p>
+<p><strong>DAY / TIME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VENUE</p>
+<p><strong>VENUE</strong>
+</p>
 </td>
 </tr>
 <tr>
