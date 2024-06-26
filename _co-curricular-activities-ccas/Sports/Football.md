@@ -50,13 +50,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="5" colspan="1">
+<p>MON
+<br>15:00-17:00 (DEVELOPMENTAL TEAM)
+<br>&nbsp;</p>
 <p>WED
 <br>14:15-16:15</p>
 <p>(SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)
 <br>&nbsp;</p>
-<p>MON
-<br>15:00-17:00 (DEVELOPMENTAL TEAM)
-<br>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="5" colspan="1">
 <p>ARENA</p>
