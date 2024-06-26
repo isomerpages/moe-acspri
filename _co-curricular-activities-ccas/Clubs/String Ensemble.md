@@ -45,10 +45,10 @@ variant: tiptap
 <tr>
 <td rowspan="3" colspan="1">
 <p>Mdm Wendy Tan (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">tan_poh_yee@moe.edu.sg</a>&nbsp;</p>
-<p>Mdm Hoong Xiu Qin<a rel="noopener noreferrer nofollow" target="_blank"><br>hoong_xiu_qin@moe.edu.sg</a>
+<br><a href="mailto:tan_poh_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_yee@moe.edu.sg</a>&nbsp;</p>
+<p>Mdm Hoong Xiu Qin<a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>hoong_xiu_qin@moe.edu.sg</a>
 </p>
-<p>Mr Edmund Wu<a rel="noopener noreferrer nofollow" target="_blank"><br>edmund_wu_kok_ming@moe.edu.sg</a>
+<p>Mr Edmund Wu<a href="mailto:edmund_wu_kok_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>edmund_wu_kok_ming@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
