@@ -45,9 +45,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Mdm Tan Yoke Joo (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
+</p>
+<p>Mr Vijayakumaran<a rel="noopener noreferrer nofollow" target="_blank"><br>vijayakumaran_govindasamy@moe.edu.sg</a>
+</p>
+<p>Mrs Neo Lin Li
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
+</p>
+<p>Ms Natasha Patricia Lim Hwee Cheng
+<br><a rel="noopener noreferrer nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
+</p>
+<p>Mdm Renuka<a rel="noopener noreferrer nofollow" target="_blank"><br>windersalam_renuka_devi@moe.edu.sg</a>
+</p>
+<p>Mdm Vasanthi<a rel="noopener noreferrer nofollow" target="_blank"><br>vasanthi_arumugam@moe.edu.sg</a>
+</p>
+<p>Mdm Lu Youge<a rel="noopener noreferrer nofollow" target="_blank"><br>lu_youge@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="7" colspan="1">
@@ -66,44 +80,12 @@ variant: tiptap
 <p>5ALC, 5A, 6A, 6E, 6F</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Vijayakumaran<a rel="noopener noreferrer nofollow" target="_blank"><br>vijayakumaran_govindasamy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Neo Lin Li
-<br><a rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Natasha Patricia Lim Hwee Cheng
-<br><a rel="noopener noreferrer nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Renuka<a rel="noopener noreferrer nofollow" target="_blank"><br>windersalam_renuka_devi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Vasanthi<a rel="noopener noreferrer nofollow" target="_blank"><br>vasanthi_arumugam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lu Youge<a rel="noopener noreferrer nofollow" target="_blank"><br>lu_youge@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
