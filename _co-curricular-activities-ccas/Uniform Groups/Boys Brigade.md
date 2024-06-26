@@ -56,7 +56,7 @@ variant: tiptap
 </td>
 <td rowspan="3" colspan="1">
 <p>WED
-<br>14:15-16:15&nbsp;</p>
+<br>14:15 - 16:15&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>3E, 3F</p>
