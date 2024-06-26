@@ -9,49 +9,85 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Cub_Scouts_2.jpg">
 </div>
-<p></p>
-<h5><strong>Teachers In Charge</strong></h5>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Loh Su Hian (I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_su_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_su_hian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Low Chong Jian Edwin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_chong_jian_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_chong_jian_edwin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers in Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DAY / TIME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>VENUE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DETAILS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Loh Su Hian (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">loh_su_hian@moe.edu.sg</a>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>WED
+<br>&nbsp;14:15 - 16:15&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>3A</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Our unit aims to develop every pupil's full physical, intellectual, emotional,
+social and spiritual capacities as individuals and as members of society.
+We hope to achieve this through fun activities during the weekly meetings
+and various outings.
+<br>&nbsp;
+<br>&nbsp;Please note that:
+<br>&nbsp;1) There are 2 Residential camps that are held over weekends in
+school before March Holidays and June Holidays. (subject to SMM stipulated
+by MOE)
+<br>&nbsp;2) There are District camps and events held during the holidays
+and on certain Saturdays. (subject to SMM stipulated by MOE)
+<br>&nbsp;3) New members need to purchase a set of scout uniform to participate
+in this CCA and this will be an organised buying as there is a grant for
+new members.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Low Chong Jian <a rel="noopener noreferrer nofollow" target="_blank">Edwin<br>low_chong_jian_edwin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>Schedule</strong></h5>
-<p>Wednesdays 02:15 pm – 04:15 p.m
-<br>ACS(P) 3F Classroom</p>
+<h5></h5>
+<p></p>
 <h4><strong>Programme/ Development</strong></h4>
 <p>Scouting with the ACS(P) Cub Scouts encourages the holistic physical,
 mental, spiritual and social development of each pupil with a strong emphasis
