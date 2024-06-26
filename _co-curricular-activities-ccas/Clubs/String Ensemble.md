@@ -10,18 +10,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Strings_Ensemble.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -45,10 +41,6 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -69,13 +61,6 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p>L2 MUSIC ROOM</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>The String Ensemble seeks to grow our boys' understanding and love for
-ensemble playing.
-<br>
-<br>Only students with prior experience in playing the violin, cello or double
-bass will be accepted.</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -90,9 +75,6 @@ bass will be accepted.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
