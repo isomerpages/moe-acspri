@@ -46,9 +46,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p>Ms Jeannie Yeo (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
+</p>
+<p>Ms Jessica Lai <a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+</p>
+<p>Ms Aubrey Ong</p>
+<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
+</p>
+<p>Mdm Chiew Hwee Ling</p>
+<p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_hwee_ling@moe.edu.sg</u></a>
+</p>
+<p>Mr Tan Yew Chai (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
+</p>
+<p>Mrs Zahara Osman <a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
@@ -62,32 +75,10 @@ variant: tiptap
 <p>ISH</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jessica Lai <a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aubrey Ong</p>
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chiew Hwee Ling</p>
-<p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_hwee_ling@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yew Chai (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
-</p>
-</td>
 <td rowspan="2" colspan="1">
 <p>WED</p>
 <p>14:15-16:15</p>
@@ -97,12 +88,7 @@ variant: tiptap
 <p>SPORTS HALL</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Zahara Osman <a href="mailto:tan_yew_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
