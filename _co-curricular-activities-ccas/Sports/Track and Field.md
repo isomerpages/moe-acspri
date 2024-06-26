@@ -9,9 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Track_and_Field.jpeg">
 </div>
 <h4></h4>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -31,14 +30,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
 </p>
@@ -57,9 +50,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>TRACK AND FIELD (RECREATIONAL &amp; SCHOOL TEAM)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Wai Ying Elyse (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">chan_wai_ying@moe.edu.sg</a>
@@ -101,9 +91,6 @@ transport to pick their son up from the school transport centre.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
