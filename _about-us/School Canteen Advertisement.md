@@ -39,7 +39,8 @@ description: ""
 <h4><strong>Application Procedure</strong></h4>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p></p>
+<p> <a href="/files/Canteen Adv/application for canteen stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form </a>
+</p>
 <p>2. Attached the following documents together with the application form:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC
 (front and back)</p>
@@ -52,7 +53,7 @@ via email OR to the School's General Office.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 50 Barker Road
 Singapore 309918</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 62501633</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a rel="noopener noreferrer nofollow" target="_blank">acps@moe.edu.sg</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:acps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">acps@moe.edu.sg</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mr Ernest
 Fu or Ms Lim Siew Lay</p>
