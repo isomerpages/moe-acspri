@@ -44,12 +44,12 @@ variant: tiptap
 <tr>
 <td rowspan="5" colspan="1">
 <p>Mdm Norhayati (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
+<br><a href="mailto:norharyati_harun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
 </p>
-<p>Ms Ngoh Gek Luan<a rel="noopener noreferrer nofollow" target="_blank"><br>ngoh_gek_luan@moe.edu.sg</a>
+<p>Ms Ngoh Gek Luan<a href="mailto:ngoh_gek_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>ngoh_gek_luan@moe.edu.sg</a>
 </p>
 <p>Mr Chow Kai Loon (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
+<br><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
 </p>
 <p>Mr Jonathan Lim</p>
 <p>Mdm Bavani D/O Balasubarammany</p>
