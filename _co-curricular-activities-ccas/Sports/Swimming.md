@@ -43,9 +43,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mdm Ida Nonanseh (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">ida_nonanseh_abdul_rahman@moe.edu.sg</a>
+</p>
+<p>Mr Chhoa Kok Kheng<a rel="noopener noreferrer nofollow" target="_blank"><br>chhoa_kok_kheng@moe.edu.sg</a>
+</p>
+<p>Aravinthan S/O A Karuppiah<a rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
@@ -59,18 +63,8 @@ variant: tiptap
 <p>SHAW POOL</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chhoa Kok Kheng<a rel="noopener noreferrer nofollow" target="_blank"><br>chhoa_kok_kheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aravinthan S/O A Karuppiah<a rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
