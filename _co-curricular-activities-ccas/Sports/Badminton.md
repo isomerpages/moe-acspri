@@ -11,8 +11,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Badminton.jpeg">
 </div>
 <p></p>
-<h4></h4>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
