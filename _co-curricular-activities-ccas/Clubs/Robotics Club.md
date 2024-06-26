@@ -51,13 +51,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="7" colspan="1">
+<p></p>
+<p>MON</p>
+<p>14:15 - 16:15</p>
+<p>For the competitive group (selected weeks)&nbsp;</p>
 <p>WED</p>
 <p>14:15 - 16:15</p>
 <p>For all
 <br>
-<br>MON</p>
-<p>14:15 - 16:15</p>
-<p>For the competitive group (selected weeks)&nbsp;</p>
+<br>
+</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>5ALC, 5A, 6A, 6E, 6F</p>
