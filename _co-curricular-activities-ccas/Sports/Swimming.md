@@ -76,13 +76,13 @@ them to their respective skill competency level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chhoa Kok <a rel="noopener noreferrer nofollow" target="_blank">Kheng<br>chhoa_kok_kheng@moe.edu.sg</a>
+<p>Mr Chhoa Kok Kheng<a rel="noopener noreferrer nofollow" target="_blank"><br>chhoa_kok_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aravinthan S/O A <a rel="noopener noreferrer nofollow" target="_blank">Karuppiah<br>aravinthan_a_karuppiah@moe.edu.sg</a>
+<p>Aravinthan S/O A Karuppiah<a rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
