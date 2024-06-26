@@ -42,9 +42,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mdm Li Chunju (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">li_chunju@moe.edu.sg</a>
+</p>
+<p>Mrs Dawn Wong<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_seow_seah_dawn@moe.edu.sg</a>
+</p>
+<p>Ms Zubaidah<a rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
+</p>
+<p>Mdm Wong Mei Kuen<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_mei_kuen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
@@ -55,24 +61,9 @@ variant: tiptap
 <p>5B, 5C, 5D</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Dawn Wong<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_seow_seah_dawn@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zubaidah<a rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Mei Kuen<a rel="noopener noreferrer nofollow" target="_blank"><br>wong_mei_kuen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
