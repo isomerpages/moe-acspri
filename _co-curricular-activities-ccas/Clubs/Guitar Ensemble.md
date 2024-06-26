@@ -10,45 +10,84 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Pic_2.jpg">
 </div>
-<h4><strong>Teachers in Charge</strong></h4>
-<table>
+<p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Dewi (I/C)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sri_dewi_mohamed_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
+<p>Teachers in Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DAY / TIME</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VENUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DETAILS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GUITAR ENSEMBLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sri Dewi (I/C)
+<br><a rel="noopener noreferrer nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MON
+<br>14:15 - 16:15&nbsp;
+<br>&nbsp; 1) Beginners
+<br>&nbsp; 2) Performing Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BAND ROOM (ANNEX)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our objective is to build on music fundamentals, learn guitar techniques
+and perform as an ensemble. Pupils need to purchase their own guitar based
+on our instructor's advice. Pupils with music background are highly encouraged
+to sign up for this CCA.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasmine Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_cui_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_cui_yun@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -61,9 +100,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Schedule</strong></h4>
-<p>Mondays - 02:15pm to 04:15pm
-<br>ACS(P) Band Room</p>
+<p></p>
 <h4><strong>Programme Development</strong></h4>
 <p>Our Guitar Ensemble comprises two groups: the beginners and the grand
 ensemble seniors. Our objective is to build on music fundamentals, learn
