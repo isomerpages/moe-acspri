@@ -74,19 +74,19 @@ Pupils are required to bring their own racquets, caps and water-bottles.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms <a rel="noopener noreferrer nofollow" target="_blank">Mazeedah<br>mazeedah_mohamed_azmi@moe.edu.sg</a>
+<p>Ms Mazeedah<a rel="noopener noreferrer nofollow" target="_blank"><br>mazeedah_mohamed_azmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Lim <a rel="noopener noreferrer nofollow" target="_blank">Hwei<br>ho_lim_hwei@moe.edu.sg</a>
+<p>Ms Ho Lim Hwei<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_lim_hwei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Siow <a rel="noopener noreferrer nofollow" target="_blank">Hwee<br>tan_siow_hwee@moe.edu.sg</a>
+<p>Ms Tan Siow Hwee<a rel="noopener noreferrer nofollow" target="_blank"><br>tan_siow_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
