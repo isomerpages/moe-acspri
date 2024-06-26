@@ -25,109 +25,69 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Noodle Stall</p>
+<p>Asian Cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>August 2023</p>
+<p>21 June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Any Chinese noodle menu is acceptable.</p>
+<p>Any Asian Cuisine (Non-Halal)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Application Procedure</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="test" rel="noopener noreferrer nofollow" target="_blank"><u>Application Form</u></a>
+<p>1. Download and complete the application form. You may also request for
+a hardcopy from the School’s General Office.</p>
+<p></p>
+<p>2. Attached the following documents together with the application form:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC
+(front and back)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu
+and pricing for all items</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
+certificates such as Basic Food Hygiene Course, etc</p>
+<p>3. Submit the completed application form and documents by closing date
+via email OR to the School's General Office.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 50 Barker Road
+Singapore 309918</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 62501633</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a rel="noopener noreferrer nofollow" target="_blank">acps@moe.edu.sg</a>
 </p>
-</li>
-</ul>
-</li>
-<li>
-<p>Attached the following documents together with the application form:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Photocopy of the NRIC (front and back)</p>
-</li>
-<li>
-<p>List of proposed menu and pricing for all items</p>
-</li>
-<li>
-<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Submit the completed application form and documents by closing date via
-email OR to the School’s General Office.</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Address: 50 Barker Road Singapore 309918</p>
-</li>
-<li>
-<p>Contact No: <a href="tel:+6562501633" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6250 1633</u></a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mr Ernest
+Fu or Ms Lim Siew Lay</p>
+<p></p>
+<p><strong>How to get there?</strong>
 </p>
-</li>
-<li>
-<p>Email: <a href="mailto:acps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>acps@moe.edu.sg</u></a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nearest MRT: Newton
+MRT (NS21/DT11 line) – 10 minutes walking distance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bus number: 48, 67,
+170, 960, 960e, 972M</p>
+<p></p>
+<p><strong>Interest applicants must meet the following criteria:</strong>
 </p>
-</li>
-<li>
-<p>Contact Person: Mr Kieth</p>
-</li>
-</ul>
-<h4><strong>How to get there?</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nearest MRT: Newton MRT (NS21/DT11 line) – 10 minutes walking distance</p>
-</li>
-<li>
-<p>Bus number: 48, 67, 170, 960, 960e, 972M</p>
-</li>
-</ul>
-<h4><strong>Interest applicants must meet the following criteria:</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.</p>
-</li>
-<li>
-<p>Able to provide good service and quality food with prices determined in
-consultation with the school.</p>
-</li>
-<li>
-<p>Able to provide cooked food that meets the health / nutritional standards
-set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
-Programme (HMSP)” guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>).</p>
-</li>
-<li>
-<p>Able to maintain high standard of food safety and personal hygiene.</p>
-</li>
-<li>
-<p>Healthy and fit to operate the stall.</p>
-</li>
-</ul>
-<h4><strong>Applicants should preferably fulfil the following criteria:</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
-</li>
-<li>
-<p>Possess catering experience or experience operating in a school environment.</p>
-</li>
-<li>
-<p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
-</li>
-</ul>
-<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore citizen or
+Singapore Permanent Resident (SPR) for stallholder and stall assistant.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide good
+service and quality food with prices determined in consultation with the
+school.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide cooked
+food that meets the health / nutritional standards set by the Health Promotion
+Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines
+(see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to maintain high
+standard of food safety and personal hygiene.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Healthy and fit to operate
+the stall.</p>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant
+and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possess catering experience
+or experience operating in a school environment.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant
+is required to apply for a food stall license from Singapore Food Agency
+(SFA).</p>
+<p></p>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
