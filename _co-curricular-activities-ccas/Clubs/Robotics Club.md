@@ -12,18 +12,14 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -47,10 +43,6 @@ variant: tiptap
 <p><strong>VENUE</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>DETAILS</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -67,15 +59,6 @@ variant: tiptap
 </td>
 <td rowspan="7" colspan="1">
 <p>5ALC, 5A, 6A, 6E, 6F</p>
-</td>
-<td rowspan="7" colspan="1">
-<p>Pupils will learn how to design and build robot using LEGO EV3/SPIKE.
-Pupils will also program the robot using EV3/SPIKE Classroom. Selected
-pupils will take part in the IDE Challenge (or similiar competition) in
-May/June and the National Robotics Competition in September.
-<br>&nbsp;
-<br>Please note that some training sessions for the competition group will
-be held on Mondays as well.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -117,9 +100,6 @@ be held on Mondays as well.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
