@@ -42,9 +42,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mdm Gomathi Ravindra (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
+</p>
+<p>Mdm Suzanna Hashim<a rel="noopener noreferrer nofollow" target="_blank"><br>suzanna_hashim@moe.edu.sg</a>
+</p>
+<p>Ms Anna Asha Mohan<a rel="noopener noreferrer nofollow" target="_blank"><br>anna_asha_mohan@moe.edu.sg</a>
+</p>
+<p>Mdm Li Xuesong<a rel="noopener noreferrer nofollow" target="_blank"><br>li_xuesong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
@@ -55,24 +61,9 @@ variant: tiptap
 <p>L4 MUSIC ROOM</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Suzanna Hashim<a rel="noopener noreferrer nofollow" target="_blank"><br>suzanna_hashim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Anna Asha Mohan<a rel="noopener noreferrer nofollow" target="_blank"><br>anna_asha_mohan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Li Xuesong<a rel="noopener noreferrer nofollow" target="_blank"><br>li_xuesong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
