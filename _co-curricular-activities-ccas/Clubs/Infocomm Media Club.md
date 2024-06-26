@@ -46,7 +46,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Chaik Khoon (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
+<br><a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
