@@ -60,7 +60,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p></p>
 <p>Mr Chow Kai Loon (I/C)
 <br><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
 </p>
@@ -72,7 +71,6 @@ variant: tiptap
 <td rowspan="5" colspan="1">
 <p>MON
 <br>14:30-16:30
-<br>
 <br>&nbsp;WED
 <br>14:30-16:60</p>
 <p>(SCHOOL TEAM)</p>
