@@ -44,17 +44,17 @@ variant: tiptap
 <tr>
 <td rowspan="6" colspan="1">
 <p>Mr Ho Shin Hoo (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
+<br><a href="mailto:ho_shin_hoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
 </p>
-<p>Ms Hu Biying<a rel="noopener noreferrer nofollow" target="_blank"><br>hu_biying@moe.edu.sg</a>
+<p>Ms Hu Biying<a href="mailto:hu_biying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>hu_biying@moe.edu.sg</a>
 </p>
-<p>Mr Kelvin Chan<a rel="noopener noreferrer nofollow" target="_blank"><br>kelvin_chan_yong_meng@moe.edu.sg</a>
+<p>Mr Kelvin Chan<a href="mailto:kelvin_chan_yong_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>kelvin_chan_yong_meng@moe.edu.sg</a>
 </p>
-<p>Ms Lee Jia Yee<a rel="noopener noreferrer nofollow" target="_blank"><br>lee_jia_yee_a@moe.edu.sg</a>
+<p>Ms Lee Jia Yee<a href="mailto:lee_jia_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>lee_jia_yee_a@moe.edu.sg</a>
 </p>
-<p>Mr Daniel Chua<a rel="noopener noreferrer nofollow" target="_blank"><br>chua_hoe_leong@moe.edu.sg</a>
+<p>Mr Daniel Chua<a href="mailto:chua_hoe_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>chua_hoe_leong@moe.edu.sg</a>
 </p>
-<p>Ms Qin Chunni<a rel="noopener noreferrer nofollow" target="_blank"><br>qin_chunni@moe.edu.sg</a>
+<p>Ms Qin Chunni<a href="mailto:qin_chunni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>qin_chunni@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="6" colspan="1">
@@ -87,9 +87,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p></p>
-<h4><strong>Programme/ Development</strong></h4>
+<p>&nbsp;<strong>Programme/ Development</strong>
+</p>
 <p>Rugby is a fun-filled and fast-paced sport. There are many health benefits
 in playing rugby such as cardiovascular fitness and endurance, developing
 strength in the upper and lower body, agility, speed, ball handling and
