@@ -1,5 +1,5 @@
 collections:
-  test:
+  standby:
     output: true
     order:
       - School Canteen Advertisement.md
