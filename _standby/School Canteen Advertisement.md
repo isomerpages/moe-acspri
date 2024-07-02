@@ -28,7 +28,7 @@ description: ""
 <p>Asian Cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 June 2024</p>
+<p>19 July 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Any Asian Cuisine (Non-Halal)</p>
