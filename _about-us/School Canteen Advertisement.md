@@ -4,7 +4,6 @@ permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<h3><strong>School Canteen Advertisement</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
