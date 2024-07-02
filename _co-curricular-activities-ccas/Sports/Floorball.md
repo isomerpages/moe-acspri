@@ -54,7 +54,7 @@ variant: tiptap
 </td>
 <td rowspan="3" colspan="1">
 <p>MON
-<br>&nbsp;14:15 - 17:15&nbsp; (Training Squad and School Team)
+<br>&nbsp;14:15 - 17:15 (Training Squad and School Team)
 <br>&nbsp;WED
 <br>14:15 -17:15 (Developmental Team)</p>
 </td>

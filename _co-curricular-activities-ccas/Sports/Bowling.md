@@ -42,12 +42,24 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mdm Norhayati (I/C)
 <br><a href="mailto:norharyati_harun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
 </p>
 <p>Ms Ngoh Gek Luan<a href="mailto:ngoh_gek_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>ngoh_gek_luan@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WED
+<br>14:30-16:30</p>
+<p>(DEVELOPMENTAL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TPY SAFRA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
 <p>Mr Chow Kai Loon (I/C)
 <br><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
 </p>
@@ -56,42 +68,21 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p>WED
-<br>14:30-16:30</p>
-<p>(DEVELOPMENTAL)</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>TPY SAFRA</p>
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="5" colspan="1">
 <p>MON
 <br>14:30-16:30
-<br>
 <br>&nbsp;WED
 <br>14:30-16:60</p>
 <p>(SCHOOL TEAM)</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="5" colspan="1">
 <p>NSG VENUE</p>
 </td>
 </tr>
 <tr></tr>
 <tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
 <p>&nbsp;</p>

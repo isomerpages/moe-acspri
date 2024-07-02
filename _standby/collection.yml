@@ -1,0 +1,4 @@
+collections:
+  standby:
+    output: true
+    order: []
