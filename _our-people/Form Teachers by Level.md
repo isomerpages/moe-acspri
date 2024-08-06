@@ -380,7 +380,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2H</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -388,15 +388,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_chunju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_chunju@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Charles Zhang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_zong_yang_charles@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -843,10 +834,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Fu Qi</p>
+<p>Mr Charles Zhang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_fu_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fu_qi@moe.edu.sg</a>
+<p><a href="mailto:zhang_zong_yang_charles@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
 </p>
 </td>
 </tr>
