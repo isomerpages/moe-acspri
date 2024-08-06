@@ -248,7 +248,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="15" colspan="1">
+<td rowspan="16" colspan="1">
 <p>Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -386,6 +386,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lee Jia Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_Jia_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_Jia_yee_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="5" colspan="1">
 <p>Infocomm Technology</p>
 </td>
@@ -434,7 +443,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="11" colspan="1">
+<td rowspan="10" colspan="1">
 <p>Mathematics Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -492,15 +501,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Low</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_chong_jian_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_chong_jian_edwin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Mazeedah Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -536,7 +536,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="21" colspan="1">
+<td rowspan="20" colspan="1">
 <p>Mother Tongue Language Department-Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -697,15 +697,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhou_lingyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_lingyu@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Jia Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_Jia_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_Jia_yee_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
