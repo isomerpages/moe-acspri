@@ -248,7 +248,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="15" colspan="1">
+<td rowspan="16" colspan="1">
 <p>Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -382,6 +382,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aminda_chua_nyap_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aminda_chua_nyap_kin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lee Jia Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_Jia_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_Jia_yee_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -536,7 +545,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="21" colspan="1">
+<td rowspan="20" colspan="1">
 <p>Mother Tongue Language Department-Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -697,15 +706,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhou_lingyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_lingyu@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Jia Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_Jia_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_Jia_yee_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
