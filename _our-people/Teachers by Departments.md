@@ -443,7 +443,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="11" colspan="1">
+<td rowspan="10" colspan="1">
 <p>Mathematics Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -496,15 +496,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wei_tong_shanice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_tong_shanice@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edwin Low</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_chong_jian_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_chong_jian_edwin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
