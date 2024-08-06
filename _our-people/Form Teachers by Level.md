@@ -424,18 +424,9 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>3A</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Low Chong Jian Edwin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_chong_jian_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_chong_jian_edwin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Dawn Wee</p>
 </td>
