@@ -4,11 +4,9 @@ permalink: /school-bus-advertisement/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p>To apply, please refer to the Service Requirements and the Application
-Procedure below.</p>
-<p>&nbsp;</p>
-<h4><strong>Service Requirements</strong></h4>
+<h4></h4>
+<h4><strong>To apply, please refer to the Service Requirements and the Application Procedure below. </strong>&nbsp;</h4>
+<h3><strong>Service Requirements</strong></h3>
 <p>1.&nbsp;<a href="/files/Advertisement/Call_for_Proposal.pdf" rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal]</a>
 </p>
 <ol start="2" data-tight="true" class="tight">
