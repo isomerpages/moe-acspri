@@ -29,7 +29,7 @@ description: ""
 </p>
 <p>Contact Person: Mr Ernest Fu</p>
 <p>&nbsp;</p>
-<h4>How to get there?</h4>
+<h4><strong>How to get there?</strong></h4>
 <p>·&nbsp;&nbsp;Nearest MRT: Newton MRT (NS21/DT11 line) – 10 minutes walking
 distance</p>
 <p>·&nbsp;&nbsp;Bus number: 48, 67, 170, 960, 960e, 972M</p>
