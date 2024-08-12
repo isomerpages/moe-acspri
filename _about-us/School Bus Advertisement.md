@@ -24,7 +24,7 @@ Procedure below.</p>
 <p>1. Complete the <a href="/files/Advertisement/Call_for_Proposal_Annex_A_Information_Required__from_Vendor.pdf" rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal - Annex A (Information Required from Vendor]</a>
 </p>
 <p>&nbsp;2. Submit the completed Call for Proposal – Annex A by closing date,
-20 Aug 2024 to the School’s General Office.</p>
+20 Aug 2024 to the school’s General Office.</p>
 <p>&nbsp;Address: 50 Barker Road, S309918</p>
 <p>Contact No: 6250 1633</p>
 <p>Email: <a href="mailto:Ernest_Fu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ernest_Fu@schools.gov.sg</a>
