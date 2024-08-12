@@ -1,5 +1,4 @@
 collections:
   standby:
     output: true
-    order:
-      - School Bus Advertisement.md
+    order: []
