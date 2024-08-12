@@ -27,7 +27,7 @@ Procedure below.</p>
 20 Aug 2024 to the School’s General Office.</p>
 <p>&nbsp;Address: 50 Barker Road, S309918</p>
 <p>Contact No: 6250 1633</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Ernest_Fu@schools.gov.sg</a>
+<p>Email: <a href="mailto:Ernest_Fu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ernest_Fu@schools.gov.sg</a>
 </p>
 <p>Contact Person: Mr Ernest Fu</p>
 <p>&nbsp;</p>
