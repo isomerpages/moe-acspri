@@ -25,7 +25,7 @@ Procedure below.</p>
 </p>
 <p>&nbsp;2. Submit the completed Call for Proposal – Annex A by closing date,
 20 Aug 2024 to the school’s General Office.</p>
-<p>&nbsp;Address: 50 Barker Road, S309918</p>
+<p>Address: 50 Barker Road, S309918</p>
 <p>Contact No: 6250 1633</p>
 <p>Email: <a href="mailto:Ernest_Fu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ernest_Fu@schools.gov.sg</a>
 </p>
@@ -34,4 +34,4 @@ Procedure below.</p>
 <h4>How to get there?</h4>
 <p>·&nbsp;&nbsp;Nearest MRT: Newton MRT (NS21/DT11 line) – 10 minutes walking
 distance</p>
-<p>&nbsp;·&nbsp;&nbsp;Bus number: 48, 67, 170, 960, 960e, 972M</p>
+<p>·&nbsp;&nbsp;Bus number: 48, 67, 170, 960, 960e, 972M</p>
