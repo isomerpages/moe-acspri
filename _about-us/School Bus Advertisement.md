@@ -19,8 +19,8 @@ description: ""
 </p>
 <h4><strong>Application Procedure</strong></h4>
 <p>&nbsp;</p>
-<p>1. Complete the <a href="/files/Call_for_Proposals__For_Single_Bus_Service__ACS__Pri_.pdf" rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal - Annex A </a>
-<a href="/files/Advertisement/Call_for_Proposal_Annex_A_Information_Required__from_Vendor.pdf" rel="noopener noreferrer nofollow" target="_blank">(Information Required from Vendor]</a>
+<p>1. Complete the <a href="/files/Call_for_Proposals__For_Single_Bus_Service__ACS__Pri_.pdf" rel="noopener noreferrer nofollow" target="_blank">[</a>
+<a href="/files/Advertisement/Call_for_Proposal_Annex_A_Information_Required__from_Vendor.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A]</a>
 </p>
 <p>&nbsp;2. Submit the completed Call for Proposal – Annex A by closing date,
 20 Aug 2024 to the school’s General Office.</p>
