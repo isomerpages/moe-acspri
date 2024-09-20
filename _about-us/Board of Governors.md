@@ -23,7 +23,7 @@ variant: tiptap
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Seow Yung Liang</p>
+<p>Mr Richard Seow</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +31,7 @@ variant: tiptap
 <p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lock Wai Han</p>
+<p>Dr Wong Heng Yu</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,15 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr David Tan Hsien Yung</p>
+<p>Mr Teoh Tiong Ann</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Glenn David Foo</p>
 </td>
 </tr>
 <tr>
@@ -48,14 +56,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adam Tan Chin Han</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Wong Heng Yu</p>
 </td>
 </tr>
 <tr>
