@@ -2,21 +2,134 @@
 title: Board of Governors
 permalink: /about-us/board-of-governors/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-|  | | 
-| -------- | -------- | 
-| Chairman    | 	Mr Richard Seow Yung Liang  | 
-|	Vice-Chairman	|	Mr Lock Wai Han	|
-|	Member	|	Dr David Tan Hsien Yung	|
-|	Member	|	Mr Adam Tan Chin Han	|
-|	Member	|	Dr Wong Heng Yu	|
-|	Member	|	Mr Choe Peng Sum	|
-|	Member	|	Rev Kenneth Huang Teng Han	|
-|	Member	|	Rev Dr Aaron Tay Tian Yeow	|
-|	Member	|	Mr Lim Teck Yin	|
-|	Member	|	A/Prof Ong Biauw Chi	|
-|	Member	|	Mr Hugh Lim	|
-|	Member	|	Mr Gerald Balendran Singham	|
-|	Member	|	Dr Wong Chiang Yin	|
-|
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Richard Seow Yung Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lock Wai Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr David Tan Hsien Yung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Adam Tan Chin Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Wong Heng Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Choe Peng Sum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rev Kenneth Huang Teng Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rev Dr Aaron Tay Tian Yeow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Teck Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Ong Biauw Chi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hugh Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gerald Balendran Singham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Wong Chiang Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
