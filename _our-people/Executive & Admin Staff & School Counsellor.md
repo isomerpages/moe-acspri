@@ -90,8 +90,7 @@ variant: tiptap
 <p>Mdm Lina Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lina_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lina_chan</a>
-<a href="mailto:tan_qian_ning_angelina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:lina_chan@moe.edu.sg" rel="noopener nofollow" target="_blank">lina_chan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
