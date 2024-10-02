@@ -38,6 +38,8 @@ variant: tiptap
 </p>
 <p><a href="/files/P1_admin_2025/11PSG_Flyer.pdf" rel="noopener nofollow" target="_blank">11. PSG Flyer.pdf</a>
 </p>
+<p><a href="/files/P1_admin_2025/12TeacherAide2025.pdf" rel="noopener nofollow" target="_blank">12. Teacher Aide Programme 2025</a>
+</p>
 <p><a href="/files/P1_admin_2025/14Methodist.pdf" rel="noopener nofollow" target="_blank">14. Methodist Educational Brochure.pdf</a>
 </p>
 <p><a href="/files/P1_admin_2025/P1Handbook2025.pdf" rel="noopener nofollow" target="_blank">P1 Handbook for Parents 2025.pdf</a>
