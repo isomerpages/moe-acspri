@@ -87,7 +87,7 @@ variant: tiptap
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lina Chan</p>
+<p>Mdm Lina Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lina_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lina_chan</a>
