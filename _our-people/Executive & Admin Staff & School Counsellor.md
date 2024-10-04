@@ -96,6 +96,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Esther Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_kum_ying_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lau_kum_ying_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
