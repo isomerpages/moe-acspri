@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - Allied Educators.md
       - School Executive Committee.md
       - School Teaching Committee.md
       - Form Teachers by Level.md
       - Teachers by Departments.md
       - Executive & Admin Staff & School Counsellor.md
+      - Allied Educators.md
