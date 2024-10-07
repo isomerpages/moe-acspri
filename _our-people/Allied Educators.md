@@ -24,10 +24,46 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Desmond Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_shuh_onn@moe.edu.sg" rel="noopener nofollow" target="_blank">liew_shuh_onn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Jumadi Jamaludin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_jumadi_jamaludin@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_jumadi_jamaludin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Daphne Heng Syn Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:heng_syn_yee_daphne@moe.edu.sg" rel="noopener nofollow" target="_blank">heng_syn_yee_daphne@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Stephanie Hooi Li Qiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -35,43 +71,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SEN Officer</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Elton Lim Zhan Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -90,4 +94,6 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
