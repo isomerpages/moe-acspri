@@ -36,6 +36,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Part-time School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Chee Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_chee_har@acsp.sg" rel="noopener nofollow" target="_blank">chan_chee_har@acsp.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
