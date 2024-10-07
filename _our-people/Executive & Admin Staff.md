@@ -75,7 +75,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>M Keith Chong</p>
+<p>Mr Keith Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:keith_chong@schools.gov.sg" rel="noopener nofollow" target="_blank">keith_chong@schools.gov.sg</a>
