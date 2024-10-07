@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Allied Educators.md
       - School Executive Committee.md
       - School Teaching Committee.md
       - Form Teachers by Level.md
