@@ -23,7 +23,7 @@ variant: tiptap
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Seow</p>
+<p>Mr Choe Peng Sum</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choe Peng Sum</p>
+<p>Mr Richard Seow</p>
 </td>
 </tr>
 <tr>
