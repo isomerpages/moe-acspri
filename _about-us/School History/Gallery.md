@@ -21,7 +21,5 @@ The ACS story is not complete without the participation and support of all stake
 The Best Is Yet To Be!
 
 
-### **Virtual Tour of ACS(P) Heritage Gallery**
 
 
-[ACS(P) Heritage Gallery Virtual Tour](http://oneacsheritagegallery.com/welcome-tour)
