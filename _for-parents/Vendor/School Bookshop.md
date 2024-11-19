@@ -11,5 +11,6 @@ variant: tiptap
 the opening hours from 8.00am to 4.00pm. Parents are only allowed to visit
 the bookshop after school hours from 2pm onwards.</p>
 <p></p>
+<p></p>
 <p>Website:<a href="www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
