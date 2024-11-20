@@ -536,7 +536,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="19" colspan="1">
 <p>Mother Tongue Language Department-Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -580,15 +580,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Fu Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_fu_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_fu_qi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
