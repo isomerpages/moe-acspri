@@ -51,10 +51,10 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Morgan Zhou</p>
+<p>Mrs Jeanne Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:morgan_zhou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">morgan_zhou@schools.gov.sg</a>
+<p><a href="mailto:teh_hsiao_chuin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_hsiao_chuin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
