@@ -402,11 +402,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zubaidah Sheik Md Ishak&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg" rel="noopener nofollow" target="_blank">zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -610,11 +609,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kathleen Chan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_yin_hong_kathleen@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_yin_hong_kathleen@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -656,10 +654,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zubaidah Sheik Md Ishak&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg" rel="noopener nofollow" target="_blank">zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -865,6 +864,62 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kathleen Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_yin_hong_kathleen@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_yin_hong_kathleen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
