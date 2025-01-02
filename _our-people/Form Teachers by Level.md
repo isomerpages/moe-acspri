@@ -133,7 +133,8 @@ variant: tiptap
 <p>Ms Judith Ogawa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:judith_ogawa@moe.edu.sg" rel="noopener nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +175,8 @@ variant: tiptap
 <p>Ms Chen Xiaoxiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chen_xiaoxiao@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -244,10 +246,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Melissa Goh</p>
+<p>Mdm Melissa Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:melissa_goh_qiu_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">melissa_goh_qiu_yan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -484,7 +487,8 @@ variant: tiptap
 <p>Ms Joanne Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -847,7 +851,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jovan Teo</p>
+<p>Mr Jovan Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -966,7 +970,8 @@ variant: tiptap
 <p>Ms Vaishnavi S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:vaishavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank">vaishavi_srinivasan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
