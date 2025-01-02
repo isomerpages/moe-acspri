@@ -175,7 +175,7 @@ variant: tiptap
 <p>Ms Chen Xiaoxiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_xiaoxiao@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@schools.gov.sg</a>
+<p><a href="mailto:chen_xiaoxiao@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
