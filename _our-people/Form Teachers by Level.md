@@ -1162,7 +1162,8 @@ variant: tiptap
 <p>Mr Fabian Chew Peng Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:fabian_chew_peng_boon@moe.edu.sg" rel="noopener nofollow" target="_blank">fabian_chew_peng_boon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
