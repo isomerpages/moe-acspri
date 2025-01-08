@@ -508,7 +508,7 @@ variant: tiptap
 <p>Mdm Bavani Balasubarammany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">barammany@moe.edu.sg</a>
+<p><a href="mailto:Bavani_Balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">Bavani_Balasubarammany@moe.edu.sg</a>
 </p>
 </td>
 </tr>
