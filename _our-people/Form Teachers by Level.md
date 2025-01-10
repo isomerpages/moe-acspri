@@ -971,7 +971,7 @@ variant: tiptap
 <p>Ms Vaishnavi Srinivasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: vaishnavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank"> vaishnavi_srinivasan@moe.edu.sg</a>
+<p><a href="mailto: vaishnavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank">vaishnavi_srinivasan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
