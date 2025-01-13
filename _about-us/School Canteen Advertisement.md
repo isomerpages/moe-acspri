@@ -24,13 +24,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asian Cuisine</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 August 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Any Asian Cuisine (Non-Halal)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
