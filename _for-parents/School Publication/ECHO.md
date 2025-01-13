@@ -9,4 +9,3 @@ ECHO is a quarterly publication which provides parents and stakeholders with per
 
 
 
-###### [Click to view the digital copies](https://acsecho.com/)
