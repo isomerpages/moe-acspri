@@ -458,7 +458,8 @@ variant: tiptap
 <p>Ms Stephanie Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yeo_chin_pin_stephanie_a@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_chin_pin_stephanie_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -967,10 +968,10 @@ variant: tiptap
 <p>5H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vaishnavi S</p>
+<p>Ms Vaishnavi Srinivasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vaishavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank">vaishavi_srinivasan@moe.edu.sg</a>
+<p><a href="mailto: vaishnavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank">vaishnavi_srinivasan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1112,7 +1113,8 @@ variant: tiptap
 <p>Ms Kathryn Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_hui_ting_kathryn@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_hui_ting_kathryn@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
