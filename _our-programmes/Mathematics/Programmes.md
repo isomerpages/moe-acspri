@@ -6,7 +6,7 @@ third_nav_title: Mathematics
 variant: tiptap
 ---
 <h3><strong>Vision</strong></h3>
-<p>In ACS(P), the goal of the Mathematics curriculum is to develop students’
+<p>In ACS(P), the goal of the mathematics curriculum is to develop students’
 numeracy, reasoning, thinking skills and problem-solving skills. It is
 our aim for the pupils to acquire the necessary Mathematical concepts and
 skills for everyday life, develop the necessary process skills for the
