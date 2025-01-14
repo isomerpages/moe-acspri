@@ -3,98 +3,180 @@ title: Programmes
 permalink: /our-programmes/mathematics/programmes/
 description: ""
 third_nav_title: Mathematics
-variant: markdown
+variant: tiptap
 ---
-### **Vision**
-To build digitally ready ACSians of Capability, Character and Creativity, harnessing ICT to go beyond. 
-### **Mission**
-
-Four pillars of our mission are: Cultivate ACSians to be self-directed, connected, future-ready and responsible digital learners who can leverage on technology for learning. Empower teachers to be designers and facilitators of meaningful tech-mediated learning experience. Provides a responsive school environment that support learning anytime and anywhere. Engage parents as active partners who support technology-enabled learning. 
-### **ICT student outcomes: Curate, Collaborate, Create**
-#### **Curriculum**
-
-In today's rapidly evolving digital landscape, it is essential to equip our young learners with the skills and knowledge they need to thrive in the digital age. ACS(P) ICT (Information and Communication Technology) department is committed to fostering self-directed, connected, future-ready, and responsible digital learners. Our primary school ICT curriculum and various tech-enabled programmes play a pivotal role in achieving this mission.
-
-Primary School ICT Curriculum: A Foundation for Digital Fluency
-Our primary school ICT curriculum is designed to provide students with a foundation in digital literacy, critical thinking, problem-solving, and creativity. It is structured to ensure that students progressively build their ICT skills, starting from the basics and moving towards more advanced concepts as they advance through their primary school years.
-
-The curriculum focuses on areas such as:
-
-**Digital Literacy**: Teaching students how to navigate digital devices, use software and applications effectively, and understand the principles of digital safety and ethics.
-
-**ICT Baseline Competencies**: Ensuring that students meet the necessary ICT baseline skills and competencies at each grade level, empowering them to learn effectively in technology-enhanced learning environments.
-
-**Information Literacy**: Helping students develop the skills to find, evaluate, and use information from various digital sources responsibly.
-
-**Coding and Computational Thinking**: Introducing students to the fundamentals of coding and problem-solving through fun and interactive activities.
-
-**Cyber wellness**: Teaching students about online safety, privacy, and responsible online behaviour through our Cyber Wellness programme, in collaboration with Student Development Department and Character and Citizenship Education Department.
-
-Teachers as Designers and Facilitators of Tech-Mediated Learning
-Our teachers play a crucial role in delivering a meaningful tech-mediated learning experience. They are not just educators but also designers of digital learning experiences tailored to the unique needs of our students. They incorporate technology into their lessons, creating interactive and engaging activities that enhance students' understanding and skills.
-In our school, teachers facilitate:
-Blended Learning: Combining traditional teaching methods with technology to create a dynamic learning environment.
-Flipped Classrooms: Encouraging students to engage with digital resources before class, allowing for more interactive and collaborative in-class activities.
-Project-Based Learning: Leveraging digital tools to empower students to work on real-world projects, fostering creativity and critical thinking.
-
-A Responsive School Environment
-We believe in creating a responsive school environment that supports learning anytime and anywhere. Our infrastructure is designed to provide students with access to technology resources, both in the classroom and remotely. This ensures that learning is not confined to the school premises but extends to the digital world, allowing students to explore and learn beyond the classroom walls.
-
-Parents as Active Partners
-We recognize the crucial role parents play in supporting their children's technology-enabled learning. Our school encourages parents to be active partners in their child's digital education journey. We provide resources and workshops to help parents understand the digital tools and platforms used in the classroom, enabling them to support and engage with their children effectively.
-
-Harnessing ICT to Go Beyond
-In the digital age, ICT transcends traditional boundaries, expanding learning beyond the school bell, grade levels, and subject disciplines, while erasing the obstacles of physical classrooms and communication. Empowered by the right technology tools and platforms, students gain access to an expansive world of knowledge and experiences. ICT empowers them to explore diverse subjects, cultivating a deep love for learning that extends beyond conventional curriculum boundaries. Furthermore, it fosters seamless communication and collaboration, connecting students with educators and learners worldwide. By harnessing ICT, ACS(P) shapes students who are not only future-ready but also prepare them to a limitless digital learning landscape, cultivating a culture of continuous, interdisciplinary, and global learning with boundless possibilities.
-
-
-In conclusion, the ICT curriculum and programs at ACS(P) are designed to mold self-directed, connected, future-ready, and responsible digital learners. Through the collaboration of dedicated teachers, a responsive school environment, and active engagement from parents, we aim to prepare our students to excel in an ever-changing digital world. Together, we are nurturing the digital leaders of tomorrow.
-
-#### **Programme**
-
-Programmes Cultivating Well-Rounded Digital Learners (for all levels)
-
-**ICT Baseline 6-years Programme**: The ICT baseline competencies are benchmarks that ensure our students are on track with their ICT skills. These lessons are taught in a blended format, through interactive in class lessons as well as online self-directed learning packages. These competencies are aligned with skills that are needed during ICT-infused curriculum lessons and serve as a roadmap for students to develop their digital skills progressively. Some skills are Touch typing, Document processing apps, Digital Mind mapping, Presentation apps.
-
-**Cyber Wellness**: Our Cyber Wellness programme is an important part of our ICT curriculum. It focuses on teaching students how to navigate the digital world safely and responsibly. Through interactive self-learning packages, students learn about online etiquette, the consequences of cyberbullying, and how to protect their personal information.
-
-**Coding and Computational Thinking programme (for Primary 4)**:
-Coding and computational thinking encourage creativity and innovation.  Students learn to think outside the box and create digital solutions to real-world challenges. The ability to code and think computationally has become a fundamental skill, much like reading and writing. Recognizing the importance of preparing students for the future, ACS(P) have engaged trainers from IMDA to conduct 10 hours coding and computational thinking programme for Primary 4 students. This programme not only equip students with valuable technical skills but also foster problem-solving abilities, creativity, and critical thinking. Key elements of the programme include hands-on block-based coding activities, problem-solving challenges, improving logical thinking, collaborative learning, real-world applications as well as introduction to Artificial Intelligence. 
-Computational thinking is the ability to break down complex problems into smaller, manageable parts and develop algorithms to solve them. It is a fundamental skill that extends beyond coding and is applicable to a wide range of disciplines. Computational thinking encourages students to analyze problems logically, design systematic solutions, and think critically. It also teaches students how to approach complex problems methodically and find effective solutions. These problem-solving skills are transferable to other areas of life and empower students to thrive in a digital world.
-
-As these programmes continue to gain momentum, they are shaping a generation of learners who are not only tech-savvy but also innovative and well-prepared for the complexities of the modern world.
-
-### **Learning Support / Stretch Programmes**
-
-#### **Events**
-
-
-Bridging Borders with Technology: e-Internationalisation for Primary 5
-
-In an increasingly interconnected world, ICT has opened up exciting opportunities for global collaboration and learning. Our Primary 5 students had the experience of e-Internationalisation exchange programme with a Primary school in Xi’An China. This innovative initiative that stems after the pandemic closed physical borders, harnesses the power of technology to break down geographical barriers and foster cross-cultural understanding among our students.
-
-Through the e- Internationalisation programme, our students have the unique opportunity to connect with students from the paretPrimary school, located in a different part of the world. Technology serves as the bridge that links our classrooms, allowing students to interact, collaborate, and learn together without leaving their respective countries. The e-Internationalisation programme has enabled our students to enhance cultural awareness and promote global citizenship. By interacting with students from different cultural backgrounds, our students gain valuable insights into the customs, traditions, and perspectives of their peers from abroad. This exposure fosters tolerance, empathy, and a broader worldview. Students from both schools communicate primarily in Chinese, providing an immersive environment for language learning. They engage in meaningful discussions and showcase, attended lessons, improving their language skills while building friendships with peers from diverse linguistic backgrounds.
-
-Our e-internationalisation programme exemplifies the power of ICT in education. It goes beyond traditional classroom learning, offering students a glimpse into the future of global connectivity and collaboration. It prepares them to be citizens of a world that is increasingly interconnected and interdependent.
-
-In an era where technology has the potential to bring the world closer together, e-internationalisation programme serves as a shining example of how ICT can transform education. It not only enhances students' academic and language skills but also fosters cultural awareness, empathy, and a sense of global citizenship. As we embark on this exciting journey of e-exchanges with our overseas partner school, we look forward to the growth and learning that this programme will bring to our students.
-
-#### **Competitions**
- 
-Unleashing Young Talents: The Swift Explorer Singapore (SES) Coding Challenge
-
-The Swift Explorer Singapore Coding Challenge, often referred to as SES, is an annual event that encourages and foster innovation and hone problem-solving skills. This challenge provides a platform for students to showcase their skills, creativity, and problem-solving abilities while competing with peers from across the country.
-
-SES 2023 was great opportunity and exposure for our students to experience coding in Swift Playground. Swift is a powerful and versatile programming language developed by Apple. While designing an app that centres inclusion and accessibility, it develops empathy in our student while encouraging them to think critically, collaborate, and approach problems from different angles.
-
-#### **Assessment Matters**
-
-
-&nbsp;1. What do the assessments focus on for all pupils?<br>&nbsp;
-The Mathematics curriculum is to ensure that pupils will acquire and apply Mathematical concepts and skills. Pupils will develop cognitive and metacognitive skills through a Mathematical approach to problem- solving and develop positive attitudes towards learning Mathematics.&nbsp;
-
-  
-2\. How do we prepare our pupils for the exam?  
-We:  
-*   ensure that the pupils have mastery of their times-tables.&nbsp;
-*   encourage pupils to draw the model for solving word problems, if applicable.&nbsp;
-*   remind pupils to be mindful of their presentation of answers. There must be proper number statements shown.
+<h3><strong>Vision</strong></h3>
+<p>In ACS(P), the goal of the mathematics curriculum is to develop students’
+numeracy, reasoning, thinking skills and problem-solving skills. It is
+our aim for the pupils to acquire the necessary Mathematical concepts and
+skills for everyday life, develop the necessary process skills for the
+acquisition and application of Mathematical concepts and skills and to
+develop positive attitudes for Mathematics.</p>
+<p></p>
+<h3><strong>Mission</strong></h3>
+<p>Our Mathematics lessons and programmes focus on incorporating Info-communication
+technology (ICT), experiential learning, curriculum differentiation and
+citizenship and character development (CCE). Various ICT tools like the
+school e-learning portal and Classroom Performance System (CPS) are used
+in the teaching of Mathematical concepts. Pupils have opportunities to
+learn experientially through hands-on activities while a number of Mathematics
+lessons are conducted outside the classroom. Curriculum differentiation
+is carried out in the Mathematics classroom through banding and differentiated
+lessons. We believe that every child is unique and different strategies
+and approaches are used to help the child in the subject. Values are taught
+wherever applicable in the various Mathematical topics.</p>
+<p></p>
+<h4><strong>Programmes</strong></h4>
+<p><strong>P1 to P6</strong>
+</p>
+<p><strong>Financial Literacy Programm</strong>
+</p>
+<p>In line with the objective to promote and provide a learning environment
+that encourages critical and inventive thinking and creative problem-solvers
+among pupils, the Financial Literacy Programme imparts pupils with basic
+financial literacy skills through hands-on activities. The programme emphasizes
+on Mathematics. The programme enriches pupils’ skills on decision-making,
+following directions, listening responsively and making observations. They
+also develop teamwork through recognizing symbols and money in the form
+of role-playing. Furthermore, pupils learn financial life skills through
+interactive games and varied activities which encourage pupils to think
+innovatively and unleash their ideas, fostering an entrepreneurial mind-set
+amongst them.</p>
+<p>The Financial Literacy Programme is made byte-sized and in a progressive
+manner so that the learning outcomes are spanned across the six years in
+their primary education. The lessons and activities are structured with
+a gradual increase in the complexity of content knowledge to cater to the
+pupils as they move up in different levels. Pupils work collaboratively
+in groups and engage meaningfully in discussions in order to solve the
+assigned tasks. In addition, through these activities, pupils learn the
+right values, skills, attitudes and also hone their self-confidence and
+communication skills for 21st century problem-solvers.</p>
+<p>The aims of this programme:</p>
+<p>* To enable pupils to differentiate between needs and wants</p>
+<p>* To inculcate in pupils good savings habits from young</p>
+<p>* To equip pupils with basic knowledge of managing their money</p>
+<p>* To relate financial literacy to real-life contexts</p>
+<p></p>
+<p><strong>P5 to P6 Banding &amp; P3, P4 Pull-out</strong>
+</p>
+<p></p>
+<p>This enables the pupils to learn at their own pace. Additional support
+is provided to students who require it.</p>
+<p><strong>P1 LSM</strong>
+</p>
+<p>The Learning Support for Math (LSM) programme caters to P1 pupils who
+require more individual help in developing their numeracy skills. Through
+the small group setting, pupils are able to benefit from the various hands-on
+strategies to help them in the subject.</p>
+<p><strong>Process Skills</strong>
+</p>
+<p>The P1 and P2 pupils are taught the following heuristics:</p>
+<p>* Make a Table</p>
+<p>* Find a Pattern</p>
+<p>* Draw a Picture</p>
+<p>* Logical Reasoning</p>
+<p>* Choose the Operations</p>
+<p>* Guess and Check</p>
+<p>* Make a List</p>
+<p>* Process Data</p>
+<p></p>
+<p><strong>P3 - P4</strong>
+</p>
+<p><strong>Remedial Lessons</strong>
+</p>
+<p>Remedial lessons are conducted for the pupils who require more support
+in the subject. Teachers make use of these weekly lessons to help the pupils
+in the mastery of Math concepts and skills.</p>
+<p><strong>Process Skills</strong>
+</p>
+<p>The P3 and P4 pupils are taught the following heuristics:</p>
+<p>* Make a Table</p>
+<p>* Find a Pattern</p>
+<p>* Logical Reasoning</p>
+<p>* Choose the Operations</p>
+<p>* Guess and Check</p>
+<p>* Make a List</p>
+<p>* Process Data</p>
+<p><strong>P4 - P5</strong>
+</p>
+<p><strong>E2K (Mathematics)</strong>
+</p>
+<p>The Excellence 2000 (E2K) Mathematics Programme was developed by Israel
+Centre for Excellence through Education (ICEE). The E2K Math Programme
+was conceptualized as a Mathematics enrichment programme for upper primary
+pupils who demonstrate interest and ability in Mathematics.</p>
+<p>The goals of the Programme are to foster independence in mathematical
+thinking skills, as well as nurture other important 21st century competencies
+such as resilience and resourcefulness, critical and inventive thinking
+and effective communication skills. The programme comprises mathematics
+curriculum units that are designed to challenge high-ability pupils and
+to introduce them to advanced mathematical concepts and thinking.</p>
+<p>During the E2K sessions, pupils will be assigned challenging Math problems.
+They will have opportunities to discover, reason and communicate Mathematical
+ideas and concepts, especially in problem solving.</p>
+<p></p>
+<p><strong>P5 and P6</strong>
+</p>
+<p><strong><em>Remedial and Supplementary Lessons</em></strong>
+</p>
+<p>At Primary 5, remedial lessons are carried out for the pupils who require
+more support in the subject. Supplementary classes are carried out for
+the Primary 6 pupils to prepare them for the Primary School Leaving Examination
+(PSLE).</p>
+<p><strong>Process Skills</strong>
+</p>
+<p>The P5 and P6 pupils are taught the following heuristics:</p>
+<p>* Make a Table</p>
+<p>* Find a Pattern</p>
+<p>* Draw a Picture</p>
+<p>* Logical Reasoning</p>
+<p>* Choose the Operations</p>
+<p>* Guess and Check</p>
+<p>* Make a List</p>
+<p>* Process Data</p>
+<p>* Supposition</p>
+<p>* Working Backwards</p>
+<p><strong>2. Activities</strong>
+</p>
+<p><strong>P1 – P2</strong>
+</p>
+<p><strong>P1 Learning Journey</strong>
+</p>
+<p>Pupils will discover unique facts about amazing marine creatures, and
+how similar or different they can be. They will also learn the importance
+of their roles in our oceans and how we keep the oceans healthy by protecting
+them. The learning journey allows pupils to connect Mathematics that they
+have learnt in the real world and develop Mathematical competencies.</p>
+<p></p>
+<p><strong>P2 Station Work</strong>
+</p>
+<p>Pupils will take part in station work where they will have an opportunity
+to apply Mathematical skills and concepts learnt.</p>
+<p></p>
+<p><strong>P2 Amazing Race</strong>
+</p>
+<p>This learning journey ties in the themes of community, neighbourhood and
+occupations. The activities during the learning journey focus on topics
+like money, measurement, graphs and patterns. Life skills like using public
+transport, reading signs, budgeting and teamwork are also introduced.</p>
+<p><strong>P1-P6</strong>
+</p>
+<p><strong>Maths Recess Activities</strong>
+</p>
+<p>During recess, pupils will take part in interesting games that will let
+them apply skills and concepts learn in the classroom.</p>
+<p><strong>P5-P6</strong>
+</p>
+<p><strong>P5 Mathematics Trail</strong>
+</p>
+<p>Pupils will embark on station based learning within the school premises.
+There will be station work where pupils will attempt questions and tasks
+related to the topic on Volume, taught previously.</p>
+<p></p>
+<p><strong>P6 Outdoor Learning</strong>
+</p>
+<p>The P6 pupils will embark on an outdoor learning lesson on the topic of
+pie charts. Pupils will also have the chance of crafting questions related
+to the pie charts that they have created.
+<br>
+</p>
