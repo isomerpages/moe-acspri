@@ -57,7 +57,7 @@ communication skills for 21st century problem-solvers.</p>
 <p>* To equip pupils with basic knowledge of managing their money</p>
 <p>* To relate financial literacy to real-life contexts</p>
 <p></p>
-<p> <strong>P5 to P6 Banding &amp; P3, P4 Pull-out</strong>
+<p><strong>P5 to P6 Banding &amp; P3, P4 Pull-out</strong>
 </p>
 <p></p>
 <p>This enables the pupils to learn at their own pace. Additional support
@@ -80,7 +80,7 @@ strategies to help them in the subject.</p>
 <p>* Make a List</p>
 <p>* Process Data</p>
 <p></p>
-<p> <strong>P3 - P4</strong>
+<p><strong>P3 - P4</strong>
 </p>
 <p><strong>Remedial Lessons</strong>
 </p>
@@ -173,7 +173,7 @@ them apply skills and concepts learn in the classroom.</p>
 There will be station work where pupils will attempt questions and tasks
 related to the topic on Volume, taught previously.</p>
 <p></p>
-<p><strong>P6 Outdoor Learning</strong> 
+<p><strong>P6 Outdoor Learning</strong>
 </p>
 <p>The P6 pupils will embark on an outdoor learning lesson on the topic of
 pie charts. Pupils will also have the chance of crafting questions related
