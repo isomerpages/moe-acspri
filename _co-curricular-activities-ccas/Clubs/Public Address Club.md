@@ -55,10 +55,18 @@ variant: tiptap
 </p>
 <p>Mr Aravinthan s/o A Karuppiah<a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
 </p>
-<p>Mdm Sarah Su<a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>su_xinhui_sarah@moe.edu.sg</a>
+<p></p>
+<p>Mr Chhoa Kok Kheng</p>
+<p><a href="mailto:chhoa_kok_kheng@moe.edu.sg" rel="noopener nofollow" target="_blank">chhoa_kok_kheng@moe.edu.sg</a>
 </p>
-<p>Mr Vijayakumaran Govindasamy<a href="mailto:vijayakumaran_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>vijayakumaran_govindasamy@moe.edu.sg</a>
+<p></p>
+<p>Mr Caleb Chua</p>
+<p><a href="mailto:caleb_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">caleb_chua@moe.edu.sg</a>
 </p>
+<p>Mr Oscar Tay</p>
+<p><a href="mailto:tay_ting_chuan_oscar@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_ting_chuan_oscar@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MON</p>
@@ -92,6 +100,17 @@ variant: tiptap
 </td>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
