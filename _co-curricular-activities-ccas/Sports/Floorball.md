@@ -47,9 +47,11 @@ variant: tiptap
 <p>Mr Charles Zhang (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
 </p>
-<p>Ms Shariza Binte <a rel="noopener noreferrer nofollow" target="_blank">Shari<br>shariza_shari_a@moe.edu.sg</a>
+<p>Ms Foo Ting</p>
+<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
 </p>
-<p>Ms Foo Ting <a rel="noopener noreferrer nofollow" target="_blank">Ting<br>foo_ting_ting@moe.edu.sg</a>
+<p>Mdm Jenn Ang</p>
+<p><a href="mailto:jenn_ang@moe.edu.sg" rel="noopener nofollow" target="_blank">jenn_ang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
