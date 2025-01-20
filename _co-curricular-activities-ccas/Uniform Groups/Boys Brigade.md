@@ -56,9 +56,7 @@ variant: tiptap
 <p>Ms Joanne Ong</p>
 <p><a href="mailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
 </p>
-<p>Ms Chia Jie Yu Chloe</p>
-<p><a href="mailto:chia_jie_yu_chloe@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_jie_yu_chloe@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="3" colspan="1">
 <p>WED
