@@ -44,8 +44,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Ms Chan Soo Ping (I/C)
-<br><a href="mailto:chan_soo_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
+<p>Miss Amanda Lim(I/C)</p>
+<p><a href="mailto:lim_zhi_yan_amanda_b@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_zhi_yan_amanda_b@moe.edu.sg</a>
 </p>
 <p>Mdm Sarah Su</p>
 <p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
@@ -53,6 +53,9 @@ variant: tiptap
 <p>Mr Caleb Chua<a href="mailto:caleb_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>caleb_chua@moe.edu.sg</a>
 </p>
 <p>Ms Amanda Lim<a href="mailto:lim_zhi_yan_amanda_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>lim_zhi_yan_amanda_b@moe.edu.sg</a>
+</p>
+<p>Ms Chan Soo Ping
+<br><a href="mailto:chan_soo_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
