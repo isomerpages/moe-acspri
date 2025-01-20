@@ -43,15 +43,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Mr Stanley Yeo (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_meng_stanley@moe.edu.sg</a>
-</p>
-<p>Ms Mazeedah<a rel="noopener noreferrer nofollow" target="_blank"><br>mazeedah_mohamed_azmi@moe.edu.sg</a>
+<p>Ms Mazeedah(I/C)<a rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<a href="mailto:mazeedah_mohamed_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">mazeedah_mohamed_azmi@moe.edu.sg</a>
 </p>
 <p>Ms Ho Lim Hwei<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_lim_hwei@moe.edu.sg</a>
 </p>
+<p>Mdm Li Youge</p>
+<p><a href="mailto:lu_youge@moe.edu.sg" rel="noopener nofollow" target="_blank">lu_youge@moe.edu.sg</a>
+</p>
+<p></p>
 <p>Ms Tan Siow Hwee<a rel="noopener noreferrer nofollow" target="_blank"><br>tan_siow_hwee@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="4" colspan="1">
 <p>MON
