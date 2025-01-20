@@ -62,7 +62,7 @@ variant: tiptap
 <p>Mr Oscar Tay</p>
 <p><a href="mailto:tay_ting_chuan_oscar@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_ting_chuan_oscar@moe.edu.sg</a>
 </p>
-<p>Mdm Michelle</p>
+<p>Mdm Michelle Lim</p>
 <p><a href="mailto:lim_pei_yu_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_yu_michelle@moe.edu.sg</a>
 </p>
 <p>Mr Tiong Sze Chiat<a rel="noopener noreferrer nofollow" target="_blank"><br>tiong_sze_chiat@moe.edu.sg</a>
