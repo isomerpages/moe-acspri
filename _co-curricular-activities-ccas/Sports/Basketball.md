@@ -47,12 +47,13 @@ variant: tiptap
 <p>Miss Amanda Lim(I/C)</p>
 <p><a href="mailto:lim_zhi_yan_amanda_b@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_zhi_yan_amanda_b@moe.edu.sg</a>
 </p>
-<p>Mdm Sarah Su</p>
-<p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
+<p>Mrs Shanice Toh</p>
+<p><a href="mailto:lim_wei_tong_shanice@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wei_tong_shanice@moe.edu.sg</a>
+</p>
+<p>Mrs Dawn Wee</p>
+<p><a href="mailto:wong_seow_seah_dawn@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_seow_seah_dawn@moe.edu.sg</a>
 </p>
 <p>Mr Caleb Chua<a href="mailto:caleb_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>caleb_chua@moe.edu.sg</a>
-</p>
-<p>Ms Amanda Lim<a href="mailto:lim_zhi_yan_amanda_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>lim_zhi_yan_amanda_b@moe.edu.sg</a>
 </p>
 <p>Ms Chan Soo Ping
 <br><a href="mailto:chan_soo_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
