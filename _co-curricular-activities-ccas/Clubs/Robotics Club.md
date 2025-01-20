@@ -49,7 +49,6 @@ variant: tiptap
 <p>Mdm Tan Yoke Joo (I/C)
 <br><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
 </p>
-<p></p>
 <p>Mdm Vasanthi<a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>vasanthi_arumugam@moe.edu.sg</a>
 </p>
 <p>Ms Judith Ogawa</p>
