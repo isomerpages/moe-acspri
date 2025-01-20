@@ -49,7 +49,8 @@ variant: tiptap
 </p>
 <p>Mr Chhoa Kok Kheng<a href="mailto:chhoa_kok_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>chhoa_kok_kheng@moe.edu.sg</a>
 </p>
-<p>Aravinthan S/O A Karuppiah<a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>aravinthan_a_karuppiah@moe.edu.sg</a>
+<p>Mr Aravinthan</p>
+<p><a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aravinthan_a_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
