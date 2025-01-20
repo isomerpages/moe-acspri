@@ -57,6 +57,9 @@ variant: tiptap
 <p>Mdm Chiew Hwee Ling</p>
 <p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_hwee_ling@moe.edu.sg</u></a>
 </p>
+<p>Mis Patricia Lim</p>
+<p><a href="mailto:natasha_patricia_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>MON</p>
@@ -74,12 +77,11 @@ variant: tiptap
 <tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mr Tan Yew Chai (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">tan_yew_chai@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mrs Zahara Osman</p>
 <p><a href="mailto:zahara_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahara_osman@moe.edu.sg</a>
+</p>
+<p>Ms Lingyu</p>
+<p><a href="mailto:zhou_lingyu@moe.edu.sg" rel="noopener nofollow" target="_blank">zhou_lingyu@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">
