@@ -45,11 +45,10 @@ variant: tiptap
 <tr>
 <td rowspan="3" colspan="1">
 <p>Ms Jessica Lai (I/C)
-<br><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+<br><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
 </p>
-<p>Mdm Jenn Ang<a href="mailto:jenn_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>jenn_ang@moe.edu.sg</a>
-</p>
-<p>Ms Zubaidah<a href="mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
+<p>Mdm Tay Questal</p>
+<p><a href="mailto:tay_questal@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_questal@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
