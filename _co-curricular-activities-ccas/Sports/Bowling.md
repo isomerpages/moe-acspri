@@ -46,7 +46,8 @@ variant: tiptap
 <p>Mdm Norhayati (I/C)
 <br><a href="mailto:norharyati_harun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
 </p>
-<p>Ms Ngoh Gek Luan<a href="mailto:ngoh_gek_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>ngoh_gek_luan@moe.edu.sg</a>
+<p>Mdm Li Xuesong</p>
+<p><a href="mailto:li_xuesong@moe.edu.sg" rel="noopener nofollow" target="_blank">li_xuesong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,10 +64,22 @@ variant: tiptap
 <p>Mr Chow Kai Loon (I/C)
 <br><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
 </p>
-<p>Mr Jonathan Lim</p>
-<p>Mdm Bavani D/O Balasubarammany</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
+<p>Ms Xu Jie</p>
+<p><a href="mailto:xu_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">xu_jie@moe.edu.sg</a>
 </p>
+<p>Mdm Chiew Hwee Ling</p>
+<p><a href="chiew_hwee_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">chiew_hwee_ling@moe.edu.sg</a>
+</p>
+<p>Mr Edmund Wu</p>
+<p><a href="mailto:edmund_wu_kok_ming@moe.edu.sg" rel="noopener nofollow" target="_blank">edmund_wu_kok_ming@moe.edu.sg</a>
+</p>
+<p>Mr Seow Kian Yong</p>
+<p><a href="mailto:seow_kian_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">seow_kian_yong@moe.edu.sg</a>
+</p>
+<p>Mdm Farisa Begame</p>
+<p><a href="mailto:farisa_begame_abdul_salam@moe.edu.sg" rel="noopener nofollow" target="_blank">farisa_begame_abdul_salam@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="5" colspan="1">
 <p>MON

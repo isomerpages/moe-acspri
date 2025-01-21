@@ -46,9 +46,16 @@ variant: tiptap
 <p>Ms Chan Wai Ying Elyse (I/C)
 <br><a rel="noopener noreferrer nofollow" target="_blank">chan_wai_ying@moe.edu.sg</a>
 </p>
+<p>Mrs Neo Lin Li</p>
+<p><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
+</p>
 <p>Mdm Suja Anbazhagan<a rel="noopener noreferrer nofollow" target="_blank"><br>anbazhagansuja_a@moe.edu.sg</a>
 </p>
-<p>Mrs Toh Wei Tong Shanice<a rel="noopener noreferrer nofollow" target="_blank"><br>lim_wei_tong_shanice@moe.edu.sg</a>
+<p>Mdm Vaishnavi</p>
+<p><a href="mailto:vaishnavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank">vaishnavi_srinivasan@moe.edu.sg</a>
+</p>
+<p>Mdm Sarah Su</p>
+<p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">

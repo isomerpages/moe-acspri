@@ -55,9 +55,8 @@ variant: tiptap
 <p>MON
 <br>14:15 - 16:15
 <br>(School Team and Recreational)
-<br>WED
-<br>14:15 - 16:15
-<br>(School Team Members)</p>
+<br>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>MUSIC STUDIO</p>

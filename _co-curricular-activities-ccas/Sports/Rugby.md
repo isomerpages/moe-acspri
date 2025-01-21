@@ -43,16 +43,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>Mr Ho Shin Hoo (I/C)
-<br><a href="mailto:ho_shin_hoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
-</p>
-<p>Ms Hu Biying<a href="mailto:hu_biying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>hu_biying@moe.edu.sg</a>
+<p>Ms Lee Jia Yee (I/C)</p>
+<p><a href="mailto:lee_jia_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_jia_yee_a@moe.edu.sg</a>
 </p>
 <p>Mr Kelvin Chan<a href="mailto:kelvin_chan_yong_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>kelvin_chan_yong_meng@moe.edu.sg</a>
 </p>
-<p>Ms Lee Jia Yee<a href="mailto:lee_jia_yee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>lee_jia_yee_a@moe.edu.sg</a>
+<p>Mr Ho Shin Hoo</p>
+<p><a href="mailto:ho_shin_hoo@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
 </p>
-<p>Mr Daniel Chua<a href="mailto:chua_hoe_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>chua_hoe_leong@moe.edu.sg</a>
+<p>Mrs Jasmine Lim</p>
+<p><a href="mailto:ong_cui_yun@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_cui_yun@moe.edu.sg</a>
+</p>
+<p>Ms Chen Xiaoxiao</p>
+<p><a href="mailto:chen_xiaoxiao@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@moe.edu.sg</a>
 </p>
 <p>Ms Qin Chunni<a href="mailto:qin_chunni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>qin_chunni@moe.edu.sg</a>
 </p>

@@ -44,15 +44,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p>Mr Leon Ho (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">ho_yoong_kian@moe.edu.sg</a>&nbsp;</p>
-<p></p>
-<p></p>
-<p>Ms Ho Hui Xin<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_hui_xin@moe.edu.sg</a>
+<p>Mdm Bavani balasubarammany(I/C)</p>
+<p><a href="Mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
 </p>
-<p>Ms Xu Jie<a rel="noopener noreferrer nofollow" target="_blank"><br>xu_jie@moe.edu.sg</a>
+<p></p>
+<p>Mdm Hoong Xiu Qin</p>
+<p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
 </p>
-<p>Mrs Jasmine Lim<a rel="noopener noreferrer nofollow" target="_blank"><br>ong_cui_yun@moe.edu.sg</a>
+<p>Mdm Sri Dewi</p>
+<p><a href="mailto:sri_dewi_mohamed_hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Divya Dharshini</p>
+<p><a href="mailto:divya_dharshini_harikrishan@moe.edu.sg" rel="noopener nofollow" target="_blank">divya_dharshini_harikrishan@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mr Oscar Tay</p>
+<p><a href="mailto:tay_ting_chuan_oscar@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_ting_chuan_oscar@moe.edu.sg</a>
+</p>
+<p>Mdm Michelle Lim</p>
+<p><a href="mailto:lim_pei_yu_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_yu_michelle@moe.edu.sg</a>
 </p>
 <p>Mr Tiong Sze Chiat<a rel="noopener noreferrer nofollow" target="_blank"><br>tiong_sze_chiat@moe.edu.sg</a>
 </p>
