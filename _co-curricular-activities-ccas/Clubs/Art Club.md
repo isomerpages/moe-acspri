@@ -44,11 +44,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Ms Jessica Lai (I/C)
-<br><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+<p>Ms Jessica Lai (I/C)</p>
+<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
 </p>
 <p>Mdm Tay Questal</p>
-<p><a href="mailto:tay_questal@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_questal@moe.edu.sg</a>
+<p><a href="mailto:tay_questal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_questal@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
