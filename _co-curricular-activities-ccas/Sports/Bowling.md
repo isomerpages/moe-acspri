@@ -76,7 +76,7 @@ variant: tiptap
 <p>Mr Seow Kian Yong</p>
 <p><a href="mailto:seow_kian_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">seow_kian_yong@moe.edu.sg</a>
 </p>
-<p>Mdm Farisa Begame</p>
+<p>Mrs Farisa Hussain</p>
 <p><a href="mailto:farisa_begame_abdul_salam@moe.edu.sg" rel="noopener nofollow" target="_blank">farisa_begame_abdul_salam@moe.edu.sg</a>
 </p>
 <p></p>
