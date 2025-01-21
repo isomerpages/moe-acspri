@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Miss Amanda Lim(I/C)</p>
+<p>Ms Amanda Lim(I/C)</p>
 <p><a href="mailto:lim_zhi_yan_amanda_b@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_zhi_yan_amanda_b@moe.edu.sg</a>
 </p>
 <p>Mrs Shanice Toh</p>
