@@ -44,11 +44,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mr Wan Mohamed (I/C)
-<br><a href="mailto:wan_mohamed@moe.edu.sg" rel="noopener nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
+<p>Mr Wan Mohamed (I/C)</p>
+<p><a href="mailto:wan_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
 </p>
-<p>Ms Ee Li Hua Elizabeth<a href="mailto:ee_li_hua_elizabeth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><a href="mailto:ee_li_hua_elizabeth@moe.edu.sg" rel="noopener nofollow" target="_blank">ee_li_hua_elizabeth@moe.edu.sg</a>
-</p>
+<p>Ms Ee Li Hua Elizabeth</p>
+<p><a href="mailto:ee_li_hua_elizabeth@moe.edu" rel="noopener noreferrer nofollow" target="_blank">ee_li_hua_elizabeth@moe.edu</a>.s</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>WED
