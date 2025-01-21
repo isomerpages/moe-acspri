@@ -46,17 +46,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="7" colspan="1">
-<p>Mdm Tan Yoke Joo (I/C)
-<br><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
+<p>Mdm Tan Yoke Joo (I/C)</p>
+<p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
 </p>
-<p>Mdm Vasanthi<a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>vasanthi_arumugam@moe.edu.sg</a>
+<p>Mdm Vasanthi</p>
+<p><a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthi_arumugam@moe.edu.sg</a>
 </p>
 <p>Ms Judith Ogawa</p>
-<p><a href="mailto:judith_ogawa@moe.edu.sg" rel="noopener nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
+<p><a href="mailto:judith_ogawa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="7" colspan="1">
-<p></p>
 <p>MON</p>
 <p>14:15 - 16:15</p>
 <p>For the competitive group (selected weeks)&nbsp;</p>
