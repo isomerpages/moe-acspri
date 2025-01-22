@@ -47,7 +47,7 @@ variant: tiptap
 <tr>
 <td rowspan="3" colspan="1">
 <p>Mr Adrian Kum (I/C)</p>
-<p><a href="mailto:kum_kin_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_kin_meng@moe.edu.sg</a> 
+<p><a href="mailto:kum_kin_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_kin_meng@moe.edu.sg</a>
 </p>
 <p>Mr Chan Tai Yao</p>
 <p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_tai_yao@moe.edu.sg</a>
