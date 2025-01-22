@@ -46,8 +46,8 @@ variant: tiptap
 <p>Mdm Li Chunju (I/C)
 <br><a href="mailto:li_chunju@moe.edu.sg" rel="noopener nofollow" target="_blank">li_chunju@moe.edu.sg</a>
 </p>
-<p></p>
-<p>Mdm Wong Mei Kuen<a href="mailto:wong_mei_kuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><a href="mailto:wong_mei_kuen@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_mei_kuen@moe.edu.sg</a>
+<p>Mdm Wong Mei Kuen</p>
+<p><a href="mailto:wong_mei_kuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_kuen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
