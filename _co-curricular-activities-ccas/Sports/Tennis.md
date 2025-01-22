@@ -51,7 +51,6 @@ variant: tiptap
 <p>Mdm Li Youge</p>
 <p><a href="mailto:lu_youge@moe.edu.sg" rel="noopener nofollow" target="_blank">lu_youge@moe.edu.sg</a>
 </p>
-<p></p>
 <p>Ms Tan Siow Hwee<a rel="noopener noreferrer nofollow" target="_blank"><br>tan_siow_hwee@moe.edu.sg</a>
 </p>
 <p></p>
