@@ -46,17 +46,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Mr Adrian Kum (I/C)
-<br><a href="mailto:kum_kin_meng@moe.edu.sg" rel="noopener nofollow" target="_blank">kum_kin_meng@moe.edu.sg</a>
-<a href="mailto:seow_kian_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>Mr Chan Tai Yao<a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-<a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_tai_yao@moe.edu.sg</a>
+<p>Mr Adrian Kum (I/C)</p>
+<p><a href="mailto:kum_kin_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_kin_meng@moe.edu.sg</a> 
+</p>
+<p>Mr Chan Tai Yao</p>
+<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_tai_yao@moe.edu.sg</a>
 </p>
 <p>Ms Joanne Ong</p>
-<p><a href="mailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
+<p><a href="mailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="3" colspan="1">
 <p>WED
