@@ -45,7 +45,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>Mdm Loh Su Hian (I/C)
 <br><a href="mailto:loh_su_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_su_hian@moe.edu.sg</a>&nbsp;</p>
-<p>Miss Pauline Ho Jiahua</p>
+<p>Ms Pauline Ho Jiahua</p>
 <p><a href="mailto:pauline_ho_jiahua@moe.edu.sg" rel="noopener nofollow" target="_blank">pauline_ho_jiahua@moe.edu.sg</a>
 </p>
 <p>Hu Biying</p>
