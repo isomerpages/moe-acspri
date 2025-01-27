@@ -488,7 +488,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="9" colspan="1">
+<td rowspan="11" colspan="1">
 <p>Mathematics Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -568,6 +568,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zarinah_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zarinah_mohamed_eunos@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Joanne Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lim May Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loke_may_chan_b@moe.edu.sg" rel="noopener nofollow" target="_blank">loke_may_chan_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -863,7 +881,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="9" colspan="1">
 <p>Science Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -938,7 +956,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mdm Pauline Chin Hwee Yoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chin_Hwee_Yoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Chin_Hwee_Yoon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
 <p>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -982,6 +1009,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_zhan_kuan_elton@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zhan_kuan_elton@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sophia Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_lee_ying_sophia@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_lee_ying_sophia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
