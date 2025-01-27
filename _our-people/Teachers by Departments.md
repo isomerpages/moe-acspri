@@ -128,7 +128,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="15" colspan="1">
 <p>English Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,6 +253,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shariza_shari_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariza_shari_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vaishnavi Srinivasan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vaishnavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank">vaishnavi_srinivasan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -743,7 +752,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p>Physical Education Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -787,6 +796,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Oscar Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_ting_chuan_oscar@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_ting_chuan_oscar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
