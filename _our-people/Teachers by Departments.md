@@ -23,7 +23,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,6 +76,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Judith Ogawa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:judith_ogawa@moe.edu.sg" rel="noopener nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -500,7 +509,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="19" colspan="1">
+<td rowspan="20" colspan="1">
 <p>Mother Tongue Language Department-Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -670,6 +679,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:qin_chunni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qin_chunni@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Xiaoxiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_xiaoxiao@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
