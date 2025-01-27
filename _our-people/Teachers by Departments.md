@@ -23,7 +23,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,6 +85,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="Mailto:judith_ogawa@moe.edu.sg" rel="noopener nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Questal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_questal@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_questal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
