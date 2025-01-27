@@ -128,7 +128,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="15" colspan="1">
+<td rowspan="20" colspan="1">
 <p>English Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,13 +267,46 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Kathryn Lee</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_hui_ting_kathryn@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_hui_ting_kathryn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Michelle Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_pei_yu_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_yu_michelle@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Sue-Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sueann_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_sueann_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chloe Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_jie_yu_chloe@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_jie_yu_chloe@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Louis Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_tu_tong_louis@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_tu_tong_louis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -821,7 +854,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Science Department</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -874,6 +907,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wan_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Pauline Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pauline_ho_jiahua@moe.edu.sg" rel="noopener nofollow" target="_blank">pauline_ho_jiahua@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Stephanie Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_chin_pin_stephanie_a@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_chin_pin_stephanie_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
