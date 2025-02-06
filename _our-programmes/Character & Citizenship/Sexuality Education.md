@@ -97,8 +97,8 @@ form is to be submitted by 22 January 2025.</p>
 </li>
 <li>
 <p>Parents can contact Mr Caleb Chua at <a href="mailto:caleb_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">caleb_chua@moe.edu.sg</a> or Mrs Christine
-Ho at <a href="mailto:tan_lay_hoon_christine@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lay_hoon_christine@moe.edu.sg</a>
-<a rel="noopener noreferrer nofollow" target="_blank"></a>to seek clarification about the school’s Sexuality Education programme.</p>
+Ho at <a href="mailto:tan_lay_hoon_christine@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lay_hoon_christine@moe.edu.sg</a>to
+seek clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
 <p></p>
