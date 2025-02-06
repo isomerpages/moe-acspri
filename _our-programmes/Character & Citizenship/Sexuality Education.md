@@ -22,28 +22,25 @@ on sexuality issues.</p>
 </li>
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are:</p>
-</li>
-</ol>
-<p>(a) Support students in managing their physiological, social and emotional
+<p>a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
+<p>b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
+<p>c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<ol start="3" data-tight="true" class="tight">
+</li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-</li>
-</ol>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+<p>a) Love and respect yourself as you love and respect others;</p>
+<p>b) Build positive relationships based on love and respect (which are the
+foundation for strong families);</p>
+<p>c) Make responsible decisions for yourself, your family and society; and</p>
+<p>d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
+</li>
+</ol>
 <p>You may click here for MOE Sexuality Education.</p>
 <h4><strong>OVERIVEW OF ANGLO CHINESE SCHOOL’S (PRIMARY) SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
 <ol start="4" data-tight="true" class="tight">
@@ -56,10 +53,10 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
-</li>
-</ol>
 <p>a) Science</p>
 <p>b)&nbsp;Character and Citizenship Education (CCE)</p>
+</li>
+</ol>
 <h4><strong>Sexuality Education Lessons:</strong></h4>
 <ol start="6" data-tight="true" class="tight">
 <li>
