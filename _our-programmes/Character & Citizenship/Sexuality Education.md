@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Character & Citizenship
 variant: tiptap
 ---
-<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
-</p>
+<h3><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h3>
 <p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -45,10 +44,8 @@ and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
-MOE Sexuality Education.</p>
-<p><strong>OVERIVEW OF ANGLO CHINESE SCHOOL’S (PRIMARY) SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
-</p>
+<p>You may click here for MOE Sexuality Education.</p>
+<h4><strong>OVERIVEW OF ANGLO CHINESE SCHOOL’S (PRIMARY) SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -57,11 +54,13 @@ themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
+</li>
 </ol>
-<p>5.&nbsp;The subjects that incorporate topics on sexuality include:</p>
-<p>a.&nbsp;Science</p>
-<p>b.&nbsp;Character and Citizenship Education (CCE)</p>
-<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<p>a) Science</p>
+<p>b)&nbsp;Character and Citizenship Education (CCE)</p>
+<h4><strong>Sexuality Education Lessons:</strong></h4>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
@@ -85,8 +84,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p>&nbsp;<strong>INFORMATION FOR PARENTS</strong>
-</p>
+<h4>&nbsp;<strong>INFORMATION FOR PARENTS</strong></h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
