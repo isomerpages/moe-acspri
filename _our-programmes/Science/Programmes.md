@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Science
 variant: markdown
 ---
-
 The programmes in the Science Department aims to support the school in its Vision of developing every ACScian holistically in the areas of character, capability and creativity. We hope to do this by promoting the i_ HOPEFUL school values and the school’s desired outcomes in the ACSP domains of affective, cognitive, social and physical.
 
 In preparing our pupils for the PSLE, we adopt the National Science Curriculum with its three main focus on knowledge, the Science Process Skills as well as the acquisition of the desirable scientific attitudes. Lessons are taught using the Inquiry approach using the strategy of the 5 Es (Engage, Explore, Explain, Elaborate and Evaluate) and incorporate the school’s three focus areas of Differentiated Instruction, Experiential Education and the use of ICT. We hope to see our boys enjoying Science and appreciate it not just as a learning subject but as something alive, beautiful and relevant in their daily lives.
@@ -79,4 +78,3 @@ Practical tests and alternative assessment (AA) tasks are also set for the pupil
 These take the form of the Mid-Year as well as the End-of-Year Science examination papers that all pupils have to sit for. To ensure that our pupils are constantly revisiting the topics that they have learned in the previous years, questions testing concepts learned in the previous years are also included in both examinations.
 
 Throughout the year, the teachers progressively prepare the boys for both the formative and summative assessment tasks. Amongst others, we have special lessons to teach our boys how to answer examination-type questions. These are done through our Answering Techniques Workshops/lessons.
-	
