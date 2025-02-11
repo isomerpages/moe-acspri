@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h5><strong>Our Vision</strong></h5>
-<p>Every ACSian - a Young Man of Character, Capability and Creativity</p>
+<p>Every ACSian - a <strong>Y</strong>oung <strong>M</strong>an of <strong>C</strong>haracter, <strong>C</strong>apability
+and <strong>C</strong>reativity</p>
 <h5><strong>Our Mission</strong></h5>
 <p>Anglo-Chinese School (Primary) believes in providing an all-round education
 in an environment which seeks to bring out the potential in every pupil
@@ -13,8 +14,8 @@ to the fullest, and to develop in him a strong moral character, imbued
 with Christian values and principles to guide and prepare him for life
 ahead.</p>
 <h5><strong>Our Shared Values</strong></h5>
-<p>Integrity, Humility, Obedience, Perseverance, Empathy, Faithfulness, Unity
-and Loyalty (<em>i</em> HOPEFUL)</p>
+<p><strong>I</strong>ntegrity, <strong>H</strong>umility, <strong>O</strong>bedience, <strong>P</strong>erseverance,<strong> E</strong>mpathy, <strong>F</strong>aithfulness, <strong>U</strong>nity
+and <strong>L</strong>oyalty (<strong><em>i</em> </strong>HOPEFUL)</p>
 <h5><strong>Our Motto</strong></h5>
 <p>The Best Is Yet To Be</p>
 <h5><strong>Our Guiding Principle</strong></h5>
