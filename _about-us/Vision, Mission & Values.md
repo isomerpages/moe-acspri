@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <h5><strong>Our Vision</strong></h5>
 <p></p>
-<p></p>
 <p>Every ACSian - a <strong>Y</strong>oung <strong>M</strong>an of <strong>C</strong>haracter, <strong>C</strong>apability
 and <strong>C</strong>reativity</p>
 <h5><strong>Our Mission</strong></h5>
