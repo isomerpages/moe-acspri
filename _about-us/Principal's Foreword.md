@@ -95,7 +95,6 @@ of greatness which may hinder our children from fulfilling their true potential
 of greatness in the kingdom of God!</p>
 <p></p>
 <p>To God Be The Glory. The Best Is Yet To Be!</p>
-<p></p>
 <p>Mrs Leong-Ho Hil May</p>
 <p>Principal</p>
 <p>ACS (Primary)</p>
