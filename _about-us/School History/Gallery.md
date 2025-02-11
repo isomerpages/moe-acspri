@@ -18,4 +18,7 @@ Significantly, he also composed the school anthem in 1926.
 
 The ACS story is not complete without the participation and support of all stakeholders, especially parents and Old Boys. We count it a blessing to have supportive partners who believe in our cause and who partner us in our endeavours to prepare our young to face the future with confidence and hope. One such partner who has consistently supported our rugby boys is the Oldham Club - the sports and social/community outreach arm of the ACS Old Boys’ Association (ACS OBA). This video epitomises the ACS spirit of giving back to the school and the community. It also reflects our endeavours to help every ACSian to believe in himself.
 
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Red Blue Gold Days of 1 Canning Rise | NTU-AHA films 2024" src="https://www.youtube.com/embed/boVl98d_iIc" height="720" width="1280"></iframe>
+
 The Best Is Yet To Be!
