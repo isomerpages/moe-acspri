@@ -6,10 +6,10 @@ third_nav_title: Experiential Learning
 variant: markdown
 ---
 
-Interdisciplinary Project Work (IPW) is a programme aimed at developing students’ capacity to think critically and laterally across disciplines and apply knowledge learnt to real-life situations.
+Aligned with Singapore's Green Plan 2030 and the Ministry of Education's Eco Stewardship Programme (ESP), ACS(P) has revamped its Interdisciplinary Project Work (IPW) curriculum to emphasize sustainability, future readiness, and 21st-century competencies (21CC). This initiative empowers students to make meaningful contributions to environmental sustainability while developing essential skills in critical and adaptive thinking, creativity, and collaboration.
 
-Below are short descriptions of our school-based IPW for Primary 3 & 4 students:
+The IPW program is structured progressively, addressing national sustainability goals at each level. Through the design thinking process, students empathize with real-world challenges, define problems, ideate solutions, prototype, and test. At Primary 3, students explore Food Security and create infographics or videos to promote insects as alternative protein sources. At Primary 4, students focus on Water Sustainability, employing block coding to design innovative prototypes that foster mindful water usage. At Primary 5, the emphasis is on Energy Reset and Sustainable Living, where students construct solar bus prototypes using recycled materials and design the bus exterior to raise awareness on renewable energy.
 
-The focus for our Primary 3 IPW is on food waste which aims to make students aware that food waste is a current, real world, environmental issue. Students will also find out more about the food waste situation in Singapore. The sessions hope to encourage students to consider the contribution they personally make to this issue and understand the reasons behind that waste. They will then learn how they can take simple actions to minimise food waste in their daily lives and attempt to find solutions to reduce food waste.
+Throughout the IPW journey, students also develop Project Work competencies such as research and information literacy, self-management and reflection.
 
-The focus for our Primary 4 IPW is on Sustainability of Singapore’s Water Resources where we endeavour to have our students better understand the importance of protecting Singapore’s water reserves and think of ways on how to ensure the sustainability of Singapore’s water resources.
+By incorporating design thinking and empathy-building, and integrating 21CC skills, ACS(P) encourages students to consider multiple perspectives, challenge assumptions, and develop innovative solutions that address the needs of people and the planet. This prepares our students to drive positive change and thrive in an increasingly complex world.
