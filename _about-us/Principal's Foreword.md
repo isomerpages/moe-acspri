@@ -4,78 +4,98 @@ permalink: /about-us/principal-foreword/
 description: ""
 variant: tiptap
 ---
-<h3>No Part Too Small &amp; No One, Insignificant</h3>
+<h3>Not to be served, but to serve</h3>
 <p></p>
-<p>No Part Too Small &amp; No One, Insignificant</p>
-<p>If one part suffers, every part suffers with it; if one part is honored,
-every part rejoices with it –1 Corinthians 12:26 (NIV)</p>
-<p>Have you ever stubbed your pinky toe? I stubbed mine against a doorframe
-just last year. The jolt of pain was excruciating. I could not walk properly
-for weeks and had to rely on comfortable footwear to accommodate my injured
-toe.</p>
-<p>The incident made me appreciate much more how five toes are needed on
-each foot to stand, walk or run. While the big toe is the most important
-because it bears about forty percent of our body weight, the other toes
-play their part by maintaining proper balance to support our total body
-weight.</p>
-<p>Although the pinky toe may seem the least amongst toes, it contains many
-nerves. We will be wincing in pain should we stub it against something
-hard. The pain often lingers for days on end.</p>
-<p>Now for the feet. Some say that the foot is the most stressed part of
-the body and often, the most neglected. Feet have a bad reputation. They
-are thought of as dirty, ugly, smelly and we may try to hide them away.
-We may soap our hands dailyꟷ before and after meals, after a toilet break,
-or after a cough or sneeze, when we cover our mouth or nose – but for our
-sweaty feet, smelly from the festering bacteria they harbour, we wash them
-only when we shower. Should we not be taking better care of our feet given
-how much we use them?</p>
-<p>Renowned hand surgeon Dr Paul Brand and Philip Yancey explore the human
-body in Fearfully and Wonderfully Made, a book that describes the body
-as a community of individual cells as basic units. Readers draw deep insights
-and parallels from the relationships between the variety of purposive cells
-in the human body and diversity of God’s people in the Body of Christ.
-We learn, e.g., how bone cells live in rigid structures to produce strength,
-how different skin cells pattern themselves as soft or textured, for one,
-to form unique fingerprints, and how amazing spider-like nerve cells –
-reputedly the king of cells – make up the highways of the central nervous
-system to signal and communicate to the brain and five senses.</p>
+<p>What is greatness?&nbsp;</p>
 <p></p>
-<p>Red blood cells, discs resembling Lifesaver candies, voyage through my
-blood loaded with oxygen to feed the other cells. Muscle cells, which absorb
-so much of that nourishment, are sleek and supple, full of coiled energy.
-Cartilage cells with shiny black nuclei look like bunches of black-eyed
-peas glued tightly together for strength. Fat cells seem lazy and leaden,
-like bulging white plastic garbage bags jammed together.</p>
-<p>Truly, we are fearfully and wonderfully made – Psalm 139:14b(NIV)</p>
+<p>As parents and educators, we naturally want our children and students
+to be great. Great in their results, achievements, attitude and character.</p>
 <p></p>
-<p>Oftentimes, it is only when one part hurts or is missing that we start
-to feel the pain, to acknowledge how important it is and how much it belongs
-to the whole body and connected it is to one another. Like my small toe.</p>
-<p>1 Corinthians 12 inspires me to think of ACS this way:</p>
-<p>Just as ACS, though one, has many parts, but all its many parts form one
-body, so it is with Christ… Now if the foot should say, “Because I am not
-a hand, I do not belong to the body,” it would not for that reason stop
-being part of the body. And if the ear should say, “Because I am not an
-eye, I do not belong to the body,” it would not for that reason stop being
-part of the body. If the whole body were an eye, where would the sense
-of hearing be? If the whole body were an ear, where would the sense of
-smell be? But in fact God has placed the parts in ACS, every one of them,
-just as he wanted them to be. If they were all one part, where would ACS
-be? As it is, there are many parts, but one ACS.</p>
-<p>We must never forget that ACS is a member of the larger Body of Christ,
-of which Christ is our Head. We do not exist for ourselves, but to serve
-Christ and others.</p>
-<p>This year, we want to live out our theme verse: If one part suffers, every
-part suffers with it; if one part is honored, every part rejoices with
-it (1 Corinthians 12:26). My prayer for the ACS (Primary) community ꟷ boys,
-staff, parents and partners ꟷ is that we will recognise our different strengths
-and celebrate our diversity. We will show love, kindness and respect to
-one another. When one part suffers, just like my pinky toe, the rest of
-the body will care deeply for it. When one part is honoured, we will have
-an abundance mindset and rejoice with it. May we fix our eyes on our Lord
-Jesus Christ, who wept for humanity even though He was God, as we look
-to Him to fill us with same love to care for another.</p>
+<p>In Matthew 20:20-28 (parallel text in Mark 10:35-45), the mother of two
+of Jesus’ disciples, James and John, wanted her sons to be great. She made
+an audacious request for them to receive preferential treatment. She asked
+for her sons to be seated one at the right of Jesus and the other at the
+left in His kingdom. Those referred to places of privilege and positions
+of authority when Jesus would finally become King. They appeared to have
+a spirit of self-entitlement. However, as parents ourselves, we can fully
+understand Mrs Zebedee’s heart. Which parent would not want the best for
+his or her child?</p>
+<p></p>
+<p>When the other ten disciples heard this, they were indignant. The anger
+and annoyance they displayed were far from righteous or humble. They, too,
+wanted to be great. They could have been harbouring hopes of prominence
+in Jesus’ kingdom and had a fear of missing out. Had they not been close
+to Jesus and occupied a special role in His ministry, thus also deserving
+privileged positions?</p>
+<p></p>
+<p>As with all good teachers, Jesus used the incident as a teachable moment
+for all twelve disciples. He flipped commonly held notions of greatness
+on their head. Instead of greatness being about status, power and prestige,
+Jesus’ definition of greatness was completely countercultural. He said
+the rulers of the Gentiles lord it over them, and their high officials
+exercise authority over them, but whoever wants to become great among you
+must be your servant. In case his disciples missed the point, Jesus repeated
+it with stronger words: whoever wants to be first must be your slave.</p>
+<p></p>
+<p>For even the Son of Man did not come to be served, but to serve… (Mark
+10:45a).</p>
+<p></p>
+<p>As King of kings, Jesus had every right to expect to be served, but He
+chose to serve. He did not merely pay lip service to that but set an example
+and demonstrated His servant leadership by washing His disciples’ feet
+the night He was betrayed, a task typically reserved for servants. His
+ultimate act of servanthood was to die on the cross for the world that
+had rejected Him.&nbsp;</p>
+<p></p>
+<p>Young people nowadays are often accused of being highly self-entitled.
+We blame it on families having fewer children, overprotective parents and
+an erosion of society’s moral values. This story in the Bible suggests
+that the spirit of self-entitlement is not new and existed even in biblical
+times. In fact, self-entitlement has existed ever since sin entered the
+world!</p>
+<p></p>
+<p>On the contrary, I know of many other-centred young people who desire
+to live purposeful lives by pursuing something bigger than themselves.
+They make sacrifices and give their time and resources to causes they believe
+in. These could range from climate change, special educational needs and
+disadvantaged families to more unusual areas such as wildlife protection.
+They look for mentors who inspire them to live not just for themselves,
+but to serve others. In seeking to serve others, they become better versions
+of themselves and make an even greater impact than if they had just served
+their own needs and interests.</p>
+<p></p>
+<p>In ACS (Primary), we prepare our young gentlemen to serve by nurturing
+them towards the ACSP Desired Outcomes: <strong>A</strong>ctive Contributors, <strong>C</strong>reative
+Collaborators, <strong>S</strong>ervant Leaders and <strong>P</strong>assionate
+Learners.</p>
+<p></p>
+<p>As <em>Creative Collaborators and Passionate Learners</em>, they will be
+future-ready with a love for learning. Being able to approach problems
+creatively, use technology effectively and work collaboratively will enable
+them to serve as valued team members. When they are passionate about learning,
+persevere when faced with challenges and respond positively to feedback,
+not only will they learn well but also develop an abundance mindset. They
+serve by sharing their learning with others, thereby helping others to
+grow.</p>
+<p></p>
+<p>As <em>Servant Leaders and Active Contributors</em>, our gentlemen will
+have a strong moral character with a sense of agency. They will lead themselves
+and others, make responsible decisions and enjoy good relationships. They
+will care about what is happening in their community and seize opportunities
+to serve and make their community a better place for everyone.</p>
+<p></p>
+<p>We believe that when our gentlemen are actively engaged in learning opportunities
+that help them to develop the ACSP Desired Outcomes, they will experience
+joy and purpose in learning and living which will enhance their overall
+wellbeing and enable them to serve others more effectively, thereby following
+in the footsteps of our Lord Jesus Christ.</p>
+<p></p>
+<p>As parents and educators, let us be careful about pursuing worldly notions
+of greatness which may hinder our children from fulfilling their true potential
+of greatness in the kingdom of God!</p>
+<p></p>
 <p>To God Be The Glory. The Best Is Yet To Be!</p>
+<p></p>
 <p>Mrs Leong-Ho Hil May</p>
 <p>Principal</p>
 <p>ACS (Primary)</p>
