@@ -9,7 +9,7 @@ variant: tiptap
 <p>Nurturing ACSians of Character, Capability and Creativity&nbsp; through
 the Arts</p>
 <h4><strong>Curriculum</strong></h4>
-<h6>Music</h6>
+<h6><strong>Music</strong></h6>
 <p>The Music programme incorporates:</p>
 <ul>
 <li>
@@ -70,7 +70,7 @@ and “appreciating”.</p>
 <br>
 </p>
 <h3><strong>Programme (For all levels)</strong></h3>
-<h6>Experience</h6>
+<h6><strong>Experience</strong></h6>
 <ul>
 <li>
 <p>For students who have no prior knowledge in the arts</p>
@@ -79,7 +79,7 @@ and “appreciating”.</p>
 <p>Provide students with experience and exposure to various art forms</p>
 </li>
 </ul>
-<h6>Showcase</h6>
+<h6><strong>Showcase</strong></h6>
 <ul>
 <li>
 <p>For students who have the talent or inclination or training in the arts</p>
@@ -101,7 +101,7 @@ visual arts</p>
 <br>
 </p>
 <h5><strong>PAL</strong></h5>
-<h6>Visual Arts</h6>
+<h6><strong>Visual Arts</strong></h6>
 <p>The programme aims to enrich our Primary 2 students with the culture and
 heritage of Singapore. Through group interaction, presentations and experimentation,
 students become&nbsp;confident, creative and well-exposed individuals.
@@ -113,7 +113,7 @@ music extracts. &nbsp;Pupils are then&nbsp;taught to create their own dance
 routines &nbsp;in groups so as to enable a better appreciation of the&nbsp;arts
 through creative learning.</p>
 <h5><strong>SHOWCASE</strong></h5>
-<h6>Recess Concerts</h6>
+<h6><strong>Recess Concerts</strong></h6>
 <p>Recess Concerts serve as a platform for students to showcase their talents
 in the performing arts. ACS (P) also aims to educate students on concert
 etiquette. These concerts are held during recess and the audience comprises
@@ -125,7 +125,7 @@ and science, showcasing creative works centered on sustainability and environmen
 awareness. This space encourages cross-disciplinary collaboration, sparking
 meaningful dialogue about sustainability through innovative artistic expression.</p>
 <h4><strong>Events</strong></h4>
-<h6>Arts Fest</h6>
+<h6><strong>Arts Fest</strong></h6>
 <p>Arts Fest in ACS(P) is an annual event alternating between performing
 arts and visual arts. Arts Fest Kaleidoscope focuses on showcasing our
 students’ talents in the performing arts, namely the Choir and Synergy
@@ -133,7 +133,7 @@ Performing Arts Group. We also aim to provide students with exposure to
 various arts groups and performances during this event.</p>
 <p>Arts Fest Appreciate! focuses on showcasing our students’ artwork in an
 exhibition, featuring a wide range of displays selected from each class.</p>
-<h6>Aesthetics CCAs</h6>
+<h6><strong>Aesthetics CCAs</strong></h6>
 <p>Students have an array of aesthetics CCAs to choose from, both in the
 performing and visual arts. The Choir, Synergy Performing Arts Groups and
 Art Club provide an avenue for performing and creative expression. This
