@@ -25,10 +25,6 @@ The Music programme incorporates:
 *   providing the basis to develop an informed and life-long involvement in music
 
 For Primary 1 to Primary 3, the Music curriculum revolves around “experience”, “concept” and “application”.&nbsp; From Primary 4, musical concepts are taught in greater depth to achieve the outcomes of a student-centric music curriculum through instrumental playing and listening and responding to music. We adopt a holistic approach in enriching the pupils aesthetically by bringing the necessary musical experiences into our classrooms.
-<br>
-<br>
-<img src="/images/aesthetics%203.jpg" style="width:80%" align="center">
-<br>
 
 ###### Visual Art
 
