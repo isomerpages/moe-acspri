@@ -73,5 +73,7 @@ learner. At the next tier, students are given opportunities in class to
 take on leadership roles such as subject representatives and monitors.
 They are trained to carry out their roles well and are given feedback by
 the respective teachers along the way. At the highest tier, students with
-potential and aptitude are selected to be trainee prefects or CCA captains
-and they have the opportunity to lead in their respective communities.</p>
+potential and aptitude are selected to be Trainee Prefects or Peer Support
+Leaders and they have the opportunity to lead in their respective communities.</p>
+<p></p>
+<p></p>
