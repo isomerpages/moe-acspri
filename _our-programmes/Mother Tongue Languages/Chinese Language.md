@@ -113,16 +113,30 @@ child can learn the Mother Tongue Language. We hope to develop students
 as Active learners of MTL, Build their confidence in learning MTL, making
 Mother Tongue a Living language by using the language in daily life and
 provide Engaging and enjoyable learning experience for the students.</p>
+<h5><strong>Writing Buddy Programme</strong></h5>
+<p>The Primary 4 Higher Chinese Language will take part in the Writing Buddy
+programme. Writing Buddy aims to broaden students' global perspectives
+and enhance their writing skills through meaningful letter exchanges. The
+students will correspond regularly with students from Xingzhi Primary School
+in Nanjing, China. Through this interaction, students will gain insights
+into different cultural practices and traditions, fostering greater appreciation
+and respect for diversity. This initiative also seeks to strengthen students'
+ability to use the Chinese language effectively in authentic contexts,
+promoting its practical application in daily communication. By participating
+in this programme, students will develop not only their language proficiency
+but also their interpersonal and critical thinking skills, making learning
+both engaging and purposeful.</p>
+<p></p>
 <h5><strong>Primary 5 - Primary 6</strong></h5>
 <h5><strong>Remedial Programme</strong></h5>
 <p>Selected P5 and P6 students will attend remedial programme once every
 week. This programme will help our students to reinforce what was taught
 in class and to build up their confidence in the learning of the language.</p>
-<h5><strong>Primary 5 - Primary 6</strong></h5>
+<h5><strong>Primary 6</strong></h5>
 <h5><strong>ACE for Oral Progamme</strong></h5>
-<p>P5 &amp; P6 students who need more help for oral in picture description
-and conversation will be selected for this programme. The students will
-be assessed based on a rubric and will be given feedback for areas of improvements.</p>
+<p>P6 students who need more support for oral in conversation will be selected
+for this programme. The students will be assessed based on a rubric and
+will be given feedback for areas of improvements.</p>
 <h3><strong>Events</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/chinese%20language.JPG">
@@ -132,7 +146,8 @@ be assessed based on a rubric and will be given feedback for areas of improvemen
 <p>Chinese New Year Celebration</p>
 </li>
 <li>
-<p>Mother Tongue Languages Presentation Day</p>
+<p>Applied Learning Programme Showcase</p>
+<p></p>
 </li>
 </ul>
 <h3><strong>Competitions</strong></h3>
@@ -154,5 +169,5 @@ be assessed based on a rubric and will be given feedback for areas of improvemen
 </p>
 <p><a href="https://go.gov.sg/children-books-we-love" rel="noopener noreferrer nofollow" target="_blank">e-Book</a>
 </p>
-<p><a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries" rel="noopener noreferrer nofollow" target="_blank">PSLE Approved Dictionary List</a>
+<p><a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Approved Dictionary List</a>
 </p>
