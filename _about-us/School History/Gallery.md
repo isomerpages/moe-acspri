@@ -18,10 +18,9 @@ at ACSP.</p>
 of Henry Martyn Hoisington, who was a former ACS student and later teacher
 at Anglo-Chinese School from 1909 to 1933. Significantly, he also composed
 the school anthem in 1926.</p>
-<p>“History from the Hills” has a series of 8 episodes and is available on</p>
-<p><a href="https://www.mewatch.sg/show/History-from-the-Hills-227973" rel="noopener nofollow" target="_blank">https://www.mewatch.sg/show/History-from-the-Hills-227973</a>
+<p>“History from the Hills” has a series of 8 episodes and is available on
+<a href="https://www.mewatch.sg/show/History-from-the-Hills-227973" rel="noopener nofollow" target="_blank">https://www.mewatch.sg/show/History-from-the-Hills-227973</a>
 </p>
-<p></p>
 <p>The recent film developed by Urban Redevelopment Authority (URA) titled
 “Red Blue Gold Days of 1 Canning Rise’ also further explores the transformation
 of the old Anglo-Chinese School (Primary) into the current National Archives
