@@ -116,4 +116,6 @@ and writing skills.</p>
 </p>
 <p><a href="https://mlcs.moe.edu.sg/mlcs/resources/mlcs-educational-apps/" rel="noopener noreferrer nofollow" target="_blank">Malay language Centre Learning Apps</a>
 </p>
+<p><a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Approved Dictionary List</a>
+</p>
 <p></p>
