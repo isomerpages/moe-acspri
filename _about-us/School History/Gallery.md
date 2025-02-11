@@ -30,7 +30,7 @@ through parts of ACPS still preserved in NAS and in the fond memories of
 our alumni while we embrace the change that is inevitable.&nbsp;</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/boVl98d_iIc"></iframe>
+<iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/boVl98d_iIc"></iframe>
 </div>
 <p>The ACS story is not complete without the participation and support of
 all stakeholders, especially parents and Old Boys. We count it a blessing
