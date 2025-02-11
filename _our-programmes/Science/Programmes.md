@@ -49,6 +49,7 @@ This programme is carried out four times in a year, once for every term. One or 
 Points would then be awarded to each class for their effort made in the recycling activity. At the end of the year, the points collected from all the four recycling days would be collated and one class from each level will be identified as the winner of the recycling activity and the pupils of the winning class would be given token prizes to give recognition to the effort made in recycling. For 2017, the school was awarded the Lotus Award, the highest Singapore Green Award possible for all our green and environmental education efforts.
 
 **Science Recess Activity**
+
 The theme for the science recess activity varies at each level as it is aligned to the science topic that is covered at a particular level (e.g. P5 – Theme: Electricity).
 
 As part of the science recess activity, one group of pupils will be selected to represent their class to present their science ideas/products during recess.  These pupils will also publicise and encourage their fellow schoolmates during the morning assembly to visit their booths during recess time.
@@ -58,6 +59,7 @@ During the recess activity, these pupils will be presenting their science ideas/
 
 
 **Other activities**
+
 Throughout the year, other Science-related activities will be organized. The activities include Science Recess activity and Games Fair and Science Corner Quizzes. During the Science Games fair, the boys will be tasked to create their own games based on what they have learned in Science. This also gives them the opportunity to not only showcase their creativity but their application of the knowledge that they have gained during their Science lessons. In other Recess activities, they could also do a presentation or a demonstration experiment to showcase what they have learned. The activity conducted before an audience helps the pupils develop the skills of public speaking and presentation and boost their confidence in these areas.
 
 
@@ -70,11 +72,13 @@ Special / Niche Programmes for High Progressing Pupils
 The assessments in Science are both formative and summative in nature.
 
 **Formative Assessments**
+
 For all levels, after each topic has been taught; process skills worksheets and topical revision worksheets are given to the pupils to gauge their understanding and mastery of what they have been taught. Results of these are then used by the teachers to either identify pupils for remediation or to reteach a particular topic that the pupils might be weak in.
 
 Practical tests and alternative assessment (AA) tasks are also set for the pupils from P3 to P5. These tests are both formative as well as summative in nature as they contribute to a certain percentage towards the annual overall assessment of the pupils in Science.
 
 **Summative Assessments**
+
 These take the form of the Mid-Year as well as the End-of-Year Science examination papers that all pupils have to sit for. To ensure that our pupils are constantly revisiting the topics that they have learned in the previous years, questions testing concepts learned in the previous years are also included in both examinations.
 
 Throughout the year, the teachers progressively prepare the boys for both the formative and summative assessment tasks. Amongst others, we have special lessons to teach our boys how to answer examination-type questions. These are done through our Answering Techniques Workshops/lessons.
