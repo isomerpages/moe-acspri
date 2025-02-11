@@ -18,10 +18,10 @@ Science Trails - within the school compound from P3 to P6
 
 Enrichment Programmes- conducted within school hours to support the curriculum and to inculcate effective communication, creativity, Joy of Learning and Entrepreneurial Dare:
 
-	* P3 (Every Child a Seed & P3 Science Journal)  
-	* P4 (ACSians caring for Plants and Animals & P4 Science Kit)  
-	* P5 (Hydroponics & P5 Science Kit)  
-	* P6 (Terrarium making, Flight Endurance & P6 Science Kit)
+	P3 (Every Child a Seed & P3 Science Journal)
+	P4 (ACSians caring for Plants and Animals & P4 Science Kit)  
+	P5 (Hydroponics & P5 Science Kit)  
+	P6 (Terrarium making, Flight Endurance & P6 Science Kit)
 
 Weekly Science Supplementary / Remedial Lessons
 	- Supplementary Lessons (whole class) for the P6 classes
