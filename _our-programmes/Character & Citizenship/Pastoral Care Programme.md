@@ -19,5 +19,6 @@ U: Unity
 L: Loyalty
 
 
-##### **b) Morning Assembly Programme**
+####  Morning Assembly Programme
+
 Staff, partners and pupils take turns to share about the&nbsp;*i* HOPEFUL values during the daily morning assembly. Pupils also share results of achievements and prize giving with the school and share about the school values learnt from the experience.
