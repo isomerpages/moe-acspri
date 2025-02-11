@@ -5,129 +5,95 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
-<h3><strong>Areas of language learning</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Listening, Reading and Viewing (Receptive Skills)</p>
-</li>
-<li>
-<p>Speaking, Writing and Representing (Productive Skills)</p>
-</li>
-<li>
-<p>Grammar and Vocabulary (Knowledge about Language)</p>
-<h2></h2>
-</li>
-</ul>
-<h4><strong>Listening, Reading and Viewing</strong></h4>
-<p>We give our pupils opportunities for extensive reading and viewing to
-build general knowledge and to help them become fluent, independent readers.</p>
-<p>In the lower primary, teachers read aloud to pupils or have them read
-with the teacher for enjoyment. Pupils are exposed to meaningful reading
-materials including children’s stories and rhymes. This helps them develop
-viewing skills through modelling and explicit teaching.</p>
-<p>As pupils grow older, they do more of the reading themselves and are encouraged
-to do so silently during the twice-weekly reading sessions. Exposure to
-the different text types also gives pupils different models of good English.
-In the middle and upper primary levels, there is explicit teaching of tools
-like annotating and looking for contextual clues.</p>
-<h4><strong>Speaking, Writing and Representing</strong></h4>
-<p>The&nbsp;<strong>Oral Communications Package</strong>&nbsp;aims to help
-pupils develop the confidence necessary for effective presentations. Pupils
-learn how to use proper volume, posture and eye contact with the audience
-during presentations. Teachers provide opportunities for pupils to make
-presentations (show-and-tell and oral presentations) to small groups.</p>
-<p>Pupils are taught how to generate ideas for writing using a range of strategies
-which include brainstorming, asking questions about the topic and context,
-studying ideas from models of good writing and visual techniques (e.g.
-flow charts, storyboards, concept maps). There is also explicit teaching
-of composition skills across the levels.</p>
-<h4><strong>Grammar and Vocabulary</strong></h4>
-<p>Teachers help pupils enrich their vocabulary by exposing them to new words
-and their use.</p>
-<p>Vocabulary-building is done through explicit instruction such as instruction
-in word meanings, discussions on words and word parts, as well as by encouraging
-pupils to read independently and widely.</p>
-<p>Prior to the semestral examinations, pupils are given practice papers
-to ensure familiarity with the format of the paper and to learn time management
-skills by completing the papers within the time limit.</p>
-<h4><strong>Whole-School Approach to Effective Communication (WSA-EC)</strong></h4>
-<p>
-<br>WSA-EC aims to help our teachers and pupils become effective communicators
-of English. We would like to raise awareness on the importance of good
-English, both in the spoken and written forms.&nbsp;As such, we carry out
-activities in class, during recess and post-examination periods for our
-pupils.&nbsp;We also have contact time activities for our staff to promote
-the use of Standard English in the school.</p>
+<h4><strong>Vision</strong></h4>
+<p>The English Language (EL) department aims to cultivate a love for the
+English Language in our students and empower them with a strong foundation
+in language skills to thrive in the 21<sup>st</sup> century confidently</p>
+<h4><strong>English Language Curriculum Overview </strong>(Extracted from EL Syllabus 2020)</h4>
 <p></p>
-<h4><strong>P1 - P5</strong></h4>
-<p><strong>Guided Reading Programme</strong>
-<br>The programme started in 2012. It aims to arouse pupils’ interest in reading
-and expose them to&nbsp;a wide variety of narrative texts. The books selected
-are based on pupils’ interest, story plots&nbsp;and writers’ style. By
-the end of Primary 5, pupils would have read a variety of narratives which
-will deepen their understanding of what makes a good writer.</p>
-<p>Books are also carefully selected based on the age-appropriateness of
-the text, the values they&nbsp;teach and the varied styles of writing.
-They help to create awareness of social issues,&nbsp;relationships and
-perceptions. Pupils will be able to understand that issues raised and lessons&nbsp;learnt
-are applicable in their everyday life.</p>
-<p>A guided reading and literature lesson requires pupils to use their analytical
-skills to take a closer&nbsp;look at characters’ thoughts and feelings,
-intricate story plots and the writer’s intentions. &nbsp;Pupils&nbsp;are
-encouraged to show their understanding of the story through various class
-activities such as&nbsp;‘Hot Seat’, drawing of a mind-map, role-playing,
-and class discussions. They are allowed to take&nbsp;on different points
-of view and encouraged to see things from different perspectives. They
-are&nbsp;also encouraged to agree or disagree with the characters’ actions
-and give reasons to justify&nbsp;their views. In addition, pupils can be
-as creative as possible when asked for alternative endings&nbsp;to a story.</p>
-<p></p>
-<h5><strong>P1 - P2</strong></h5>
-<p><strong>Reading Warriors Programme</strong>
-<br>Reading Warriors is an early intervention programme aimed at providing
-support to P1 to P2&nbsp;pupils to strengthen their literacy skills. The
-Reading Warriors programme helps pupils improve&nbsp;their literacy skills
-through reading. Early literacy research shows that children who lag behind
-in early years in reading and writing development encounter considerable
-difficulties later as texts&nbsp;get longer and more complicated (Myrberg,
-2007). As such, the Reading Warriors programme&nbsp;sets out to develop
-pupils into fluent readers in three phases: Decoding, Independent Reading&nbsp;and
-Comprehension. For each phase, pupils are taught different skills through
-highly structured&nbsp;processes adapted from the Toe by Toe scheme and
-the Orton Gillingham Approach.</p>
-<p></p>
-<h5><strong>Activities</strong></h5>
-<p><strong>P2 Amazing Race</strong>
-<br>This learning journey ties in with the themes of community, neighbourhood
-and occupations. Pupils learn about the type of services provided in a
-community.&nbsp; The learning of English Language is also integrated with
-Mathematics in topics like money, measurement, graph and patterns. Life
-skills like using public transport, reading signs, budgeting and team work
-are also introduced. Pupils make use of iPads to collect and process data.</p>
-<p></p>
-<hr>
-<h5><strong>P4 - P6</strong></h5>
-<p>These are English enrichment activities carried out for selected P4 to
-P6 pupils.</p>
-<p><strong>a)&nbsp;Wits and Words: Inter-school Debate Championship</strong>
-<br>This programme aims to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>provide verbally talented pupils with a foundation in debate so that those
-interested in debating can further hone their skills and take part in competitions
-at the national level;&nbsp;</p>
-</li>
-<li>
-<p>develop research and critical thinking skills through the rigour of a
-formal debate;&nbsp;</p>
-</li>
-<li>
-<p>develop confidence in oral communication.</p>
-</li>
-</ul>
-<h5><strong>Enrichment Programmes</strong></h5>
-<p>To develop the love for the English Language, the department has planned
-language-rich activities to motivate our students. For examples, the P3
-students will be exposed to Reader’s Theatre while the P4 students to write
-haikus.</p>
+<p>The EL Syllabus 2020 emphasises the building of a strong foundation in
+language skills and competencies while equipping students with 21<sup>st</sup> century
+competencies to support lifelong learning.&nbsp;</p>
+<p>The EL Syllabus 2020 outlines the following Areas for Language Learning
+for the development of literacy:</p>
+<p>• Listening and Viewing</p>
+<p>• Reading and Viewing</p>
+<p>• Speaking and Representing</p>
+<p>• Writing and Representing</p>
+<p>• Grammar</p>
+<p>• Vocabulary</p>
+<p>The EL Syllabus 2020 focuses on three desired outcomes:</p>
+<p>1) <strong>Empathetic Communicators:</strong> Students who possess values
+and dispositions to listen actively to different points of view and be
+able to communicate confidently, effectively and sensitively, with the
+wider and more diverse communities both in and out of Singapore.</p>
+<p>2) <strong>Discerning Readers: </strong>Students who can process and evaluate
+information with discernment and distinguish fact from falsehood and respond
+to information closely and critically according to purpose, audience, context
+and culture.</p>
+<p>3) <strong>Creative Inquirers:</strong> Students who can gather and synthesise
+information from diverse print, non-print and digital networked sources,
+and co-create knowledge and solutions in familiar or new contexts.</p>
+<p>&nbsp;</p>
+<p>To achieve the desired outcomes, students will cover the Strategies for
+English Language Learning And Reading (STELLAR) 2.0 curriculum over six
+years. STELLAR is an interactive literacy programme that fosters confidence
+in learning English using children's literature.</p>
+<h4><strong>&nbsp;Programmes &amp; Initiatives</strong></h4>
+<p><strong>Guided Reading</strong>
+</p>
+<p>The programme aims to arouse students’ interest in reading and expose
+them to a variety of narratives. Over a series of sessions during EL lessons,
+Primary 2 to 5 students will be involved in post-reading activities based
+on carefully selected novels they have read. These activities usually require
+students to share personal responses, take on different perspectives and
+engage in classroom discussions on main events in the story, characters’
+thoughts and feelings and writer’s intentions. EL teachers will also guide
+students through increasingly challenging texts, with the aim of building
+students’ proficiency and comprehension skills.</p>
+<p>&nbsp;<strong>Joy of Learning in the EL Classroom</strong>
+</p>
+<p>To promote joy of learning in the EL classroom, games which promote robust
+learning and enhance student motivation have been introduced in EL classrooms
+to reinforce grammar concepts taught in class.&nbsp;</p>
+<p>Literacy Stations, featuring hands-on activities that reinforce concepts
+introduced in the lower primary EL classrooms, have also been introduced.
+These activities involve both independent and group learning and provide
+students with opportunities to apply their learning in authentic contexts
+and develop their literacy skills.&nbsp;</p>
+<p><strong>&nbsp;Read @ ACS(P)</strong>
+</p>
+<p>Our structured reading programme, Read @ ACS(P) is designed to nurture
+a love for books. A key feature of our programme is the Reading Reward
+Card, which motivates students to develop consistent reading habits. Each
+time a student completes a book followed by a book review, it will be recorded
+on their card and students will earn rewards as they progress. This gamified
+approach encourages reading for enjoyment and fosters a sense of achievement.</p>
+<p>In addition to the Reading Reward Card, we engage students through storytelling
+sessions and school library visits. We also collaborate with parents and
+various subject departments to organise special events like our annual
+Library Fest. This event aims to bring language to life through a week
+of engaging activities such as storytelling, designing personalised book
+bags and badges and hands-on Science experiments.</p>
+<p>By making reading an exciting and rewarding experience, we aim to create
+a vibrant reading culture in our school.</p>
+<p><strong>&nbsp;Reading Circles</strong>
+</p>
+<p>Reading Circles (RC) is a collaborative reading strategy that encourages
+readers to discuss a piece of literature in depth. The discussion usually
+covers the author’s writing style, personal responses to the text or significant
+events and characters within the text.</p>
+<p>This programme which takes place after school is for selected Primary
+4 students with advanced oracy competencies in the English Language and
+are meant to meet the needs of these learners. During RC sessions, students
+will be provided with opportunities to engage their critical-thinking,
+reflection, teamwork, and communication skills as they express their perspectives
+and respond to what they have read.</p>
+<p>&nbsp;<strong>Debate Enrichment</strong>
+</p>
+<p>This programme which takes place after school is for selected verbally
+talented Primary 5 students with a foundation in debate. &nbsp;By engaging
+these students in the rigour of debate, the programme aims to develop their
+confidence in oral communication and hone their research, analytical and
+critical thinking skills.</p>
 <p></p>

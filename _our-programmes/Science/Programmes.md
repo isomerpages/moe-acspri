@@ -3,82 +3,150 @@ title: Programmes
 permalink: /our-programmes/science/programmes/
 description: ""
 third_nav_title: Science
-variant: markdown
+variant: tiptap
 ---
-The programmes in the Science Department aims to support the school in its Vision of developing every ACScian holistically in the areas of character, capability and creativity. We hope to do this by promoting the i_ HOPEFUL school values and the school’s desired outcomes in the ACSP domains of affective, cognitive, social and physical.
-
-In preparing our pupils for the PSLE, we adopt the National Science Curriculum with its three main focus on knowledge, the Science Process Skills as well as the acquisition of the desirable scientific attitudes. Lessons are taught using the Inquiry approach using the strategy of the 5 Es (Engage, Explore, Explain, Elaborate and Evaluate) and incorporate the school’s three focus areas of Differentiated Instruction, Experiential Education and the use of ICT. We hope to see our boys enjoying Science and appreciate it not just as a learning subject but as something alive, beautiful and relevant in their daily lives.
-
-Being a boys’ school, our curriculum, programmes, events and activities are tailored to meet the special needs of boys, their multiple intelligences (MI) and the unique ways by which they learn. We build in many hands-on activities and we cater to their kinaesthetic, visual and competitive needs. Most of our programmes are school-wide whilst we do have special niche programmes that cater for a select group of our High Progressing (HP) pupils.
-
-
-Four-year Process Skills Development Programme(explicit teaching of the Science Process Skills)
-
-Science Trails - within the school compound from P3 to P6
-
-Enrichment Programmes- conducted within school hours to support the curriculum and to inculcate effective communication, creativity, Joy of Learning and Entrepreneurial Dare:
-
-	* P3 (Every Child a Seed & P3 Science Journal)  
-	* P4 (ACSians caring for Plants and Animals & P4 Science Kit)  
-	* P5 (Hydroponics & P5 Science Kit)  
-	* P6 (Terrarium making, Flight Endurance & P6 Science Kit)
-
-Weekly Science Supplementary / Remedial Lessons
-	- Supplementary Lessons (whole class) for the P6 classes
-	- Remedial Lessons (for select few pupils) for the P3 to P5 classes
-
-**Young Scientist Badge Scheme**
-
-To encourage self-directed learning as well as to further interest the boys in the curriculum, our boys also undertake to complete the activities in the Young Scientist Badge Scheme:  
-P3 – Young Zoologist Card  
-P4 – Young Physicist Card  
-P5 – Young Geneticist Card
-
-**Science E2K (Mainstream)**
-
-This is a programme that is conducted by teachers who were specially trained to carry out the programme either by the E2K specialists from the CHAIS institute Israel or by the local trainers from GE Branch MOE. The pupils from the P4 Group were shortlisted based on their performance in the P3 overall examinations as well as on the assessment and recommendation of their Science teachers. They were then invited to join in the programme before which the pupils and their parents would need to sign an undertaking that they would be committed to the programme and ensure perfect attendance. The P5 group would be made up of pupils from the P4 group that existed the previous year.
-
-Each unit of study would almost always start with the pupils being made to read a short story or scenario where there would be a problem posed. They would then need to think of the problem, devise an appropriate investigation, carry out the experiment and collect data in order for them to present a solution to the problem originally posed. They are expected to work in groups to carry out the investigation that will help them to resolve the issue(s) raised in the story / scenario that was first read.
-
-
-
-**Recycling of Waste Materials:**
-
-This programme is carried out four times in a year, once for every term. One or two weeks before the actual recycling day, the teacher in-charge of the programme with the assistance of the selected Green ambassadors of certain classes will broadcast the recycling date of the term. They would share with the school population what are the expected items that could be recycled and when these should be brought to school. These items were of three main types namely newspapers, aluminium cans and plastic bottles. The pupils were also reminded to ensure that the recyclable items such as aluminium cans and plastic bottles are thoroughly washed first before being brought to school. On the actual recycling day, PSG Volunteers will be at hand to man the recycling points on level one of the school. We also have programmes to recycle spectacle frames (Gift of Sight Programme), used pens (Save That Pen Programme); old clothing as well as E-waste.
-
-Points would then be awarded to each class for their effort made in the recycling activity. At the end of the year, the points collected from all the four recycling days would be collated and one class from each level will be identified as the winner of the recycling activity and the pupils of the winning class would be given token prizes to give recognition to the effort made in recycling. For 2017, the school was awarded the Lotus Award, the highest Singapore Green Award possible for all our green and environmental education efforts.
-
-**Science Recess Activity**
-
-The theme for the science recess activity varies at each level as it is aligned to the science topic that is covered at a particular level (e.g. P5 – Theme: Electricity).
-
-As part of the science recess activity, one group of pupils will be selected to represent their class to present their science ideas/products during recess.  These pupils will also publicise and encourage their fellow schoolmates during the morning assembly to visit their booths during recess time.
-
-During the recess activity, these pupils will be presenting their science ideas/products to their schoolmates and teacher-judges who will be assessing them. Through the recess activity, critical and inventive thinking as well as creative problem-solving are encouraged. It also provides an authentic platform to develop our pupils to become effective communicators.
-
-
-
-**Other activities**
-
-Throughout the year, other Science-related activities will be organized. The activities include Science Recess activity and Games Fair and Science Corner Quizzes. During the Science Games fair, the boys will be tasked to create their own games based on what they have learned in Science. This also gives them the opportunity to not only showcase their creativity but their application of the knowledge that they have gained during their Science lessons. In other Recess activities, they could also do a presentation or a demonstration experiment to showcase what they have learned. The activity conducted before an audience helps the pupils develop the skills of public speaking and presentation and boost their confidence in these areas.
-
-
-Special / Niche Programmes for High Progressing Pupils
-	- E2K programme, conducted every Tuesday and Thursday afternoon from 2.15 pm to 4 pm (Term 1)
-	
-	
-**Assessment Matters**
-
-The assessments in Science are both formative and summative in nature.
-
-**Formative Assessments**
-
-For all levels, after each topic has been taught; process skills worksheets and topical revision worksheets are given to the pupils to gauge their understanding and mastery of what they have been taught. Results of these are then used by the teachers to either identify pupils for remediation or to reteach a particular topic that the pupils might be weak in.
-
-Practical tests and alternative assessment (AA) tasks are also set for the pupils from P3 to P5. These tests are both formative as well as summative in nature as they contribute to a certain percentage towards the annual overall assessment of the pupils in Science.
-
-**Summative Assessments**
-
-These take the form of the Mid-Year as well as the End-of-Year Science examination papers that all pupils have to sit for. To ensure that our pupils are constantly revisiting the topics that they have learned in the previous years, questions testing concepts learned in the previous years are also included in both examinations.
-
-Throughout the year, the teachers progressively prepare the boys for both the formative and summative assessment tasks. Amongst others, we have special lessons to teach our boys how to answer examination-type questions. These are done through our Answering Techniques Workshops/lessons.
+<h4><strong>Our Vision</strong></h4>
+<p>At the Anglo-Chinese School (Primary) Science Department, we envision
+nurturing students who not only enjoy learning Science but also appreciate
+its relevance in their everyday lives. Our goal is to cultivate scientifically
+literate individuals who make informed decisions and take responsible actions,
+particularly in areas like personal health and environmental stewardship.
+By inspiring curiosity and critical thinking, we aim to empower students
+to contribute meaningfully to society as creative and compassionate individuals.</p>
+<h4><strong>Our Mission</strong></h4>
+<p>Our mission is to lay a robust foundation in Science that prepares students
+for future learning and careers in STEM (Science, Technology, Engineering,
+and Mathematics). Through engaging programmes, we aspire to ignite curiosity
+and foster critical thinking, equipping students with the tools to address
+real-world challenges. Our focus extends beyond academics, aiming to nurture
+resilience, adaptability, and a sense of responsibility among our students
+to thrive in an increasingly complex world.</p>
+<h4><strong>Our Approach to Science Learning</strong></h4>
+<p>The Science Department adopts an Inquiry-based Learning Approach, where
+lessons are structured to encourage exploration, critical thinking, and
+hands-on experimentation. This approach is supported by key elements such
+as knowledge acquisition, where students build a strong foundation of scientific
+principles. Science process skills are emphasized, encouraging students
+to investigate, analyze, and solve problems systematically. Additionally,
+we focus on cultivating desirable scientific attitudes.</p>
+<p>Our curriculum is tailored to the unique learning styles of boys, leveraging
+their visual, kinesthetic, and competitive inclinations. To enhance engagement
+and deepen understanding, we employ differentiated instruction for personalized
+learning experiences and experiential education to connect theoretical
+knowledge to real-world applications.</p>
+<h4><strong>Shaping Future-Ready Students</strong></h4>
+<p>
+<br>Through our Science programmes, we aim to shape creative learners who
+think critically and innovatively to address real-world challenges. From
+designing circuits and building catapults to exploring sustainable farming,
+students are encouraged to approach problems with curiosity and a sense
+of purpose. By fostering empathy and environmental awareness, we nurture
+responsible individuals ready to make meaningful contributions to the world.</p>
+<h4><strong>Key Programmes and Initiatives</strong></h4>
+<p><strong>STEM Activities Across All Levels</strong>
+</p>
+<p>STEM activities are seamlessly integrated into the curriculum, transforming
+Science lessons into opportunities for discovery and innovation. These
+projects are designed to develop critical thinking, creativity, and problem-solving
+skills. They also build connections between scientific concepts and practical
+applications, fostering collaboration, communication, and teamwork.</p>
+<p>Examples of such activities include designing catapults, exploring hydroponic
+farming systems, and creating home circuits. These projects not only align
+with curricular goals but also prepare students to tackle challenges in
+a rapidly evolving world.</p>
+<p>STEM education has evolved beyond the traditional confines of textbooks,
+emphasizing hands-on, applied learning that allows students to grasp the
+real-world applications of their knowledge from a young age. These programmes
+provide an engaging, hands-on approach to spur an appreciation of STEM
+learning beyond the classroom and encourage our students to be curious,
+creative, and agents of positive change.</p>
+<p>The significance of STEM education in our curriculum cannot be overstated.
+It not only develops the technical expertise required for future industries
+but also cultivates 21st-century competencies such as critical, adaptive,
+and inventive thinking. These competencies empower our students to thrive
+in and beyond school by contemplating and creating innovative solutions
+to various challenges.</p>
+<p><strong>SPARKLE Kits</strong>
+</p>
+<p>The SPARKLE Kits provided by the Ministry of Education are an innovative
+resource that brings Science to life in the classroom. Short for "Science
+Pack Activity Resource Kits for Learning," these kits are carefully designed
+to support hands-on exploration and collaborative learning. Each kit focuses
+on the "Ways of Thinking and Doing in Science" (WOTD) and includes activities
+that align with the primary Science syllabus, making abstract concepts
+tangible and engaging.</p>
+<p>For example, the "Let’s Explore Materials" SPARKLE Kit introduces students
+to the properties and uses of materials through a series of interactive
+tasks. Students engage in activities such as card games where they discuss
+whether certain objects can be made from specific materials and justify
+their reasoning based on the properties of those materials. These discussions
+not only spark curiosity but also foster critical thinking and collaborative
+learning as students share differing viewpoints and refine their understanding
+together.</p>
+<p>Beyond games, the kits enable students to conduct hands-on experiments.
+For instance, students explore the strength of materials by testing how
+much weight different materials can bear, investigate transparency by shining
+light through materials, and assess absorbency by adding water drops to
+various surfaces. These experiments prompt students to make predictions,
+collect evidence, and discuss their findings with peers, ensuring a deep
+and interactive learning experience.</p>
+<p>Teachers are equipped with multiple approaches to maximize the learning
+potential of each kit, ensuring that lessons are dynamic and student-centered.
+The SPARKLE Kits exemplify the department’s commitment to "hands-on, minds-on"
+learning. They create a rich environment where students can experiment,
+discuss, and develop a deeper appreciation for scientific concepts, making
+the learning process both enjoyable and meaningful.</p>
+<p><strong>Eco Stewardship Programme (ESP)</strong>
+</p>
+<p>The Eco Stewardship Programme (ESP) is a flagship initiative that aligns
+with the Singapore Green Plan 2030 and the Ministry of Education’s sustainability
+framework. It reflects the school’s dedication to nurturing responsible
+global citizens who are mindful of environmental issues and committed to
+creating a sustainable future.</p>
+<p>By adopting a "4Cs" approach—focusing on curriculum, campus, culture,
+and community—the ESP integrates sustainability education into every aspect
+of school life. The programme empowers students to contribute to Singapore’s
+sustainability challenges through meaningful engagement, fosters green
+leadership, and provides practical learning experiences that prepare students
+to take active roles in advocating for environmental conservation.</p>
+<p>As part of the school’s innovations in sustainability education, key infrastructure
+enhancements have been implemented to support these efforts. Hydroponics
+systems featuring smart vertical setups and AI-enabled automation teach
+students about efficient farming methods, sustainable food production,
+and resource optimization. These systems provide a hands-on learning experience
+that connects theoretical concepts with real-world applications.</p>
+<p>The Edible Garden, featuring common local vegetables, further enriches
+students’ understanding of food security and sustainable practices. Designed
+to align with Singapore’s "30 by 30" initiative, these learning spaces
+not only deepen students’ appreciation for the effort involved in food
+production but also highlight the importance of sustainable living practices.</p>
+<p>The programme’s success is further amplified through partnerships and
+community involvement. The Parent Support Group (PSG) plays an active role
+in supporting the Edible Garden by sharing their expertise in sustainable
+gardening practices and assisting with its maintenance. Collaborations
+with social enterprises like The Circular Classroom and Green Sproutz Singapore
+provide students with valuable opportunities to learn about circular economies
+and the importance of recycling. Initiatives such as upcycling old uniforms
+and textile recycling not only raise awareness about sustainability but
+also encourage students to participate actively in meaningful environmental
+projects.</p>
+<p>Student-centered activities lie at the heart of the ESP, fostering a culture
+of environmental responsibility and advocacy. Events such as World Water
+Day, Earth Day, and Biodiversity Week are integrated into the academic
+calendar to raise awareness about key sustainability issues. These events
+are complemented by hands-on activities and digital learning packages that
+engage students in understanding environmental challenges and solutions.</p>
+<p>The Green Ambassadors Programme further empowers students by equipping
+them with the skills and knowledge needed to advocate for sustainability.
+Green Ambassadors take the lead in organizing school-wide initiatives such
+as promoting a car-lite lifestyle, conducting food waste recycling campaigns,
+and delivering impactful presentations to their peers. Through these experiences,
+students gain valuable insights into sustainable living while cultivating
+a sense of agency and responsibility for the environment.</p>
+<p>The Eco Stewardship Programme embodies the school’s commitment to preparing
+students for the challenges of tomorrow by fostering a deep connection
+to environmental stewardship. By equipping students with the knowledge,
+skills, and mindset needed to address sustainability issues, the programme
+ensures that they emerge as confident, compassionate, and responsible individuals
+ready to make meaningful contributions to the world.</p>
+<p></p>

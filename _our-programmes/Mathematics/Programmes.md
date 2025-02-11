@@ -6,177 +6,131 @@ third_nav_title: Mathematics
 variant: tiptap
 ---
 <h3><strong>Vision</strong></h3>
-<p>In ACS(P), the goal of the mathematics curriculum is to develop students’
-numeracy, reasoning, thinking skills and problem-solving skills. It is
-our aim for the pupils to acquire the necessary Mathematical concepts and
-skills for everyday life, develop the necessary process skills for the
-acquisition and application of Mathematical concepts and skills and to
-develop positive attitudes for Mathematics.</p>
+<p>Cultivating ACSians' interest in mathematics while enhancing their problem-solving
+skills and building confidence through real world applications.</p>
+<h3>&nbsp;<strong>Mission</strong></h3>
+<p>Through our structured and student-centered programmes, we foster critical
+thinking and logical reasoning, empowering students to become reflective,
+lifelong learners who appreciate the value and relevance of Mathematics
+in their lives.</p>
+<p>&nbsp;</p>
+<h3><strong>Aims of Curriculum</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Everyday Relevance: Promote a solid understanding of mathematical principles
+and their real-world applications.</p>
+</li>
+<li>
+<p>Confidence and Interest: Cultivate a positive attitude toward mathematics,
+nurturing curiosity and exploration.</p>
+</li>
+<li>
+<p>Flexible Thinking: Encourage creative and adaptable problem-solving approaches.</p>
+</li>
+<li>
+<p>Mathematical Communication: Develop the ability to articulate mathematical
+ideas confidently and logically.</p>
 <p></p>
-<h3><strong>Mission</strong></h3>
-<p>Our Mathematics lessons and programmes focus on incorporating Info-communication
-technology (ICT), experiential learning, curriculum differentiation and
-citizenship and character development (CCE). Various ICT tools like the
-school e-learning portal and Classroom Performance System (CPS) are used
-in the teaching of Mathematical concepts. Pupils have opportunities to
-learn experientially through hands-on activities while a number of Mathematics
-lessons are conducted outside the classroom. Curriculum differentiation
-is carried out in the Mathematics classroom through banding and differentiated
-lessons. We believe that every child is unique and different strategies
-and approaches are used to help the child in the subject. Values are taught
-wherever applicable in the various Mathematical topics.</p>
-<p></p>
-<h4><strong>Programmes</strong></h4>
-<p><strong>P1 to P6</strong>
+</li>
+</ul>
+<h4><strong>Programme</strong></h4>
+<p><strong>Fostering Joy in Learning through Enriching Experiences</strong>
 </p>
-<p><strong>Financial Literacy Programm</strong>
+<p>Opportunities are created for students to explore, experience and discover
+Mathematics through daily lessons and interactive PlayStation based activities
+in the lower and mid primary. The use of manipulatives, ICT tools and Math
+concept cartoons are ways to enhance the learning experiences and to instil
+joy of learning. Students develop and apply mathematical concepts to real-life
+situations, engaging in customized activities that promote flexible thinking
+and innovative problem-solving approaches.</p>
+<p>We use everyday examples to deepen their learning of Mathematics. Solving
+real-world problems contributes to the students’ metacognitive awareness
+as they discuss solutions, think aloud and reflect on what they are doing.</p>
+<h4><strong>&nbsp;Thinking Routine</strong></h4>
+<p>The Polya’s Problem Solving Techniques help students develop thinking
+routine when solving problem sums. This technique comprises of the 4 essential
+steps of understanding the problem, devising a plan on which heuristics
+skills to use, carrying out the plan and checking the results.</p>
+<p><strong>Primary 1 to Primary 6</strong>
 </p>
-<p>In line with the objective to promote and provide a learning environment
-that encourages critical and inventive thinking and creative problem-solvers
-among pupils, the Financial Literacy Programme imparts pupils with basic
-financial literacy skills through hands-on activities. The programme emphasizes
-on Mathematics. The programme enriches pupils’ skills on decision-making,
-following directions, listening responsively and making observations. They
-also develop teamwork through recognizing symbols and money in the form
-of role-playing. Furthermore, pupils learn financial life skills through
-interactive games and varied activities which encourage pupils to think
-innovatively and unleash their ideas, fostering an entrepreneurial mind-set
-amongst them.</p>
-<p>The Financial Literacy Programme is made byte-sized and in a progressive
-manner so that the learning outcomes are spanned across the six years in
-their primary education. The lessons and activities are structured with
-a gradual increase in the complexity of content knowledge to cater to the
-pupils as they move up in different levels. Pupils work collaboratively
-in groups and engage meaningfully in discussions in order to solve the
-assigned tasks. In addition, through these activities, pupils learn the
-right values, skills, attitudes and also hone their self-confidence and
-communication skills for 21st century problem-solvers.</p>
-<p>The aims of this programme:</p>
-<p>* To enable pupils to differentiate between needs and wants</p>
-<p>* To inculcate in pupils good savings habits from young</p>
-<p>* To equip pupils with basic knowledge of managing their money</p>
-<p>* To relate financial literacy to real-life contexts</p>
-<p></p>
-<p><strong>P5 to P6 Banding &amp; P3, P4 Pull-out</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Financial Literacy Programme
+<br>Integrating mathematics with practical financial knowledge, this programme
+uses engaging activities such as role-playing and case studies to build
+students' financial awareness:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1: Introduce earning concepts.</p>
+</li>
+<li>
+<p>P2: Learn saving principles.</p>
+</li>
+<li>
+<p>P3: Understand wise spending.</p>
+</li>
+<li>
+<p>P4: Master budgeting basics.</p>
+</li>
+<li>
+<p>P5: Explore giving and investing.</p>
+</li>
+<li>
+<p>P6: Apply budgeting through real-life scenarios.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h3></h3>
+<h4><strong>Learning Support and Stretch Programmes</strong></h4>
+<p><strong>Primary 1 to Primary 2</strong>
 </p>
-<p></p>
-<p>This enables the pupils to learn at their own pace. Additional support
-is provided to students who require it.</p>
-<p><strong>P1 LSM</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Learning Support for Mathematics (LSM)<br></strong> An early intervention
+effort aimed to provide additional support to students.</p>
+</li>
+<li>
+<p><strong>Math Bridging Programme<br></strong> Develops early numeracy skills
+and builds a solid foundation in counting, sorting, and recognizing patterns.</p>
+</li>
+</ul>
+<p>&nbsp;<strong>Primary 5 to Primary 6</strong>
 </p>
-<p>The Learning Support for Math (LSM) programme caters to P1 pupils who
-require more individual help in developing their numeracy skills. Through
-the small group setting, pupils are able to benefit from the various hands-on
-strategies to help them in the subject.</p>
-<p><strong>Process Skills</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Remedial Programme<strong><br></strong> Weekly small-group sessions to
+offer targeted support in build up the mastery of Mathematical concepts.</p>
+</li>
+</ul>
+<p><strong>&nbsp;Primary 4 to Primary 5</strong>
 </p>
-<p>The P1 and P2 pupils are taught the following heuristics:</p>
-<p>* Make a Table</p>
-<p>* Find a Pattern</p>
-<p>* Draw a Picture</p>
-<p>* Logical Reasoning</p>
-<p>* Choose the Operations</p>
-<p>* Guess and Check</p>
-<p>* Make a List</p>
-<p>* Process Data</p>
-<p></p>
-<p><strong>P3 - P4</strong>
-</p>
-<p><strong>Remedial Lessons</strong>
-</p>
-<p>Remedial lessons are conducted for the pupils who require more support
-in the subject. Teachers make use of these weekly lessons to help the pupils
-in the mastery of Math concepts and skills.</p>
-<p><strong>Process Skills</strong>
-</p>
-<p>The P3 and P4 pupils are taught the following heuristics:</p>
-<p>* Make a Table</p>
-<p>* Find a Pattern</p>
-<p>* Logical Reasoning</p>
-<p>* Choose the Operations</p>
-<p>* Guess and Check</p>
-<p>* Make a List</p>
-<p>* Process Data</p>
-<p><strong>P4 - P5</strong>
-</p>
-<p><strong>E2K (Mathematics)</strong>
-</p>
-<p>The Excellence 2000 (E2K) Mathematics Programme was developed by Israel
-Centre for Excellence through Education (ICEE). The E2K Math Programme
-was conceptualized as a Mathematics enrichment programme for upper primary
-pupils who demonstrate interest and ability in Mathematics.</p>
-<p>The goals of the Programme are to foster independence in mathematical
-thinking skills, as well as nurture other important 21st century competencies
-such as resilience and resourcefulness, critical and inventive thinking
-and effective communication skills. The programme comprises mathematics
-curriculum units that are designed to challenge high-ability pupils and
-to introduce them to advanced mathematical concepts and thinking.</p>
-<p>During the E2K sessions, pupils will be assigned challenging Math problems.
-They will have opportunities to discover, reason and communicate Mathematical
-ideas and concepts, especially in problem solving.</p>
-<p></p>
-<p><strong>P5 and P6</strong>
-</p>
-<p><strong><em>Remedial and Supplementary Lessons</em></strong>
-</p>
-<p>At Primary 5, remedial lessons are carried out for the pupils who require
-more support in the subject. Supplementary classes are carried out for
-the Primary 6 pupils to prepare them for the Primary School Leaving Examination
-(PSLE).</p>
-<p><strong>Process Skills</strong>
-</p>
-<p>The P5 and P6 pupils are taught the following heuristics:</p>
-<p>* Make a Table</p>
-<p>* Find a Pattern</p>
-<p>* Draw a Picture</p>
-<p>* Logical Reasoning</p>
-<p>* Choose the Operations</p>
-<p>* Guess and Check</p>
-<p>* Make a List</p>
-<p>* Process Data</p>
-<p>* Supposition</p>
-<p>* Working Backwards</p>
-<p><strong>2. Activities</strong>
-</p>
-<p><strong>P1 – P2</strong>
-</p>
-<p><strong>P1 Learning Journey</strong>
-</p>
-<p>Pupils will discover unique facts about amazing marine creatures, and
-how similar or different they can be. They will also learn the importance
-of their roles in our oceans and how we keep the oceans healthy by protecting
-them. The learning journey allows pupils to connect Mathematics that they
-have learnt in the real world and develop Mathematical competencies.</p>
-<p></p>
-<p><strong>P2 Station Work</strong>
-</p>
-<p>Pupils will take part in station work where they will have an opportunity
-to apply Mathematical skills and concepts learnt.</p>
-<p></p>
-<p><strong>P2 Amazing Race</strong>
-</p>
-<p>This learning journey ties in the themes of community, neighbourhood and
-occupations. The activities during the learning journey focus on topics
-like money, measurement, graphs and patterns. Life skills like using public
-transport, reading signs, budgeting and teamwork are also introduced.</p>
-<p><strong>P1-P6</strong>
-</p>
-<p><strong>Maths Recess Activities</strong>
-</p>
-<p>During recess, pupils will take part in interesting games that will let
-them apply skills and concepts learn in the classroom.</p>
-<p><strong>P5-P6</strong>
-</p>
-<p><strong>P5 Mathematics Trail</strong>
-</p>
-<p>Pupils will embark on station based learning within the school premises.
-There will be station work where pupils will attempt questions and tasks
-related to the topic on Volume, taught previously.</p>
-<p></p>
-<p><strong>P6 Outdoor Learning</strong>
-</p>
-<p>The P6 pupils will embark on an outdoor learning lesson on the topic of
-pie charts. Pupils will also have the chance of crafting questions related
-to the pie charts that they have created.
+<ul data-tight="true" class="tight">
+<li>
+<p>E2K Programme <strong><br></strong>Designed for students with exceptional
+mathematical potential, fosters critical thinking and resilience through
+challenging problem-solving tasks.</p>
+</li>
+</ul>
+<p>
 <br>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Competitions</p>
+</li>
+</ul>
+<p>Selected Primary 5 and Primary 6 students are provided opportunities to
+compete in competitions, igniting their passion and expanding their potential:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</p>
+</li>
+<li>
+<p>Raffles Mathematical Olympiad (RMO)</p>
+</li>
+<li>
+<p>NUS High Mathematics Olympiad Singapore (NMOS)</p>
+</li>
+</ul>
+<p></p>

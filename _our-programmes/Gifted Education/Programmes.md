@@ -147,3 +147,57 @@ language-rich activities to motivate our students. For examples, the P3
 students will be exposed to Reader’s Theatre while the P4 students to write
 haikus.</p>
 <p></p>
+<p><strong>Gifted Education Programme (GEP)&nbsp;</strong>
+</p>
+<p>Anglo-Chinese School (Primary) has been one of the primary schools that
+offer the Gifted Education Programme (GEP) since 1985. The GEP in ACS(P)
+is anchored on the school’s twin pillars of intellectual development (Cognitive
+Domain) and character building (Affective and Social Domains). Students’
+intellectual potential is developed in a nurturing environment through
+a curriculum that is built on the regular curriculum but enriched in depth
+and breadth.</p>
+<p>The GEP curriculum is differentiated in terms of content, process, product
+and learning environment. It provides opportunities for content mastery,
+creativity, critical thinking and character-building through Character
+and Citizenship Education, English Language, Mathematics, Mother Tongue
+Language, Science and Social Studies.</p>
+<p>To encourage and support independent and self-directed learning, the GEP
+in ACS(P) offers core research and inquiry skills at P4, and the following
+Individualised Study Options (ISO) at P5:</p>
+<p>1. Individualised Research study (IRS)</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/gifted-education/individualised-study-options" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/education-in-sg/our-programmes/gifted-education/individualised-study-options</u></a>
+</p>
+<p>2. Innovation Programme (IvP)</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/geb-special-programmes" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/education-in-sg/our-programmes/geb-special-programmes</u></a>
+</p>
+<p>3. Future Problem-Solving Programme (FPSP)</p>
+<p><a href="https://www.fpspi.org/singapore/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.fpspi.org/singapore/</u></a>
+</p>
+<p>
+<br>
+</p>
+<p>Some other enrichment programmes and opportunities include the following:</p>
+<p>Advanced Mathematics Enrichment Class (AMEC)</p>
+<p>Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</p>
+<p>Chinese Language e-Enrichment Camp</p>
+<p>Chinese Language Reading Carnival</p>
+<p>Computing Enrichment Programme (CEP)</p>
+<p>Creative Writing Programme (CWP)</p>
+<p>International Math and Science Olympiad (IMSO)</p>
+<p>Learning Journeys and Outdoor Learning</p>
+<p>Math Masterclass</p>
+<p>National Mathematical Olympiad of Singapore (NMOS)</p>
+<p>Primary 6 Math Challenge</p>
+<p>Raffles Mathematical Olympiad (RMO)</p>
+<p>Science Masterclass</p>
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+<p>Value-in-Action (VIA) Programmes</p>
+<p>Wits and Words: Inter-school Debate Championship</p>
+<p>&nbsp;</p>
+<p>For more information on the GEP, please visit:</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/gifted-education" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/education-in-sg/our-programmes/gifted-education</u></a>
+</p>
+<p>
+<br>
+</p>
+<p></p>

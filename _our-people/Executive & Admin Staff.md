@@ -158,7 +158,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jahroni Karadi</p>
+<p>Mr Choo Kim Huat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

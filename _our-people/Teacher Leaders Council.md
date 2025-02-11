@@ -1,5 +1,5 @@
 ---
-title: School Teaching Committee
+title: Teacher Leaders Council
 permalink: /our-people/school-teaching-committee/
 description: ""
 variant: tiptap
