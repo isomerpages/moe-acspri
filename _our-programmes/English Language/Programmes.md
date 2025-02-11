@@ -61,9 +61,7 @@ introduced in the lower primary EL classrooms, have also been introduced.
 These activities involve both independent and group learning and provide
 students with opportunities to apply their learning in authentic contexts
 and develop their literacy skills.&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Read @ ACS(P)</strong>
+<p><strong>&nbsp;Read @ ACS(P)</strong>
 </p>
 <p>Our structured reading programme, Read @ ACS(P) is designed to nurture
 a love for books. A key feature of our programme is the Reading Reward
@@ -79,9 +77,7 @@ of engaging activities such as storytelling, designing personalised book
 bags and badges and hands-on Science experiments.</p>
 <p>By making reading an exciting and rewarding experience, we aim to create
 a vibrant reading culture in our school.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Reading Circles</strong>
+<p><strong>&nbsp;Reading Circles</strong>
 </p>
 <p>Reading Circles (RC) is a collaborative reading strategy that encourages
 readers to discuss a piece of literature in depth. The discussion usually
@@ -93,8 +89,7 @@ are meant to meet the needs of these learners. During RC sessions, students
 will be provided with opportunities to engage their critical-thinking,
 reflection, teamwork, and communication skills as they express their perspectives
 and respond to what they have read.</p>
-<p>&nbsp;</p>
-<p><strong>Debate Enrichment</strong>
+<p>&nbsp;<strong>Debate Enrichment</strong>
 </p>
 <p>This programme which takes place after school is for selected verbally
 talented Primary 5 students with a foundation in debate. &nbsp;By engaging
