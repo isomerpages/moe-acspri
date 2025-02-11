@@ -51,7 +51,6 @@ as they discuss solutions, think aloud and reflect on what they are doing.</p>
 routine when solving problem sums. This technique comprises of the 4 essential
 steps of understanding the problem, devising a plan on which heuristics
 skills to use, carrying out the plan and checking the results.</p>
-<h3>&nbsp;</h3>
 <p><strong>Primary 1 to Primary 6</strong>
 </p>
 <ul data-tight="true" class="tight">
