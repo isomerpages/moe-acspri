@@ -29,6 +29,13 @@ taught in greater depth to achieve the outcomes of a student-centric music
 curriculum through instrumental playing and listening and responding to
 music. We adopt a holistic approach in enriching the pupils aesthetically
 by bringing the necessary musical experiences into our classrooms.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA_photos/Art1.jpg">
+</div>
+<p></p>
+<p></p>
 <h6>Visual Art</h6>
 <p>The Visual Art programme incorporates:</p>
 <ul>
@@ -46,8 +53,8 @@ and individuality</p>
 </li>
 </ul>
 <p>For Primary 1 to Primary 3, the visual art curriculum focuses on the hands-on,
-experiential aspects where they get to ‘play’ and ‘explore’ different art
-media and art elements. For Primary 4 to Primary 6, students are ready
+experiential aspects where students get to ‘play’ and ‘explore’ different
+art media and art elements. For Primary 4 to Primary 6, students are ready
 to progress deeper in various art forms/media. The curriculum aims to ensure
 continuity in achieving the key learning outcomes of “seeing”, “expressing”
 and “appreciating”.</p>
@@ -105,28 +112,33 @@ for the P1 students. They learn to create simple dance routines to selected
 music extracts. &nbsp;Pupils are then&nbsp;taught to create their own dance
 routines &nbsp;in groups so as to enable a better appreciation of the&nbsp;arts
 through creative learning.</p>
+<h5><strong>SHOWCASE</strong></h5>
 <h6>Recess Concerts</h6>
 <p>Recess Concerts serve as a platform for students to showcase their talents
 in the performing arts. ACS (P) also aims to educate students on concert
 etiquette. These concerts are held during recess and the audience comprises
 students from the performers’ classes. It is in this non-threatening, familiar
 setting that the performers feel more at ease to express themselves.</p>
+<p>Art-Science Corner</p>
+<p>The Art-Science Corner is a dynamic space that bridges the worlds of art
+and science, showcasing creative works centered on sustainability and environmental
+awareness. This space encourages cross-disciplinary collaboration, sparking
+meaningful dialogue about sustainability through innovative artistic expression.</p>
 <h4><strong>Events</strong></h4>
 <h6>Arts Fest</h6>
 <p>Arts Fest in ACS(P) is an annual event alternating between performing
 arts and visual arts. Arts Fest Kaleidoscope focuses on showcasing our
-students’ talents in the performing arts, namely the Choir, Synergy Performing
-Arts Group, Guitar Ensemble and String Ensemble. We also aim to provide
-students with exposure to various arts groups and performances during this
-event.</p>
+students’ talents in the performing arts, namely the Choir and Synergy
+Performing Arts Group. We also aim to provide students with exposure to
+various arts groups and performances during this event.</p>
 <p>Arts Fest Appreciate! focuses on showcasing our students’ artwork in an
 exhibition, featuring a wide range of displays selected from each class.</p>
 <h6>Aesthetics CCAs</h6>
 <p>Students have an array of aesthetics CCAs to choose from, both in the
-performing and visual arts. The Choir, Guitar Ensemble, String Ensemble,
-Synergy Performing Arts Groups and Art Club provide an avenue for performing
-and creative expression. This is in line with our mission to provide a
-holistic education for all ACS(P) students.</p>
+performing and visual arts. The Choir, Synergy Performing Arts Groups and
+Art Club provide an avenue for performing and creative expression. This
+is in line with our mission to provide a holistic education for all ACS(P)
+students.</p>
 <h5><strong>Events</strong></h5>
 <p>Arts Fest Kaleidoscope and Arts Fest Appreciate! are held biannually with
 focus on showcasing pupils’ talents in the arts. The focus of Arts Fest
