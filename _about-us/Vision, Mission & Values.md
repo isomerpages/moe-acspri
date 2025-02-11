@@ -97,4 +97,3 @@ The ACS(P) gentleman is anchored in Christian values. As a leader of himself, he
 **Passionate Learners**
 
 The ACS(P) gentleman is a passionate and enthusiastic learner who has a lively curiosity about the world. He takes responsibility for his own learning and perseveres when faced with challenges. He is reflective, humbly learns from others and responds positively to feedback. He enjoys physical activities and appreciates the arts. He pursues his areas of interest and is motivated to learn beyond the classroom. Having an abundance mindset, he readily shares his learning with others.
-
