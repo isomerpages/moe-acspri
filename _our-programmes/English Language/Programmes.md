@@ -9,7 +9,7 @@ variant: tiptap
 <p>The English Language (EL) department aims to cultivate a love for the
 English Language in our students and empower them with a strong foundation
 in language skills to thrive in the 21<sup>st</sup> century confidently</p>
-<h4><strong>English Language Curriculum Overview </strong><em>(Extracted from EL Syllabus 2020)</em></h4>
+<h4><strong>English Language Curriculum Overview </strong>(Extracted from EL Syllabus 2020)</h4>
 <p></p>
 <p>The EL Syllabus 2020 emphasises the building of a strong foundation in
 language skills and competencies while equipping students with 21<sup>st</sup> century
@@ -39,8 +39,7 @@ and co-create knowledge and solutions in familiar or new contexts.</p>
 English Language Learning And Reading (STELLAR) 2.0 curriculum over six
 years. STELLAR is an interactive literacy programme that fosters confidence
 in learning English using children's literature.</p>
-<p>&nbsp;</p>
-<h4><strong>Programmes &amp; Initiatives</strong></h4>
+<h4><strong>&nbsp;Programmes &amp; Initiatives</strong></h4>
 <p><strong>Guided Reading</strong>
 </p>
 <p>The programme aims to arouse students’ interest in reading and expose
@@ -52,8 +51,7 @@ engage in classroom discussions on main events in the story, characters’
 thoughts and feelings and writer’s intentions. EL teachers will also guide
 students through increasingly challenging texts, with the aim of building
 students’ proficiency and comprehension skills.</p>
-<p>&nbsp;</p>
-<p><strong>Joy of Learning in the EL Classroom</strong>
+<p>&nbsp;<strong>Joy of Learning in the EL Classroom</strong>
 </p>
 <p>To promote joy of learning in the EL classroom, games which promote robust
 learning and enhance student motivation have been introduced in EL classrooms
