@@ -11,7 +11,7 @@ variant: markdown
           font-size:24px
     }
   </style>
-Every ACSian - a <span class="highlight">Y</span>oung, <span class="highlight">M</span>an of , <span class="highlight">C</span>haracter, <span class="highlight">C</span>apability and <span class="highlight">C</span>reativity 
+Every ACSian - a <span class="highlight">Y</span>oung <span class="highlight">M</span>an of  <span class="highlight">C</span>haracter, <span class="highlight">C</span>apability and <span class="highlight">C</span>reativity 
 
 ##### **Our Mission**
 
