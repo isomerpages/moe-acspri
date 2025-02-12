@@ -4,10 +4,9 @@ permalink: /about-us/principal-foreword/
 description: ""
 variant: tiptap
 ---
-<h3>Not to be served, but to serve</h3>
-<p></p>
-<p>What is greatness?&nbsp;</p>
-<p></p>
+<h3><strong>Not to be served, but to serve</strong></h3>
+<p><strong>What is greatness?&nbsp;</strong>
+</p>
 <p>As parents and educators, we naturally want our children and students
 to be great. Great in their results, achievements, attitude and character.</p>
 <p></p>
@@ -93,10 +92,9 @@ in the footsteps of our Lord Jesus Christ.</p>
 <p>As parents and educators, let us be careful about pursuing worldly notions
 of greatness which may hinder our children from fulfilling their true potential
 of greatness in the kingdom of God!</p>
-<p></p>
 <p>To God Be The Glory. The Best Is Yet To Be!</p>
-<p></p>
 <p>Mrs Leong-Ho Hil May</p>
 <p>Principal</p>
-<p>ACS (Primary)</p>
+<p></p>
+<p></p>
 <p></p>

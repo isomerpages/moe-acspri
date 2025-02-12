@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mr Ernest Fu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ernest_Fu@schools.gov.sg" rel="noopener nofollow" target="_blank">Ernest_Fu@schools.gov.sg</a>
+<p><a href="Mailto:ernest_fu@schools.gov.sg" rel="noopener nofollow" target="_blank">ernest_fu@schools.gov.sg</a>
 </p>
 </td>
 </tr>

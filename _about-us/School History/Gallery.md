@@ -18,9 +18,10 @@ at ACSP.</p>
 of Henry Martyn Hoisington, who was a former ACS student and later teacher
 at Anglo-Chinese School from 1909 to 1933. Significantly, he also composed
 the school anthem in 1926.</p>
-<p>“History from the Hills” has a series of 8 episodes and is available on</p>
-<p><a href="https://www.mewatch.sg/show/History-from-the-Hills-227973" rel="noopener nofollow" target="_blank">https://www.mewatch.sg/show/History-from-the-Hills-227973</a>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="480" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uPw53IZ6k6E"></iframe>
+</div>
 <p></p>
 <p>The recent film developed by Urban Redevelopment Authority (URA) titled
 “Red Blue Gold Days of 1 Canning Rise’ also further explores the transformation
@@ -31,7 +32,7 @@ through parts of ACPS still preserved in NAS and in the fond memories of
 our alumni while we embrace the change that is inevitable.&nbsp;</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/boVl98d_iIc"></iframe>
+<iframe height="480" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/boVl98d_iIc"></iframe>
 </div>
 <p>The ACS story is not complete without the participation and support of
 all stakeholders, especially parents and Old Boys. We count it a blessing
@@ -42,7 +43,8 @@ is the Oldham Club - the sports and social/community outreach arm of the
 ACS Old Boys’ Association (ACS OBA). This video epitomises the ACS spirit
 of giving back to the school and the community. It also reflects our endeavours
 to help every ACSian to believe in himself.</p>
-<p>The Best Is Yet To Be!</p>
+<p><strong>The Best Is Yet To Be!</strong>
+</p>
 <p>
 <br>
 </p>

@@ -74,9 +74,8 @@ the enrichment classes have elaborate resources to stretch the students.</p>
 and to cultivate the love of reading of the Mother Tongue Language books.
 Different reading programmes are planned for respective levels. For example,
 recess story telling activity is to encourage more reading, time is set
-aside for P1 and P2 students to read&nbsp; story books. This is followed
-by post-reading activities that help assess the students' understanding
-of the material</p>
+aside for P1 and P2 students to read story books. This is followed by post-reading
+activities that help assess the students' understanding of the material</p>
 <h5><strong>Primary 1 - Primary 6</strong></h5>
 <h5><strong>Applied Learning Programme</strong></h5>
 <p>This programme provides learning opportunities for students to appreciate

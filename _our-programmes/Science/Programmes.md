@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<h4><strong>Our Vision</strong></h4>
+<h3><strong>Our Vision</strong></h3>
 <p>At the Anglo-Chinese School (Primary) Science Department, we envision
 nurturing students who not only enjoy learning Science but also appreciate
 its relevance in their everyday lives. Our goal is to cultivate scientifically
@@ -13,7 +13,7 @@ literate individuals who make informed decisions and take responsible actions,
 particularly in areas like personal health and environmental stewardship.
 By inspiring curiosity and critical thinking, we aim to empower students
 to contribute meaningfully to society as creative and compassionate individuals.</p>
-<h4><strong>Our Mission</strong></h4>
+<h3><strong>Our Mission</strong></h3>
 <p>Our mission is to lay a robust foundation in Science that prepares students
 for future learning and careers in STEM (Science, Technology, Engineering,
 and Mathematics). Through engaging programmes, we aspire to ignite curiosity
@@ -21,7 +21,7 @@ and foster critical thinking, equipping students with the tools to address
 real-world challenges. Our focus extends beyond academics, aiming to nurture
 resilience, adaptability, and a sense of responsibility among our students
 to thrive in an increasingly complex world.</p>
-<h4><strong>Our Approach to Science Learning</strong></h4>
+<h3><strong>Our Approach to Science Learning</strong></h3>
 <p>The Science Department adopts an Inquiry-based Learning Approach, where
 lessons are structured to encourage exploration, critical thinking, and
 hands-on experimentation. This approach is supported by key elements such
@@ -34,7 +34,7 @@ their visual, kinesthetic, and competitive inclinations. To enhance engagement
 and deepen understanding, we employ differentiated instruction for personalized
 learning experiences and experiential education to connect theoretical
 knowledge to real-world applications.</p>
-<h4><strong>Shaping Future-Ready Students</strong></h4>
+<h3><strong>Shaping Future-Ready Students</strong></h3>
 <p>
 <br>Through our Science programmes, we aim to shape creative learners who
 think critically and innovatively to address real-world challenges. From
@@ -42,9 +42,8 @@ designing circuits and building catapults to exploring sustainable farming,
 students are encouraged to approach problems with curiosity and a sense
 of purpose. By fostering empathy and environmental awareness, we nurture
 responsible individuals ready to make meaningful contributions to the world.</p>
-<h4><strong>Key Programmes and Initiatives</strong></h4>
-<p><strong>STEM Activities Across All Levels</strong>
-</p>
+<h3><strong>Key Programmes and Initiatives</strong></h3>
+<h4><strong>STEM Activities Across All Levels</strong></h4>
 <p>STEM activities are seamlessly integrated into the curriculum, transforming
 Science lessons into opportunities for discovery and innovation. These
 projects are designed to develop critical thinking, creativity, and problem-solving
@@ -66,8 +65,7 @@ but also cultivates 21st-century competencies such as critical, adaptive,
 and inventive thinking. These competencies empower our students to thrive
 in and beyond school by contemplating and creating innovative solutions
 to various challenges.</p>
-<p><strong>SPARKLE Kits</strong>
-</p>
+<h4><strong>SPARKLE Kits</strong></h4>
 <p>The SPARKLE Kits provided by the Ministry of Education are an innovative
 resource that brings Science to life in the classroom. Short for "Science
 Pack Activity Resource Kits for Learning," these kits are carefully designed
@@ -96,8 +94,7 @@ The SPARKLE Kits exemplify the department’s commitment to "hands-on, minds-on"
 learning. They create a rich environment where students can experiment,
 discuss, and develop a deeper appreciation for scientific concepts, making
 the learning process both enjoyable and meaningful.</p>
-<p><strong>Eco Stewardship Programme (ESP)</strong>
-</p>
+<h4><strong>Eco Stewardship Programme (ESP)</strong></h4>
 <p>The Eco Stewardship Programme (ESP) is a flagship initiative that aligns
 with the Singapore Green Plan 2030 and the Ministry of Education’s sustainability
 framework. It reflects the school’s dedication to nurturing responsible
