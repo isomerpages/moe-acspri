@@ -102,5 +102,7 @@ From 15 December 2013, Mr Arene Koh took over as Principal of ACS(P). He continu
 
 With Mr Koh’s move, Dr Irene Ng, was posted in and took over the headship from 15 Dec 2018. With her deep conviction that character and faith are the greatest legacies one can pass on to one's children (Billy Graham), she steers the school towards providing the boys with authentic experiences that will ground them on values and seeks to increase the opportunities for them to mix with different social groups.     
 
+Mrs Leong-Ho Hil May was posted in as Principal on 15 Dec 2022. She continues the legacy of building strong foundations in ACSians and leading the school from strength to strength. Under her leadership, the Traits of an ACSian were refreshed to align more closely to MOE’s emerging 21 Century Competencies (e21CC)
+
 With Jesus Christ at the head of the school and with Bishop Oldham's vision firmly intact, ACS(P) is an embodiment of its school motto, 
 "The Best Is Yet to Be".
