@@ -23,4 +23,3 @@ After completing the VIA activities, pupils will do reflection in their&nbsp;iCA
 
 ##### **Staff VIA**
 The staff VIA serves as a platform for the school to develop our teachers as&nbsp;_i_ HOPEFUL Educators&nbsp;and provides opportunities for our staff to role model the&nbsp;_i_ HOPEFUL values and Traits of an&nbsp;ACSian (_i_ HOPEFUL Leader and Community Collaborator) that we want to nurture in our pupils.&nbsp;
-
