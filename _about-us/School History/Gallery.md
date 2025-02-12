@@ -41,7 +41,8 @@ is the Oldham Club - the sports and social/community outreach arm of the
 ACS Old Boys’ Association (ACS OBA). This video epitomises the ACS spirit
 of giving back to the school and the community. It also reflects our endeavours
 to help every ACSian to believe in himself.</p>
-<p>The Best Is Yet To Be!</p>
+<p><strong>The Best Is Yet To Be!</strong>
+</p>
 <p>
 <br>
 </p>
