@@ -21,8 +21,7 @@ domains:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/ST_MG.jpg">
 </div>
 <p></p>
-<p><strong>Student Well- Being</strong>
-</p>
+<h3><strong>Student Well- Being</strong></h3>
 <p>The department looks into the well-being of our students and we believe
 that building healthy relationships is critical.</p>
 <p>Supportive peer relationships form a critical part of the network of positive
@@ -31,15 +30,22 @@ most students. Every student is a peer supporter in ACS(P). To create a
 supportive and caring environment,&nbsp; students will be taught explicit
 skills to develop themselves as a peer supporter. Some of these skills
 include:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; How to be a good listener</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; How to befriend their peers</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; How to be a better friend</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How to be a good listener</p>
+</li>
+<li>
+<p>How to befriend their peers</p>
+</li>
+<li>
+<p>How to be a better friend</p>
+</li>
+</ul>
 <p>Peer Support Leaders (PSL) are identified and trained to take on a leadership
 role in school and lead the peer support efforts in three main areas: peer
 bonding, peer helping, and peer influencing. They will also be supported
 by teachers in the Student Management Department.</p>
-<p><strong>Discipline Approach</strong>
-</p>
+<h4><strong>Discipline Approach</strong></h4>
 <p>We adopt a proactive and positive approach in managing discipline. Students
 learn well when there is order and discipline. At the same time, they need
 encouragement and space to learn from mistakes and improve. There are 3
@@ -64,8 +70,7 @@ are hurt by their actions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_management3%20.png">
 </div>
-<p><strong>Leadership</strong>
-</p>
+<h4><strong>Leadership</strong></h4>
 <p>The school adopts a 3-tier leadership framework, namely Leader of Self,
 Leader of Peer and Leader of Community. At the first tier, every student
 is a leader of himself, where he is taught to be a responsible and independent
