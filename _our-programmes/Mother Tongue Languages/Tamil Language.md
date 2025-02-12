@@ -85,7 +85,6 @@ the students’ progress and self-esteem.</p>
 <p><a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Approved Dictionary List</a>
 </p>
 <h6><strong>Others</strong></h6>
-<p></p>
 <p><a href="https://www.languagecouncils.sg" rel="noopener nofollow" target="_blank">https://www.languagecouncils.sg</a>
 </p>
 <p><a href="http://www.uptlc.moe.edu.sg/" rel="noopener nofollow" target="_blank">http://www.uptlc.moe.edu.sg/</a>
