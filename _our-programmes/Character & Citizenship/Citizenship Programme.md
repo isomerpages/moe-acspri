@@ -6,28 +6,24 @@ third_nav_title: Character & Citizenship
 variant: tiptap
 ---
 <h3><strong>1) NE Commemorative Days</strong></h3>
-<p><strong>Total Defence Day</strong>
-</p>
+<h4><strong>Total Defence Day</strong></h4>
 <p>Schools commemorate Total Defence Day on 15 February annually to mark
 Singapore's fall to the Japanese in 1942. Total Defence Day serves to remind
 our pupils that Singapore is defensible and is worth defending, and we
 ourselves must defend Singapore.</p>
-<p><strong>International Friendship Day</strong>
-</p>
+<h4><strong>International Friendship Day</strong></h4>
 <p>IFD is commemorated in schools on the 3rd Friday of Term 2 that is a working
 day. International Friendship Day is a day dedicated to the understanding
 of Singapore's relations with neighbouring countries and beyond. It aims
 to sensitise our children towards the geo-political realities inherent
 in Singapore, as well as nurture in our students the spirit of friendship
 and collaboration among different people.</p>
-<p><strong>Racial Harmony Day</strong>
-</p>
+<h4><strong>Racial Harmony Day</strong></h4>
 <p>On 21 July each year, schools in Singapore commemorate Racial Harmony
 Day (RHD) to mark the anniversary of the 1964 racial riots. On this day,
 students will reflect on and celebrate Singapore as a harmonious society
 built on a rich diversity of cultures.</p>
-<p><strong>National Day</strong>
-</p>
+<h4><strong>National Day</strong></h4>
 <p>National Day marks our Separation from Malaysia, and our emergence as
 an independent country in the community of nations. Since 1998, a National
 Day Ceremony was introduced in schools. This Ceremony aims to bring to
