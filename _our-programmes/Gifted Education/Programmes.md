@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Gifted Education
 variant: tiptap
 ---
-<h4><strong>Purpose</strong></h4>
+<h3><strong>Purpose</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>To report performance and progress at the end of a phase and&nbsp;experience
@@ -22,7 +22,7 @@ work and development (formative)</p>
 <p>To reflect on the teaching and the learning (evaluative)</p>
 </li>
 </ul>
-<h4><strong>Areas of language learning</strong></h4>
+<h3><strong>Areas of language learning</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Listening, Reading and Viewing (Receptive Skills)</p>
@@ -34,7 +34,7 @@ work and development (formative)</p>
 <p>Grammar and Vocabulary (Knowledge about Language)</p>
 </li>
 </ul>
-<h4><strong>Listening, Reading and Viewing</strong></h4>
+<h3><strong>Listening, Reading and Viewing</strong></h3>
 <p>We give our pupils opportunities for extensive reading and viewing to
 build general knowledge and to help them become fluent, independent readers.</p>
 <p>In the lower primary, teachers read aloud to pupils or have them read
@@ -46,7 +46,7 @@ to do so silently during the twice-weekly reading sessions. Exposure to
 the different text types also gives pupils different models of good English.
 In the middle and upper primary levels, there is explicit teaching of tools
 like annotating and looking for contextual clues.</p>
-<h4><strong>Speaking, Writing and Representing</strong></h4>
+<h3><strong>Speaking, Writing and Representing</strong></h3>
 <p>The&nbsp;<strong>Oral Communications Package</strong>&nbsp;aims to help
 pupils develop the confidence necessary for effective presentations. Pupils
 learn how to use proper volume, posture and eye contact with the audience
@@ -57,8 +57,7 @@ which include brainstorming, asking questions about the topic and context,
 studying ideas from models of good writing and visual techniques (e.g.
 flow charts, storyboards, concept maps). There is also explicit teaching
 of composition skills across the levels.</p>
-<p><strong>Grammar and Vocabulary</strong>
-</p>
+<h4><strong>Grammar and Vocabulary</strong></h4>
 <p>Teachers help pupils enrich their vocabulary by exposing them to new words
 and their use.</p>
 <p>Vocabulary-building is done through explicit instruction such as instruction
@@ -67,7 +66,8 @@ pupils to read independently and widely.</p>
 <p>Prior to the semestral examinations, pupils are given practice papers
 to ensure familiarity with the format of the paper and to learn time management
 skills by completing the papers within the time limit.</p>
-<p><strong>Whole-School Approach to Effective Communication (WSA-EC)</strong>
+<h4><strong>Whole-School Approach to Effective Communication (WSA-EC)</strong></h4>
+<p>
 <br>WSA-EC aims to help our teachers and pupils become effective communicators
 of English. We would like to raise awareness on the importance of good
 English, both in the spoken and written forms.&nbsp;As such, we carry out
@@ -147,8 +147,7 @@ language-rich activities to motivate our students. For examples, the P3
 students will be exposed to Reader’s Theatre while the P4 students to write
 haikus.</p>
 <p></p>
-<p><strong>Gifted Education Programme (GEP)&nbsp;</strong>
-</p>
+<h4><strong>Gifted Education Programme (GEP)&nbsp;</strong></h4>
 <p>Anglo-Chinese School (Primary) has been one of the primary schools that
 offer the Gifted Education Programme (GEP) since 1985. The GEP in ACS(P)
 is anchored on the school’s twin pillars of intellectual development (Cognitive
@@ -173,9 +172,7 @@ Individualised Study Options (ISO) at P5:</p>
 <p>3. Future Problem-Solving Programme (FPSP)</p>
 <p><a href="https://www.fpspi.org/singapore/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.fpspi.org/singapore/</u></a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Some other enrichment programmes and opportunities include the following:</p>
 <p>Advanced Mathematics Enrichment Class (AMEC)</p>
 <p>Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</p>
