@@ -43,8 +43,7 @@ students are encouraged to approach problems with curiosity and a sense
 of purpose. By fostering empathy and environmental awareness, we nurture
 responsible individuals ready to make meaningful contributions to the world.</p>
 <h3><strong>Key Programmes and Initiatives</strong></h3>
-<p><strong>STEM Activities Across All Levels</strong>
-</p>
+<h4><strong>STEM Activities Across All Levels</strong></h4>
 <p>STEM activities are seamlessly integrated into the curriculum, transforming
 Science lessons into opportunities for discovery and innovation. These
 projects are designed to develop critical thinking, creativity, and problem-solving
@@ -66,8 +65,7 @@ but also cultivates 21st-century competencies such as critical, adaptive,
 and inventive thinking. These competencies empower our students to thrive
 in and beyond school by contemplating and creating innovative solutions
 to various challenges.</p>
-<p><strong>SPARKLE Kits</strong>
-</p>
+<h4><strong>SPARKLE Kits</strong></h4>
 <p>The SPARKLE Kits provided by the Ministry of Education are an innovative
 resource that brings Science to life in the classroom. Short for "Science
 Pack Activity Resource Kits for Learning," these kits are carefully designed
@@ -96,8 +94,7 @@ The SPARKLE Kits exemplify the department’s commitment to "hands-on, minds-on"
 learning. They create a rich environment where students can experiment,
 discuss, and develop a deeper appreciation for scientific concepts, making
 the learning process both enjoyable and meaningful.</p>
-<p><strong>Eco Stewardship Programme (ESP)</strong>
-</p>
+<h4><strong>Eco Stewardship Programme (ESP)</strong></h4>
 <p>The Eco Stewardship Programme (ESP) is a flagship initiative that aligns
 with the Singapore Green Plan 2030 and the Ministry of Education’s sustainability
 framework. It reflects the school’s dedication to nurturing responsible
