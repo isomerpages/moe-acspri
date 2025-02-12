@@ -94,3 +94,5 @@ learns from others and responds positively to feedback. He enjoys physical
 activities and appreciates the arts. He pursues his areas of interest and
 is motivated to learn beyond the classroom. Having an abundance mindset,
 he readily shares his learning with others.</p>
+<p></p>
+<p></p>
