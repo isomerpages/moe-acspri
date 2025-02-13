@@ -10,4 +10,10 @@ with periodic updates on school events and achievements of the various
 ACS units. In this magazine, ACS (Primary) features forewords written by
 our Principal and the Vice-Principals as well as reports on significant
 school events and achievements in the Affective, Cognitive, Social and
-Physical areas.</p>
+Physical areas.
+<br>
+</p>
+<p>Click <a href="https://acsecho.com/" rel="noopener nofollow" target="_blank">here</a> to
+read the online version of the ACS Echo and find out more about the ACS
+schools.</p>
+<p></p>
