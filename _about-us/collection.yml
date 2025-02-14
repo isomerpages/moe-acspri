@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - test.md
       - Principal's Foreword.md
       - Vision, Mission & Values.md
       - School History/.keep
