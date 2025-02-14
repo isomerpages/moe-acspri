@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Not to be served, but to serve</strong></h3>
-<p><strong>What is greatness?&nbsp;</strong>
-</p>
+<h4><strong>What is greatness?&nbsp;</strong></h4>
 <p>As parents and educators, we naturally want our children and students
 to be great. Great in their results, achievements, attitude and character.</p>
 <p></p>
@@ -36,8 +35,8 @@ exercise authority over them, but whoever wants to become great among you
 must be your servant. In case his disciples missed the point, Jesus repeated
 it with stronger words: whoever wants to be first must be your slave.</p>
 <p></p>
-<p>For even the Son of Man did not come to be served, but to serve… (Mark
-10:45a).</p>
+<p><strong>For even the Son of Man did not come to be served, but to serve… (Mark 10:45a).</strong>
+</p>
 <p></p>
 <p>As King of kings, Jesus had every right to expect to be served, but He
 chose to serve. He did not merely pay lip service to that but set an example
