@@ -348,7 +348,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/InfoCT</p>
+<p>SH/Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Benedict Yap</p>
@@ -360,19 +360,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lee Ting Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH/PE &amp; CCA</p>
+<p>SH/Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mark Leong</p>
@@ -415,6 +403,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_nurjannah_saaet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurjannah_saaet@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Ting Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
