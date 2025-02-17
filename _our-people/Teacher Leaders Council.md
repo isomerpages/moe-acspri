@@ -120,6 +120,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST/HAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Yoke Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST/MA</p>
 </td>
 <td rowspan="1" colspan="1">
