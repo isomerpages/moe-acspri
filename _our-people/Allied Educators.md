@@ -48,7 +48,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor SEN Officer</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Sophia Chua Lee Ying</p>
