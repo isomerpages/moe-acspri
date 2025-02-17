@@ -73,9 +73,6 @@ the students’ progress and self-esteem.</p>
 <h3><strong>Competitions</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Spelling Bee Competition 2023</p>
-</li>
-<li>
 <p>Various competitions organized by CCs every year</p>
 </li>
 </ul>
