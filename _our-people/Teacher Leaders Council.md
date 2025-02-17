@@ -120,8 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>ST/MA</u>
-</p>
+<p>ST/MA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Chaik Khoon</p>
