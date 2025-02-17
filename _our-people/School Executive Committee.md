@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSD</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vanessa Tan</p>
@@ -96,7 +96,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/CCE</p>
+<p>HOD/English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jasmine Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jasmine_kaur@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Christine Ho</p>
@@ -108,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/GE</p>
+<p>HOD/Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kathleen Chan</p>
@@ -120,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/GE</p>
+<p>HOD/Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Josephine See</p>
@@ -132,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
+<p>HOD/Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Heng Siok Pheng</p>
@@ -144,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/MA</p>
+<p>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Diana Tay</p>
@@ -156,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/MTL</p>
+<p>HOD/Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Angeline Ong</p>
@@ -168,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/PE &amp; CCA</p>
+<p>HOD/Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kelvin Lim</p>
@@ -180,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/SC</p>
+<p>HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lincoln Shen</p>
@@ -192,7 +204,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/SEN &amp; VIA</p>
+<p>HOD/Special Educational Needs &amp; Values-In-Action</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Angeline Yung</p>
@@ -216,7 +228,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT/EL</p>
+<p>LT/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chui Yuen Phun</p>
@@ -228,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT/TL</p>
+<p>LT/Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Kogilavani d/o Vathumalai</p>
@@ -312,7 +324,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/CCE</p>
+<p>SH/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Divya Dharshini</p>
@@ -336,7 +348,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ICT</p>
+<p>SH/Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Benedict Yap</p>
@@ -348,19 +360,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Math</p>
+<p>SH/Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Ting Ting</p>
+<p>Mr Mark Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
+<p><a href="mailto:leong_bao_wen_mark@moe.edu.sg" rel="noopener nofollow" target="_blank">leong_bao_wen_mark@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/CL</p>
+<p>SH/Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jasmine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_cui_yun@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_cui_yun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chiew Hwee Ling</p>
@@ -372,19 +396,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jasmine Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_kaur@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH/EL</p>
+<p>LH/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nurjannah</p>
@@ -396,7 +408,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/SC</p>
+<p>LH/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Ting Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Tai Yao</p>

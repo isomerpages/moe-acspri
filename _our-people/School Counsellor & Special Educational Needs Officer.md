@@ -1,5 +1,5 @@
 ---
-title: Allied Educators
+title: School Counsellor & Special Educational Needs Officer
 permalink: /allied-educators/
 variant: tiptap
 description: ""
@@ -36,25 +36,37 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Chee Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_chee_har@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_chee_har@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Sophia Chua Lee Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_lee_ying_sophia@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_lee_ying_sophia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Jumadi Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_jumadi_jamaludin@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_jumadi_jamaludin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Daphne Heng Syn Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heng_syn_yee_daphne@moe.edu.sg" rel="noopener nofollow" target="_blank">heng_syn_yee_daphne@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -88,11 +100,10 @@ description: ""
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sophia Chua Lee Ying</p>
-<p></p>
+<p>Ms Daphne Heng Syn Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_lee_ying_sophia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_lee_ying_sophia@moe.edu.sg</a>
+<p><a href="mailto:heng_syn_yee_daphne@moe.edu.sg" rel="noopener nofollow" target="_blank">heng_syn_yee_daphne@moe.edu.sg</a>
 </p>
 </td>
 </tr>
