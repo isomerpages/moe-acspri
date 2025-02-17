@@ -180,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/PE &amp; CCA</p>
+<p>HOD/Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kelvin Lim</p>
