@@ -51,7 +51,7 @@ variant: tiptap
 <p>LT/TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Vani</p>
+<p>Miss Kogilavani Vathumalai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kogilavani_vathumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kogilavani_vathumalai@moe.edu.sg</a>
@@ -72,18 +72,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Li Chunju</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:li_chunju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_chunju@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,6 +79,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_lim_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_lim_hwei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST/CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Li Chunju</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_chunju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_chunju@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -108,25 +108,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/HAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Yoke Joo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST/MA</p>
+<p>ST/ES</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Farisa Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farisa_begame_abdul_salam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farisa_begame_abdul_salam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>ST/MA</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Chaik Khoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
