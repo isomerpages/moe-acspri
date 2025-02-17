@@ -279,7 +279,7 @@ variant: tiptap
 <p>Ms Michelle Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_pei_yu_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_yu_michelle@moe.edu.sg </a>
+<p><a href="mailto:lim_pei_yu_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_yu_michelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
