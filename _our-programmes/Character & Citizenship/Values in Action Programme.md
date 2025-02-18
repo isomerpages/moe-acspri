@@ -34,12 +34,12 @@ examples of the VIA activities that were carried out are:</p>
 that they have learnt as they interact with the world around them, and
 act with consideration of the consequences of their actions on themselves
 and others.</p>
-<p>After completing the VIA activities, pupils will do reflection in their&nbsp;iCARE
-booklets to think of the values they have learnt and the attributes of
-an&nbsp;iHOPEFUL Leader and a Community Collaborator they have acquired.</p>
+<p>After completing the VIA activities, pupils will reflect on their experiences
+to think of the values they have developed as well as the desired outcomes
+of an ACSian they have displayed as an Active Contributor, Creative Collaborator,
+Servant Leader or Passionate Learner.</p>
 <h5><strong>Staff VIA</strong></h5>
-<p>The staff VIA serves as a platform for the school to develop our teachers
-as&nbsp;<em>i</em> HOPEFUL Educators&nbsp;and provides opportunities for
-our staff to role model the&nbsp;<em>i</em> HOPEFUL values and Traits of
-an&nbsp;ACSian (<em>i</em> HOPEFUL Leader and Community Collaborator) that
-we want to nurture in our pupils.&nbsp;</p>
+<p>Our staff have dedicated their personal time to volunteer with various
+organisations, demonstrating their commitment to community service. These
+valuable opportunities allow for our staff to exemplify the iHOPEFUL values
+and embody the Desired Outcomes we expect to see our ACSians display.</p>
