@@ -99,7 +99,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>CCE</p>
+<p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Christine Ho</p>
@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="20" colspan="1">
-<p>English Department</p>
+<p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suzanna Hashim</p>
