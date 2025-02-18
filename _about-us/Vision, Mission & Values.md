@@ -2,7 +2,7 @@
 title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h5><strong>Our Vision</strong></h5>
 <p></p>
