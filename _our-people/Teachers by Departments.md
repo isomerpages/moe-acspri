@@ -468,7 +468,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p>Infocomm Technology</p>
+<p>Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Heng Siok Pheng</p>
@@ -516,7 +516,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="11" colspan="1">
-<p>Mathematics Department</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Diana Tay</p>
@@ -618,7 +618,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="21" colspan="1">
-<p>Mother Tongue Language Department-Chinese</p>
+<p>Mother Tongue Languages - Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Angeline Ong</p>
@@ -810,8 +810,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mother Tongue Language Department-Malay</p>
+<p>Mother Tongue Languages - Malay Language</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norharyati Binte Harun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norharyati_harun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Sri Dewi</p>
 </td>
@@ -821,18 +830,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Norharyati Binte Harun</p>
+<td rowspan="3" colspan="1">
+<p>Mother Tongue Languages - Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norharyati_harun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
+<p>Mdm Vasanthi d/o Arumugam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthi_arumugam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Mother Tongue Language Department-Tamil</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Miss Kogilavani d/o Vathumalai</p>
 </td>
@@ -847,15 +856,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anbazhagansuja_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anbazhagansuja_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Vasanthi d/o Arumugam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthi_arumugam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
