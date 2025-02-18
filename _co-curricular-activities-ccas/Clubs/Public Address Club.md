@@ -89,7 +89,7 @@ variant: tiptap
 <p>07:10am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2BLC</p>
+<p>L2 Music Room</p>
 </td>
 </tr>
 <tr>
