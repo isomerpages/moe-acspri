@@ -2,7 +2,7 @@
 title: Principal's Foreword
 permalink: /about-us/principal-foreword/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Not to be served, but to serve</strong></h3>
 <h4><strong>What is greatness?&nbsp;</strong></h4>

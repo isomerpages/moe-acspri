@@ -89,8 +89,8 @@ Knowing Myself, Others and My Surroundings</p>
 Coming Together as a Nation *Learning Journey to Toa Payoh Town Centre</p>
 <p><strong>Primary 3 </strong>– Understanding Singapore in the Past and Present
 Understanding Singapore’s Environment and Challenges *Learning Journey
-to Singapore Mobility Gallery/ Cohort Learning Journey to Geylang Serai
-Heritage Gallery.</p>
+to Singapore Mobility Gallery / Cohort Learning Journey to Geylang Serai
+Heritage Gallery</p>
 <p><strong>Primary 4</strong> – Understanding Singapore in the Past and Present
 Understanding Our Past *Cohort Learning Journey to the Kreta Ayer Heritage
 Gallery.</p>
