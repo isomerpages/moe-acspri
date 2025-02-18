@@ -27,8 +27,9 @@ within the context of real-life situations in 3 broad domains:</p>
 <p>VIA activities/projects are designed around these 3 domains and each level
 will have at least 1 activity/project from each of these domains. Some
 examples of the VIA activities that were carried out are:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:115%" height="auto" width="100%" src="/images/via2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/VIA.png">
 </div>
 <p>Pupils have the opportunity to put in practice the&nbsp;iHOPEFUL values
 that they have learnt as they interact with the world around them, and
