@@ -111,6 +111,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Divya Dharshini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:divya_dharshini_harikrishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">divya_dharshini_harikrishan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ho Lim Hwei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,15 +133,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liew_shuh_onn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_shuh_onn@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Divya Dharshini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:divya_dharshini_harikrishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">divya_dharshini_harikrishan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
