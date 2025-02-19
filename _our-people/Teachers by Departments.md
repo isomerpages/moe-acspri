@@ -1019,7 +1019,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1027,6 +1027,25 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_xiuwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_xiuwen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Desmond Liew</p>
+<p>(Senior School Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_shuh_onn@moe.edu.sg" rel="noopener nofollow" target="_blank">liew_shuh_onn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Jumadi Bin Jamaludin (Senior SENO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_jumadi_jamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_jumadi_jamaludin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1059,10 +1078,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Jumadi Bin Jamaludin</p>
+<p>Mdm Chan Chee Har (School Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_jumadi_jamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_jumadi_jamaludin@moe.edu.sg</a>
+<p><a href="Mailto:chan_chee_har@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_chee_har@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSD</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vanessa Tan</p>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT/EL</p>
+<p>Lead Teacher/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chui Yuen Phun</p>
@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT/TL</p>
+<p>Lead Teacher/Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Kogilavani Vathumalai</p>
@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/Art</p>
+<p>Senior Teacher/Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sharron Yap</p>
@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/CCE</p>
+<p>Senior Teacher/Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ho Lim Hwei</p>
@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/CL</p>
+<p>Senior Teacher/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Chunju</p>
@@ -96,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/EL</p>
+<p>Senior Teacher/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ida Nonanseh</p>
@@ -108,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/ES</p>
+<p>Senior Teacher/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Farisa Hussain</p>
@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/HAL</p>
+<p>Senior Teacher/High Ability Learners</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Yoke Joo</p>
@@ -132,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/MA</p>
+<p>Senior Teacher/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Chaik Khoon</p>
@@ -144,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/SC</p>
+<p>Senior Teacher/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Aminda Chua</p>
@@ -156,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/SC</p>
+<p>Senior Teacher/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wan Mohamed</p>
