@@ -96,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/English Language</p>
+<p>Covering Head of Department/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jasmine Kaur</p>
