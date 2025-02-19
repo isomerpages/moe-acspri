@@ -180,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Physical Education &amp; Co-Curricular Activities</p>
+<p>Head of Department/Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kelvin Lim</p>
@@ -192,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Science</p>
+<p>Head of Department/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lincoln Shen</p>
@@ -204,7 +204,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Special Educational Needs &amp; Values-In-Action</p>
+<p>Head of Department/Special Educational Needs &amp; Values-In-Action</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Angeline Yung</p>
@@ -228,7 +228,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT/English Language</p>
+<p>Lead Teacher/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chui Yuen Phun</p>
@@ -240,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT/Tamil Language</p>
+<p>Lead Teacher/Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Kogilavani d/o Vathumalai</p>
@@ -252,7 +252,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH/Upper Primary</p>
+<p>Year Head/Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Yee Lee</p>
@@ -264,7 +264,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH/Middle Primary</p>
+<p>Year Head/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teresa Liew</p>
@@ -276,7 +276,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH/Lower Primary</p>
+<p>Year Head/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Janis Pavia</p>
@@ -288,7 +288,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH/Upper Primary</p>
+<p>Assistant Year Head/Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Aubrey Ong</p>
@@ -300,7 +300,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH/Middle Primary</p>
+<p>Assistant Year Head/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Dawn Wee</p>
