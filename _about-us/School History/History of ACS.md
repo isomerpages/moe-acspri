@@ -28,8 +28,13 @@ The school grew rapidly and soon it faced operational and physical constraints a
 On 4 December 2002, Anglo-Chinese School (Primary) moved back to the Barker Road Campus and operated as a single-session primary school. The school was officially opened on 15 July 2003 by DPM Tony Tan.
 
 
+
 ##### **Uniqueness**
-Anglo-Chinese Primary School [ACS(P)] is a shining example of the adage "the whole is more than the sum of its parts". We cannot look at the school's academic or sporting performance without first educating ourselves on its background.
+
+
+<p><mark style="background-color: yello;">  Anglo-Chinese Primary School [ACS(P)] t</mark> is a shining example of the adage "the whole is more than the sum of its parts". We cannot look at the school's academic or sporting performance without first educating ourselves on its background.
+	
+
 
 In order to understand how the school manages to produce top quality students year after year, students who have made their mark in politics, business and sports and in society in general, we need to view the boys’ academic and sporting excellence in the larger context of the school's educational philosophy. Only when we understand what the school believes in and how it managed to surmount the various obstacles over the years, will the uniqueness of the school that is ACPS be appreciated.
 
@@ -106,4 +111,4 @@ With Mr Koh’s move, Dr Irene Ng, was posted in and took over the headship from
 Mrs Leong-Ho Hil May was posted in as Principal on 15 Dec 2022. She continues the legacy of building strong foundations in ACSians and leading the school from strength to strength. Under her leadership, the Traits of an ACSian were refreshed to align more closely to MOE’s emerging 21 Century Competencies (e21CC)
 
 With Jesus Christ at the head of the school and with Bishop Oldham's vision firmly intact, ACS(P) is an embodiment of its school motto, 
-"The Best Is Yet to Be".
+"The Best Is Yet to Be".</p>
