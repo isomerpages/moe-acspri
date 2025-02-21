@@ -7,7 +7,7 @@ variant: markdown
 <h5><strong>Our Vision</strong></h5>
 <p></p>
 
-<p>My mother has <span style="color:blue;font-weight:bold;font-size:30px">blue</span> eyes and my father has <span style="color:darkolivegreen;font-weight:bold">dark green</span> eyes.</p>
+
 
 
 <p>Every ACSian - a <strong><span style="color:red;font-weight:bold;font-size:20px">Y</span></strong>oung <strong><span style="color:red;font-weight:bold;font-size:20px">M</span></strong>an of <strong><span style="color:red;font-weight:bold;font-size:20px">C</span></strong>haracter, <strong><span style="color:red;font-weight:bold;font-size:20px">C</span></strong>apability
