@@ -78,13 +78,13 @@ communicate effectively and work collaboratively make him a valued team
 member.</p>
 <p><strong>Servant Leaders</strong>
 </p>
-<p>The ACS(P) gentleman is anchored in Christian values. As a leader of himself,
-he manages his emotions well and makes responsible decisions. He is self-disciplined,
-resilient and able to cope with the challenges in life. As a leader of
-others, he puts the needs of others before his and he enjoys good relationships
-with peers by making choices that are respectful of others. He does what
-is right and seizes opportunities to serve others. He loves God and seeks
-to honour Him in all that he does.</p>
+<p>The ACS(P) gentleman possesses the competencies to be ready for the future.
+He is curious about different cultures, stays informed about news from
+around the world and appreciates the value of learning different languages.
+He thinks critically and approaches problems creatively. He uses technology
+effectively and responsibly. His ability to understand different perspectives,
+communicate effectively, and work collaboratively makes him a valued team
+member.</p>
 <p><strong>Passionate Learners</strong>
 </p>
 <p>The ACS(P) gentleman is a passionate and enthusiastic learner who has
