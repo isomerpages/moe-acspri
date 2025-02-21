@@ -6,8 +6,6 @@ description: ""
 ---
 
 
-    
-    
     <title>첫 글자 크게 설정</title>
     <style>
         p::first-letter {
@@ -19,8 +17,5 @@ description: ""
 
 
     <p>이 문장의 첫 글자는 크게 표시됩니다.</p>
-	<p>My mother has <span>blue</span>  eyes.</p>
-	
-	
 
 
