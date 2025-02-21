@@ -27,6 +27,7 @@ The school grew rapidly and soon it faced operational and physical constraints a
 
 On 4 December 2002, Anglo-Chinese School (Primary) moved back to the Barker Road Campus and operated as a single-session primary school. The school was officially opened on 15 July 2003 by DPM Tony Tan.
 
+
 ##### **Uniqueness**
 Anglo-Chinese Primary School [ACS(P)] is a shining example of the adage "the whole is more than the sum of its parts". We cannot look at the school's academic or sporting performance without first educating ourselves on its background.
 
