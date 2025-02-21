@@ -6,17 +6,22 @@ variant: markdown
 ---
 <h5><strong>Our Vision</strong></h5>
 <p></p>
-<p>Every ACSian - a <strong>Y</strong>oung <strong>M</strong>an of <strong>C</strong>haracter, <strong>C</strong>apability
-and <strong>C</strong>reativity</p>
+
+<p>My mother has <span style="color:blue;font-weight:bold;font-size:30px">blue</span> eyes and my father has <span style="color:darkolivegreen;font-weight:bold">dark green</span> eyes.</p>
+
+
+<p>Every ACSian - a <strong><span style="color:red;font-weight:bold;font-size:20px">Y</span></strong>oung <strong><span style="color:red;font-weight:bold;font-size:20px">M</span></strong>an of <strong><span style="color:red;font-weight:bold;font-size:20px">C</span></strong>haracter, <strong><span style="color:red;font-weight:bold;font-size:20px">C</span></strong>apability
+and <strong><span style="color:red;font-weight:bold;font-size:20px">C</span></strong>reativity</p>
 <h5><strong>Our Mission</strong></h5>
 <p>Anglo-Chinese School (Primary) believes in providing an all-round education
 in an environment which seeks to bring out the potential in every pupil
 to the fullest, and to develop in him a strong moral character, imbued
 with Christian values and principles to guide and prepare him for life
 ahead.</p>
+	
 <h5><strong>Our Shared Values</strong></h5>
-<p><strong>I</strong>ntegrity, <strong>H</strong>umility, <strong>O</strong>bedience, <strong>P</strong>erseverance,<strong> E</strong>mpathy, <strong>F</strong>aithfulness, <strong>U</strong>nity
-and <strong>L</strong>oyalty (<strong><em>i</em> </strong>HOPEFUL)</p>
+<p><strong><span style="color:red;font-weight:bold;font-size:20px">I</span></strong>ntegrity, <strong><span style="color:red;font-weight:bold;font-size:20px">H</span></strong>umility, <strong><span style="color:red;font-weight:bold;font-size:20px">O</span></strong>bedience, <strong><span style="color:red;font-weight:bold;font-size:20px">P</span></strong>erseverance,<strong> <span style="color:red;font-weight:bold;font-size:20px">E</span></strong>mpathy, <strong><span style="color:red;font-weight:bold;font-size:20px">F</span></strong>aithfulness, <strong><span style="color:red;font-weight:bold;font-size:20px">U</span></strong>nity
+and <strong><span style="color:red;font-weight:bold;font-size:20px">L</span></strong>oyalty (<strong><em><span style="color:red;font-weight:bold;font-size:20px">i</span></em> </strong>HOPEFUL)</p>
 <h5><strong>Our Motto</strong></h5>
 <p>The Best Is Yet To Be</p>
 <h5><strong>Our Guiding Principle</strong></h5>
