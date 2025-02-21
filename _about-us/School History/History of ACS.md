@@ -32,13 +32,13 @@ On 4 December 2002, Anglo-Chinese School (Primary) moved back to the Barker Road
 ##### **Uniqueness**
 
 
-<p><mark style="background-color: yello;">  Anglo-Chinese Primary School [ACS(P)] t</mark> is a shining example of the adage "the whole is more than the sum of its parts". We cannot look at the school's academic or sporting performance without first educating ourselves on its background.
+<p><mark style="background-color: yello;">  Anglo-Chinese Primary School [ACS(P)] </mark> is a shining example of the adage "the whole is more than the sum of its parts". We cannot look at the school's academic or sporting performance without first educating ourselves on its background.
 	
 
 
 In order to understand how the school manages to produce top quality students year after year, students who have made their mark in politics, business and sports and in society in general, we need to view the boys’ academic and sporting excellence in the larger context of the school's educational philosophy. Only when we understand what the school believes in and how it managed to surmount the various obstacles over the years, will the uniqueness of the school that is ACPS be appreciated.
 
-Since 1886, when the Rev William Oldham founded ACS at 70 Amoy street on the first of March, the school has been through many transitions, among them the growth from one shophouse to five school units that had branched out into other premises - ACS (Junior), ACS (Primary), ACS (Independent), ACS (Barker Road) and ACJC. ACPS itself was originally part of a full school until 1927 (when the secondary classes moved to Cairnhill) when it became a lower school unit sub-divided later into the Primary and Middle School.
+</p><p> Since 1886, when the Rev William Oldham founded ACS at 70 <mark style="background-color: yello;">  Amoy </mark>  street on the first of March, the school has been through many transitions, among them the growth from one shophouse to five school units that had branched out into other premises - ACS (Junior), ACS (Primary), ACS (Independent), ACS (Barker Road) and ACJC. ACPS itself was originally part of a full school until 1927 (when the secondary classes moved to Cairnhill) when it became a lower school unit sub-divided later into the Primary and Middle School.
 
 This affiliation and attraction was not due just to the school's strong academic performance. Indeed, the top PSLE aggregate seemed to improve each year. The percentage of ACPS students entering the special/express streams has always been well above the 80% mark.
 
