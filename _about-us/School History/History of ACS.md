@@ -32,13 +32,13 @@ On 4 December 2002, Anglo-Chinese School (Primary) moved back to the Barker Road
 ##### **Uniqueness**
 
 
-<p><mark style="background-color: yello;">  Anglo-Chinese Primary School [ACS(P)] </mark> is a shining example of the adage "the whole is more than the sum of its parts". We cannot look at the school's academic or sporting performance without first educating ourselves on its background.
+ Anglo-Chinese Primary School [ACS(P)] is a shining example of the adage "the whole is more than the sum of its parts". We cannot look at the school's academic or sporting performance without first educating ourselves on its background.
 	
 
 
 In order to understand how the school manages to produce top quality students year after year, students who have made their mark in politics, business and sports and in society in general, we need to view the boys’ academic and sporting excellence in the larger context of the school's educational philosophy. Only when we understand what the school believes in and how it managed to surmount the various obstacles over the years, will the uniqueness of the school that is ACPS be appreciated.
 
-</p><p> Since 1886, when the Rev William Oldham founded ACS at 70 <mark style="background-color: yello;">  Amoy </mark>  street on the first of March, the school has been through many transitions, among them the growth from one shophouse to five school units that had branched out into other premises - ACS (Junior), ACS (Primary), ACS (Independent), ACS (Barker Road) and ACJC. ACPS itself was originally part of a full school until 1927 (when the secondary classes moved to Cairnhill) when it became a lower school unit sub-divided later into the Primary and Middle School.
+Since 1886, when the Rev William Oldham founded ACS at 70 Amoy street on the first of March, the school has been through many transitions, among them the growth from one shophouse to five school units that had branched out into other premises - ACS (Junior), ACS (Primary), ACS (Independent), ACS (Barker Road) and ACJC. ACPS itself was originally part of a full school until 1927 (when the secondary classes moved to Cairnhill) when it became a lower school unit sub-divided later into the Primary and Middle School.
 
 This affiliation and attraction was not due just to the school's strong academic performance. Indeed, the top PSLE aggregate seemed to improve each year. The percentage of ACPS students entering the special/express streams has always been well above the 80% mark.
 
@@ -111,4 +111,4 @@ With Mr Koh’s move, Dr Irene Ng, was posted in and took over the headship from
 Mrs Leong-Ho Hil May was posted in as Principal on 15 Dec 2022. She continues the legacy of building strong foundations in ACSians and leading the school from strength to strength. Under her leadership, the Traits of an ACSian were refreshed to align more closely to MOE’s emerging 21 Century Competencies (e21CC)
 
 With Jesus Christ at the head of the school and with Bishop Oldham's vision firmly intact, ACS(P) is an embodiment of its school motto, 
-"The Best Is Yet to Be".</p>
+"The Best Is Yet to Be".<p></p>
