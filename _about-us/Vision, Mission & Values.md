@@ -21,7 +21,7 @@ ahead.</p>
 	
 <h5><strong>Our Shared Values</strong></h5>
 <p><strong><span style="color:red;font-weight:bold;font-size:20px">I</span></strong>ntegrity, <strong><span style="color:red;font-weight:bold;font-size:20px">H</span></strong>umility, <strong><span style="color:red;font-weight:bold;font-size:20px">O</span></strong>bedience, <strong><span style="color:red;font-weight:bold;font-size:20px">P</span></strong>erseverance,<strong> <span style="color:red;font-weight:bold;font-size:20px">E</span></strong>mpathy, <strong><span style="color:red;font-weight:bold;font-size:20px">F</span></strong>aithfulness, <strong><span style="color:red;font-weight:bold;font-size:20px">U</span></strong>nity
-and <strong><span style="color:red;font-weight:bold;font-size:20px">L</span></strong>oyalty (<strong><em><span style="color:red;font-weight:bold;font-size:20px">i</span></em> </strong>HOPEFUL)</p>
+and <strong><span style="color:red;font-weight:bold;font-size:20px">L</span></strong>oyalty (<strong><em><span style="color:red;font-weight:bold;font-size:20px">i</span></em> </strong> HOPEFUL)</p>
 <h5><strong>Our Motto</strong></h5>
 <p>The Best Is Yet To Be</p>
 <h5><strong>Our Guiding Principle</strong></h5>
