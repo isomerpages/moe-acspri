@@ -23,7 +23,7 @@ The secondary school went independent in 1988 and later moved to its present pre
 
 In 1994, Anglo-Chinese Primary School moved from Canning Rise to Barker Road and Anglo-Chinese School (Barker Road) was born when a secondary section was added to it.
 
-The school grew rapidly and soon it faced operational and physical constraints as the retrofitted campus had originally been intended for a primary school. It was therefore decided in 1998, to re-develop the campus. The Primary Section of ACS (Barker Road) moved out to its holding school at Ah Hood Road on 15 December 1998 and resumed function as a primary school. The school was renamed Anglo-Chinese School (Primary).
+The school grew rapidly and soon it faced operational and physical constraints as the retrofitted campus had originally been intended for a primary school. It was therefore decided in 1998, to re-develop the campus. The Primary Section of ACS (Barker Road) moved out to its holding school at Ah Hood Road on 15 December 1998 and resumed functioning as a primary school. The school was renamed Anglo-Chinese School (Primary).
 
 On 4 December 2002, Anglo-Chinese School (Primary) moved back to the Barker Road Campus and operated as a single-session primary school. The school was officially opened on 15 July 2003 by DPM Tony Tan.
 
@@ -32,17 +32,17 @@ On 4 December 2002, Anglo-Chinese School (Primary) moved back to the Barker Road
 ##### **Uniqueness**
 
 
- Anglo-Chinese Primary School [ACS(P)] is a shining example of the adage "the whole is more than the sum of its parts". We cannot look at the school's academic or sporting performance without first educating ourselves on its background.
+Anglo-Chinese School (Primary) is a shining example of the adage "the whole is more than the sum of its parts". We cannot look at the school's academic or sporting performance without first educating ourselves on its background.
 	
 
 
 In order to understand how the school manages to produce top quality students year after year, students who have made their mark in politics, business and sports and in society in general, we need to view the boys’ academic and sporting excellence in the larger context of the school's educational philosophy. Only when we understand what the school believes in and how it managed to surmount the various obstacles over the years, will the uniqueness of the school that is ACPS be appreciated.
 
-Since 1886, when the Rev William Oldham founded ACS at 70 Amoy street on the first of March, the school has been through many transitions, among them the growth from one shophouse to five school units that had branched out into other premises - ACS (Junior), ACS (Primary), ACS (Independent), ACS (Barker Road) and ACJC. ACPS itself was originally part of a full school until 1927 (when the secondary classes moved to Cairnhill) when it became a lower school unit sub-divided later into the Primary and Middle School.
+Since 1886, when the Rev William Oldham founded ACS at 70 Amoy Street on the first of March, the school has been through many transitions, among them the growth from one shophouse to five school units that had branched out into other premises - ACS (Junior), ACS (Primary), ACS (Independent), ACS (Barker Road) and ACJC. ACPS itself was originally part of a full school until 1927 (when the secondary classes moved to Cairnhill) when it became a lower school unit sub-divided later into the Primary and Middle School.
 
 This affiliation and attraction was not due just to the school's strong academic performance. Indeed, the top PSLE aggregate seemed to improve each year. The percentage of ACPS students entering the special/express streams has always been well above the 80% mark.
 
-However, strong academic performance is not the only reason why parents send their children to ACS(P). The school with its long history of sporting excellence and strong choir ensures that equal opportunity is given to all its pupils to be good in at least one sport or other activity. Participation in at least one co-curricular activity (CCA) is encouraged and the school offers a wide range of CCAs so that every pupil has a chance to participate in what he is interested in. To date, it has 15 sporting CCAs, 11 clubs and societies, 2 uniformed youth organisations and 4 performing arts CCAs. 
+However, strong academic performance is not the only reason why parents send their children to ACS(P). The school, with its long history of sporting excellence and strong choir, ensures that equal opportunity is given to all its pupils to be good in at least one sport or other activity. Participation in at least one co-curricular activity (CCA) is encouraged and the school offers a wide range of CCAs so that every pupil has a chance to participate in what he is interested in. To date, it has 15 sporting CCAs, 11 clubs and societies, 2 uniformed youth organisations and 4 performing arts CCAs. 
 
 It can thus be seen that if the education in ACS(P) were to be written as an equation, it would go something like:
 
@@ -69,14 +69,14 @@ However, whichever unit the pupils came from, they carried with them an ever-inq
 "The School has an enviable reputation for producing students whose interests are diverse and varied and who aspire to distinguish themselves in both the academic and athletic fields."
 
 ##### **The ACS(P) Experience**
-The end of 2002 was another milestone in the ACS(P) history. That was when the school moved out of its temporary holding school at Ah Hood Road back to its Barker Road premise that had been reconstructed to include the latest facilities.
+The end of 2002 was another milestone in the ACS(P) history. That was when the school moved out of its temporary holding school at Ah Hood Road back to its Barker Road premises that had been reconstructed to include the latest facilities.
 
 There were pupils who started Primary 1 at Ah Hood Road who missed the familiar surroundings of the temporary holding school. To them, it was not a temporary holding school but a place where they first began their ACS journey. It will hold special memories for them. However, the ACS(P) experience transcends buildings, facilities and location.
 
 The experience is about working hard for the PSLE, training for competitions, enjoying camps and excursions, bantering with fellow classmates, praying and sharing during Chapel, celebrating Founder's Day and striving forward, always remembering the school motto, "The Best is Yet to Be". The same unique all-round education continued back at Barker Road.
 
 ##### **Laying The Foundation**
-Since it was only from 1961 that ACS(P) was a full primary school with its first principal, Mr Lau Hee Boon, the focus of its history will begin with his stewardship. He relates in the ACS Magazine of the same year, "For the first time in the ACS family history, the Coleman Street Building is utilised by only primary units". The large student enrolment gave rise to the extra-large staff: "I am deeply grateful to a great number of people who want either to send their sons to this school or desire to join the teaching staff but unfortunately our school walls are not made of rubber and expansion "at will is not possible".
+Since it was only from 1961 that ACS(P) was a full primary school with its first principal, Mr Lau Hee Boon, the focus of its history will begin with his stewardship. He relates in the ACS Magazine of the same year, "For the first time in the ACS family history, the Coleman Street Building is utilised by only primary units". The large student enrolment gave rise to the extra-large staff: "I am deeply grateful to a great number of people who want either to send their sons to this school or desire to join the teaching staff but unfortunately our school walls are not made of rubber and expansion 'at will is not possible'.
 
 When Mr Lau retired in 1972, Mrs Lim Chew Swee took over. In 1974, with Mrs Lim Chew Swee as Principal, the school's enrolment reached 2,525 pupils with a total staff strength of 77 in two sessions of 60 classes. Mrs Lim observes in the 1974 ACS Magazine:
 
@@ -88,7 +88,7 @@ Mrs Lim's Senior Assistant, Mr Lim Keng Boon, stepped into her shoes in 1983. Li
 
 Mr Lim served as Principal till 1991 when Mr George Goh became the 5th ACS(P) Principal since the school came to its own at Coleman Street in 1961. Like his predecessors, Mr Goh worked towards the betterment of facilities at the school and ensured that its academic and sporting excellence, as well as Christian spirit, was upheld.
 
-When ACS(P) moved to Barker Road to join its new secondary counterpart, ACS(P) then become known as the primary section of ACS (Barker Road). Mr Ng Eng Chin then headed both the secondary and primary section as Acting Principal. Mr Ng notes the change in name for ACPS in the 1994 ACS Magazine: 
+When ACS(P) moved to Barker Road to join its new secondary counterpart, ACS(P) then became known as the primary section of ACS (Barker Road). Mr Ng Eng Chin then headed both the secondary and primary section as Acting Principal. Mr Ng notes the change in name for ACPS in the 1994 ACS Magazine: 
 
 "1993 was a busy and eventful year for us... One of the significant changes was the change in name of the school. From Anglo-Chinese Primary School, we became Anglo-Chinese School (Barker Road); from a solely primary school to a full school-catering to the full primary cohort and starting off with a new secondary section for our boys."
 
@@ -108,7 +108,7 @@ From 15 December 2013, Mr Arene Koh took over as Principal of ACS(P). He continu
 
 With Mr Koh’s move, Dr Irene Ng, was posted in and took over the headship from 15 Dec 2018. With her deep conviction that character and faith are the greatest legacies one can pass on to one's children (Billy Graham), she steers the school towards providing the boys with authentic experiences that will ground them on values and seeks to increase the opportunities for them to mix with different social groups.     
 
-Mrs Leong-Ho Hil May was posted in as Principal on 15 Dec 2022. She continues the legacy of building strong foundations in ACSians and leading the school from strength to strength. Under her leadership, the Traits of an ACSian were refreshed to align more closely to MOE’s emerging 21 Century Competencies (e21CC)
+Mrs Leong-Ho Hil May was posted in as Principal on 15 Dec 2022. She continues the legacy of building strong foundations in ACSians and leading the school from strength to strength. Under her leadership, the Traits of an ACSian were refreshed to align more closely to MOE’s emerging 21 Century Competencies (e21CC), and are now known as our Desired Outcomes: Active Contributor, Creative Collaborator, Servant Leader, Passionate Learner, forming the acronym A.C.S.P
 
 With Jesus Christ at the head of the school and with Bishop Oldham's vision firmly intact, ACS(P) is an embodiment of its school motto, 
 "The Best Is Yet to Be".<p></p>
