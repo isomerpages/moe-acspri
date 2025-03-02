@@ -43,7 +43,7 @@ in collaboration with Student Development Department and Character and
 Citizenship Education Department.</p>
 </li>
 </ul>
-<p><strong>Tech-Enabled Teaching &amp; Learning</strong> 
+<p><strong>Tech-Enabled Teaching &amp; Learning</strong>
 </p>
 <p>Our teachers integrate technology to enhance learning through:</p>
 <ul data-tight="true" class="tight">
@@ -60,7 +60,7 @@ class discussions.</p>
 problem-solving.</p>
 </li>
 </ul>
-<p><strong>School &amp; Parent Collaboration</strong> 
+<p><strong>School &amp; Parent Collaboration</strong>
 </p>
 <p>We provide a technology-rich environment that extends learning beyond
 the classroom. Parents play a key role, and we support them through workshops
@@ -103,5 +103,9 @@ for example AI concepts.</p>
 <p><strong>e-Internationalisation Programme (Primary 5):</strong> Connecting
 students with overseas peers through virtual exchanges to foster cross-cultural
 learning and global citizenship.</p>
+<p></p>
+<p>At ACS(P), we leverage ICT to inspire curiosity, collaboration, and innovation,
+to educate them to be responsible digital learners, in preparing our students
+for an ever-evolving digital future.</p>
 <p></p>
 <p></p>
