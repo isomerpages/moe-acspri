@@ -28,7 +28,7 @@ privileged positions?</p>
 <p></p>
 <p>As with all good teachers, Jesus used the incident as a teachable moment
 for all twelve disciples. He flipped commonly held notions of greatness
-on their head. Instead of greatness being about status, power and prestige,
+on their heads. Instead of greatness being about status, power and prestige,
 Jesus’ definition of greatness was completely countercultural. He said
 the rulers of the Gentiles lord it over them, and their high officials
 exercise authority over them, but whoever wants to become great among you
