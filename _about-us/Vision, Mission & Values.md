@@ -35,7 +35,7 @@ and supportive community, everyone thrives.</p>
 </p>
 <p>We encourage and support one another by recognising each other's strengths.
 This sense of value and appreciation builds confidence and motivates everyone
-to give of their best. With an abundance mindset, we create an environment
+to give their best. With an abundance mindset, we create an environment
 that promotes learning and growth.</p>
 <p><strong>RESPECT</strong>
 </p>
@@ -56,7 +56,7 @@ as a community.</p>
 <p>ST3: Engaged Staff Thriving in a Learning Culture</p>
 <h4><strong>Our Goals</strong></h4>
 <p>To develop and strengthen the pupils’ character by imparting Christian
-values and principles and by role-modeling.</p>
+values and principles and by role-modelling.</p>
 <p>To help our pupils be the best that they can be through the nurturing
 of their talents and potential.</p>
 <p>To provide our pupils with an all-round education in a conducive learning
