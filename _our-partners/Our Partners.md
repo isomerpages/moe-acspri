@@ -30,7 +30,7 @@ variant: markdown
 
 [Barker Road Methodist Church](https://www.brmc.org.sg/)
 
-### **Parents Support Group**
+### **Parent Support Group**
 
 
 [Parent Support Group](https://www.acspripsg.net/)
