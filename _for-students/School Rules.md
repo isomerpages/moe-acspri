@@ -12,16 +12,16 @@ A student’s personal conduct contributes to his success in school and to a con
 
 ##### **Morning Assembly and Taking Daily Attendance**
 
-*   Students are expected to assemble quietly and orderly by class. Morning Assembly begins at 7.30 a.m. sharp Students who are not with their class by the time assembly begins will be considered late. Attendance at the daily flag raising ceremony is compulsory.
+*   Students are expected to assemble quietly and in an orderly by class. Morning Assembly begins at 7.30 a.m. sharp Students who are not with their class by the time assembly begins will be considered late. Attendance at the daily flag raising ceremony is compulsory.
 *   Students who are Singapore Citizens must sing the National Anthem and take the Pledge. They will take the Pledge with their right fist placed over their heart. On Mondays and Fridays, the School Anthem will be played prior to the recitation of the Pledge. All students are to sing the School Anthem.
-*   &nbsp;Should it rain or during haze period, an announcement will be made for students to assemble in class instead.
+*  Should it rain or during haze period, an announcement will be made for students to assemble in class instead.
 
 ##### **Absence from School**
 *   A student who is absent must submit to his Form Teacher either a medical certificate or a letter of excuse from his parents/guardian on his day of return.
 *   Students who fail to produce these documents will be treated as playing truant
 
 ##### **Absence from Assessments (Tests and Examination)**
-*   If a student is unable to sit for any examination or other school-based assessments, the school requires a medical certificate from the doctor to excuse him for the day. His form teachers need to also be informed immediately.
+*   If a student is unable to sit for any examination or other school-based assessments, the school requires a medical certificate from the doctor to excuse him for the day. His form teachers also need to be informed immediately.
 
 ##### **Possession of Weapons**
 *   &nbsp;All students are not allowed to have in their possession any weapon. They are also not allowed to bring / make any weapon-like item which is used or intended to be used to cause harm to others.

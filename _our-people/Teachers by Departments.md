@@ -930,7 +930,7 @@ variant: tiptap
 <p>Ms Amanda Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_zhi_yan_amanda@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_zhi_yan_amanda@moe.edu.sg</a>
+<p><a href="mailto:lim_zhi_yan_amanda_b@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_zhi_yan_amanda_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>

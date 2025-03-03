@@ -4,12 +4,11 @@ permalink: /our-programmes/aesthetics-art-and-music/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Aesthetics (Art &amp; Music)</strong></h2>
-<h4><strong>Vision</strong></h4>
+<h3><strong>Vision</strong></h3>
 <p>Nurturing ACSians of Character, Capability and Creativity&nbsp; through
 the Arts</p>
-<h4><strong>Curriculum</strong></h4>
-<h6><strong>Music</strong></h6>
+<h3><strong>Curriculum</strong></h3>
+<h4>Music</h4>
 <p>The Music programme incorporates:</p>
 <ul>
 <li>
@@ -36,7 +35,7 @@ by bringing the necessary musical experiences into our classrooms.</p>
 </div>
 <p></p>
 <p></p>
-<h6>Visual Art</h6>
+<h4>Visual Art</h4>
 <p>The Visual Art programme incorporates:</p>
 <ul>
 <li>
@@ -100,7 +99,7 @@ visual arts</p>
 <br>
 <br>
 </p>
-<h5><strong>PAL</strong></h5>
+<h3><strong>PAL</strong></h3>
 <h6><strong>Visual Arts</strong></h6>
 <p>The programme aims to enrich our Primary 2 students with the culture and
 heritage of Singapore. Through group interaction, presentations and experimentation,
@@ -112,7 +111,7 @@ for the P1 students. They learn to create simple dance routines to selected
 music extracts. &nbsp;Pupils are then&nbsp;taught to create their own dance
 routines in groups so as to enable a better appreciation of the&nbsp;arts
 through creative learning.</p>
-<h5><strong>SHOWCASE</strong></h5>
+<h3><strong>SHOWCASE</strong></h3>
 <h6><strong>Recess Concerts</strong></h6>
 <p>Recess Concerts serve as a platform for students to showcase their talents
 in the performing arts. ACS (P) also aims to educate students on concert
@@ -124,7 +123,7 @@ setting that the performers feel more at ease to express themselves.</p>
 and science, showcasing creative works centred on sustainability and environmental
 awareness. This space encourages cross-disciplinary collaboration, sparking
 meaningful dialogue about sustainability through innovative artistic expression.</p>
-<h4><strong>Events</strong></h4>
+<h3><strong>Events</strong></h3>
 <h6><strong>Arts Fest</strong></h6>
 <p>Arts Fest in ACS(P) is an annual event alternating between performing
 arts and visual arts. Arts Fest Kaleidoscope focuses on showcasing our
@@ -139,7 +138,6 @@ performing and visual arts. The Choir, Synergy Performing Arts Groups and
 Art Club provide an avenue for performing and creative expression. This
 is in line with our mission to provide a holistic education for all ACS(P)
 students.</p>
-<h5><strong>Events</strong></h5>
 <p>Arts Fest Kaleidoscope and Arts Fest Appreciate! are held biannually with
 focus on showcasing pupils’ talents in the arts. The focus of Arts Fest
 centres around the richness and diversity of Art and Music. It is a celebration
