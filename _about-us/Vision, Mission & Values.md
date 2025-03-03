@@ -61,7 +61,7 @@ values and principles and by role-modelling.</p>
 of their talents and potential.</p>
 <p>To provide our pupils with an all-round education in a conducive learning
 environment.</p>
-<p>To inculcate loyalty and commitment for the school through a sense of
+<p>To inculcate loyalty and commitment to the school through a sense of
 identity, love and the ACS spirit.</p>
 <p>
 <br>
