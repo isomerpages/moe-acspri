@@ -23,7 +23,7 @@ pedagogies, according to the needs and ability of our students</p>
 <p>ICT - We believe in using ICT as a value-adding tool for classroom learning.
 When we use ICT tools for our lessons, we expect students to engage in
 either Self-directed Learning or Collaborative Learning. Student learning
-platform such as Student Learning Space is used to support their learning.
+platforms such as Student Learning Space are used to support their learning.
 Some ICT tools used are: Nearpod, Linoit and Kahoot.</p>
 <p>Experiential Education – We believe in taking lessons beyond the classrooms.
 For P1 and P2, we have Fun Days, where P1 and P2 students learn to converse
