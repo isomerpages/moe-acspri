@@ -110,7 +110,7 @@ They learn to connect ideas and express&nbsp;themselves in their art making.</p>
 <p>Under the Performing Arts domain, a Contemporary Dance programme is customised
 for the P1 students. They learn to create simple dance routines to selected
 music extracts. &nbsp;Pupils are then&nbsp;taught to create their own dance
-routines &nbsp;in groups so as to enable a better appreciation of the&nbsp;arts
+routines in groups so as to enable a better appreciation of the&nbsp;arts
 through creative learning.</p>
 <h5><strong>SHOWCASE</strong></h5>
 <h6><strong>Recess Concerts</strong></h6>
@@ -121,7 +121,7 @@ students from the performers’ classes. It is in this non-threatening, familiar
 setting that the performers feel more at ease to express themselves.</p>
 <p>Art-Science Corner</p>
 <p>The Art-Science Corner is a dynamic space that bridges the worlds of art
-and science, showcasing creative works centered on sustainability and environmental
+and science, showcasing creative works centred on sustainability and environmental
 awareness. This space encourages cross-disciplinary collaboration, sparking
 meaningful dialogue about sustainability through innovative artistic expression.</p>
 <h4><strong>Events</strong></h4>
