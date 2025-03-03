@@ -4,7 +4,7 @@ permalink: /about-us/vision-mission-values/
 description: ""
 variant: markdown
 ---
-<h5><strong>Our Vision</strong></h5>
+**<h2><strong>Our Vision</strong></h2>**
 <p></p>
 
 
@@ -12,19 +12,19 @@ variant: markdown
 
 <p>Every ACSian - a <strong><span style="color:red;font-weight:bold;font-size:20px">Y</span></strong>oung <strong><span style="color:red;font-weight:bold;font-size:20px">M</span></strong>an of <strong><span style="color:red;font-weight:bold;font-size:20px">C</span></strong>haracter, <strong><span style="color:red;font-weight:bold;font-size:20px">C</span></strong>apability
 and <strong><span style="color:red;font-weight:bold;font-size:20px">C</span></strong>reativity</p>
-<h5><strong>Our Mission</strong></h5>
+<h2><strong>Our Mission</strong></h2>
 <p>Anglo-Chinese School (Primary) believes in providing an all-round education
 in an environment which seeks to bring out the potential in every pupil
 to the fullest, and to develop in him a strong moral character, imbued
 with Christian values and principles to guide and prepare him for life
 ahead.</p>
 	
-<h5><strong>Our Shared Values</strong></h5>
+<h2><strong>Our Shared Values</strong></h2>
 <p><strong><span style="color:red;font-weight:bold;font-size:20px">I</span></strong>ntegrity, <strong><span style="color:red;font-weight:bold;font-size:20px">H</span></strong>umility, <strong><span style="color:red;font-weight:bold;font-size:20px">O</span></strong>bedience, <strong><span style="color:red;font-weight:bold;font-size:20px">P</span></strong>erseverance,<strong> <span style="color:red;font-weight:bold;font-size:20px">E</span></strong>mpathy, <strong><span style="color:red;font-weight:bold;font-size:20px">F</span></strong>aithfulness, <strong><span style="color:red;font-weight:bold;font-size:20px">U</span></strong>nity
 and <strong><span style="color:red;font-weight:bold;font-size:20px">L</span></strong>oyalty (<strong><em><span style="color:red;font-weight:bold;font-size:20px">i</span></em> </strong> HOPEFUL)</p>
-<h5><strong>Our Motto</strong></h5>
+<h2><strong>Our Motto</strong></h2>
 <p>The Best Is Yet To Be</p>
-<h5><strong>Our Guiding Principle</strong></h5>
+<h2><strong>Our Guiding Principle</strong></h2>
 <p><strong>CONNECT</strong>
 </p>
 <p>We are intentional in cultivating strong and meaningful relationships
@@ -54,7 +54,7 @@ as a community.</p>
 <p>ST1: Future-ready ACSians with a Love for Learning</p>
 <p>ST2: ACSians of Character with a Sense of Agency</p>
 <p>ST3: Engaged Staff Thriving in a Learning Culture</p>
-<h4><strong>Our Goals</strong></h4>
+<h2><strong>Our Goals</strong></h2>
 <p>To develop and strengthen the pupils’ character by imparting Christian
 values and principles and by role-modelling.</p>
 <p>To help our pupils be the best that they can be through the nurturing
@@ -66,7 +66,7 @@ identity, love and the ACS spirit.</p>
 <p>
 <br>
 </p>
-<h3><strong>Our Desired Outcomes</strong></h3>
+<h2><strong>Our Desired Outcomes</strong></h2>
 <p><strong>Active Contributors</strong>
 </p>
 <p>The ACS(P) gentleman shows empathy and finds out about the needs of others.
