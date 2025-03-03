@@ -89,7 +89,7 @@ various surfaces. These experiments prompt students to make predictions,
 collect evidence, and discuss their findings with peers, ensuring a deep
 and interactive learning experience.</p>
 <p>Teachers are equipped with multiple approaches to maximize the learning
-potential of each kit, ensuring that lessons are dynamic and student-centered.
+potential of each kit, ensuring that lessons are dynamic and student-centred.
 The SPARKLE Kits exemplify the department’s commitment to "hands-on, minds-on"
 learning. They create a rich environment where students can experiment,
 discuss, and develop a deeper appreciation for scientific concepts, making
@@ -127,7 +127,7 @@ and the importance of recycling. Initiatives such as upcycling old uniforms
 and textile recycling not only raise awareness about sustainability but
 also encourage students to participate actively in meaningful environmental
 projects.</p>
-<p>Student-centered activities lie at the heart of the ESP, fostering a culture
+<p>Student-centred activities lie at the heart of the ESP, fostering a culture
 of environmental responsibility and advocacy. Events such as World Water
 Day, Earth Day, and Biodiversity Week are integrated into the academic
 calendar to raise awareness about key sustainability issues. These events
