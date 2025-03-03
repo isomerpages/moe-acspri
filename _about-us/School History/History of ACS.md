@@ -5,7 +5,6 @@ description: ""
 third_nav_title: School History
 variant: markdown
 ---
-
 #### **How we came about**
 
 <img src="/images/sch%20history.jpg" style="width:30%;margin-right:15px;" align="left">
