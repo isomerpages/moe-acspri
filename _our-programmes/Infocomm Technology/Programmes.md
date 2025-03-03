@@ -27,7 +27,7 @@ innovators</p>
 <h3></h3>
 </li>
 </ol>
-<h4><strong>Curriculum Overview</strong></h4>
+<h3><strong>Curriculum Overview</strong></h3>
 <p>ACS(P) ICT curriculum is designed to provide students with a foundation
 in digital literacy, critical thinking, problem-solving and creativity.
 It is structured to ensure that students progressively build their ICT
@@ -79,7 +79,7 @@ problem-solving.</p>
 environment that extends learning beyond the classroom. Parents play a
 key role, and we support them through workshops and resources to help them
 engage with their child’s digital education.</p>
-<h4><br><strong>Key ICT Programme</strong></h4>
+<h3><br><strong>Key ICT Programme</strong></h3>
 <ul>
 <li>
 <p><strong>ICT Baseline Programme (Primary 1–6):</strong> The ICT baseline
