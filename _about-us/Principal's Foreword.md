@@ -4,7 +4,7 @@ permalink: /about-us/principal-foreword/
 description: ""
 variant: markdown
 ---
-<h3><strong>Not to be served, but to serve</strong></h3>
+<h2><strong>Not to be served, but to serve</strong></h2>
 <h4><strong>What is greatness?&nbsp;</strong></h4>
 <p>As parents and educators, we naturally want our children and students
 to be great. Great in their results, achievements, attitude and character.</p>
