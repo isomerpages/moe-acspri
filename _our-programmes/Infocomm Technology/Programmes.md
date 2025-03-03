@@ -24,7 +24,7 @@ innovators</p>
 </li>
 <li>
 <p>Partner parents to build a networked EdTech ecosystem.</p>
-<p></p>
+<h3></h3>
 </li>
 </ol>
 <h4><strong>Curriculum Overview</strong></h4>
