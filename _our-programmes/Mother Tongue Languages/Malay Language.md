@@ -80,8 +80,8 @@ to the Pertapis Senior Citizens Fellowship Home.</p>
 <p>Mother Tongue Fortnight activities allow authentic exposure to Malay Language.
 Students are exposed to a wide range of activities during the MTL Fortnight.
 In addition to learning and using the language, activities such as Dikir
-Barat, Kompang, Angklung, Silat, Zapin and Gamelan provides authentic hands-on
-experiences for students. Such exposure provide an element of fun injected
+Barat, Kompang, Angklung, Silat, Zapin and Gamelan provide authentic hands-on
+experiences for students. Such exposure provides an element of fun injected
 in the learning of the Malay Language.</p>
 <h3><strong>Learning Support/ Stretch Programmes</strong></h3>
 <h5><strong>Primary 5 - Primary 6</strong></h5>
