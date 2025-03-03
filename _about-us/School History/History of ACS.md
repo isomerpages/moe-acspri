@@ -5,7 +5,6 @@ description: ""
 third_nav_title: School History
 variant: markdown
 ---
-## **History of ACS**
 
 #### **How we came about**
 
