@@ -44,13 +44,13 @@ ones.</p>
 MOE Sexuality Education.</p>
 </li>
 </ol>
-<h4><strong>OVERIVEW OF ANGLO CHINESE SCHOOL’S (PRIMARY) SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF ANGLO CHINESE SCHOOL’S (PRIMARY) SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener nofollow" target="_blank">here</a> for
+Sexual Behaviour, and Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 <li>

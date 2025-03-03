@@ -30,10 +30,10 @@ variant: markdown
 
 [Barker Road Methodist Church](https://www.brmc.org.sg/)
 
-### **Parents Support Group**
+### **Parent Support Group**
 
 
-[Parents Support Group](https://www.acspripsg.net/)
+[Parent Support Group](https://www.acspripsg.net/)
 
 ### **The ACS Foundation**
 

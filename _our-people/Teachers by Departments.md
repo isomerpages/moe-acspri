@@ -1042,7 +1042,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Jumadi Bin Jamaludin (Senior SENO</p>
+<p>Mr Muhammad Jumadi Bin Jamaludin (Senior SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_jumadi_jamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_jumadi_jamaludin@moe.edu.sg</a>
@@ -1060,7 +1060,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Daphne Heng</p>
+<p>Ms Daphne Heng (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:heng_syn_yee_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_syn_yee_daphne@moe.edu.sg</a>
@@ -1069,7 +1069,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Elton Lim Zhan Kuan</p>
+<p>Mr Elton Lim Zhan Kuan (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_zhan_kuan_elton@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zhan_kuan_elton@moe.edu.sg</a>

@@ -16,8 +16,8 @@ right through to their adulthood.</p>
 <h4><strong>Learning for Life Programme (LLP) – Building Character through Swimming</strong></h4>
 <p>• The aim of this programme is for all pupils to achieve at least a bronze
 award and to learn the skills of flippa ball and kayaking.</p>
-<p>• All P1 to P5 pupils undergo a 4-sessions and all P6 pupils undergo 8-sessions
-swimming programme during their PE periods.</p>
+<p>• All P1 to P5 pupils undergo a 4-session and all P6 pupils undergo a
+8-session swimming programme during their PE periods.</p>
 <p>• In addition, P4 pupils are also taught flippa ball and P5 kayaking lessons.
 Learning for Life Programme (LLP) - Building Character through Bowling</p>
 <p>• Exposure Stage All pupils from P1 to P4 undergo four sessions of mini-bowling
@@ -36,12 +36,13 @@ teamwork among P2 pupils through various enjoyable games.</p>
 module emphasises on development of interpersonal skills, relationship
 management and responsible decision-making competencies for P1 pupils.</p>
 <h4><strong>Events</strong></h4>
-<p>Annual Swim Meet &amp; Games Day • The Swim Meet and Games Day is for
-all pupils from P3 to P6.</p>
+<p>Annual Swim Meet &amp; Games Day</p>
+<p>• The Swim Meet and Games Day is for all pupils from P3 to P6.</p>
 <p>• These 2 events aim at mass participation and the pupils are encouraged
 to sign up.</p>
-<p>TerrAqua Fest • This is a land-and-water games day for all P1 and P2 pupils
-with the aim of introducing friendly competition for young children.</p>
+<p>TerrAqua Fest</p>
+<p>• This is a land-and-water games day for all P1 and P2 pupils with the
+aim of introducing friendly competition for young children.</p>
 <p>• All P1 and P2 pupils take part in this event and all participants are
 awarded a medal.</p>
 <h4><strong>Useful links</strong></h4>

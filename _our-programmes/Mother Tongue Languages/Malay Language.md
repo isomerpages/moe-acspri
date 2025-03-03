@@ -16,7 +16,7 @@ be conducive for our students’ development in these four main areas.</p>
 <p>The curriculum objectives in the learning of Malay Language are to develop
 student’s general ability, civic literacy and cultural awareness alongside
 the development of the language skills.</p>
-<p>The Malay Language syllabus is based on the CEKAP package which feature
+<p>The Malay Language syllabus is based on the CEKAP package which features
 meaningful and relevant learning content and engaging authentic language
 tasks.&nbsp;</p>
 <p>The learning content mainly focuses on personal, family, school, community,
@@ -28,25 +28,26 @@ Ana, Budi, Laila and Zaid will grow up and learn alongside the students.</p>
 reading skills, writing skills, interactive conversational skills, and
 interactive writing skills.</p>
 <h5><strong>Listening Skills</strong></h5>
-<p>The listening skills component teach students to listen and understand
+<p>The listening skills component teaches students to listen and understand
 texts from different genres such as short stories, novels and poetry and
 respond to questions based on the given texts.</p>
 <h5><strong>Speaking Skills</strong></h5>
 <p>The Speaking Skills component trains students to be able to communicate
-in clear fluent and effective Standard Malay Language.&nbsp;</p>
+in clear, fluent and effective Standard Malay Language.&nbsp;</p>
 <h5><strong>Reading Skills</strong></h5>
 <p>Reading skills empowers the students to read texts from different genres
-with understanding and to make appropriate response. Students will be able
-to read with the proper intonation, appropriate to the context of the sentence.</p>
+with understanding and to make appropriate responses. Students will be
+able to read with the proper intonation, appropriate to the context of
+the sentence.</p>
 <h5><strong>Writing Skills</strong></h5>
-<p>Writing skill includes the ability to write narrative, descriptive and
+<p>Writing skills includes the ability to write narrative, descriptive and
 functional essays based on the guide given.&nbsp;</p>
 <h5><strong>Interactive Skills</strong></h5>
 <p>Interactive conversational skills enable students to discuss in groups,
-able to establish a conversation and responds accordingly based on different
-topics on self, family, school, community, and environment. Interactive
-writing skills focus on the students’ ability to write for a specific purpose
-and audience.&nbsp;</p>
+establish a conversation and respond accordingly based on different topics
+on self, family, school, community, and environment. Interactive writing
+skills focus on the students’ ability to write for a specific purpose and
+audience.&nbsp;</p>
 <p>We develop learning packages for students from Primary 3 to Primary 6.
 The packages include composition packages, oral packages, and comprehension
 packages. Such packages help students to be well-versed in the subject.
@@ -72,14 +73,14 @@ students with the exposure that allows them to be Community Collaborators,
 Effective Communicators and apply our school’s iHOPEFUL values. The Community
 Collaborator and Effective Communicator are two of the traits we aspire
 for every young gentleman in ACS(P).&nbsp; As part of our effort to inculcate
-a caring and positive attitude towards the elderly, we organise visit to
-the Pertapis Senior Citizens Fellowship Home.</p>
+a caring and positive attitude towards the elderly, we organise a visit
+to the Pertapis Senior Citizens Fellowship Home.</p>
 <h5><strong>Primary 1 - Primary 6</strong></h5>
 <h5><strong>Mother Tongue Languages Fortnight</strong></h5>
 <p>Mother Tongue Fortnight activities allow authentic exposure to Malay Language.
 Students are exposed to a wide range of activities during the MTL Fortnight.
 In addition to learning and using the language, activities such as Dikir
-Barat, Kompang, Angklung, Silat, Zapin and Gamelan provides authentic hands-on
+Barat, Kompang, Angklung, Silat, Zapin and Gamelan provide authentic hands-on
 experiences for students. Such exposure provides an element of fun injected
 in the learning of the Malay Language.</p>
 <h3><strong>Learning Support/ Stretch Programmes</strong></h3>

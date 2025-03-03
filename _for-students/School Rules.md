@@ -4,9 +4,8 @@ permalink: /for-students/school-rules/
 description: ""
 variant: markdown
 ---
-
 ##### **Personal Conduct**
-A student’s personal conduct contributes to his success in school and to a conducive learning environment for all. Students are therefore expected to be in their best of conduct by showing respect to teachers, members of staff, fellow students, school property and activities. This expectation is reflected in the following code of discipline:
+A student’s personal conduct contributes to his success in school and to a conducive learning environment for all. Students are therefore expected to be on their best by showing respect to teachers, members of staff, fellow students, school property and activities. This expectation is reflected in the following code of discipline:
 
 ##### **Attendance and Punctuality**
 *   Punctuality and full attendance in class, at school functions and rehearsals, for extra lessons and CCAs - are expressions of being respectful and responsible to the school.
