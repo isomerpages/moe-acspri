@@ -9,7 +9,7 @@ variant: tiptap
 <p>Cultivating ACSians' interest in mathematics while enhancing their problem-solving
 skills and building confidence through real world applications.</p>
 <h3>&nbsp;<strong>Mission</strong></h3>
-<p>Through our structured and student-centered programmes, we foster critical
+<p>Through our structured and student-centred programmes, we foster critical
 thinking and logical reasoning, empowering students to become reflective,
 lifelong learners who appreciate the value and relevance of Mathematics
 in their lives.</p>
@@ -48,7 +48,7 @@ real-world problems contributes to the students’ metacognitive awareness
 as they discuss solutions, think aloud and reflect on what they are doing.</p>
 <h4><strong>&nbsp;Thinking Routine</strong></h4>
 <p>The Polya’s Problem Solving Techniques help students develop thinking
-routine when solving problem sums. This technique comprises of the 4 essential
+routine when solving problem sums. This technique comprises the 4 essential
 steps of understanding the problem, devising a plan on which heuristics
 skills to use, carrying out the plan and checking the results.</p>
 <p><strong>Primary 1 to Primary 6</strong>
@@ -100,7 +100,7 @@ and builds a solid foundation in counting, sorting, and recognizing patterns.</p
 <ul data-tight="true" class="tight">
 <li>
 <p>Remedial Programme<strong><br></strong> Weekly small-group sessions to
-offer targeted support in build up the mastery of Mathematical concepts.</p>
+offer targeted support to build up the mastery of Mathematical concepts.</p>
 </li>
 </ul>
 <p><strong>&nbsp;Primary 4 to Primary 5</strong>
