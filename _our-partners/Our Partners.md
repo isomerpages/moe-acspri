@@ -33,7 +33,7 @@ variant: markdown
 ### **Parents Support Group**
 
 
-[Parents Support Group](https://www.acspripsg.net/)
+[Parent Support Group](https://www.acspripsg.net/)
 
 ### **The ACS Foundation**
 
