@@ -40,9 +40,9 @@ writing skills.</p>
 and understand texts from different genres such as short stories, novels
 and poetry and be able to respond to questions based on the texts. The
 Speaking Skills component trains students to be able to communicate in
-clear fluent and effective Standard Chinese Language. Our 5-year Oral Package,
-developed for students from P2 to P6, aims to help students to be confident
-in describing pictures and conversation.</p>
+clear, fluent and effective Standard Chinese Language. Our 5-year Oral
+Package, developed for students from P2 to P6, aims to help students to
+be confident in describing pictures and conversation.</p>
 <h5><strong>Reading skills</strong></h5>
 <p>Reading skills include the ability to read texts from different genres
 with understanding and to respond appropriately. The 5-year Comprehension
