@@ -14,7 +14,7 @@ movement skills and games concepts which they can apply to any sport. It
 also aims to encourage all pupils to lead a physically active lifestyle
 right through to their adulthood.</p>
 <p></p>
-<h3><strong>Programme </strong></h3>
+<h3><strong>Programme</strong></h3>
 <h5><strong>Learning for Life Programme (LLP) – Building Character through Swimming</strong></h5>
 <ul>
 <li>
