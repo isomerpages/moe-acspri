@@ -49,10 +49,10 @@ our students.</p>
 </ul>
 <p></p>
 <h5>Q6. What should I do if I have encountered one of the following problems:</h5><pre><code>Error AADSTS900561 given by the Google website.
-
 Website does not load.
 Website keeps refreshing between two sites without loading any page.
 Website keeps refreshing itself without loading the page.</code></pre>
+<p></p>
 <p>a) Check that the browser is supported by Student iCON by referring to
 the Operating System / Browser table above. Close the browser and reopen
 it. Navigate to https://workspace.google.com/dashboard and repeat the logging
