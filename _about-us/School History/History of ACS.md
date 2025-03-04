@@ -5,8 +5,6 @@ description: ""
 third_nav_title: School History
 variant: markdown
 ---
-## **History of ACS**
-
 #### **How we came about**
 
 <img src="/images/sch%20history.jpg" style="width:30%;margin-right:15px;" align="left">
@@ -111,4 +109,4 @@ With Mr Koh’s move, Dr Irene Ng, was posted in and took over the headship from
 Mrs Leong-Ho Hil May was posted in as Principal on 15 Dec 2022. She continues the legacy of building strong foundations in ACSians and leading the school from strength to strength. Under her leadership, the Traits of an ACSian were refreshed to align more closely to MOE’s emerging 21 Century Competencies (e21CC), and are now known as our Desired Outcomes: Active Contributor, Creative Collaborator, Servant Leader, Passionate Learner, forming the acronym A.C.S.P
 
 With Jesus Christ at the head of the school and with Bishop Oldham's vision firmly intact, ACS(P) is an embodiment of its school motto, 
-"The Best Is Yet to Be".<p></p>
+"The Best Is Yet to Be".

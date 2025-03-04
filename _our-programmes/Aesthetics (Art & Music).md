@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Vision</strong></h3>
-<p>Nurturing ACSians of Character, Capability and Creativity&nbsp; through
+<p>Nurturing ACSians of Character, Capability and Creativity&nbsp;through
 the Arts</p>
 <h3><strong>Curriculum</strong></h3>
 <h4>Music</h4>

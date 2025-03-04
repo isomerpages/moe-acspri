@@ -5,7 +5,6 @@ description: ""
 third_nav_title: School History
 variant: markdown
 ---
-## **Our School Anthem**
 
 ![](/images/s_anthem1.jpg)
 

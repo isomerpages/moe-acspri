@@ -1087,7 +1087,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sophia Chua</p>
+<p>Miss Sophia Chua Lee Ying (School Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_lee_ying_sophia@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_lee_ying_sophia@moe.edu.sg</a>

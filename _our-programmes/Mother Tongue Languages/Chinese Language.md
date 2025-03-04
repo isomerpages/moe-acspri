@@ -40,9 +40,9 @@ writing skills.</p>
 and understand texts from different genres such as short stories, novels
 and poetry and be able to respond to questions based on the texts. The
 Speaking Skills component trains students to be able to communicate in
-clear fluent and effective Standard Chinese Language. Our 5-year Oral Package,
-developed for students from P2 to P6, aims to help students to be confident
-in describing pictures and conversation.</p>
+clear, fluent and effective Standard Chinese Language. Our 5-year Oral
+Package, developed for students from P2 to P6, aims to help students to
+be confident in describing pictures and conversation.</p>
 <h5><strong>Reading skills</strong></h5>
 <p>Reading skills include the ability to read texts from different genres
 with understanding and to respond appropriately. The 5-year Comprehension
@@ -95,7 +95,7 @@ the significance and cultural background of the activities.</p>
 the P1 and P2 Fun Days.&nbsp;</p>
 <p>After the activities, representatives from the various levels, including
 Malay and Tamil students put up a concert for the school during assembly
-to show case what they have learnt during the MTL Fortnight.</p>
+to showcase what they have learnt during the MTL Fortnight.</p>
 <h5><strong>Primary 4 - Primary 6</strong></h5>
 <h5><strong>Conversational Chinese/ Malay Programme</strong></h5>
 <p>This programme aims to equip students with a foundational grasp in the
