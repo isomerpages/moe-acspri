@@ -43,8 +43,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Mdm Gomathi Ravindra (I/C)
-<br><a href="mailto:gomathi_ravindra@moe.edu.sg" rel="noopener nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
+<p>Mdm Gomathi Ravindra (I/C)</p>
+<p><a href="mailto:gomathi_ravindra@moe.edu.sg" rel="noopener nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
 </p>
 <p>Mdm Suzanna Hashim</p>
 <p><a href="mailto:suzanna_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suzanna_hashim@moe.edu.sg</a>
