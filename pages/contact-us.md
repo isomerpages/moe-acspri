@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6250 1633
       - email: acps@moe.edu.sg
-      - other: <br><p><strong>Have A Question?</strong><br> <a
+      - other: <br><p><strong>Have a Question?</strong><br> <a
           href="https://ask.gov.sg/acps">ask.gov.sg/acps</a></p>
     title: General Enquiries & Feedback
   - content:
