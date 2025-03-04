@@ -80,11 +80,13 @@ full name and class.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Contact the school's General Office at <strong>6250 1633</strong>.</p>
+<p>Contact the school's General Office at <strong>6250 1633</strong> or complete
+this form: <a href="https://form.gov.sg/65b1b9706f26938cf7b36232" rel="noopener nofollow" target="_blank">https://go.gov.sg/acspicthelp</a>
+</p>
 </li>
 </ol>
 <p>Operating Hours: Mondays - Fridays: 8:00 am - 4:00 pm**</p>
 <p>Closed on Saturdays, Sundays and Public Holidays Please provide your child’s
 full name and class.</p>
-<p>2.Complete this form: <a href="https://form.gov.sg/65b1b9706f26938cf7b36232" rel="noopener nofollow" target="_blank">https://go.gov.sg/caspicthelp</a>
-</p>
+<p></p>
+<p></p>
