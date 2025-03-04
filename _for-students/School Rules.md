@@ -14,7 +14,7 @@ A student’s personal conduct contributes to his success in school and to a con
 
 *   Students are expected to assemble quietly and in an orderly by class. Morning Assembly begins at 7.30 a.m. sharp Students who are not with their class by the time assembly begins will be considered late. Attendance at the daily flag raising ceremony is compulsory.
 *   Students who are Singapore Citizens must sing the National Anthem and take the Pledge. They will take the Pledge with their right fist placed over their heart. On Mondays and Fridays, the School Anthem will be played prior to the recitation of the Pledge. All students are to sing the School Anthem.
-*  Should it rain or during haze period, an announcement will be made for students to assemble in class instead.
+*  Should it rain or be hazey, an announcement will be made for students to assemble in class instead.
 
 ##### **Absence from School**
 *   A student who is absent must submit to his Form Teacher either a medical certificate or a letter of excuse from his parents/guardian on his day of return.
@@ -45,9 +45,9 @@ A student’s personal conduct contributes to his success in school and to a con
 
 <img src="/images/schrulepic1.jpg" style="width:55%">
 		 
-*   Hair should be short, properly combed and kept neat to present a smart appearance. It should be sloped and not touch the ears and the collar. The fringe should not fall on the forehead or touch the eyebrows
+*   Hair should be short, properly combed and kept neat to present a smart appearance. It should be sloped and not touch the ears and the collar. The fringe should not fall on the forehead or touch the eyebrows.
 *   Extreme hairstyles, the use of hair colouring or hair gel are not allowed.
-*   Fingernails must be kept short and clean.&nbsp;Personal Attire An ACSian’s pride in the school is represented by his personal appearance. It is expected of all students always to be neat and proper in their appearance as a mark of respect for the school.
+*   Fingernails must be kept short and clean.
 
 ##### **Personal Attire**
  An ACSian’s pride in the school is represented by his personal appearance. It is expected of all students always to be neat and proper in their appearance as a mark of respect for the school. 
@@ -84,7 +84,7 @@ A student’s personal conduct contributes to his success in school and to a con
 
 6\.    The student is not allowed to use his mobile phone/smartwatch to take photos or video within the school premises. Gaming and surfing the internet are not allowed.
 
-7\.    Students who fail to abide by the rules will have their mobile phones (including SIM card) /smartwatches confiscated. Confiscated mobile phones/smartwatches can only be collected by student’s parents.
+7\.    Students who fail to abide by the rules will have their mobile phones (including SIM card) /smartwatches confiscated. Confiscated mobile phones/smartwatches can only be collected by the students' parents.
 
 8\.    The school has the right to access the content of the mobile phone/smartwatch in the presence of the student if the school suspects that he has misused his mobile phone/smartwatch.
 
