@@ -4,7 +4,7 @@ permalink: /about-us/vision-mission-values/
 description: ""
 variant: markdown
 ---
-**<h2><strong>Our Vision</strong></h2>**
+<h2><strong>Our Vision</strong></h2>
 <p></p>
 
 
