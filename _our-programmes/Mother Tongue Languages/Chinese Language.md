@@ -95,7 +95,7 @@ the significance and cultural background of the activities.</p>
 the P1 and P2 Fun Days.&nbsp;</p>
 <p>After the activities, representatives from the various levels, including
 Malay and Tamil students put up a concert for the school during assembly
-to show case what they have learnt during the MTL Fortnight.</p>
+to showcase what they have learnt during the MTL Fortnight.</p>
 <h5><strong>Primary 4 - Primary 6</strong></h5>
 <h5><strong>Conversational Chinese/ Malay Programme</strong></h5>
 <p>This programme aims to equip students with a foundational grasp in the
