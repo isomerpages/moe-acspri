@@ -3,22 +3,8 @@ title: Personal Data Protection Policy
 permalink: /for-parents/personal-data-protection/permalink/
 description: ""
 third_nav_title: Personal Data Protection
+variant: markdown
 ---
-
-# **PERSONAL DATA PROTECTION POLICY**
-
-
-
-
-
-
-
-
-
-### **Personal Data Protection Policy**
-
-
-
 Anglo-Chinese School (Primary) recognises the importance of personal data entrusted to us.
 
 We strongly believe and are committed to discharging our duty to ensure that your personal data is properly managed, protected and processed.
