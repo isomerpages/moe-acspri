@@ -173,7 +173,7 @@ Individualised Study Options (ISO) at P5:</p>
 <p><a href="https://www.fpspi.org/singapore/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.fpspi.org/singapore/</u></a>
 </p>
 <p></p>
-<p>Some other enrichment programmes and opportunities include the following:</p>
+<h4><strong>Some other enrichment programmes and opportunities include the following:</strong></h4>
 <p>Advanced Mathematics Enrichment Class (AMEC)</p>
 <p>Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</p>
 <p>Chinese Language e-Enrichment Camp</p>

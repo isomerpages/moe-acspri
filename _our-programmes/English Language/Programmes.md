@@ -10,7 +10,6 @@ variant: tiptap
 English Language in our students and empower them with a strong foundation
 in language skills to thrive in the 21<sup>st</sup> century confidently</p>
 <h4><strong>English Language Curriculum Overview </strong>(Extracted from EL Syllabus 2020)</h4>
-<p></p>
 <p>The EL Syllabus 2020 emphasises the building of a strong foundation in
 language skills and competencies while equipping students with 21<sup>st</sup> century
 competencies to support lifelong learning.&nbsp;</p>
@@ -33,13 +32,12 @@ to information closely and critically according to purpose, audience, context
 and culture.</p>
 <p>3) <strong>Creative Inquirers:</strong> Students who can gather and synthesise
 information from diverse print, non-print and digital networked sources,
-and co-create knowledge and solutions in familiar or new contexts.</p>
-<p>&nbsp;</p>
+and co-create knowledge and solutions in familiar or new contexts.&nbsp;</p>
 <p>To achieve the desired outcomes, students will cover the Strategies for
 English Language Learning And Reading (STELLAR) 2.0 curriculum over six
 years. STELLAR is an interactive literacy programme that fosters confidence
 in learning English using children's literature.</p>
-<h3><strong>&nbsp;Programmes &amp; Initiatives</strong></h3>
+<h3><strong>Programmes &amp; Initiatives</strong></h3>
 <h4><strong>Guided Reading</strong></h4>
 <p>The programme aims to arouse students’ interest in reading and expose
 them to a variety of narratives. Over a series of sessions during EL lessons,

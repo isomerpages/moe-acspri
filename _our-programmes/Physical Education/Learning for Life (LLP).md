@@ -47,11 +47,11 @@ aim of introducing friendly competition for young children.</p>
 awarded a medal.</p>
 <h4><strong>Useful links</strong></h4>
 <p>Useful sports information for children and parents:</p>
-<p><a href="www.myactivesg.com" rel="noopener nofollow" target="_blank">www.myactivesg.com </a>
-<br><a href="www.hpb.gov.sg" rel="noopener nofollow" target="_blank">www.hpb.gov.sg</a>
+<p>• <a href="http://www.myactivesg.com" rel="noopener noreferrer nofollow" target="_blank">www.myactivesg.com</a>
+<br>• <a href="http://www.hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.hpb.gov.sg</a>
+<br>• <a href="http://www.sportsingapore.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.sportsingapore.gov.sg</a>
 </p>
-<p><a href="www.sportsingapore.gov.sg" rel="noopener nofollow" target="_blank">www.sportsingapore.gov.sg</a>
-</p>
+<p></p>
 <p>
 <br>
 </p>

@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Student Management
 variant: tiptap
 ---
-<p>ACSP believes in giving every pupil an opportunity to be a leader. We
-start with self- leadership where all pupils learn about values and the
+<p>ACS(P) believes in giving every pupil an opportunity to be a leader. We
+start with self - leadership where all pupils learn about values and the
 SE competencies. From there, pupils have broad-based exposure with leadership
 opportunities provided in the classroom. Pupils are given opportunities
 to be leaders of their peers as subject representatives, group leaders

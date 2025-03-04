@@ -13,7 +13,6 @@ skills and building confidence through real world applications.</p>
 thinking and logical reasoning, empowering students to become reflective,
 lifelong learners who appreciate the value and relevance of Mathematics
 in their lives.</p>
-<p>&nbsp;</p>
 <h3><strong>Aims of Curriculum</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,7 +29,6 @@ nurturing curiosity and exploration.</p>
 <li>
 <p>Mathematical Communication: Develop the ability to articulate mathematical
 ideas confidently and logically.</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>Programme</strong></h4>
@@ -81,7 +79,6 @@ students' financial awareness:</p>
 </ul>
 </li>
 </ul>
-<h3></h3>
 <h4><strong>Learning Support and Stretch Programmes</strong></h4>
 <p><strong>Primary 1 to Primary 2</strong>
 </p>
@@ -109,13 +106,10 @@ offer targeted support to build up the mastery of Mathematical concepts.</p>
 <li>
 <p>E2K Programme <strong><br></strong>Designed for students with exceptional
 mathematical potential, fosters critical thinking and resilience through
-challenging problem-solving tasks.</p>
-</li>
-</ul>
-<p>
+challenging problem-solving tasks.
 <br>
 </p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Competitions</p>
 </li>
