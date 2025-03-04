@@ -53,22 +53,38 @@ Website does not load.
 Website keeps refreshing between two sites without loading any page.
 Website keeps refreshing itself without loading the page.</code></pre>
 <p></p>
-<p>a) Check that the browser is supported by Student iCON by referring to
-the Operating System / Browser table above. Close the browser and reopen
-it. Navigate to https://workspace.google.com/dashboard and repeat the logging
+<ol data-tight="true" class="tight">
+<li>
+<p>Check that the browser is supported by Student iCON by referring to the
+Operating System / Browser table above. Close the browser and reopen it.
+Navigate to https://workspace.google.com/dashboard and repeat the logging
 in procedure.</p>
-<p>b) If the above does not work, use Incognito mode on your browser to login.
+</li>
+<li>
+<p>If the above does not work, use Incognito mode on your browser to login.
 Upon activating Incognito mode, proceed to https://workspace.google.com/dashboard
 and repeat the logging in procedure.</p>
-<p>c) Contact the school's General Office at 6250 1633.</p>
+</li>
+<li>
+<p>Contact the school's General Office at 6250 1633.</p>
+</li>
+<li>
 <p>Operating Hours:</p>
+</li>
+</ol>
 <p>Mondays - Fridays: 8:00 am - 4:00 pm**</p>
 <p>Closed on Saturdays, Sundays and Public Holidays Please provide your child’s
 full name and class.</p>
 <h5>Q7. I receive the following message: Your account is temporarily locked to prevent unauthorized use.</h5>
 <p><strong>What should I do?</strong>
 </p>
-<p>a)&nbsp; Contact the school's General Office at <strong>6250 1633</strong>.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Contact the school's General Office at <strong>6250 1633</strong>.</p>
+</li>
+</ol>
 <p>Operating Hours: Mondays - Fridays: 8:00 am - 4:00 pm**</p>
 <p>Closed on Saturdays, Sundays and Public Holidays Please provide your child’s
 full name and class.</p>
+<p>2.Complete this form: <a href="https://form.gov.sg/65b1b9706f26938cf7b36232" rel="noopener nofollow" target="_blank">https://go.gov.sg/caspicthelp</a>
+</p>
