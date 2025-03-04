@@ -6,13 +6,22 @@ third_nav_title: Student iCON
 variant: tiptap
 ---
 <h5>Q1. What is the naming convention for Student iCON email address?</h5>
-<p>a.&nbsp; The student’s email address will be based on @students.edu.sg.</p>
-<p>b. Any space in the full name will be replaced with an underscore.</p>
-<p>c. Should the student’s full name have words such as “Bte” and “s/o”,
-they will not appear in the email address.</p>
-<p>d. For cases where students share the same full name, we have added a
-numerical number (e.g. Jon_Tan_1, Jon_Tan_2) to differentiate their email
-addresses.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>The student’s email address will be based on @students.edu.sg.</p>
+</li>
+<li>
+<p>Any space in the full name will be replaced with an underscore.</p>
+</li>
+<li>
+<p>Should the student’s full name have words such as “Bte” and “s/o”, they
+will not appear in the email address.</p>
+</li>
+<li>
+<p>For cases where students share the same full name, we have added a numerical
+number (e.g. Jon_Tan_1, Jon_Tan_2) to differentiate their email addresses.</p>
+</li>
+</ol>
 <h5>Q2. How can my child log in to Student iCON?</h5>
 <p>Student iCON is web-based. Students can use their web browser in their
 internet- enabled computing or mobile devices to visit <strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a></strong> to
@@ -27,12 +36,26 @@ be done after a review of the application and its relevance for use by
 our students.</p>
 <h5>Q5. What is the password requirement?</h5>
 <p>Please follow the password requirements below:</p>
-<p>a. Case s​ensitivity
-<br>b. Minimum​ length of&nbsp;8&nbsp;characters
-<br>c. First character mu​st be a letter or number (not a symbol)
-<br>d. Must not inclu​de any part of the student's name or username
-<br>e. New password must not have been used previously​
-<br>f. Must include at lea​st&nbsp;2&nbsp;of the following:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Case s​ensitivity</p>
+</li>
+<li>
+<p>Minimum​ length of&nbsp;8&nbsp;characters</p>
+</li>
+<li>
+<p>First character mu​st be a letter or number (not a symbol)</p>
+</li>
+<li>
+<p>Must not inclu​de any part of the student's name or username</p>
+</li>
+<li>
+<p>New password must not have been used previously​</p>
+</li>
+<li>
+<p>Must include at lea​st&nbsp;2&nbsp;of the following:</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Uppercase​ letters (A-Z)</p>
