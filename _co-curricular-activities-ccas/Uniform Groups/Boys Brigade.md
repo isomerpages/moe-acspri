@@ -12,14 +12,18 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -36,6 +40,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -45,15 +53,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mr Adrian Kum (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:kum_kin_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_kin_meng@moe.edu.sg</a>
-</p>
-<p>Mr Chan Tai Yao</p>
-<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_tai_yao@moe.edu.sg</a>
-</p>
-<p>Ms Joanne Ong</p>
-<p><a href="mailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
@@ -64,9 +68,28 @@ variant: tiptap
 <p>3E, 3F</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Tai Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_tai_yao@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Joanne Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

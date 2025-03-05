@@ -90,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Questal Tay</p>
+<p>Ms Questal Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_questal@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_questal@moe.edu.sg</a>

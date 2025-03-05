@@ -9,14 +9,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Track_and_Field.jpeg">
 </div>
 <h4></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -33,6 +37,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -42,38 +50,62 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Ms Chan Wai Ying Elyse (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">chan_wai_ying@moe.edu.sg</a>
-</p>
-<p>Mrs Neo Lin Li</p>
-<p><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
-</p>
-<p>Mdm Suja Anbazhagan<a rel="noopener noreferrer nofollow" target="_blank"><br>anbazhagansuja_a@moe.edu.sg</a>
-</p>
-<p>Mdm Vaishnavi</p>
-<p><a href="mailto:vaishnavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank">vaishnavi_srinivasan@moe.edu.sg</a>
-</p>
-<p>Mdm Sarah Su</p>
-<p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Wai Ying Elyse (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_wai_ying@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="3" colspan="1">
-<p>MON
-<br>14:30 - 16:30
-<br>(School Team)
+<td rowspan="5" colspan="1">
+<p>MON 14:30 - 16:30 (School Team)
 <br>
-<br>&nbsp;WED
-<br>14:30 - 16:30
-<br>&nbsp;(Recreational)</p>
+<br>&nbsp;WED 14:30 - 16:30 &nbsp;(Recreational)</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="5" colspan="1">
 <p>TPY STADIUM</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Neo Lin Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suja Anbazhagan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">anbazhagansuja_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vaishnavi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vaishnavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank">vaishnavi_srinivasan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarah Su</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

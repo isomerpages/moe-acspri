@@ -11,14 +11,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Badminton.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -35,6 +39,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -44,58 +52,85 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>Ms Jeannie Yeo (I/C)
-<br><a href="mailto:yeo_mui_chng_jeannie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
-</p>
-<p>Ms Jessica Lai</p>
-<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
-</p>
-<p>Ms Aubrey Ong</p>
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
-</p>
-<p>Mis Patricia Lim</p>
-<p><a href="mailto:natasha_patricia_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
-</p>
-<p>Mdm Zhou Lingyu</p>
-<p><a href="mailto:zhou_lingyu@moe.edu.sg" rel="noopener nofollow" target="_blank">zhou_lingyu@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p>Ms Jeannie Yeo (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_mui_chng_jeannie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="4" colspan="1">
-<p>MON</p>
-<p>14:15-17:15</p>
-<p>&nbsp;WED</p>
-<p>14.15-17:15</p>
+<td rowspan="5" colspan="1">
+<p>MON 14:15-17:15 &nbsp;WED 14.15-17:15</p>
 <p>(SCHOOL TEAM)</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>ISH</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Ms Jessica Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Aubrey Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mis Patricia Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:natasha_patricia_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhou Lingyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhou_lingyu@moe.edu.sg" rel="noopener nofollow" target="_blank">zhou_lingyu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Shariza Binte Shari (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:shariza_shari_a@moe.edu.sg" rel="noopener nofollow" target="_blank">shariza_shari_a@moe.edu.sg</a>
 </p>
-<p>Mrs Zahara Osman</p>
-<p><a href="mailto:zahara_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahara_osman@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>WED</p>
-<p>14:15-16:15</p>
-<p>(RECREATIONAL)</p>
+<p>WED 14:15-16:15 (RECREATIONAL)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>SPORTS HALL</p>
 </td>
 </tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Zahara Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zahara_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahara_osman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -108,7 +143,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Competition</strong></h4>
 <p>After a two-year hiatus, our Junior Team members were exuberant when they
 took part in the inaugural new format championship. Denson Sjahada Harjanto

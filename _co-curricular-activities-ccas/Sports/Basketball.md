@@ -9,15 +9,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Basketball_ACS.jpg">
 </div>
 <p></p>
-<p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -34,6 +37,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -43,47 +50,73 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ms Amanda Lim(I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:lim_zhi_yan_amanda_b@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_zhi_yan_amanda_b@moe.edu.sg</a>
 </p>
-<p>Mrs Shanice Toh</p>
-<p><a href="mailto:lim_wei_tong_shanice@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wei_tong_shanice@moe.edu.sg</a>
-</p>
-<p>Mrs Dawn Wee</p>
-<p><a href="mailto:wong_seow_seah_dawn@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_seow_seah_dawn@moe.edu.sg</a>
-</p>
-<p>Mr Caleb Chua<a href="mailto:caleb_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>caleb_chua@moe.edu.sg</a>
-</p>
-<p>Ms Chan Soo Ping
-<br><a href="mailto:chan_soo_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
-</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>MON</p>
-<p>14:15-17:15</p>
-<p>(Recreational and School Team)
+<td rowspan="5" colspan="1">
+<p>MON 14:15-17:15 (Recreational and School Team)
 <br>
 </p>
-<p>WED</p>
-<p>14:15-17:15(School Team)</p>
+<p>WED 14:15-17:15 (School Team)</p>
+<p>&nbsp;</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>SPORTS HALL</p>
+<p>&nbsp;</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mrs Shanice Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:lim_wei_tong_shanice@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wei_tong_shanice@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Dawn Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:wong_seow_seah_dawn@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_seow_seah_dawn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Caleb Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:caleb_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_chua@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Soo Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_soo_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

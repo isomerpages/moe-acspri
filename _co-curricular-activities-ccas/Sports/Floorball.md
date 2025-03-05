@@ -10,14 +10,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Floorball_CCA.jpg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -34,6 +38,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -43,31 +51,43 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Mr Charles Zhang (I/C)
-<br><a rel="noopener noreferrer nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p>Mr Charles Zhang (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_zong_yang_charles@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
 </p>
-<p>Mdm Jenn Ang</p>
-<p><a href="mailto:jenn_ang@moe.edu.sg" rel="noopener nofollow" target="_blank">jenn_ang@moe.edu.sg</a>
-</p>
-<p>Ms Foo Ting</p>
-<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 <td rowspan="3" colspan="1">
-<p>MON
-<br>&nbsp;14:15 - 17:15 (Training Squad and School Team)
-<br>&nbsp;WED
-<br>14:15 -17:15 (Developmental Team)</p>
+<p>MON &nbsp;14:15 - 17:15 (Training Squad and School Team)
+<br>&nbsp;WED 14:15 -17:15 (Developmental Team)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>MOVEMENT GYM</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jenn Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jenn_ang@moe.edu.sg" rel="noopener nofollow" target="_blank">jenn_ang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Foo Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

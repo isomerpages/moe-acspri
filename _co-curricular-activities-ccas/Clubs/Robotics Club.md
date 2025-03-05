@@ -6,14 +6,13 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Robotic__3_.jpg">
 </div>
 <p></p>
-<p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -21,18 +20,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,39 +37,43 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Yoke Joo (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
 </p>
-<p>Mdm Vasanthi</p>
-<p><a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthi_arumugam@moe.edu.sg</a>
-</p>
-<p>Ms Judith Ogawa</p>
-<p><a href="mailto:judith_ogawa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
-</p>
 </td>
-<td rowspan="7" colspan="1">
-<p>MON</p>
-<p>14:15 - 16:15</p>
-<p>For the competitive group (selected weeks)&nbsp;</p>
-<p>WED</p>
-<p>14:15 - 16:15</p>
-<p>For all
-<br>
-<br>
-</p>
+<td rowspan="3" colspan="1">
+<p>MON 14:15 - 16:15 For the competitive group selected weeks)</p>
+<p>WED 14:15 - 16:15 For all</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5ALC, 5A, 6A, 6E, 6F</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vasanthi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthi_arumugam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Judith Ogawa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:judith_ogawa@moe.edu.sg" rel="noopener nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

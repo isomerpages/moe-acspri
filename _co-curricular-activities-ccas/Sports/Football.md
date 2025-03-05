@@ -10,14 +10,18 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -34,6 +38,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -43,50 +51,80 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mdm Bavani balasubarammany(I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="Mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
 </p>
-<p></p>
-<p>Mdm Hoong Xiu Qin</p>
-<p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
-</p>
-<p>Mdm Sri Dewi</p>
-<p><a href="mailto:sri_dewi_mohamed_hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Mdm Divya Dharshini</p>
-<p><a href="mailto:divya_dharshini_harikrishan@moe.edu.sg" rel="noopener nofollow" target="_blank">divya_dharshini_harikrishan@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Mr Oscar Tay</p>
-<p><a href="mailto:tay_ting_chuan_oscar@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_ting_chuan_oscar@moe.edu.sg</a>
-</p>
-<p>Mdm Michelle Lim</p>
-<p><a href="mailto:lim_pei_yu_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_pei_yu_michelle@moe.edu.sg</a>
-</p>
-<p>Mr Tiong Sze Chiat<a rel="noopener noreferrer nofollow" target="_blank"><br>tiong_sze_chiat@moe.edu.sg</a>
-</p>
 </td>
-<td rowspan="5" colspan="1">
-<p>MON
-<br>15:00-17:00 (DEVELOPMENTAL TEAM)
+<td rowspan="7" colspan="1">
+<p>MON 15:00-17:00 (DEVELOPMENTAL TEAM)
 <br>&nbsp;</p>
-<p>WED
-<br>14:15-16:15</p>
-<p>(SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)
-<br>&nbsp;</p>
-<p></p>
+<p>WED 14:15-16:15 (SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="7" colspan="1">
 <p>ARENA</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hoong Xiu Qin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sri Dewi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sri_dewi_mohamed_hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Divya Dharshini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:divya_dharshini_harikrishan@moe.edu.sg" rel="noopener nofollow" target="_blank">divya_dharshini_harikrishan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Oscar Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_ting_chuan_oscar@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_ting_chuan_oscar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Michelle Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener nofollow" target="_blank">lim_pei_yu_michelle@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tiong Sze Chiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tiong_sze_chiat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
