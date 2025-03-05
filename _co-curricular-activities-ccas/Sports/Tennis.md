@@ -54,11 +54,11 @@ variant: tiptap
 <p>Mdm Mazeedah(I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><br></a><a href="mailto:mazeedah_mohamed_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">mazeedah_mohamed_azmi@moe.edu.sg</a>
+<p><a href="mailto:mazeedah_mohamed_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">mazeedah_mohamed_azmi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
-<p>MON &nbsp;14:15 - 16:15
+<p>MON&nbsp;14:15 - 16:15
 <br>(Recreational)
 <br>&nbsp;WED 14:15 - 17:15
 <br>(School Team)</p>
