@@ -20,7 +20,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>in Charge</strong>
+<p><strong>Teachers in Charge</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
