@@ -57,27 +57,12 @@ variant: tiptap
 <p><a href="mailto:chua_hoe_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hoe_leong@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="6" colspan="1">
-<p>MON</p>
-<p>07:10am</p>
-<p></p>
-<p>TUE,WED</p>
-<p>07:10am</p>
-<p></p>
-<p>THU,FRI</p>
-<p>07:10am</p>
+<td rowspan="2" colspan="1">
+<p>MON 07:10am</p>
 <p></p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Auditorium</p>
-<p></p>
-<p></p>
-<p></p>
-<p>Student Plaza</p>
-<p></p>
-<p></p>
-<p></p>
-<p>L2 Music Room</p>
 </td>
 </tr>
 <tr>
@@ -97,6 +82,12 @@ variant: tiptap
 <p><a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aravinthan_a_karuppiah@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="2" colspan="1">
+<p>TUE,WED</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Student Plaza</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -114,6 +105,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:caleb_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_chua@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="2" colspan="1">
+<p>THU,FRI</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>L2 Music Room</p>
 </td>
 </tr>
 <tr>
