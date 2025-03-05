@@ -1,5 +1,4 @@
 collections:
   standby:
     output: true
-    order:
-      - Group Personal Accident (GPA) Insurance Plan.md
+    order: []
