@@ -11,14 +11,18 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -35,6 +39,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -46,7 +54,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Chaik Khoon (I/C)
-<br><a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,6 +72,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
