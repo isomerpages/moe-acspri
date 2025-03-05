@@ -11,7 +11,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Robotic__3_.jpg">
 </div>
 <p></p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -20,20 +19,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teachers in Charge</strong>
@@ -53,31 +38,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Yoke Joo (I/C)</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="9" colspan="1">
-<p>MON</p>
-<p>14:15 - 16:15</p>
+<td rowspan="3" colspan="1">
+<p>MON 14:15 - 16:15</p>
 <p>For the competitive group (selected weeks)&nbsp;</p>
-<p>WED</p>
-<p>14:15 - 16:15</p>
+<p>WED 14:15 - 16:15</p>
 <p>For all</p>
 </td>
-<td rowspan="9" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5ALC, 5A, 6A, 6E, 6F</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Vasanthi</p>
@@ -112,6 +89,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Programme/ Development</strong></h4>
 <p>The Robotics Club encompasses a group of passionate pupils who are interested
 in robots and the use of robots in everyday life. The objectives of the
