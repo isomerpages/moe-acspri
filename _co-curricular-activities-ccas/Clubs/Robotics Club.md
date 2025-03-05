@@ -3,7 +3,7 @@ title: Robotics Club
 permalink: /our-ccasclubs/robotics-club/
 description: ""
 third_nav_title: Clubs
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <p></p>
@@ -25,7 +25,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email</strong>
+<p><strong>Email </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,10 +46,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="3" colspan="1">
-<p>MON 14:15 - 16:15</p>
-<p>For the competitive group (selected weeks)&nbsp;</p>
-<p>WED 14:15 - 16:15</p>
-<p>For all</p>
+<p>MON 14:15 - 16:15 For the competitive group selected weeks)</p>
+<p>WED 14:15 - 16:15 For all</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>5ALC, 5A, 6A, 6E, 6F</p>
@@ -89,9 +87,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <h4><strong>Programme/ Development</strong></h4>
 <p>The Robotics Club encompasses a group of passionate pupils who are interested
 in robots and the use of robots in everyday life. The objectives of the
