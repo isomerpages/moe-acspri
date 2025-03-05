@@ -6,7 +6,6 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Robotic__3_.jpg">
 </div>
@@ -25,7 +24,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email </strong>
+<p><strong>Email</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
