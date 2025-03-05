@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Admin Matters/Group Personal Accident (GPA) Insurance Plan.md
       - Admin Matters/.keep
       - Admin Matters/Forms.md
       - Admin Matters/Transit Link Hotline.md
