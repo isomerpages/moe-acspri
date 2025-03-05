@@ -10,8 +10,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Swimming.jpeg">
 </div>
 <h5></h5>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -20,6 +21,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -34,6 +38,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -43,38 +51,54 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Mdm Ida Nonanseh (I/C)
-<br><a href="mailto:ida_nonanseh_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ida_nonanseh_abdul_rahman@moe.edu.sg</a>
-</p>
-<p>Mr Chhoa Kok Kheng<a href="mailto:chhoa_kok_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>chhoa_kok_kheng@moe.edu.sg</a>
-</p>
-<p>Mr Aravinthan</p>
-<p><a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aravinthan_a_karuppiah@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p>Mdm Ida Nonanseh (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ida_nonanseh_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ida_nonanseh_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
-<p>MON
-<br>14:15 - 16:15
+<p>MON 14:15 - 16:15
 <br>or
-<br>WED
-<br>14:15 - 16:15&nbsp;</p>
+<br>WED 14:15 - 16:15&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>SHAW POOL</p>
+<p>&nbsp;</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mr Chhoa Kok Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:chhoa_kok_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chhoa_kok_kheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Aravinthan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aravinthan_a_karuppiah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
