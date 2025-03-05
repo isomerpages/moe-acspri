@@ -10,14 +10,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Eco_Maker_CCA.jpg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -34,6 +38,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -43,12 +51,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mr Wan Mohamed (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wan_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
 </p>
-<p>Ms Ee Li Hua Elizabeth</p>
-<p><a href="mailto:ee_li_hua_elizabeth@moe.edu" rel="noopener noreferrer nofollow" target="_blank">ee_li_hua_elizabeth@moe.edu</a>.s</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>WED
@@ -58,8 +66,19 @@ variant: tiptap
 <p>L3 AND L4 SCIENCE ROOM</p>
 </td>
 </tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ee Li Hua Elizabeth</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ee_li_hua_elizabeth@moe.edu" rel="noopener noreferrer nofollow" target="_blank">ee_li_hua_elizabeth@moe.edu</a>.s</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
