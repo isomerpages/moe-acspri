@@ -9,14 +9,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Bowling_ACS.jpg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -33,6 +37,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -43,59 +51,103 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhayati (I/C)
-<br><a href="mailto:norharyati_harun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
-</p>
-<p>Mdm Li Xuesong</p>
-<p><a href="mailto:li_xuesong@moe.edu.sg" rel="noopener nofollow" target="_blank">li_xuesong@moe.edu.sg</a>
-</p>
+<p>Mdm Norhayati(I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WED
-<br>14:30-16:30</p>
-<p>(DEVELOPMENTAL)</p>
+<p><a href="mailto:norharyati_harun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p>WED 14:30-16:30 (DEVELOPMENTAL)</p>
+</td>
+<td rowspan="2" colspan="1">
 <p>TPY SAFRA</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
-<p>Mr Chow Kai Loon (I/C)
-<br><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p>Mdm Li Xuesong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_xuesong@moe.edu.sg" rel="noopener nofollow" target="_blank">li_xuesong@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chow Kai Loon I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>MON 14:30-16:30 &nbsp;WED 14:30-16:60 (SCHOOL TEAM)</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>NSG VENUE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Xu Jie</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:xu_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">xu_jie@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Chiew Hwee Ling</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="chiew_hwee_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">chiew_hwee_ling@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Edmund Wu</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:edmund_wu_kok_ming@moe.edu.sg" rel="noopener nofollow" target="_blank">edmund_wu_kok_ming@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Seow Kian Yong</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:seow_kian_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">seow_kian_yong@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Farisa Hussain</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:farisa_begame_abdul_salam@moe.edu.sg" rel="noopener nofollow" target="_blank">farisa_begame_abdul_salam@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
-<td rowspan="5" colspan="1">
-<p>MON
-<br>14:30-16:30
-<br>&nbsp;WED
-<br>14:30-16:60</p>
-<p>(SCHOOL TEAM)</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
-<td rowspan="5" colspan="1">
-<p>NSG VENUE</p>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
