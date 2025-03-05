@@ -9,14 +9,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Rugby.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -33,6 +37,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -42,22 +50,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ms Lee Jia Yee (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jia_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_jia_yee_a@moe.edu.sg</a>
-</p>
-<p>Mr Kelvin Chan<a href="mailto:kelvin_chan_yong_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>kelvin_chan_yong_meng@moe.edu.sg</a>
-</p>
-<p>Mr Ho Shin Hoo</p>
-<p><a href="mailto:ho_shin_hoo@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
-</p>
-<p>Mrs Jasmine Lim</p>
-<p><a href="mailto:ong_cui_yun@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_cui_yun@moe.edu.sg</a>
-</p>
-<p>Ms Chen Xiaoxiao</p>
-<p><a href="mailto:chen_xiaoxiao@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@moe.edu.sg</a>
-</p>
-<p>Ms Qin Chunni<a href="mailto:qin_chunni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>qin_chunni@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="6" colspan="1">
@@ -72,12 +69,55 @@ variant: tiptap
 <p>ACS(I)</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kelvin_chan_yong_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_chan_yong_meng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Shin Hoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_shin_hoo@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jasmine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_cui_yun@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_cui_yun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Xiaoxiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_xiaoxiao@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Qin Chunni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:qin_chunni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qin_chunni@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
