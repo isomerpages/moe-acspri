@@ -52,7 +52,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Wai Ying Elyse (I/C)</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chan_wai_ying@moe.edu.sg</a>
