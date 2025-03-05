@@ -9,14 +9,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Tennis.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -33,6 +37,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -42,35 +50,55 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>Mdm Mazeedah(I/C)<a rel="noopener noreferrer nofollow" target="_blank"><br></a>
-<a href="mailto:mazeedah_mohamed_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">mazeedah_mohamed_azmi@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p>Mdm Mazeedah(I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><br></a><a href="mailto:mazeedah_mohamed_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">mazeedah_mohamed_azmi@moe.edu.sg</a>
 </p>
-<p>Ms Ho Lim Hwei<a rel="noopener noreferrer nofollow" target="_blank"><br>ho_lim_hwei@moe.edu.sg</a>
-</p>
-<p>Mdm Li Youge</p>
-<p><a href="mailto:lu_youge@moe.edu.sg" rel="noopener nofollow" target="_blank">lu_youge@moe.edu.sg</a>
-</p>
-<p>Ms Tan Siow Hwee<a rel="noopener noreferrer nofollow" target="_blank"><br>tan_siow_hwee@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 <td rowspan="4" colspan="1">
-<p>MON
-<br>&nbsp;14:15 - 16:15
+<p>MON &nbsp;14:15 - 16:15
 <br>(Recreational)
-<br>&nbsp;WED
-<br>14:15 - 17:15
+<br>&nbsp;WED 14:15 - 17:15
 <br>(School Team)</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>BARKER TENNIS COURTS</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Lim Hwei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ho_lim_hwei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Li Youge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lu_youge@moe.edu.sg" rel="noopener nofollow" target="_blank">lu_youge@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Siow Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_siow_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
