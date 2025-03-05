@@ -55,7 +55,7 @@ variant: tiptap
 <p>Mr Charles Zhang (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hang_zong_yang_charles@moe.edu.sg</a>
+<p><a href="mailto:zhang_zong_yang_charles@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
