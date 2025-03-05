@@ -72,6 +72,7 @@ variant: tiptap
 <p>Auditorium</p>
 <p></p>
 <p></p>
+<p></p>
 <p>Student Plaza</p>
 <p></p>
 <p></p>
