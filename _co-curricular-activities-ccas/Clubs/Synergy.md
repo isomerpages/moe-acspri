@@ -11,14 +11,18 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -35,6 +39,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mail</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -44,11 +52,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Mdm Punitha (I/C)
-<br><a href="mailto:punitha_kasipandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punitha_kasipandy@moe.edu.sg</a>
-</p>
-<p>Ms Woon Yuet Meng<a href="mailto:woon_yuet_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>woon_yuet_meng@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p>Mdm Punitha (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:punitha_kasipandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punitha_kasipandy@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">
@@ -62,16 +70,13 @@ variant: tiptap
 <p>MUSIC STUDIO</p>
 </td>
 </tr>
-<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Woon Yuet Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:woon_yuet_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_yuet_meng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
