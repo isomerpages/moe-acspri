@@ -12,14 +12,18 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -36,6 +40,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -47,27 +55,20 @@ variant: tiptap
 <tr>
 <td rowspan="7" colspan="1">
 <p>Mdm Tan Yoke Joo (I/C)</p>
-<p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
-</p>
-<p>Mdm Vasanthi</p>
-<p><a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthi_arumugam@moe.edu.sg</a>
-</p>
-<p>Ms Judith Ogawa</p>
-<p><a href="mailto:judith_ogawa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
-</p>
 </td>
 <td rowspan="7" colspan="1">
+<p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="9" colspan="1">
 <p>MON</p>
 <p>14:15 - 16:15</p>
 <p>For the competitive group (selected weeks)&nbsp;</p>
 <p>WED</p>
 <p>14:15 - 16:15</p>
-<p>For all
-<br>
-<br>
-</p>
+<p>For all</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="9" colspan="1">
 <p>5ALC, 5A, 6A, 6E, 6F</p>
 </td>
 </tr>
@@ -78,6 +79,27 @@ variant: tiptap
 <tr></tr>
 <tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vasanthi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vasanthi_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vasanthi_arumugam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Judith Ogawa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:judith_ogawa@moe.edu.sg" rel="noopener nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
