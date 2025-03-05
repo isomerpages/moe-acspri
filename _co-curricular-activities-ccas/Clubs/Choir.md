@@ -9,14 +9,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Choir_Edited.jpg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -33,6 +37,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
@@ -42,29 +50,43 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mdm Gomathi Ravindra (I/C)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:gomathi_ravindra@moe.edu.sg" rel="noopener nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
 </p>
-<p>Mdm Suzanna Hashim</p>
-<p><a href="mailto:suzanna_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suzanna_hashim@moe.edu.sg</a>
-</p>
-<p>Ms Anna Asha Mohan</p>
-<p><a href="mailto:anna_asha_mohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anna_asha_mohan@moe.edu.sg</a>
-</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>MON
 <br>4:15 - 16:15</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>L4 MUSIC ROOM</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suzanna Hashim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suzanna_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suzanna_hashim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Anna Asha Mohan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:anna_asha_mohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anna_asha_mohan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
