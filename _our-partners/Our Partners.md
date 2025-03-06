@@ -18,9 +18,9 @@ variant: tiptap
 <p><a href="http://www.acsjakarta.sch.id/" rel="noopener noreferrer nofollow" target="_blank">ACS Jakarta</a>
 </p>
 <h3><strong>ACS Old Boys’ Association</strong></h3>
-<p><a href="https://www.acsoba.net/home" rel="noopener noreferrer nofollow" target="_blank">ACS OLD BOYS’ ASSOCIATION</a>
+<p><a href="https://www.acsoba.net/home" rel="noopener nofollow" target="_blank">ACS Old Boys’ Association</a>
 </p>
-<p><a href="https://acsstore.sg/collections/anglo-chinese-school-primary-collection" rel="noopener noreferrer nofollow" target="_blank">THE ACS STORE</a>
+<p><a href="https://acsoba.org/shop/" rel="noopener nofollow" target="_blank">The ACS Store</a>
 </p>
 <h3><strong>Barker Road Methodist Church</strong></h3>
 <p><a href="https://www.brmc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Barker Road Methodist Church</a>
