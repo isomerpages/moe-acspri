@@ -82,7 +82,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="6" colspan="1">
-<p>MON 14:30-16:30 WED 14:30-16:60 (SCHOOL TEAM)</p>
+<p>MON 14:30-16:30</p>
+<p>WED 14:30-16:60 (SCHOOL TEAM)</p>
 </td>
 <td rowspan="6" colspan="1">
 <p>NSG VENUE</p>
