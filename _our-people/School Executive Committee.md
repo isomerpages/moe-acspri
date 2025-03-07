@@ -159,7 +159,7 @@ variant: tiptap
 <p>Head of Department/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Diana Tay</p>
+<p>Ms Diana Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_kwee_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kwee_hong@moe.edu.sg</a>
@@ -327,7 +327,7 @@ variant: tiptap
 <p>Subject Head/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Divya Dharshini</p>
+<p>Mdm Divya Dharshini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:divya_dharshini_harikrishan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">divya_dharshini_harikrishan@moe.edu.sg</a>
