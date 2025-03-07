@@ -450,7 +450,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Aminda Chua Nyap Kin</p>
+<p>Ms Aminda Chua Nyap Kin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aminda_chua_nyap_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aminda_chua_nyap_kin@moe.edu.sg</a>
@@ -702,7 +702,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Siow Hwee</p>
+<p>Ms Tan Siow Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_siow_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_siow_hwee@moe.edu.sg</a>
