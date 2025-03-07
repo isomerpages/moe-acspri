@@ -2,7 +2,7 @@
 title: Counselling
 permalink: /our-programmes/sen/counselling/
 description: ""
-third_nav_title: SEN
+third_nav_title: Special Educational Needs
 variant: tiptap
 ---
 <p>ACS(P) strives to provide students with Special Educational Needs (SEN)
