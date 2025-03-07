@@ -450,7 +450,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aminda Chua Nyap Kin</p>
+<p>Miss Aminda Chua Nyap Kin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aminda_chua_nyap_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aminda_chua_nyap_kin@moe.edu.sg</a>
@@ -519,7 +519,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Diana Tay</p>
+<p>Ms Diana Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_kwee_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kwee_hong@moe.edu.sg</a>
@@ -639,7 +639,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Xiaoxiao</p>
+<p>Ms Chen Xiaoxiao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_xiaoxiao@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@moe.edu.sg</a>
@@ -1087,7 +1087,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sophia Chua Lee Ying (School Counsellor)</p>
+<p>Ms Sophia Chua Lee Ying (School Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_lee_ying_sophia@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_lee_ying_sophia@moe.edu.sg</a>
