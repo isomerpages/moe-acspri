@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Charmaine Cheong</p>
+<p>Ms Charmaine Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_sinh_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_sinh_mei@moe.edu.sg</a>
