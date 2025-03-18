@@ -59,24 +59,15 @@ variant: tiptap
 <p><a href="mailto:punitha_kasipandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punitha_kasipandy@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>MON
 <br>14:15 - 16:15
 <br>(School Team and Recreational)
 <br>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>MUSIC STUDIO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Woon Yuet Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:woon_yuet_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_yuet_meng@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
