@@ -75,7 +75,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chow Kai Loon I/C)</p>
+<p>Mr Chow Kai Loon (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
