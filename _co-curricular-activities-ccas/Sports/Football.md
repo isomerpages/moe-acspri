@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bavani Balasubarammany (I/C)</p>
+<p>Mdm Bavani d/o Balasubarammany (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="Mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
