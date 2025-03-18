@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mazeedah(I/C)</p>
+<p>Mdm Mazeedah (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mazeedah_mohamed_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">mazeedah_mohamed_azmi@moe.edu.sg</a>
