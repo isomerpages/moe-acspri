@@ -882,7 +882,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bavani D/O Balasubrammany</p>
+<p>Mdm Bavani d/o Balasubarammany</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
