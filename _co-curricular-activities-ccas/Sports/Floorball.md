@@ -77,7 +77,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Foo Ting</p>
+<p>Mrs Lee Ting Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
