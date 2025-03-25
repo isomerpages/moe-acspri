@@ -137,7 +137,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="22" colspan="1">
+<td rowspan="21" colspan="1">
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -303,15 +303,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Woon Yuet Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:woon_yuet_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_yuet_meng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Tan Sue-Ann</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -363,7 +354,7 @@ variant: tiptap
 <p>Mdm Chui Yuen Phun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chui_yuen_phun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chui_yuen_phun@moe.edu.sg</a>
+<p><a href="mailto:chui_yuen_phun@moe.edu.sg" rel="noopener nofollow" target="_blank">chui_yuen_phun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -882,7 +873,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bavani D/O Balasubrammany</p>
+<p>Mdm Bavani d/o Balasubarammany</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
