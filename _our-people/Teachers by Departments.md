@@ -329,7 +329,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="13" colspan="1">
 <p>Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -346,15 +346,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_yin_hong_kathleen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yin_hong_kathleen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chui Yuen Phun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chui_yuen_phun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chui_yuen_phun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
