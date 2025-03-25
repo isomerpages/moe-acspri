@@ -137,7 +137,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="22" colspan="1">
+<td rowspan="21" colspan="1">
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -298,15 +298,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vaishnavi_srinivasan@moe.edu.sg" rel="noopener nofollow" target="_blank">vaishnavi_srinivasan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Woon Yuet Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:woon_yuet_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_yuet_meng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
