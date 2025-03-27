@@ -1239,7 +1239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Carynn Chung</p>
+<p>Miss Carynn Chung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Carynn_Chung_Yan_Min@moe.edu.sg" rel="noopener nofollow" target="_blank">Carynn_Chung_Yan_Min@moe.edu.sg</a>
