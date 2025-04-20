@@ -4,11 +4,11 @@ permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<p><strong>Type of Stall:  Asian Cuisine</strong>
+<p><strong>Type of Stall: Asian Cuisine</strong>
 </p>
-<p><strong>Closing Date :5 May 2025 </strong>
+<p><strong>Closing Date : 5 May 2025</strong>
 </p>
-<p><strong>Requirements: Any Asian Cuisine (Non-Halal) </strong>
+<p><strong>Requirements: Any Asian Cuisine (Non-Halal)</strong>
 </p>
 <p><strong>Application Procedure</strong>
 </p>
