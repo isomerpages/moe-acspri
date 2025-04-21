@@ -35,8 +35,12 @@ hardcopy from the School’s General Office.</p>
 etc</p>
 </li>
 </ul>
-<p>3.Submit the completed application form and documents by closing date
-via email OR to the School's General Office.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Submit the completed application form and documents by closing date via
+email OR to the School's General Office.</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 50 Barker Road Singapore 309918</p>
