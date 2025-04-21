@@ -49,7 +49,7 @@ email OR to the School's General Office.</p>
 <p>Contact No: 62501633</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">acps@moe.edu.sg</a>
+<p>Email: <a href="mailto:acps@moe.edu.sg" rel="noopener nofollow" target="_blank">acps@moe.edu.sg</a>
 </p>
 </li>
 <li>
