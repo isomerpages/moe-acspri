@@ -15,9 +15,9 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office. <a href="/files/Canteen Adv/application for canteen stall.pdf" rel="noopener nofollow" target="_blank">SCHOOLAPPLICATION FOR CANTEEN STALL IN EXISTING SCHOOLle</a>
+hardcopy from the School’s General Office.</p>
+<p><a href="/files/Canteen Adv/application for canteen stall.pdf" rel="noopener nofollow" target="_blank">application for canteen stall.pdf</a>
 </p>
-<p></p>
 </li>
 <li>
 <p>Attached the following documents together with the application form:</p>
