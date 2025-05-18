@@ -4,8 +4,9 @@ permalink: /our-people/school-teaching-committee/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -15,7 +16,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -26,7 +27,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Ms Vanessa Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +39,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Lead Teacher/English Language</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Chui Yuen Phun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +51,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Lead Teacher/Tamil Language</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Miss Kogilavani Vathumalai</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +63,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Art</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mrs Sharron Yap</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +75,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Character and Citizenship Education</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Ms Ho Lim Hwei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +87,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Chinese Language</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Li Chunju</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +99,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/English Language</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Ida Nonanseh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,6 +115,9 @@ variant: tiptap
 <p>Mrs Farisa Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:farisa_begame_abdul_salam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farisa_begame_abdul_salam@moe.edu.sg</a>
 </p>
 </td>
@@ -124,6 +128,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Yoke Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
@@ -138,6 +145,9 @@ variant: tiptap
 <p>Mr Koh Chaik Khoon</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
 </p>
 </td>
@@ -148,6 +158,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Aminda Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aminda_chua_nyap_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aminda_chua_nyap_kin@moe.edu.sg</a>
@@ -162,11 +175,17 @@ variant: tiptap
 <p>Mr Wan Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wan_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
