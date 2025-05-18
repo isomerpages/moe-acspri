@@ -111,11 +111,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Educational Support</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mrs Farisa Hussain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farisa_begame_abdul_salam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farisa_begame_abdul_salam@moe.edu.sg</a>
@@ -126,11 +123,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/High Ability Learners</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mdm Tan Yoke Joo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
@@ -141,11 +135,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Mathematics</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Koh Chaik Khoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
@@ -156,11 +147,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Science</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Ms Aminda Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aminda_chua_nyap_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aminda_chua_nyap_kin@moe.edu.sg</a>
@@ -171,11 +159,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Science</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Mr Wan Mohamed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wan_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
