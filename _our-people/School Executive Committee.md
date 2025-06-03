@@ -318,7 +318,8 @@ variant: tiptap
 <p>Mrs Heng Xiu Qin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
