@@ -1125,7 +1125,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1133,15 +1133,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_kah_ling_janis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kah_ling_janis@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Teresa Liew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liew_sin_tong_teresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_sin_tong_teresa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
