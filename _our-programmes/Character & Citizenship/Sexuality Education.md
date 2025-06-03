@@ -83,6 +83,23 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Logo/SED_2025_11.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Logo/SED_2025_22.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Logo/SED_2025_33.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h4>&nbsp;<strong>INFORMATION FOR PARENTS</strong></h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
