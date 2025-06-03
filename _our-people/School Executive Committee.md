@@ -312,6 +312,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Year Head/Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heng Xiu Qin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
