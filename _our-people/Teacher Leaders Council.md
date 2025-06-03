@@ -172,10 +172,11 @@ variant: tiptap
 <p>Senior Teacher/Social Studies</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Kelvin Chan</p>
+<p>Mr Kelvin Chan Yong Meng&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kelvin_chan_yong_meng@moe.edu.sg" rel="noopener nofollow" target="_blank">kelvin_chan_yong_meng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
