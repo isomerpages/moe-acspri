@@ -98,18 +98,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Character &amp; Citizenship Education</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mrs Christine Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lay_hoon_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_hoon_christine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Divya Dharshini</p>
 </td>
