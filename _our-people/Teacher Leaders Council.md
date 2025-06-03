@@ -61,18 +61,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/Art</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mrs Sharron Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jian_horng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jian_horng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher/Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="2">
