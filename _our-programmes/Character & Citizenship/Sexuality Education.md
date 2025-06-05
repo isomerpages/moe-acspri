@@ -88,7 +88,7 @@ from sexuality-related risks.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/School_Logo/MOE_logo.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/School_Logo/MOE_logo.png">
 </div>
 <p></p>
 <p></p>
