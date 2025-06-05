@@ -87,6 +87,11 @@ from sexuality-related risks.</p>
 <h3><strong>At Anglo-Chinese School (Primary), the following Sexuality Education lessons will be taught in 2025.</strong></h3>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/School_Logo/MOE_logo.png">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
