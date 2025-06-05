@@ -96,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/English Language (Covering)</p>
+<p>Head of Department/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jasmine Kaur</p>
@@ -264,18 +264,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head/Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Teresa Liew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liew_sin_tong_teresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_sin_tong_teresa@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,6 +295,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_seow_seah_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_seow_seah_dawn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head/Lower Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Heng Xiu Qin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
