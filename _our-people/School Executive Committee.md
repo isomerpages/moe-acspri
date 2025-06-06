@@ -420,6 +420,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Level Head/English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nurjannah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nurjannah_saaet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurjannah_saaet@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level Head/Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -428,17 +440,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_tai_yao@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
