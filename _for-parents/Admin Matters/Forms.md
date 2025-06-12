@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p><a href="/files/GIRO_Termination_Form_revisedSep19.pdf" rel="noopener noreferrer nofollow" target="_blank">Termination of Interbank Giro</a>
 </p>
-<p><a href="https://form.gov.sg/66fe7e8d08f410b578847735" rel="noopener nofollow" target="_blank">Leave of Absence</a>
+<p><a href="https://form.gov.sg/684242322bfae1043ecd7564" rel="noopener nofollow" target="_blank">Leave of Absence</a>
 </p>
 <p><a href="/files/change%20mother%20tongue%20language.pdf" rel="noopener noreferrer nofollow" target="_blank">Change of Mother Tongue Language for PSLE</a>
 </p>
