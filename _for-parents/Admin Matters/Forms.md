@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Admin Matters
 variant: tiptap
 ---
-<p><a href="https://form.gov.sg/62c28e4333ac0000127277a0" rel="noopener noreferrer nofollow" target="_blank">Application for Waitlist</a>
+<p><a href="https://form.gov.sg/68426422749d6a0a19bd8648" rel="noopener noreferrer nofollow" target="_blank">Application for Waitlist</a>
 </p>
 <p><a href="/files/Mobile%20Phone%20or%20Smartwatch%20Registration%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Phone / Smartwatch Registration Form</a>
 </p>
