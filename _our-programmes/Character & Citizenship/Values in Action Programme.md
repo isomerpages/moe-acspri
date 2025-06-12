@@ -38,7 +38,8 @@ and others.</p>
 to think of the values they have developed as well as the desired outcomes
 of an ACSian they have displayed as an Active Contributor, Creative Collaborator,
 Servant Leader or Passionate Learner.</p>
-<h5><strong>Staff VIA</strong></h5>
+<p><strong>Staff VIA</strong>
+</p>
 <p>Our staff have dedicated their personal time to volunteer with various
 organisations, demonstrating their commitment to community service. These
 valuable opportunities allow for our staff to exemplify the iHOPEFUL values

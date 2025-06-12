@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Admin Matters
 variant: tiptap
 ---
-<p><a href="https://form.gov.sg/62c28e4333ac0000127277a0" rel="noopener noreferrer nofollow" target="_blank">Application for Waitlist</a>
+<p><a href="https://form.gov.sg/68426422749d6a0a19bd8648" rel="noopener noreferrer nofollow" target="_blank">Application for Waitlist</a>
 </p>
 <p><a href="/files/Mobile%20Phone%20or%20Smartwatch%20Registration%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Phone / Smartwatch Registration Form</a>
 </p>
@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p><a href="/files/GIRO_Termination_Form_revisedSep19.pdf" rel="noopener noreferrer nofollow" target="_blank">Termination of Interbank Giro</a>
 </p>
-<p><a href="https://form.gov.sg/66fe7e8d08f410b578847735" rel="noopener nofollow" target="_blank">Leave of Absence</a>
+<p><a href="https://form.gov.sg/684242322bfae1043ecd7564" rel="noopener nofollow" target="_blank">Leave of Absence</a>
 </p>
 <p><a href="/files/change%20mother%20tongue%20language.pdf" rel="noopener noreferrer nofollow" target="_blank">Change of Mother Tongue Language for PSLE</a>
 </p>
