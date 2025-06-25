@@ -37,11 +37,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhou Lingyu</p>
+<p>Mr Du Guang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhou_lingyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_lingyu@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
