@@ -37,10 +37,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhou Lingyu</p>
+<p>Mr Du Guang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhou_lingyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_lingyu@moe.edu.sg</a>
+<p><a href="mailto:du_guang@moe.edu.sg" rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -883,10 +883,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Pauline Ho</p>
+<p>Mdm Ong Ci Yi Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pauline_ho_jiahua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pauline_ho_jiahua@moe.edu.sg</a>
+<p><a href="mailto:ong_ci_yi_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_ci_yi_rachel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1101,10 +1101,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim May Chan</p>
+<p>Mr Panneer Selvam s/o Karuppiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="loke_may_chan_b@moe.edu.sg" rel="noopener nofollow" target="_blank">loke_may_chan_b@moe.edu.sg</a>
+<p><a href="mailto:panneer_selvam_karuppiah@moe.edu.sg" rel="noopener nofollow" target="_blank">panneer_selvam_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -18,7 +18,7 @@ variant: tiptap
 <p><a href="http://www.acsjakarta.sch.id/" rel="noopener noreferrer nofollow" target="_blank">ACS Jakarta</a>
 </p>
 <h3><strong>ACS Old Boys’ Association</strong></h3>
-<p><a href="https://www.acsoba.net/home" rel="noopener nofollow" target="_blank">ACS Old Boys’ Association</a>
+<p><a href="https://acsoba.org" rel="noopener nofollow" target="_blank">ACS Old Boys’ Association</a>
 </p>
 <p><a href="https://acsoba.org/shop/" rel="noopener nofollow" target="_blank">The ACS Store</a>
 </p>
