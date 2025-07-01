@@ -95,7 +95,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A/Prof Ong Biauw Chi</p>
+<p>Prof Ong Biauw Chi</p>
 </td>
 </tr>
 <tr>
