@@ -303,7 +303,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Macus Wong Jing Kai</p>
+<p>Mr Macus Wong Jin Kai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:macus_wong_jing_kai_a@moe.edu.sg" rel="noopener nofollow" target="_blank">macus_wong_jing_kai_a@moe.edu.sg</a>
