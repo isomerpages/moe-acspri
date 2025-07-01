@@ -119,7 +119,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="21" colspan="1">
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -298,6 +298,27 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_jie_yu_chloe@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_jie_yu_chloe@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Macus Wong Jing Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:macus_wong_jing_kai_a@moe.edu.sg" rel="noopener nofollow" target="_blank">macus_wong_jing_kai_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Wen Tin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_wen_tin_a@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_wen_tin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -599,7 +620,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="23" colspan="1">
+<td rowspan="24" colspan="1">
 <p>Mother Tongue Languages - Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -805,6 +826,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:du_guang@moe.edu.sg" rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Carissa Lim Yan Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:carissa_lim_yan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">carissa_lim_yan_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
