@@ -590,7 +590,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="22" colspan="1">
+<td rowspan="23" colspan="1">
 <p>Mother Tongue Languages - Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -787,6 +787,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoong_si_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_si_qi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Du Guang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:du_guang@moe.edu.sg" rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1111,15 +1120,6 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Janis Pavia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lau_kah_ling_janis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kah_ling_janis@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Koh Yee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1129,10 +1129,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Heng Xiu Qin</p>
+<p>Mrs Janis Pavia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
+<p><a href="mailto:lau_kah_ling_janis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kah_ling_janis@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Aubrey Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1147,10 +1156,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aubrey Ong</p>
+<p>Mrs Heng Xiu Qin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
+<p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
