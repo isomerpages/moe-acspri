@@ -601,7 +601,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -622,7 +622,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Miss Chong Xin Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_xin_hui_c@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_xin_hui_c@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -639,6 +648,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jenn_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jenn_ang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Macus Wong Jin Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:macus_wong_jing_kai_a@moe.edu.sg" rel="noopener nofollow" target="_blank">macus_wong_jing_kai_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -673,7 +691,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -690,6 +708,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:windersalam_renuka_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">windersalam_renuka_devi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Carissa Lim Yan Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:carissa_lim_yan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">carissa_lim_yan_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1037,7 +1064,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>6A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1054,6 +1081,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wan_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_mohamed@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Wen Tin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:chan_wen_tin_a@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_wen_tin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
