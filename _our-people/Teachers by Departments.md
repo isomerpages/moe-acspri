@@ -119,7 +119,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="23" colspan="1">
+<td rowspan="24" colspan="1">
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -316,6 +316,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:carissa_lim_yan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">carissa_lim_yan_shan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chong Xin Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_xin_hui_c@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_xin_hui_c@moe.edu.sg</a>
 </p>
 </td>
 </tr>
