@@ -24,7 +24,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,15 +32,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mazeedah_mohamed_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mazeedah_mohamed_azmi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zubaidah Sheik Mohamed Ishak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg" rel="noopener nofollow" target="_blank">zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -54,7 +45,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,6 +53,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gomathi_ravindra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gomathi_ravindra@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zubaidah Sheik Mohamed Ishak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg" rel="noopener nofollow" target="_blank">zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -272,7 +272,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,6 +289,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anbazhagansuja_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anbazhagansuja_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Eunice Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Eunice_Lim_Chin_Sim@moe.edu.sg" rel="noopener nofollow" target="_blank">Eunice_Lim_Chin_Sim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
