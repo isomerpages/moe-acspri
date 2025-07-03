@@ -928,7 +928,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Ci Yi Rachel</p>
+<p>Mdm Rachel Ong Ci Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_ci_yi_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_ci_yi_rachel@moe.edu.sg</a>
