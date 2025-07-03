@@ -34,3 +34,5 @@ variant: markdown
 
 
 ##### [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
+
+##### [Pair Chat assistant](https://pair.gov.sg/share/asst/assistant_189e164c-3419-4311-8d01-9c8b3e76be27)
