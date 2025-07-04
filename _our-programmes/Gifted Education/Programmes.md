@@ -88,4 +88,76 @@ Framework</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/School_Logo/GE.jpg">
 </div>
 <p></p>
+<p>To encourage and support independent and self-directed learning, the GEP
+in ACS(P) offers core research and inquiry skills at P4, and the following
+Individualised Study Options (ISO) at P5:</p>
+<p></p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/gifted-education/individualised-study-options" rel="noopener nofollow" target="_blank">1. Individualised Research study (IRS)</a>
+</p>
+<p></p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/geb-special-programmes" rel="noopener nofollow" target="_blank">2. Innovation Programme (IvP)</a>
+</p>
+<p></p>
+<p><a href="https://www.fpspi.org/singapore/" rel="noopener nofollow" target="_blank">3. Future Problem-Solving Programme (FPSP)</a>
+</p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<h4><strong>Some other enrichment programmes and opportunities include the following:</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Advanced Mathematics Enrichment Class (AMEC)</p>
+</li>
+<li>
+<p>Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</p>
+</li>
+<li>
+<p>Math Masterclass</p>
+</li>
+<li>
+<p>National Mathematical Olympiad of Singapore (NMOS)</p>
+</li>
+<li>
+<p>Primary 6 Math Challenge</p>
+</li>
+<li>
+<p>Raffles Mathematical Olympiad (RMO)</p>
+</li>
+<li>
+<p>International Math and Science Olympiad (IMSO)</p>
+</li>
+<li>
+<p>Science Masterclass</p>
+</li>
+<li>
+<p>Singapore Primary Science Olympiad (SPSO)</p>
+</li>
+<li>
+<p>Raffles Science Olympiad (RSO)</p>
+</li>
+<li>
+<p>Chinese Language e-Enrichment Camp</p>
+</li>
+<li>
+<p>Chinese Language Reading Carnival</p>
+</li>
+<li>
+<p>Wits and Words: Inter-school Debate Championship</p>
+</li>
+<li>
+<p>Computing Enrichment Programme (CEP)</p>
+</li>
+<li>
+<p>Creative Writing Programme (CWP)</p>
+</li>
+<li>
+<p>Learning Journeys and Outdoor Learning</p>
+</li>
+<li>
+<p>Value-in-Action (VIA) Programmes</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
 <p></p>
