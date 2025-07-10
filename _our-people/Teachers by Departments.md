@@ -515,7 +515,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="13" colspan="1">
+<td rowspan="12" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -622,15 +622,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_tu_tong_louis@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_tu_tong_louis@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Panneer Selvam s/o Karuppiah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:panneer_selvam_karuppiah@moe.edu.sg" rel="noopener nofollow" target="_blank">panneer_selvam_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -980,7 +971,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="9" colspan="1">
+<td rowspan="10" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1060,6 +1051,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_chin_pin_stephanie_a@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_chin_pin_stephanie_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Panneer Selvam s/o Karuppiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:panneer_selvam_karuppiah@moe.edu.sg" rel="noopener nofollow" target="_blank">panneer_selvam_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
