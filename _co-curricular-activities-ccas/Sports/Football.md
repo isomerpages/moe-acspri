@@ -58,12 +58,12 @@ variant: tiptap
 <p><a href="Mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p>MON 15:00-17:00 (DEVELOPMENTAL TEAM)
 <br>&nbsp;</p>
 <p>WED 14:15-16:15 (SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)</p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p>ARENA</p>
 </td>
 </tr>
@@ -91,15 +91,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_ting_chuan_oscar@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_ting_chuan_oscar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Michelle Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener nofollow" target="_blank">lim_pei_yu_michelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
