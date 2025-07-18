@@ -58,12 +58,12 @@ variant: tiptap
 <p><a href="Mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="8" colspan="1">
 <p>MON 15:00-17:00 (DEVELOPMENTAL TEAM)
 <br>&nbsp;</p>
 <p>WED 14:15-16:15 (SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="8" colspan="1">
 <p>ARENA</p>
 </td>
 </tr>
@@ -73,15 +73,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sri Dewi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sri_dewi_mohamed_hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -105,11 +96,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Xu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:xu_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">xu_jie@moe.edu.sg</a>
+</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rachel Ong Ci Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_ci_yi_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_ci_yi_rachel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Sue-Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sueann_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_sueann_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
