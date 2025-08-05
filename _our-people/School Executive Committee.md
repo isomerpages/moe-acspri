@@ -231,7 +231,7 @@ variant: tiptap
 <p>Lead Teacher/Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kogilavani d/o Vathumalai</p>
+<p>Ms Kogilavani d/o Vathumalai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kogilavani_vathumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kogilavani_vathumalai@moe.edu.sg</a>
