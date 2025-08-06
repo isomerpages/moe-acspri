@@ -231,7 +231,7 @@ variant: tiptap
 <p>Lead Teacher/Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kogilavani d/o Vathumalai</p>
+<p>Ms Kogilavani d/o Vathumalai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kogilavani_vathumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kogilavani_vathumalai@moe.edu.sg</a>
@@ -384,7 +384,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head/Chinese Language</p>
+<p>Subject Head/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chiew Hwee Ling</p>
@@ -396,7 +396,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head/English Language</p>
+<p>Subject Head/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nurjannah</p>
@@ -408,7 +408,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head/English Language</p>
+<p>Subject Head/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Su Xinhui Sarah</p>
@@ -420,7 +420,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head/Science</p>
+<p>Subject Head/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Tai Yao</p>
