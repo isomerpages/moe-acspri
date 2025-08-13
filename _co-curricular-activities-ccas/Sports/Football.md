@@ -58,12 +58,12 @@ variant: tiptap
 <p><a href="Mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="9" colspan="1">
 <p>MON 15:00-17:00 (DEVELOPMENTAL TEAM)
 <br>&nbsp;</p>
 <p>WED 14:15-16:15 (SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="9" colspan="1">
 <p>ARENA</p>
 </td>
 </tr>
@@ -129,12 +129,6 @@ variant: tiptap
 <p><a rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -143,12 +137,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:carissa_lim_yan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">carissa_lim_yan_shan@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -168,9 +156,8 @@ variant: tiptap
 </tbody>
 </table>
 <p>
-<br>
+<br><strong>Programme/ Development</strong>
 </p>
-<h4><strong>Programme/ Development</strong></h4>
 <p>Football is a team sport which builds body and mental strength, agility
 and coordination. ACS(P) Football emphasizes on fostering kinship and developing
 character values. Our aim is to provide our pupils with an experience to
