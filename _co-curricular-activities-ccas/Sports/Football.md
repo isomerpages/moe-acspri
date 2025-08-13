@@ -58,12 +58,12 @@ variant: tiptap
 <p><a href="Mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="8" colspan="1">
+<td rowspan="9" colspan="1">
 <p>MON 15:00-17:00 (DEVELOPMENTAL TEAM)
 <br>&nbsp;</p>
 <p>WED 14:15-16:15 (SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)</p>
 </td>
-<td rowspan="8" colspan="1">
+<td rowspan="9" colspan="1">
 <p>ARENA</p>
 </td>
 </tr>
@@ -73,15 +73,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Oscar Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_ting_chuan_oscar@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_ting_chuan_oscar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -123,6 +114,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chua Wee Cheng Caleb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener nofollow" target="_blank">caleb_chua@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Du Guang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Carissa Lim Yan Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:carissa_lim_yan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">carissa_lim_yan_shan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,9 +156,8 @@ variant: tiptap
 </tbody>
 </table>
 <p>
-<br>
+<br><strong>Programme/ Development</strong>
 </p>
-<h4><strong>Programme/ Development</strong></h4>
 <p>Football is a team sport which builds body and mental strength, agility
 and coordination. ACS(P) Football emphasizes on fostering kinship and developing
 character values. Our aim is to provide our pupils with an experience to
