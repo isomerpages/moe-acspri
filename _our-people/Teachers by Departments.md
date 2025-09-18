@@ -896,7 +896,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="9" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -940,15 +940,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fabian_chew_peng_boon@moe.edu.sg" rel="noopener nofollow" target="_blank">fabian_chew_peng_boon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Oscar Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_ting_chuan_oscar@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_ting_chuan_oscar@moe.edu.sg</a>
 </p>
 </td>
 </tr>

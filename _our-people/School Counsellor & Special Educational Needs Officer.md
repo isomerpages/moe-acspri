@@ -48,18 +48,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sophia Chua Lee Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_lee_ying_sophia@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_lee_ying_sophia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
