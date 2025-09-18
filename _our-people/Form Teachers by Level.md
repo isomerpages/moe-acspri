@@ -432,7 +432,7 @@ variant: tiptap
 <p>Ms Grace Wang Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wang_Yu_D@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Grace Wang Yu</a>
+<p><a href="mailto:Wang_Yu_D@moe.edu.sg" rel="noopener nofollow" target="_blank">Wang_Yu_D@moe.edu.sg</a>
 </p>
 </td>
 </tr>
