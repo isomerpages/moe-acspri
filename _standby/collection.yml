@@ -1,4 +1,5 @@
 collections:
   standby:
     output: true
-    order: []
+    order:
+      - Example Title.md
