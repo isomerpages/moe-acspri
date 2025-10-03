@@ -33,6 +33,7 @@ sections:
       subtitle: Have a question?
       id: infopic
       description: This paragraph appears below the title and conveys information
-      button: Button Text
-      alt: Image alt text
+      button: ASK QUESTIONS ON ASK.GOV
+      alt: AskGov
+      url: https://ask.gov.sg/acps
 ---
