@@ -28,4 +28,11 @@ sections:
       title: Announcement
       id: resources
       button: Read More
+  - infopic:
+      title: Get official answers from our Q/A platform
+      subtitle: Have a question?
+      id: infopic
+      description: This paragraph appears below the title and conveys information
+      button: Button Text
+      alt: Image alt text
 ---
