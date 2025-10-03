@@ -36,4 +36,5 @@ sections:
       button: ASK QUESTIONS ON ASK.GOV
       alt: AskGov
       url: https://ask.gov.sg/acps
+      image: /images/acps-askgov.png
 ---
