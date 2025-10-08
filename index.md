@@ -28,4 +28,12 @@ sections:
       title: Announcement
       id: resources
       button: Read More
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have a question?
+      id: infopic
+      button: ASK QUESTIONS ON ASK.GOV
+      alt: AskGov
+      url: https://ask.gov.sg/acps
+      image: /images/acps-askgov.png
 ---
