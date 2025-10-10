@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3><strong>2025 P1 ADMINISTRATIVE DETAILS – ANNEX A</strong></h3>
 <p></p>
+<p><a href="/files/P1_admin_2026/1a_On.pdf" rel="noopener nofollow" target="_blank">1a. One-Time On-Boarding PG Info Sheet.pdf</a>
+</p>
+<p></p>
 <p><a href="/files/P1_admin_2025/1aOneTime.pdf" rel="noopener nofollow" target="_blank">1a. One-Time On-Boarding PG Info Sheet.pdf</a>
 </p>
 <p><a href="/files/P1_admin_2025/1bPGTips.pdf" rel="noopener nofollow" target="_blank">1b. PG Tips to Read PDFs easily on mobile.pdf</a>
