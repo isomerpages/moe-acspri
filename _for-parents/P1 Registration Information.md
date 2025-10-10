@@ -42,7 +42,7 @@ variant: tiptap
 </p>
 <p><a href="/files/P1_admin_2026/11b__PSG.pdf" rel="noopener nofollow" target="_blank">11b. PSG merchandise brochure.pdf</a>
 </p>
-<p><a href="/files/P1_admin_2026/12__ACS_P_.pdf" rel="noopener nofollow" target="_blank">12. ACS(P) TA Recruit 2026.pdf</a>
+<p><a href="/files/P1_admin_2026/12__ACS_P_.pdf" rel="noopener nofollow" target="_blank">12a. ACS(P) TA Recruitment 2026</a>
 </p>
 <p><a href="https://forms.gle/HdU9FzN1gVTf3btGA" rel="noopener nofollow" target="_blank">12b. TA registration link</a>
 </p>
