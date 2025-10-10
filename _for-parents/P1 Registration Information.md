@@ -44,12 +44,8 @@ variant: tiptap
 </p>
 <p><a href="/files/P1_admin_2026/12__ACS_P_.pdf" rel="noopener nofollow" target="_blank">12a. ACS(P) TA Recruitment 2026.pdf</a>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="https://forms.gle/HdU9FzN1gVTf3btGA" rel="noopener nofollow" target="_blank">12b. TA registration link</a>
 </p>
-</li>
-</ul>
 <p><a href="/files/P1_admin_2026/14__Methodist.pdf" rel="noopener nofollow" target="_blank">14. Methodist Educational Brochure 2025.pdf</a>
 </p>
 <p><a href="/files/P1_admin_2026/15__ACSF_Info.pdf" rel="noopener nofollow" target="_blank">15. ACSF Info Sheet.pdf</a>
