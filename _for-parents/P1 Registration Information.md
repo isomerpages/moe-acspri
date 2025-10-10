@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 <p><a href="/files/P1_admin_2026/5b__P1.pdf" rel="noopener nofollow" target="_blank">5b. P1 Booklist.pdf</a>
 </p>
-<p><a href="/files/P1_admin_2026/6a__ACS.pdf" rel="noopener nofollow" target="_blank">6a. ACS (Pri) P1 2026.pdf</a>
+<p><a href="/files/P1_admin_2026/6a__ACS.pdf" rel="noopener nofollow" target="_blank">6a. P1 Uniform Order 2026</a>
 </p>
 <p><a href="/files/P1_admin_2026/6b__ACS.pdf" rel="noopener nofollow" target="_blank">6b. ACS Pri Name Tag P1 - 2026.pdf</a>
 </p>
