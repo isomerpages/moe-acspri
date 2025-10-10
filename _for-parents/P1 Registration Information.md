@@ -34,11 +34,15 @@ variant: tiptap
 </p>
 <p><a href="/files/P1_admin_2026/9__Smart.pdf" rel="noopener nofollow" target="_blank">9. Smart Buddy Registration Letter.pdf</a>
 </p>
-<p><a href="/files/P1_admin_2026/10a__Commit.pdf" rel="noopener nofollow" target="_blank">10a. Commit Learning SchoolHouse (CLS) SCC -  Introduction Letter.pdf</a>
+<p><a href="/files/P1_admin_2026/10a__Commit.pdf" rel="noopener nofollow" target="_blank">10a. Commit Learning SchoolHouse (CLS) SCC - Introduction Letter.pdf</a>
 </p>
 <p><a href="/files/P1_admin_2026/10b__Commit.pdf" rel="noopener nofollow" target="_blank">10b. Commit Learning SchoolHouse (CLS) SCC - 2026 FAQs.pdf</a>
 </p>
 <p><a href="/files/P1_admin_2026/12__ACS_P_.pdf" rel="noopener nofollow" target="_blank">12. ACS(P) TA Recruit 2026.pdf</a>
+</p>
+<p><a href="/files/P1_admin_2026/14__Methodist.pdf" rel="noopener nofollow" target="_blank">14. Methodist Educational Brochure 2025.pdf</a>
+</p>
+<p><a href="/files/P1_admin_2026/15__ACSF_Info.pdf" rel="noopener nofollow" target="_blank">15. ACSF Info Sheet.pdf</a>
 </p>
 <p></p>
 <p></p>
