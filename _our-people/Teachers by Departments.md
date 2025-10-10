@@ -515,7 +515,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="13" colspan="1">
+<td rowspan="12" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -595,15 +595,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zarinah_mohamed_eunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zarinah_mohamed_eunos@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Joanne Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -896,7 +887,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -931,15 +922,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_zong_yang_charles@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Fabian Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fabian_chew_peng_boon@moe.edu.sg" rel="noopener nofollow" target="_blank">fabian_chew_peng_boon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1064,7 +1046,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1127,15 +1109,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="Mailto:chan_chee_har@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_chee_har@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sophia Chua Lee Ying (School Counsellor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_lee_ying_sophia@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_lee_ying_sophia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
