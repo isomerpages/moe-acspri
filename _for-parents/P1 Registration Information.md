@@ -50,8 +50,9 @@ variant: tiptap
 </p>
 <p><a href="/files/P1_admin_2026/15__ACSF_Info.pdf" rel="noopener nofollow" target="_blank">15. ACSF Info Sheet.pdf</a>
 </p>
-<p><a href="/files/P1_admin_2026/P1_Handbook.pdf" rel="noopener nofollow" target="_blank">P1 Handbook for Parents 2026</a>
+<p><a href="/files/P1_admin_2026/P1Handbook_update.pdf" rel="noopener nofollow" target="_blank">P1 Handbook for Parents 2026</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
