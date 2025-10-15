@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 <p><a href="/files/P1_admin_2026/7b__2026.pdf" rel="noopener nofollow" target="_blank">7b. 2026 ACS(P) School Bus Request Form and Agreements.pdf</a>
 </p>
-<p><a href="/files/P1_admin_2026/9__Smart.pdf" rel="noopener nofollow" target="_blank">9. Smart Buddy Registration Letter.pdfz</a>
+<p><a href="/files/P1_admin_2026/9__Smart.pdf" rel="noopener nofollow" target="_blank">9. Smart Buddy Registration Letter.pdf</a>
 </p>
 <p><a href="/files/P1_admin_2026/10a__Commit.pdf" rel="noopener nofollow" target="_blank">10a. Commit Learning SchoolHouse (CLS) SCC - Introduction Letter.pdf</a>
 </p>
