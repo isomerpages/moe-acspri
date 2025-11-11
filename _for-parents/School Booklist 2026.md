@@ -21,6 +21,8 @@ variant: tiptap
 <p><a href="/files/2026_book_list/P6.pdf" rel="noopener nofollow" target="_blank">2026 P6 Book List</a>
 </p>
 <p><a href="/files/2026_book_list/P6_FDN.pdf" rel="noopener nofollow" target="_blank">2026 P6 FDN Book List</a>
+</p>
+<p>
 <br><a href="/files/2026_book_list/P6_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P6 GEP Book List</a>
 </p>
 <p></p>
