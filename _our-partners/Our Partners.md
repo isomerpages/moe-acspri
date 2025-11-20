@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p><a href="https://www.acsindep.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Anglo-Chinese School (Independent)</a>
 </p>
-<p><a href="http://www.acsinternational.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Anglo-Chinese School (International)</a>
+<p><a href="https://www.acsinternational.edu.sg/" rel="noopener nofollow" target="_blank">Anglo-Chinese School (International)</a>
 </p>
 <p><a href="http://acsj.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Anglo-Chinese School (Junior)</a>
 </p>
