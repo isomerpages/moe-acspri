@@ -12,5 +12,5 @@ annual showcases our talents and achievements in the Affective, Cognitive,
 Social and Physical domains. It also contains messages from the Bishop,
 BOG Chairman, Principal, PSG, Editorial Team, as well as the annual reports
 of other ACS units.</p>
-<p>Click<a href="https://online.fliphtml5.com/aejkc/fwof/#p=1" rel="noopener nofollow" target="_blank"> here</a> to
+<p>Click <a href="https://online.fliphtml5.com/aejkc/fwof/#p=1" rel="noopener nofollow" target="_blank">here</a> to
 read the online version of the School Magazine.</p>
