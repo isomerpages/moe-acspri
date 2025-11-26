@@ -12,5 +12,5 @@ also contains messages from the Bishop, BOG Chairman, Principal, PSG, Editorial
 Team, as well as the annual reports of other ACS units.</p>
 <p>Click <a href="https://online.fliphtml5.com/aejkc/fwof/#p=1" rel="noopener nofollow" target="_blank">here</a> to
 read the online version of the School Magazine.</p>
-<p>To download the PDF version of the flipbook, viewers should click on the
-download button at the bottom of the flipbook.</p>
+<p>To download the PDF version of the School Magazine, viewers should click
+on the download button at the bottom of the flipbook.</p>
