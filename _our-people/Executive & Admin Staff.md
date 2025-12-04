@@ -72,18 +72,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Keith Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:keith_chong@schools.gov.sg" rel="noopener nofollow" target="_blank">keith_chong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
