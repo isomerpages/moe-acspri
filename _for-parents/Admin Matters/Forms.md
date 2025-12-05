@@ -9,6 +9,10 @@ variant: tiptap
 </p>
 <p><a href="https://form.gov.sg/68e5b86a13072300a67fcc7e" rel="noopener nofollow" target="_blank">Mobile Phone / Smartwatch Registration Form</a>
 </p>
+<p></p>
+<p></p>
+<p><a href="/files/P1_admin_2026/9__Smart.pdf" rel="noopener nofollow" target="_blank">Mobile Phone / Smartwatch Registration Form</a>
+</p>
 <p><a href="/files/CHANGE%20OF%20STUDENT'S%20ADDRESS%20FORM%20(Form%20C).pdf" rel="noopener noreferrer nofollow" target="_blank">Change Of Student's Address</a>
 </p>
 <p><a href="/files/interbank%20giro.pdf" rel="noopener noreferrer nofollow" target="_blank">Giro Application</a>
