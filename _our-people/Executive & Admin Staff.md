@@ -72,6 +72,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr K Vadivelu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="k_vadivelu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mailto:k_vadivelu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,17 +148,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhd Fuad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Michale</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
