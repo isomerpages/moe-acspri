@@ -25,18 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms Vanessa Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_choo_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_choo_b@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lead Teacher/English Language</p>
 </td>
 <td rowspan="1" colspan="2">
