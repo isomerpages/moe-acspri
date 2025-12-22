@@ -39,10 +39,10 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Max Chua</p>
+<p>Mr Huang Junxian Jachin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_thian_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_thian_keong@schools.gov.sg</a>
+<p><a href="mailto:huang_junxian@schools.gov.sg" rel="noopener nofollow" target="_blank">huang_junxian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -144,18 +144,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Diana Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_kwee_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kwee_hong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Head of Department/Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,18 +163,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wee_meng_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wee_meng_kelvin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department/Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lincoln Shen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shen_pinhong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shen_pinhong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -391,18 +367,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_hwee_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head/English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Nurjannah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nurjannah_saaet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurjannah_saaet@moe.edu.sg</a>
 </p>
 </td>
 </tr>
