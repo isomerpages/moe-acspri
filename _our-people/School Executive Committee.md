@@ -420,6 +420,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Revathi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:revathi_raja_krishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">revathi_raja_krishnan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level Head/Science</p>
 </td>
 <td rowspan="1" colspan="1">
