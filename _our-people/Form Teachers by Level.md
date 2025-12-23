@@ -914,7 +914,8 @@ variant: tiptap
 <p>Mdm Divya Dharshini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:divya_dharshini_harikrishan@moe.edu.sg" rel="noopener nofollow" target="_blank">divya_dharshini_harikrishan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -922,7 +923,8 @@ variant: tiptap
 <p>Mdm Toh Ling Juan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:toh_ling_juan@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_ling_juan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -933,7 +935,8 @@ variant: tiptap
 <p>Mr Macus Wong Jing Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:macus_wong_jing_kai_a@moe.edu.sg" rel="noopener nofollow" target="_blank">macus_wong_jing_kai_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -941,7 +944,8 @@ variant: tiptap
 <p>Mdm See Kwan Hui Josephine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:see_kwan_hui_josephine@moe.edu.sg" rel="noopener nofollow" target="_blank">see_kwan_hui_josephine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -952,7 +956,8 @@ variant: tiptap
 <p>Mrs Jean Lui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chia_gek_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -960,7 +965,8 @@ variant: tiptap
 <p>Miss Hoong Si Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hoong_si_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_si_qi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -968,7 +974,8 @@ variant: tiptap
 <p>Mdm Chan Yin Hong Kathleen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chan_yin_hong_kathleen@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_yin_hong_kathleen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
