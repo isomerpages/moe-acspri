@@ -72,13 +72,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>Head of Department/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Tan</p>
+<p>Ms Chua Xin Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_choo_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_choo_b@moe.edu.sg</a>
+<p><a href="mailto:chua_xin_rong@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_xin_rong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
