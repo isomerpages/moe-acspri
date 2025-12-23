@@ -1016,7 +1016,8 @@ variant: tiptap
 <p>Ms&nbsp; Yeo Leng Leng&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Yeo_Leng_Leng_A@moe.edu.sg" rel="noopener nofollow" target="_blank">Yeo_Leng_Leng_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
