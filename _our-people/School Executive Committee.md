@@ -372,7 +372,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Chinese Language</p>
+<p>Level Head/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chiew Hwee Ling</p>
@@ -408,7 +408,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Science</p>
+<p>Level Head/Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Tai Yao</p>
