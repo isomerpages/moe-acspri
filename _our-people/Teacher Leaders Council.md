@@ -121,6 +121,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher/Physical Education &amp;Co-Curricular Activities</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Jean Lui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:chia_gek_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher/Science</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -152,18 +164,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kelvin_chan_yong_meng@moe.edu.sg" rel="noopener nofollow" target="_blank">kelvin_chan_yong_meng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/Physical Education &amp;</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mrs Jean Lui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Mailto:chia_gek_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
