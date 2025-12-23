@@ -384,6 +384,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head/Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Ling Juan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:toh_ling_juan@schools.gov.sg" rel="noopener nofollow" target="_blank">toh_ling_juan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
