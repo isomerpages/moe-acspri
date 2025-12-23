@@ -157,26 +157,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/Social Studies</p>
+<p>Senior Teacher/Physical Education &amp;</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Jean Lui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Mailto:chia_gek_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
