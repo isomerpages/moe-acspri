@@ -450,11 +450,11 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Yaowen Colin</p>
+<p>Ms Wang Yu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_yaowen_colin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yaowen_colin@moe.edu.sg</a>
@@ -463,11 +463,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lai Kit Mun Jessica</p>
+<p>Mrs Shirley Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Siti Zulaiha Binte Zainol&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
