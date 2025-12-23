@@ -216,7 +216,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head/Upper Primary</p>
+<p>Year Head//Upper Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kumaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:kumaran_veerapandian@schools.gov.sg" rel="noopener nofollow" target="_blank">kumaran_veerapandian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head//Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Yee Lee</p>
