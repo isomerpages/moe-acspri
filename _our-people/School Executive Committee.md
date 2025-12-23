@@ -39,7 +39,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Junxian Jachin</p>
+<p>Mr Jachin Huang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huang_junxian@schools.gov.sg" rel="noopener nofollow" target="_blank">huang_junxian@schools.gov.sg</a>
