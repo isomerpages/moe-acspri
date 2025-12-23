@@ -457,7 +457,7 @@ variant: tiptap
 <p>Ms Wang Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_yaowen_colin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yaowen_colin@moe.edu.sg</a>
+<p><a href="mailto:Wang_Yu_D@moe.edu.sg" rel="noopener nofollow" target="_blank">Wang_Yu_D@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -466,7 +466,7 @@ variant: tiptap
 <p>Mrs Shirley Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+<p><a href="mailto:katherine_shirley_shanti_doray@moe.edu.sg" rel="noopener nofollow" target="_blank">katherine_shirley_shanti_doray@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -475,7 +475,8 @@ variant: tiptap
 <p>Miss Siti Zulaiha Binte Zainol&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_zulaiha_zainol@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_zulaiha_zainol@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
