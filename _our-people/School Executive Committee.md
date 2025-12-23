@@ -372,6 +372,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Megumi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_megumi@hq.moe.gov.sg" rel="noopener nofollow" target="_blank">soh_megumi@hq.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level Head/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
