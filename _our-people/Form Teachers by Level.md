@@ -617,11 +617,11 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Shariza Binte Shari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -629,26 +629,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Elizabeth Ee Li Hua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Arina Binte Khaharudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -656,26 +648,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Seow Kian Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Adrian Kum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -683,15 +667,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Soh Megumi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -702,7 +678,7 @@ variant: tiptap
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Suzanna Binte Hashim&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -710,7 +686,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chow Kai Loon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -718,7 +694,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Li Jing&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -729,7 +705,7 @@ variant: tiptap
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sim Yaowen Colin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -737,34 +713,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>4F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lu Youge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -772,10 +721,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>4G</p>
+<p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Chia Jie Yu Chloe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -783,7 +732,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Stephanie Yeo Chin Pin</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Aminda Chua Nyap Kin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Wee Cheng Caleb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sun Biling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -794,7 +770,7 @@ variant: tiptap
 <p>4H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Questal Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -802,7 +778,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Koh Chaik Khoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
