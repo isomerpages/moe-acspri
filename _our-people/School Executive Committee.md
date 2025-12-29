@@ -360,6 +360,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Revathi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:revathi_raja_krishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">revathi_raja_krishnan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head/Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -415,18 +427,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Revathi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:revathi_raja_krishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">revathi_raja_krishnan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
