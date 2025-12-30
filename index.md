@@ -17,7 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/admin-matters/forms/
-      background: /images/School_Logo/Web_Main140_1_1.gif
+      background: /images/School_Logo/Web_Main140_1_2.gif
   - infobar:
       title: The ACS(P) Brand of Education
       description: The ACS(P) brand of education is anchored on our Founder, Bishop
