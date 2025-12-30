@@ -115,7 +115,7 @@ variant: tiptap
 <p>Mrs Jean Lui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:chia_gek_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@schools.gov.sg</a>
+<p><a href="mailto:chia_gek_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
