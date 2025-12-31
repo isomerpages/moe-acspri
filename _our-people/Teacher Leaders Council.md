@@ -25,18 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms Vanessa Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_choo_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_choo_b@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lead Teacher/English Language</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -109,18 +97,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/High Ability Learners</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Tan Yoke Joo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher/Mathematics</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -128,6 +104,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Physical Education &amp;Co-Curricular Activities</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mrs Jean Lui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_gek_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -171,10 +159,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

@@ -78,7 +78,7 @@ variant: tiptap
 <p>Mr K Vadivelu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="k_vadivelu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mailto:k_vadivelu@schools.gov.sg</a>
+<p><a href="mailto:k_vadivelu@schools.gov.sg" rel="noopener nofollow" target="_blank">k_vadivelu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
