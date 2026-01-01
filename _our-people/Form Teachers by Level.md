@@ -45,7 +45,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,14 +63,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natasha_patricia_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -505,7 +497,7 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MMrs Lee Ting Ting</p>
+<p>Mrs Lee Ting Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
