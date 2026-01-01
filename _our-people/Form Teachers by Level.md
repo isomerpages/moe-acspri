@@ -150,10 +150,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hu Biying</p>
+<p>Mdm Toh Ling Juan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hu_biying@moe.edu.sg" rel="noopener nofollow" target="_blank">hu_biying@moe.edu.sg</a>
+<p><a href="mailto:toh_ling_juan@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_ling_juan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -920,10 +920,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Ling Juan&nbsp;</p>
+<p>Ms Hu Biying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_ling_juan@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_ling_juan@moe.edu.sg</a>
+<p><a href="mailto:hu_biying@moe.edu.sg" rel="noopener nofollow" target="_blank">hu_biying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
