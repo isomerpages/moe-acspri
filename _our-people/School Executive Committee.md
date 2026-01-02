@@ -216,7 +216,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head//Upper Primary</p>
+<p>Year Head/Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kumaran</p>
@@ -228,7 +228,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head//Middle Primary</p>
+<p>Year Head/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koh Yee Lee</p>
