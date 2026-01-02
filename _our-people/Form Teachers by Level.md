@@ -1226,7 +1226,7 @@ variant: tiptap
 <p>Ms Ong Pei Khim Aubrey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pei_khim_aubrey@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_pei_khim_aubrey@schools.gov.sg</a>
+<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
