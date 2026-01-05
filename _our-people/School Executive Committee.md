@@ -78,7 +78,7 @@ variant: tiptap
 <p>Ms Chua Xin Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_xin_rong@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_xin_rong@schools.gov.sg</a>
+<p><a href="mailto:chua_xin_rong@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_xin_rong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -222,7 +222,7 @@ variant: tiptap
 <p>Mr Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:kumaran_veerapandian@schools.gov.sg" rel="noopener nofollow" target="_blank">kumaran_veerapandian@schools.gov.sg</a>
+<p><a href="kumaran_veerapandian@moe.edu.sg" rel="noopener nofollow" target="_blank">kumaran_veerapandian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -318,7 +318,7 @@ variant: tiptap
 <p>Mdm Toh Ling Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:toh_ling_juan@schools.gov.sg" rel="noopener nofollow" target="_blank">toh_ling_juan@schools.gov.sg</a>
+<p><a href="mailto:toh_ling_juan@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_ling_juan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -366,7 +366,7 @@ variant: tiptap
 <p>Mdm Revathi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:revathi_raja_krishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">revathi_raja_krishnan@schools.gov.sg</a>
+<p><a href="mailto:revathi_raja_krishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">revathi_raja_krishnan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -402,7 +402,7 @@ variant: tiptap
 <p>Ms Soh Megumi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_megumi@hq.moe.gov.sg" rel="noopener nofollow" target="_blank">soh_megumi@hq.moe.gov.sg</a>
+<p><a href="mailto:soh_megumi@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_megumi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
