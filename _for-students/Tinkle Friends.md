@@ -1,6 +1,6 @@
 ---
-title: Tinker Friends
-permalink: /for-students/tinker-friends/
+title: Tinkle Friends
+permalink: /for-students/tinkle-friends/
 description: ""
 variant: tiptap
 ---
