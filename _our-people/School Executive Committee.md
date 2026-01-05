@@ -219,7 +219,7 @@ variant: tiptap
 <p>Year Head/Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kumaran</p>
+<p>Mr Kumaran Veerapandian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="kumaran_veerapandian@moe.edu.sg" rel="noopener nofollow" target="_blank">kumaran_veerapandian@moe.edu.sg</a>
