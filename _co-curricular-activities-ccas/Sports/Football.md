@@ -58,12 +58,12 @@ variant: tiptap
 <p><a href="mailto:ong_ci_yi_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_ci_yi_rachel@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="8" colspan="1">
+<td rowspan="7" colspan="1">
 <p>MON 15:00-17:30 (SCHOOL TEAM, TRAINING SQUAD AND RECREATIONAL)
 <br>&nbsp;</p>
 <p>WED 14:15-16:15 (SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)</p>
 </td>
-<td rowspan="8" colspan="1">
+<td rowspan="7" colspan="1">
 <p>ARENA</p>
 </td>
 </tr>
@@ -78,18 +78,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Caleb Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Megumi Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:megumi_soh@moe.gov.sg" rel="noopener nofollow" target="_blank">megumi_soh@moe.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +98,8 @@ variant: tiptap
 <p>Ms Ho Lim Hwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_lim_hwei@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_lim_hwei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +116,8 @@ variant: tiptap
 <p>Mr Ho Shin Hoo&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_shin_hoo@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
