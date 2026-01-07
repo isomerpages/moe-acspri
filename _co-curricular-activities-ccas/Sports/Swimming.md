@@ -58,13 +58,13 @@ variant: tiptap
 <p><a href="mailto:ida_nonanseh_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ida_nonanseh_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>MON 14:15 - 16:15
 <br>or
 <br>WED 14:15 - 16:15&nbsp;</p>
 <p>&nbsp;</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>SHAW POOL</p>
 <p>&nbsp;</p>
 </td>
@@ -74,7 +74,8 @@ variant: tiptap
 <p>Ms Toh Ling Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener nofollow" target="_blank">toh_ling_juan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -91,13 +92,8 @@ variant: tiptap
 <p>Ms Ee Li Hua Elizabeth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ee_li_hua_elizabeth@moe.edu." rel="noopener nofollow" target="_blank">ee_li_hua_elizabeth@moe.edu.</a>
+</p>
 </td>
 </tr>
 </tbody>
