@@ -4,7 +4,7 @@ permalink: /about-us/principal-foreword/
 description: ""
 variant: tiptap
 ---
-<p><strong> Welcome to ACS (Primary)!</strong>
+<p><strong>Welcome to ACS (Primary)!</strong>
 </p>
 <p>This year, ACS turns 140. The theme for the ACS family of schools is “A
 Beacon of Truth and Light” taken from Jesus’ words in Matthew 5:14–16:</p>
