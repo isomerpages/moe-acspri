@@ -51,17 +51,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhayati (I/C)</p>
+<p>Mr Seow Kian Yong (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norharyati_harun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norharyati_harun@moe.edu.sg</a>
+<p><a href="mailto:seow_kian_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">seow_kian_yong@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>WED 14:30-16:30 (DEVELOPMENTAL)</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>TPY SAFRA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Yeo Leng Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Yeo_Leng_Leng_A@moe.edu.sg" rel="noopener nofollow" target="_blank">Yeo_Leng_Leng_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,36 +84,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chow Kai Loon (I/C)</p>
+<p>Mdm Lu Youge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="4" colspan="1">
 <p>MON 14:30-16:30</p>
 <p>WED 14:30-16:60 (SCHOOL TEAM)</p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="4" colspan="1">
 <p>NSG VENUE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Xu Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xu_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">xu_jie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chiew Hwee Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chiew_hwee_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">chiew_hwee_ling@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -118,21 +108,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seow Kian Yong</p>
+<p>Mr Chow Kai Loon (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_kian_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">seow_kian_yong@moe.edu.sg</a>
+<p><a href="mailto:chow_kai_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_kai_loon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Farisa Hussain</p>
+<p>Mdm Bavani D/O Balasubarammany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farisa_begame_abdul_salam@moe.edu.sg" rel="noopener nofollow" target="_blank">farisa_begame_abdul_salam@moe.edu.sg</a>
+<p><a href="mailto:Bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">Bavani_balasubarammany@moe.edu.sg</a>
+<a href="mailto:lu_youge@moe.edu.sg" rel="noopener nofollow" target="_blank">lu_youge@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
