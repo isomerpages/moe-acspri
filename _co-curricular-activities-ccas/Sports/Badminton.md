@@ -47,7 +47,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>VENUE</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,12 +59,12 @@ variant: tiptap
 <p><a href="mailto:yeo_mui_chng_jeannie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="4" colspan="1">
 <p>MON 14:15-17:15 &nbsp;WED 14.15-17:15 (SCHOOL TEAM)</p>
-<p>WED 14:15-16:15 (RECREATIONAL)</p>
-</td>
-<td rowspan="6" colspan="1">
 <p></p>
+</td>
+<td rowspan="4" colspan="1">
+<p>ISH</p>
 </td>
 </tr>
 <tr>
@@ -100,6 +101,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhou_lingyu@moe.edu.sg" rel="noopener nofollow" target="_blank">zhou_lingyu@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="2" colspan="1">
+<p>WED 14:15-16:15 (RECREATIONAL)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>SPORTS HALL</p>
 </td>
 </tr>
 <tr>
