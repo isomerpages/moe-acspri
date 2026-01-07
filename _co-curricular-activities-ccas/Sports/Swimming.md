@@ -71,11 +71,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Chhoa Kok Kheng</p>
+<p>Ms Toh Ling Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chhoa_kok_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chhoa_kok_kheng@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ee Li Hua Elizabeth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
