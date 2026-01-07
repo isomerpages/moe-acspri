@@ -2,96 +2,49 @@
 title: Principal's Foreword
 permalink: /about-us/principal-foreword/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<h2><strong>Not to be served, but to serve</strong></h2>
-<h4><strong>What is greatness?&nbsp;</strong></h4>
-<p>As parents and educators, we naturally want our children and students
-to be great. Great in their results, achievements, attitude and character.</p>
-<p></p>
-<p>In Matthew 20:20-28 (parallel text in Mark 10:35-45), the mother of two
-of Jesus’ disciples, James and John, wanted her sons to be great. She made
-an audacious request for them to receive preferential treatment. She asked
-for her sons to be seated one at the right of Jesus and the other at the
-left in His kingdom. Those referred to places of privilege and positions
-of authority when Jesus would finally become King. They appeared to have
-a spirit of self-entitlement. However, as parents ourselves, we can fully
-understand Mrs Zebedee’s heart. Which parent would not want the best for
-his or her child?</p>
-<p></p>
-<p>When the other ten disciples heard this, they were indignant. The anger
-and annoyance they displayed were far from righteous or humble. They, too,
-wanted to be great. They could have been harbouring hopes of prominence
-in Jesus’ kingdom and had a fear of missing out. Had they not been close
-to Jesus and occupied a special role in His ministry, thus also deserving
-privileged positions?</p>
-<p></p>
-<p>As with all good teachers, Jesus used the incident as a teachable moment
-for all twelve disciples. He flipped commonly held notions of greatness
-on their heads. Instead of greatness being about status, power and prestige,
-Jesus’ definition of greatness was completely countercultural. He said
-the rulers of the Gentiles lord it over them, and their high officials
-exercise authority over them, but whoever wants to become great among you
-must be your servant. In case his disciples missed the point, Jesus repeated
-it with stronger words: whoever wants to be first must be your slave.</p>
-<p></p>
-<p><strong>For even the Son of Man did not come to be served, but to serve… (Mark 10:45a).</strong>
+<p><strong> Welcome to ACS (Primary)!</strong>
 </p>
-<p></p>
-<p>As King of kings, Jesus had every right to expect to be served, but He
-chose to serve. He did not merely pay lip service to that but set an example
-and demonstrated His servant leadership by washing His disciples’ feet
-the night He was betrayed, a task typically reserved for servants. His
-ultimate act of servanthood was to die on the cross for the world that
-had rejected Him.&nbsp;</p>
-<p></p>
-<p>Young people nowadays are often accused of being highly self-entitled.
-We blame it on families having fewer children, overprotective parents and
-an erosion of society’s moral values. This story in the Bible suggests
-that the spirit of self-entitlement is not new and existed even in biblical
-times. In fact, self-entitlement has existed ever since sin entered the
-world!</p>
-<p></p>
-<p>On the contrary, I know of many other-centred young people who desire
-to live purposeful lives by pursuing something bigger than themselves.
-They make sacrifices and give their time and resources to causes they believe
-in. These could range from climate change, special educational needs and
-disadvantaged families to more unusual areas such as wildlife protection.
-They look for mentors who inspire them to live not just for themselves,
-but to serve others. In seeking to serve others, they become better versions
-of themselves and make an even greater impact than if they had just served
-their own needs and interests.</p>
-<p></p>
-<p>In ACS (Primary), we prepare our young gentlemen to serve by nurturing
-them towards the ACSP Desired Outcomes: <strong>A</strong>ctive Contributors, <strong>C</strong>reative
-Collaborators, <strong>S</strong>ervant Leaders and <strong>P</strong>assionate
-Learners.</p>
-<p></p>
-<p>As <em>Creative Collaborators and Passionate Learners</em>, they will be
-future-ready with a love for learning. Being able to approach problems
-creatively, use technology effectively and work collaboratively will enable
-them to serve as valued team members. When they are passionate about learning,
-persevere when faced with challenges and respond positively to feedback,
-not only will they learn well but also develop an abundance mindset. They
-serve by sharing their learning with others, thereby helping others to
-grow.</p>
-<p></p>
-<p>As <em>Servant Leaders and Active Contributors</em>, our gentlemen will
-have a strong moral character with a sense of agency. They will lead themselves
-and others, make responsible decisions and enjoy good relationships. They
-will care about what is happening in their community and seize opportunities
-to serve and make their community a better place for everyone.</p>
-<p></p>
-<p>We believe that when our gentlemen are actively engaged in learning opportunities
-that help them to develop the ACSP Desired Outcomes, they will experience
-joy and purpose in learning and living which will enhance their overall
-wellbeing and enable them to serve others more effectively, thereby following
-in the footsteps of our Lord Jesus Christ.</p>
-<p></p>
-<p>As parents and educators, let us be careful about pursuing worldly notions
-of greatness which may hinder our children from fulfilling their true potential
-of greatness in the kingdom of God!</p>
-<p>To God Be The Glory. The Best Is Yet To Be!</p>
+<p>This year, ACS turns 140. The theme for the ACS family of schools is “A
+Beacon of Truth and Light” taken from Jesus’ words in Matthew 5:14–16:</p>
+<p><em>You are the light of the world. A city set on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.</em>
+</p>
+<p>Jesus says, <strong>“You are the light of the world.”</strong> He does not
+say, <em>“Try to be the light,”</em> or <em>“One day you might become the light.”</em> He
+was speaking to ordinary people — fishermen, villagers, children — not
+kings or superheroes. We are the light of the world when we speak kind
+words, stand up for what is right and do good deeds.</p>
+<p>Imagine a lamp on a stand lighting up a room. If we cover it with an opaque
+cloth, the lamp still has light, but the light is now not able to serve
+its purpose. What could this cloth represent in our lives?</p>
+<p>Firstly, it represents fear. Sometimes, because we are afraid, we want
+to fit in. Even though we see something wrong, we pretend that we do not
+see it and do not stand up for what is right. Darkness blends in but light
+stands out.</p>
+<p>Secondly, it represents indifference. Indifference could be worse than
+fear. It is selfishness, and caring only about ourselves and not others.</p>
+<p>William Wilberforce was a key figure in the movement to abolish the slave
+trade in Britain. He introduced his first bill to abolish the slave trade
+in 1791 but was defeated. Over the years, he faced significant opposition
+from Members of Parliament who had vested interests in the slave trade.
+Despite these challenges, he continued in his advocacy. After years of
+relentless campaigning, the Abolition of the Slave Trade Act was finally
+passed in 1807. The Slavery Abolition Act followed in 1833 and Wilberforce
+died just three days after hearing that the Act had passed its final reading
+in Parliament. Wilberforce could have hidden under fear and indifference
+— that would have been easier and more convenient. However, he chose truth,
+courage and love. His light helped change the laws of a nation and bring
+freedom to many lives.</p>
+<p>Let all of us in ACS (Primary) — students, staff, parents and stakeholders
+— be the light of the world! Show others how we tell the truth even when
+it is uncomfortable, or stand up for someone being treated unfairly. Demonstrate
+how we include others and choose kindness when it would be easier to be
+spiteful or malicious. We may not be Wilberforce, but we can begin to change
+our school, our workplace and our home.</p>
+<p>God is not asking us to create light.
+<br>He has already placed it within us.
+<br>He is asking us simply not to cover it.</p>
 <p>Mrs Leong-Ho Hil May</p>
 <p>Principal</p>
 <p></p>
