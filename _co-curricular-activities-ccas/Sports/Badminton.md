@@ -11,18 +11,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Badminton.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -46,10 +42,6 @@ variant: tiptap
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>VENUE</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -59,38 +51,35 @@ variant: tiptap
 <p><a href="mailto:yeo_mui_chng_jeannie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="5" colspan="1">
-<p>MON 14:15-17:15 &nbsp;WED 14.15-17:15</p>
-<p>(SCHOOL TEAM)</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>ISH</p>
+<td rowspan="6" colspan="1">
+<p>MON 14:15-17:15 &nbsp;WED 14.15-17:15 (SCHOOL TEAM)</p>
+<p>WED 14:15-16:15 (RECREATIONAL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Lai</p>
+<p>Mdm Hoong Xiu Qin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+<p><a href="mailto:hoong_si_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_si_qi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aubrey Ong</p>
+<p>Mrs Zahara Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
+<p><a href="mailto:zahara_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahara_osman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Patricia Lim</p>
+<p>Ms Melissa Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natasha_patricia_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
+<p><a href="mailto:melissa_goh_qiu_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">melissa_goh_qiu_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -105,32 +94,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shariza Binte Shari (I/C)</p>
+<p>Mdm Jenn Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shariza_shari_a@moe.edu.sg" rel="noopener nofollow" target="_blank">shariza_shari_a@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>WED 14:15-16:15 (RECREATIONAL)</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>SPORTS HALL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Zahara Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zahara_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahara_osman@moe.edu.sg</a>
+<p><a href="mailto:jenn_ang@moe.edu.sg" rel="noopener nofollow" target="_blank">jenn_ang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
