@@ -89,7 +89,8 @@ variant: tiptap
 <p>Ms Joanne Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="m,ailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +98,8 @@ variant: tiptap
 <p>Ms Tan Swee Kun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Tan_Swee_Kun@moe.edu.sg" rel="noopener nofollow" target="_blank">Tan_Swee_Kun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +107,8 @@ variant: tiptap
 <p>Mr Macus Wong Jing Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Macus_Wong_Jing_Kai_A@moe.edu.sg" rel="noopener nofollow" target="_blank">Macus_Wong_Jing_Kai_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
