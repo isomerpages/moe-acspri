@@ -11,14 +11,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Badminton.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -42,6 +46,9 @@ variant: tiptap
 <p><strong>DAY / TIME</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,6 +61,9 @@ variant: tiptap
 <td rowspan="6" colspan="1">
 <p>MON 14:15-17:15 &nbsp;WED 14.15-17:15 (SCHOOL TEAM)</p>
 <p>WED 14:15-16:15 (RECREATIONAL)</p>
+</td>
+<td rowspan="6" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -102,6 +112,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
