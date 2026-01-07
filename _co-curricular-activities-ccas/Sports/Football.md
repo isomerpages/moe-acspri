@@ -140,14 +140,15 @@ variant: tiptap
 <p>
 <br><strong>Programme/ Development</strong>
 </p>
-<p>Football is a team sport which builds body and mental strength, agility
-and coordination. ACS(P) Football emphasizes on fostering kinship and developing
-character values. Our aim is to provide our pupils with an experience to
-develop their potential, learn new techniques and life skills. The pupils
-undergo training under the guidance of our dedicated coaches. They are
-also closely supported by the teachers and parents. In addition, the school
-organizes friendly games and sends teams to participate in the local football
-competitions where they learn to respect fair play.</p>
+<p>Football aims to foster teamwork, resilience, and discipline as students
+learn to communicate effectively, make decisions under pressure, and persevere
+through both victories and setbacks in a dynamic team environment.</p>
+<p>The CCA is for students who love playing football and would like to develop
+their skills and talent for the sport. Two-way transport is provided. Students
+are required to be attired appropriately to enjoy the sport safely. Members
+have a chance to be selected into the Provisional Training Squad (PTS)
+in Primary 4. Those who are dedicated and selected have the potential to
+join the school team. PTS train on Monday and another additional day, Wednesday.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/football.jpg">
 </div>
