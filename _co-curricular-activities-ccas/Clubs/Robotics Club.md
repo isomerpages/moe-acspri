@@ -41,11 +41,10 @@ variant: tiptap
 <p>Mr Du Guang (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:du_guang@moe.edu.sg" rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg </a>
+<p><a href="mailto:du_guang@moe.edu.sg" rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
-<p>MON 14:15 - 16:15 For the competitive group selected weeks)</p>
 <p>WED 14:15 - 16:15 For all</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -66,7 +65,7 @@ variant: tiptap
 <p>Mdm Natasha Patricia Lim Hwee Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:judith_ogawa@moe.edu.sg" rel="noopener nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
+<p><a href="mailto:natasha_patricia_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
