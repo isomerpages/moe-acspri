@@ -134,17 +134,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Competition</strong></h4>
-<p>After a two-year hiatus, our Junior Team members were exuberant when they
-took part in the inaugural new format championship. Denson Sjahada Harjanto
-(P4B) and Evan Ng Zheng An (P4C) clinched the 1st place in the Tier 1 Doubles
-category. Our congratulations also go to our Senior Team, which was led
-by the Captain, Goh Jun De Pasith (P6D), for emerging 1st Runner-up in
-the Senior Division Championship.</p>
-<p>The achievements of our school teams have always inspired the boys in
-the Recreation Team to work even harder for that coveted place to represent
-ACS (Primary). We thank God for His favour and blessing. Truly, To God
-Be The Glory. The Best Is Yet To Be!</p>
+<h4><strong>Programme/ Development</strong></h4>
+<p>Badminton aims to develop hand-eye coordination, strategic thinking, and
+perseverance through fast-paced rallies that require quick reflexes and
+tactical awareness.</p>
+<p>Pupils are required to bring their water bottles. Rackets and shuttlecocks
+are optional, but it will be useful if students have their own.</p>
 <h4><strong>Past Accolades</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
