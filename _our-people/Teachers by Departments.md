@@ -329,7 +329,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="14" colspan="1">
 <p>Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -441,24 +441,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Hoong Si Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hoong_si_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_si_qi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Zhang Qingyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhang_qingyu@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>zhang_qingyu@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
