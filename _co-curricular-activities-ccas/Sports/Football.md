@@ -65,7 +65,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="3" colspan="1">
-<p></p>
+<p>Check with teacher in charge</p>
 </td>
 </tr>
 <tr>
