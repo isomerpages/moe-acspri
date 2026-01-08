@@ -108,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Science</p>
+<p>Head of Department/Science(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jasmine Kaur</p>
