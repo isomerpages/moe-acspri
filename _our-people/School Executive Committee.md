@@ -99,10 +99,10 @@ variant: tiptap
 <p>Head of Department/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jasmine Kaur</p>
+<p>Mr Chan Tai Yao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_kaur@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_kaur@moe.edu.sg</a>
+<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>chan_tai_yao@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
