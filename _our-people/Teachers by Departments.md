@@ -329,7 +329,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="13" colspan="1">
 <p>Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,15 +409,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Geraldine Ortega</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:geraldine_ortega@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_ortega@moe.edu.sg</a>
 </p>
 </td>
 </tr>
