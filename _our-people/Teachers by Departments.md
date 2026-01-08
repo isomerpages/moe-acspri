@@ -23,7 +23,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,24 +54,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jessica Lai Kit Mun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zubaidah Bte Sheik Mohamed Ishak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zubaidah_sheik_mohamed_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zubaidah_sheik_mohamed_ishak@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Judith Ogawa</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,6 +67,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_questal@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_questal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arina Binte Khaharudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Arina_Khaharuddin@moe.edu.sg" rel="noopener nofollow" target="_blank">Arina_Khaharuddin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siti Zulaiha Binte Zainol</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_zulaiha_zainol@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_zulaiha_zainol@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Swee Kun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Swee_Kun@moe.edu.sg" rel="noopener nofollow" target="_blank">Tan_Swee_Kun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
