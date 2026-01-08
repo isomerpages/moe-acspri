@@ -108,6 +108,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Head of Department/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jasmine Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jasmine_kaur@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Head of Department/Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
