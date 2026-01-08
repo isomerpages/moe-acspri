@@ -120,31 +120,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <h4><strong>Programme/ Development</strong></h4>
-<p>The basketball CCA aims to expose pupils to the basics of the game as
-well as to provide a platform for potential players to represent the school
-in inter-school competitions. Members are taught specialized player positions
-namely, point guard, shooting guard, power forward, small forward, and
-centre as well as offensive and defensive structures of player positioning.</p>
-<p>Besides acquiring technical skills for the game, we work towards instilling&nbsp;iHOPEFUL
-values in pupils through the course of our rigorous drills. Sportsmanship
-and teamwork are also highly emphasized. We target to embrace pupils of
-all skill levels to learn and enjoy the game together competitively and
-for recreational purpose.</p>
-<h6>Recreational</h6>
-<p>Coaches are hired to train our pupils. Pupils are strongly encouraged
-to learn the basics of the CCA well, take pride and show commitment when
-it comes to training sessions. This will enable the coaches to select potential
-CCA members who can then be groomed for the development team.&nbsp;Certain
-levels will also be involved in a Social Mixing initiative. During these
-sessions, our CCA members will visit another school to train with their
-Basketball members. Transport will be provided.</p>
-<h6>School Team</h6>
-<p>Pupils will be invited to join the development team through coaches’ recommendation.
-Coaches will observe the skill level and potential of pupils during training
-sessions. Some members who display outstanding attitude and skill will
-then be invited to join the school team.</p>
+<p>Badminton aims to develop hand-eye coordination, strategic thinking, and
+perseverance through fast-paced rallies that require quick reflexes and
+tactical awareness.</p>
+<p>Pupils are required to bring their water bottles. Rackets and shuttlecocks
+are optional, but it will be useful if students have their own.</p>
 <h4><strong>Competition</strong></h4>
 <p>Every year, we will send a team of Senior Division and a team of junior
 division boys to participate in the National School Games.</p>
