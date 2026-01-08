@@ -96,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/English Language</p>
+<p>Head of Department/Science(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Tai Yao</p>
@@ -108,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Science(Covering)</p>
+<p>Head of Department/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jasmine Kaur</p>
@@ -200,6 +200,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_loon_kiat_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_loon_kiat_edwin@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
