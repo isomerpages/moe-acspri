@@ -458,7 +458,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -498,10 +498,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Munirah</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti.munirah.binte.zaidi@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">siti.munirah.binte.zaidi@ncs.com.sg</a>
+<p>Mr Kishen Navin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Kishen_Navin@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">Kishen_Navin@ncs.com.sg</a>
 </p>
 </td>
 </tr>
