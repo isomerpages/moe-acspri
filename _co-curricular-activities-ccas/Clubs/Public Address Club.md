@@ -116,6 +116,10 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Programme/ Development</strong></h4>
-<p>Members duties include setting up of the school’s PA system for morning
-assembly and school events.</p>
-<p>Members will learn how to operate the school’s PA system.</p>
+<p></p>
+<p>Duties include setting up of the school's PA system for morning assembly
+and school events. Pupils will learn how to operate the school's PA system.
+Pupils need to be in school by 7.10am.</p>
+<p>Pupils who are interested can select PA as an additional service to the
+school. This is considered a service to school and not considered a traditional
+CCA.</p>
