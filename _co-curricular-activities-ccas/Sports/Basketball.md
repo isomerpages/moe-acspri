@@ -121,11 +121,11 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Programme/ Development</strong></h4>
-<p>Badminton aims to develop hand-eye coordination, strategic thinking, and
-perseverance through fast-paced rallies that require quick reflexes and
-tactical awareness.</p>
-<p>Pupils are required to bring their water bottles. Rackets and shuttlecocks
-are optional, but it will be useful if students have their own.</p>
+<p>Basketball aims to develop agility, spatial awareness, and leadership
+while nurturing cooperation, confidence, and respect through fast-paced
+play that demands quick decision-making and collective responsibility.</p>
+<p>Pupils are strongly encouraged to learn the basics of the CCA well, take
+pride and show commitment when it comes to training sessions.</p>
 <h4><strong>Competition</strong></h4>
 <p>Every year, we will send a team of Senior Division and a team of junior
 division boys to participate in the National School Games.</p>
