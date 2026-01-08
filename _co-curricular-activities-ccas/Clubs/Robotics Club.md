@@ -86,8 +86,10 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Programme/ Development</strong></h4>
-<p>Ecomaker Club members will learn to appreciate the environment through
-STEM1 - related activities. They will work together to explore Science.</p>
+<p>Pupils will learn how to design and build robots using LEGO EV3/SPIKE.
+Pupils will also program the robot using EV3/SPIKE Classroom. Selected
+pupils will take part in the IDE (Innovation, Design and Engineering) Series
+in May/June.</p>
 <h4><strong>Competition</strong></h4>
 <p>IDE (Innovation, Design and Engineering) Series is a national coding,
 engineering, and robotics competition event. The aim of the competition
