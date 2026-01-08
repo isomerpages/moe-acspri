@@ -88,9 +88,11 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Programme/ Development</strong></h4>
-<p>CCA members meet on Wednesdays to learn the rules of the game and different
-strategies from Chess coaches. They also get to put these strategies to
-play when they spar with their friends during the CCA sessions.</p>
+<p>Chess aims to enhance critical thinking, patience, and strategic planning
+whilst developing concentration skills and learning to analyse complex
+situations methodically.</p>
+<p>During the first 2-3 CCA sessions, the coaches will assess and group pupils
+according to their abilities.</p>
 <h4><strong>Competition</strong></h4>
 <ul>
 <li>
