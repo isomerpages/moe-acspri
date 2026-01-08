@@ -52,64 +52,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bavani d/o Balasubarammany (I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Mailto:bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">bavani_balasubarammany@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="9" colspan="1">
-<p>MON 15:00-17:00 (DEVELOPMENTAL TEAM)
-<br>&nbsp;</p>
-<p>WED 14:15-16:15 (SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)</p>
-</td>
-<td rowspan="9" colspan="1">
-<p>ARENA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Hoong Xiu Qin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tiong Sze Chiat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tiong_sze_chiat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Xu Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xu_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">xu_jie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rachel Ong Ci Yi</p>
+<p>Ms Rachel Ong Ci Yi (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_ci_yi_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_ci_yi_rachel@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Tan Sue-Ann</p>
+<td rowspan="7" colspan="1">
+<p>MON 15:00-17:30 (SCHOOL TEAM, TRAINING SQUAD AND RECREATIONAL)
+<br>&nbsp;</p>
+<p>WED 14:15-16:15 (SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sueann_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_sueann_a@moe.edu.sg</a>
-</p>
+<td rowspan="7" colspan="1">
+<p>ARENA</p>
 </td>
 </tr>
 <tr>
@@ -123,19 +78,46 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Du Guang</p>
+<p>Ms Megumi Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg</a>
+<p><a href="mailto:megumi_soh@moe.gov.sg" rel="noopener nofollow" target="_blank">megumi_soh@moe.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Carissa Lim Yan Shan</p>
+<p>Ms Siti Zuhaila Bte Zainol&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:carissa_lim_yan_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">carissa_lim_yan_shan@moe.edu.sg</a>
+<p><a href="mailto:siti_zulaiha_zainol@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_zulaiha_zainol@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Lim Hwei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_lim_hwei@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_lim_hwei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xu Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xu_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">xu_jie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Shin Hoo&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_shin_hoo@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -158,14 +140,15 @@ variant: tiptap
 <p>
 <br><strong>Programme/ Development</strong>
 </p>
-<p>Football is a team sport which builds body and mental strength, agility
-and coordination. ACS(P) Football emphasizes on fostering kinship and developing
-character values. Our aim is to provide our pupils with an experience to
-develop their potential, learn new techniques and life skills. The pupils
-undergo training under the guidance of our dedicated coaches. They are
-also closely supported by the teachers and parents. In addition, the school
-organizes friendly games and sends teams to participate in the local football
-competitions where they learn to respect fair play.</p>
+<p>Football aims to foster teamwork, resilience, and discipline as students
+learn to communicate effectively, make decisions under pressure, and persevere
+through both victories and setbacks in a dynamic team environment.</p>
+<p>The CCA is for students who love playing football and would like to develop
+their skills and talent for the sport. Two-way transport is provided. Students
+are required to be attired appropriately to enjoy the sport safely. Members
+have a chance to be selected into the Provisional Training Squad (PTS)
+in Primary 4. Those who are dedicated and selected have the potential to
+join the school team. PTS train on Monday and another additional day, Wednesday.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/football.jpg">
 </div>

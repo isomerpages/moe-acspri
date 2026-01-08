@@ -59,38 +59,38 @@ variant: tiptap
 <p><a href="mailto:yeo_mui_chng_jeannie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_mui_chng_jeannie@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="5" colspan="1">
-<p>MON 14:15-17:15 &nbsp;WED 14.15-17:15</p>
-<p>(SCHOOL TEAM)</p>
+<td rowspan="4" colspan="1">
+<p>MON 14:15-17:15 &nbsp;WED 14.15-17:15 (SCHOOL TEAM)</p>
+<p></p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>ISH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Lai</p>
+<p>Mdm Hoong Xiu Qin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
+<p><a href="mailto:hoong_si_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_si_qi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aubrey Ong</p>
+<p>Mrs Zahara Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
+<p><a href="mailto:zahara_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahara_osman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Patricia Lim</p>
+<p>Ms Melissa Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natasha_patricia_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">natasha_patricia_lim@moe.edu.sg</a>
+<p><a href="mailto:melissa_goh_qiu_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">melissa_goh_qiu_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -102,15 +102,6 @@ variant: tiptap
 <p><a href="mailto:zhou_lingyu@moe.edu.sg" rel="noopener nofollow" target="_blank">zhou_lingyu@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shariza Binte Shari (I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shariza_shari_a@moe.edu.sg" rel="noopener nofollow" target="_blank">shariza_shari_a@moe.edu.sg</a>
-</p>
-</td>
 <td rowspan="2" colspan="1">
 <p>WED 14:15-16:15 (RECREATIONAL)</p>
 </td>
@@ -120,10 +111,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Zahara Osman</p>
+<p>Mdm Jenn Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zahara_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zahara_osman@moe.edu.sg</a>
+<p><a href="mailto:jenn_ang@moe.edu.sg" rel="noopener nofollow" target="_blank">jenn_ang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -143,17 +134,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Competition</strong></h4>
-<p>After a two-year hiatus, our Junior Team members were exuberant when they
-took part in the inaugural new format championship. Denson Sjahada Harjanto
-(P4B) and Evan Ng Zheng An (P4C) clinched the 1st place in the Tier 1 Doubles
-category. Our congratulations also go to our Senior Team, which was led
-by the Captain, Goh Jun De Pasith (P6D), for emerging 1st Runner-up in
-the Senior Division Championship.</p>
-<p>The achievements of our school teams have always inspired the boys in
-the Recreation Team to work even harder for that coveted place to represent
-ACS (Primary). We thank God for His favour and blessing. Truly, To God
-Be The Glory. The Best Is Yet To Be!</p>
+<h4><strong>Programme/ Development</strong></h4>
+<p>Badminton aims to develop hand-eye coordination, strategic thinking, and
+perseverance through fast-paced rallies that require quick reflexes and
+tactical awareness.</p>
+<p>Pupils are required to bring their water bottles. Rackets and shuttlecocks
+are optional, but it will be useful if students have their own.</p>
 <h4><strong>Past Accolades</strong></h4>
 <ul data-tight="true" class="tight">
 <li>

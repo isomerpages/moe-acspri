@@ -87,19 +87,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Caleb Chua</p>
+<p>Ms Chan Soo Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:caleb_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_chua@moe.edu.sg</a>
+<p><a href="mailto:chan_soo_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Soo Ping</p>
+<p>Ms Hoong Si Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_soo_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_soo_ping@moe.edu.sg</a>
+<p><a href="mailto:hoong_si_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_si_qi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -120,31 +120,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <h4><strong>Programme/ Development</strong></h4>
-<p>The basketball CCA aims to expose pupils to the basics of the game as
-well as to provide a platform for potential players to represent the school
-in inter-school competitions. Members are taught specialized player positions
-namely, point guard, shooting guard, power forward, small forward, and
-centre as well as offensive and defensive structures of player positioning.</p>
-<p>Besides acquiring technical skills for the game, we work towards instilling&nbsp;iHOPEFUL
-values in pupils through the course of our rigorous drills. Sportsmanship
-and teamwork are also highly emphasized. We target to embrace pupils of
-all skill levels to learn and enjoy the game together competitively and
-for recreational purpose.</p>
-<h6>Recreational</h6>
-<p>Coaches are hired to train our pupils. Pupils are strongly encouraged
-to learn the basics of the CCA well, take pride and show commitment when
-it comes to training sessions. This will enable the coaches to select potential
-CCA members who can then be groomed for the development team.&nbsp;Certain
-levels will also be involved in a Social Mixing initiative. During these
-sessions, our CCA members will visit another school to train with their
-Basketball members. Transport will be provided.</p>
-<h6>School Team</h6>
-<p>Pupils will be invited to join the development team through coaches’ recommendation.
-Coaches will observe the skill level and potential of pupils during training
-sessions. Some members who display outstanding attitude and skill will
-then be invited to join the school team.</p>
+<p>Basketball aims to develop agility, spatial awareness, and leadership
+while nurturing cooperation, confidence, and respect through fast-paced
+play that demands quick decision-making and collective responsibility.</p>
+<p>Pupils are strongly encouraged to learn the basics of the CCA well, take
+pride and show commitment when it comes to training sessions.</p>
 <h4><strong>Competition</strong></h4>
 <p>Every year, we will send a team of Senior Division and a team of junior
 division boys to participate in the National School Games.</p>

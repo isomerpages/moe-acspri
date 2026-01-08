@@ -51,47 +51,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mazeedah (I/C)</p>
+<p>Mrs Neo Lin Li&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mazeedah_mohamed_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">mazeedah_mohamed_azmi@moe.edu.sg</a>
+<p><a href="mailto:chia_gek_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>MON&nbsp;14:15 - 16:15
 <br>(Recreational)
 <br>&nbsp;WED 14:15 - 17:15
 <br>(School Team)</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>BARKER TENNIS COURTS</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Lim Hwei</p>
+<p>Mrs Neo Lin Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ho_lim_hwei@moe.edu.sg</a>
+<p><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Youge</p>
+<p>Ms Mazeedah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lu_youge@moe.edu.sg" rel="noopener nofollow" target="_blank">lu_youge@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Siow Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_siow_hwee@moe.edu.sg</a>
+<p><a href="mailto:mazeedah_mohamed_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">mazeedah_mohamed_azmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
