@@ -38,10 +38,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yoke Joo (I/C)</p>
+<p>Mr Du Guang (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yoke_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yoke_joo@moe.edu.sg</a>
+<p><a href="mailto:du_guang@moe.edu.sg" rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg </a>
 </p>
 </td>
 <td rowspan="3" colspan="1">
@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Judith Ogawa</p>
+<p>Mdm Natasha Patricia Lim Hwee Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="Mailto:judith_ogawa@moe.edu.sg" rel="noopener nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
@@ -87,16 +87,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Programme/ Development</strong></h4>
-<p>The Robotics Club encompasses a group of passionate pupils who are interested
-in robots and the use of robots in everyday life. The objectives of the
-Robotics Club are to train members in programming and provide them with
-hands-on experience in the building robots for various missions and scenarios.
-Members get to expand their horizons by learning EV3 classroom. Our members
-are given different situations to programme and build robots to complete
-various missions. They become well-versed in EV3 programming and the building
-of robots. Our trainers are experienced and friendly and they go the extra
-mile to ensure that members are well prepared for competitions and help
-them through the steps in problem-solving.</p>
+<p>Ecomaker Club members will learn to appreciate the environment through
+STEM1 - related activities. They will work together to explore Science.</p>
 <h4><strong>Competition</strong></h4>
 <p>IDE (Innovation, Design and Engineering) Series is a national coding,
 engineering, and robotics competition event. The aim of the competition
