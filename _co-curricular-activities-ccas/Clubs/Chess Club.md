@@ -44,11 +44,11 @@ variant: tiptap
 <p><a href="mailto:li_chunju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>li_chunju@moe.edu</u>.sg</a>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>WED
 <br>14:15 - 16:15</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5B, 5C, 5D</p>
 </td>
 </tr>
@@ -58,6 +58,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_mei_kuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_kuen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Judith Ogawa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:judith_ogawa@moe.edu.sg" rel="noopener nofollow" target="_blank">judith_ogawa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
