@@ -59,12 +59,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="7" colspan="1">
-<p>MON 15:00-17:30 (SCHOOL TEAM, TRAINING SQUAD AND RECREATIONAL)
+<p>Mon - 14:15-12:15 (school team and provisional training squad)
 <br>&nbsp;</p>
-<p>WED 14:15-16:15 (SCHOOL TEAM &amp; PROVISIONAL TRAINING SQUAD)</p>
+<p>Wed - 15:00-17:30 (school team, training squad and recreational)</p>
+<p></p>
 </td>
-<td rowspan="7" colspan="1">
-<p>ARENA</p>
+<td rowspan="3" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -92,6 +93,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_zulaiha_zainol@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_zulaiha_zainol@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Rainforest</p>
 </td>
 </tr>
 <tr>
