@@ -102,10 +102,11 @@ variant: tiptap
 <p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chua Xin Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_xin_rong@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_xin_rong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
