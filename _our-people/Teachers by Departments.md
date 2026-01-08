@@ -506,18 +506,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="11" colspan="1">
+<td rowspan="10" colspan="1">
 <p>Mathematics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mrs Farisa Hussain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:farisa_begame_abdul_salam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farisa_begame_abdul_salam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Aubrey Ong</p>
 </td>
