@@ -72,6 +72,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Sri Dewi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sri_dewi_mohamed_hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">sri_dewi_mohamed_hashim@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,17 +102,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Programme Development</strong></h4>
-<p>The ACS(P) Synergy group aims to build on dance fundamentals, learn dance
-techniques and perform as a team. The group has been doing well in competitions,
-most recently being awarded Distinction in the 2014, 2016 and 2018 Singapore
-Youth Festival Arts Presentation.</p>
-<p>Closer home, the group has performed on Founder’s Day as well as Teachers’
-Day. Members have also taken part in an integrated learning programme where
-seniors are taught simple dance moves as part of the school Values In Action
-(VIA) programme.</p>
-<p>The group is guided by veteran coach Mr Yutaki Ong. Teachers work with
-coach and parents alike to provide the best aesthetic learning experiences
-for the members.</p>
+<p>Synergy's objective is to build on dance fundamentals, learn dance techniques
+and perform as a team, representing our school for competitions and events
+in school and externally with approval by the school. Pupils with dance
+background and with a passion in dance are highly encouraged to sign up
+for this CCA.</p>
 <h4><strong>Past Accolades</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
