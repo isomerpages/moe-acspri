@@ -1001,7 +1001,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="6" colspan="1">
 <p>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1009,16 +1009,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_xiuwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_xiuwen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Desmond Liew</p>
-<p>(Senior School Counsellor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liew_shuh_onn@moe.edu.sg" rel="noopener nofollow" target="_blank">liew_shuh_onn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
