@@ -67,10 +67,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pauline Ho Jiahua</p>
+<p>Ms Tay Questal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pauline_ho_jiahua@moe.edu.sg" rel="noopener nofollow" target="_blank">pauline_ho_jiahua@moe.edu.sg</a>
+<p><a href="mailto:Tay_Questal@moe.edu.sg" rel="noopener nofollow" target="_blank">Tay_Questal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
