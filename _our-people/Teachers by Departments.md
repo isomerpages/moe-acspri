@@ -458,7 +458,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -497,9 +497,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Kishen Navin</p>
 </td>
