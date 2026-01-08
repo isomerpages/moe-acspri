@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Neo Lin Li&nbsp;</p>
+<p>Ms Jean Chia (I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_gek_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@moe.edu.sg</a>
@@ -59,7 +59,7 @@ variant: tiptap
 </td>
 <td rowspan="3" colspan="1">
 <p>MON&nbsp;14:15 - 16:15
-<br>(Recreational)
+<br>(Recreational Team)
 <br>&nbsp;WED 14:15 - 17:15
 <br>(School Team)</p>
 </td>
@@ -103,14 +103,11 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Programme/ Development</strong></h4>
-<p>Tennis is an outdoor game. A game of tennis involves a variety of types
-of play including serving the ball over the net, rallies (when the ball
-is hit back and forth between opponents), fast movements and strategic
-game play.</p>
-<p>Tennis is a good sport for maintaining health and fitness. It can be a
-great workout and it is lots of fun. The game can be played both as a sport
-and as a recreational activity with friends and family. Team bonding develops
-especially when players play doubles.</p>
+<p>Tennis aims to cultivate agility, mental resilience, and sportsmanship
+through individual competition that demands both physical fitness and strategic
+shot placement.</p>
+<p>Pupils are required to bring caps and water bottles. Rackets are optional
+but it will be useful for a child to have their own.</p>
 <h4><strong>Competition</strong></h4>
 <p>The Tennis CCA takes part in the National School Games (NSG) organised
 by the Singapore Primary Schools Sports Council (SPSSC) and the Singapore
