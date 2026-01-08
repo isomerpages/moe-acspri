@@ -57,7 +57,7 @@ variant: tiptap
 <p><a href="mailto:lee_jia_yee_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_jia_yee_a@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="8" colspan="1">
 <p>SAT
 <br>08 - 11:00am
 <br>(Enrichment and School Team)
@@ -65,8 +65,17 @@ variant: tiptap
 <br>15:00 -17:00
 <br>&nbsp;(School Team)</p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="8" colspan="1">
 <p>ACS(I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Tu Tong Louis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Tu_Tong_Louis@moe.edu.sg" rel="noopener nofollow" target="_blank">Tan_Tu_Tong_Louis@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,16 +83,25 @@ variant: tiptap
 <p>Mr Kelvin Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kelvin_chan_yong_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_chan_yong_meng@moe.edu.sg</a>
+<p><a href="mailto:kelvin_chan_yong_meng@moe.edu.sg" rel="noopener nofollow" target="_blank">kelvin_chan_yong_meng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Shin Hoo</p>
+<p>Ms Lynne Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_shin_hoo@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_shin_hoo@moe.edu.sg</a>
+<p><a href="mailto:Li_Jing_D@moe.edu.sg" rel="noopener nofollow" target="_blank">Li_Jing_D@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Wang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Wang_Yu_D@moe.edu.sg" rel="noopener nofollow" target="_blank">Wang_Yu_D@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -98,10 +116,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Xiaoxiao</p>
+<p>Mr Panneer Selvam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_xiaoxiao@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@moe.edu.sg</a>
+<p><a href="mailto:panneer_selvam_karuppiah@moe.edu.sg" rel="noopener nofollow" target="_blank">panneer_selvam_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
