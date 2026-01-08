@@ -143,11 +143,14 @@ variant: tiptap
 </table>
 <p>&nbsp;</p>
 <h4><strong>1. Bowling Development</strong></h4>
+<p>Bowling aims to build precision, focus, and patience whilst learning proper
+technique and developing a calm, analytical approach to achieving consistent
+results.</p>
 <p>Bowling (Development) CCA is set up as a training platform for non-school
-team bowlers. Pupils who have interest in this sport may sign up for this
-CCA. They will undergo a selection trial during the first bowling session.
-Pupils not selected will be channeled to the other CCAs that they have
-chosen. Two-way transport is provided.</p>
+team bowlers. Coaches are hired for the members. Pupils interested in this
+sport may sign up for this CCA. They will undergo a selection trial during
+the first bowling session(if the number of students exceeds our quota).
+Two-way transport is provided.</p>
 <h4><strong>2. School Team Bowling</strong></h4>
 <p>The School Team Bowling comprises a team of committed and passionate bowlers
 who are interested in developing their bowling competence such that they
