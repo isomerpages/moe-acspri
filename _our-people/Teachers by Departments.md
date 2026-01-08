@@ -1032,19 +1032,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Daphne Heng (SENO)</p>
+<p>Mr Elton Lim Zhan Kuan (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_syn_yee_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_syn_yee_daphne@moe.edu.sg</a>
+<p><a href="mailto:lim_zhan_kuan_elton@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zhan_kuan_elton@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Elton Lim Zhan Kuan (SENO)</p>
+<p>Miss Sabirah @ Sunitha d/o Vijayan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_zhan_kuan_elton@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zhan_kuan_elton@moe.edu.sg</a>
+<p><a href="mailto:Sabirah@moe.edu.sg" rel="noopener nofollow" target="_blank">Sabirah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
