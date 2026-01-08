@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Mathematics (Covering)</p>
+<p>Acting Head of Department / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Pei Khim Aubrey</p>
