@@ -599,7 +599,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="23" colspan="1">
+<td rowspan="24" colspan="1">
 <p>Mother Tongue Languages - Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -796,6 +796,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoong_si_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_si_qi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Li Jing&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Li_Jing_D@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>Li_Jing_D@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
