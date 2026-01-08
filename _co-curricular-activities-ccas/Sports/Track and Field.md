@@ -124,13 +124,14 @@ variant: tiptap
 <p></p>
 <p></p>
 <h4><strong>Programme/ Development</strong></h4>
-<p>The Track and Field is a sport which consist of various athletics events
-in running, jumping, and throwing. As students learn basic track and field
-skills, they are able to develop their motor skills in a safe and fun manner
-and learn to exhibit iHOPEFUL values in the process.</p>
-<p>As students start out in the recreational team, they learn to build up
-their skills and will have to opportunity to join the school team to participate
-in various competitions.</p>
+<p>Track and Field aims to build determination, self-motivation, and personal
+excellence through individual events that teach children to push their
+limits and strive for continuous improvement.</p>
+<p>Should students be training outside school, 2-way bus service will be
+provided to and from external stadium for ALL members. However, the pupils
+will not be able to go back to school on time to board the school bus as
+training ends at 4.30 p.m. Hence, parents will need to arrange private
+transport to pick their son up from the school transport centre.</p>
 <h4><strong>Competition</strong></h4>
 <p>National School Games</p>
 <h4><strong>Past Accolades</strong></h4>
