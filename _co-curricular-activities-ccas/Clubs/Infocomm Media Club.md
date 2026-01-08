@@ -89,17 +89,8 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Programme/ Development</strong></h4>
-<ul>
-<li>
-<p>Creating a Virtual Reality spaces using Cospaces</p>
-</li>
-<li>
-<p>Photography and Photo-Editing Skills using Adobe Lightroom Classic</p>
-</li>
-<li>
-<p>Videography and Video-Editing Skills using CapCut/Kinemaster</p>
-</li>
-</ul>
+<p>Infocomm Media Club aims to develop in our pupils an interest in mass
+media employing digital technology.</p>
 <h4><strong>Competition</strong></h4>
 <ul>
 <li>
