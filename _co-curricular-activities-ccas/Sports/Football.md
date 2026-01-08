@@ -58,11 +58,11 @@ variant: tiptap
 <p><a href="mailto:ong_ci_yi_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_ci_yi_rachel@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="7" colspan="1">
-<p>MON 14:15 - 16:15 (School team and Provisional Training Squad)</p>
+<td rowspan="3" colspan="1">
+<p>MON 14:15-16:15 (School team and Provisional Training Squad)</p>
 <p>
 <br>&nbsp;</p>
-<p>WED 15:00-17:30 (School Team, Training Squad and Recreational)</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="3" colspan="1">
@@ -94,6 +94,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_zulaiha_zainol@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_zulaiha_zainol@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="4" colspan="1">
+<p>WED 15:00-17:30 (School Team, Training Squad and Recreational)</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>Rainforest</p>
