@@ -48,7 +48,7 @@ variant: tiptap
 <p>MON
 <br>14:15 - 16:15</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>LEVEL 5 ART ROOM</p>
 </td>
 </tr>
@@ -59,9 +59,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Arina_Khaharuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Arina_Khaharuddin@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
