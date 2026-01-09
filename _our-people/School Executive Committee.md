@@ -96,6 +96,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Head of Department/Science (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Tai Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>chan_tai_yao@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Head of Department/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,6 +115,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jasmine_kaur@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acting Head of Department / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Pei Khim Aubrey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>ong_pei_khim_aubrey@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -252,18 +276,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head/Upper Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Aubrey Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_pei_khim_aubrey@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Assistant Year Head/Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -327,7 +339,7 @@ variant: tiptap
 <p>Subject Head/Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Neo Lin Li</p>
+<p>Ms Tan Neo Lin Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
@@ -363,7 +375,7 @@ variant: tiptap
 <p>Subject Head/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Revathi</p>
+<p>Mdm Revathi Raja Krishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:revathi_raja_krishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">revathi_raja_krishnan@moe.edu.sg</a>
@@ -427,18 +439,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head/Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Tai Yao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_tai_yao@moe.edu.sg</a>
 </p>
 </td>
 </tr>

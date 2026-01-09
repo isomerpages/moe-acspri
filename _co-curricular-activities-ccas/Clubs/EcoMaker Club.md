@@ -68,11 +68,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ee Li Hua Elizabeth</p>
-<p></p>
+<p>Ms Revath</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ee_li_hua_elizabeth@moe.edu" rel="noopener nofollow" target="_blank">ee_li_hua_elizabeth@moe.edu.sg</a>
+<p><a href="mailto:Revathi_Raja_Krishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">Revathi_Raja_Krishnan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,14 +92,5 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Programme Development</strong></h4>
-<p>The theme for our EcoMaker Club this year is ‘Greening in Our School’.
-Our club aims to provide members with an all rounded experience where members
-explore STEM through experiments in the lab as well as outdoor experiences
-to appreciate biodiversity. As citizen scientists, members have a chance
-to learn more about the flora and fauna in ACS(P) as they conduct Bioblitz,
-an extensive survey initiative by NParks. Members also embarked on the
-‘Community in Nature’ project where they worked towards redeveloping certain
-green areas in the school.</p>
-<p>We hope these changes once finally in place will attract more biodiversity
-to ACS(P). We are looking forward to the opportunity in future for our
-members to be eco stewards who will promote awareness of conserving biodiversity.</p>
+<p>Ecomaker Club members will learn to appreciate the environment through
+STEM1 - related activities. They will work together to explore Science.</p>

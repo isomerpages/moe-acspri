@@ -67,10 +67,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pauline Ho Jiahua</p>
+<p>Ms Tay Questal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pauline_ho_jiahua@moe.edu.sg" rel="noopener nofollow" target="_blank">pauline_ho_jiahua@moe.edu.sg</a>
+<p><a href="mailto:Tay_Questal@moe.edu.sg" rel="noopener nofollow" target="_blank">Tay_Questal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -99,16 +99,19 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5></h5>
-<p></p>
 <h4><strong>Programme/ Development</strong></h4>
-<p>Scouting with the ACS(P) Cub Scouts encourages the holistic physical,
-mental, spiritual and social development of each pupil with a strong emphasis
-on duty to God, duty to country, and helping other people. The mission
-of Scouting is to contribute to the education of young people, through
-a value system based on the Scout Promise and Law, to help build a better
-world where people are self-fulfilled as individuals and play a constructive
-role in society.</p>
-<p>With its fun-filled, exciting activities and camps, Cub Scouts can discover,
-learn and put into practice essential life skills through serving others
-and learning by doing.</p>
+<p></p>
+<p>Cub Scouts aims to develop every pupil's full physical, intellectual,
+emotional, social and spiritual capacities as individuals and as members
+of society. We hope to achieve this through fun activities during the weekly
+meetings and various outings.</p>
+<p>Please note that:</p>
+<p>1) There are 2 residential camps that are held over weekends in school
+before March Holidays and June Holidays.</p>
+<p>2) There are district camps and events held during the holidays and on
+certain Saturdays.</p>
+<p>3) New members need to purchase a set of uniform to participate in this
+CCA and this will be an organised purchase as there is a grant for new
+members.</p>
+<p></p>
+<p></p>

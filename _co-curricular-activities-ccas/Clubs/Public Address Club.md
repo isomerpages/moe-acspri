@@ -76,10 +76,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Aravinthan s/o A Karuppiah</p>
+<p>Mr Du Guang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aravinthan_a_karuppiah@moe.edu.sg</a>
+<p><a href="mailto:du_guang@moe.edu.sg" rel="noopener nofollow" target="_blank">du_guang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="2" colspan="1">
@@ -91,31 +91,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chhoa Kok Kheng</p>
+<p>Mr Panneer Selvam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chhoa_kok_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chhoa_kok_kheng@moe.edu.sg</a>
+<p><a href="mailto:panneer_selvam_karuppiah@moe.edu.sg" rel="noopener nofollow" target="_blank">panneer_selvam_karuppiah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Caleb Chua</p>
+<p>Mr Lee Byung Woo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:caleb_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_chua@moe.edu.sg</a>
+<p><a href="mailto:Lee_Byung_Woo@moe.edu.sg" rel="noopener nofollow" target="_blank">Lee_Byung_Woo@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>THU,FRI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>L2 Music Room</p>
+<p>L2 PAL Room</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Programme/ Development</strong></h4>
-<p>Members duties include setting up of the school’s PA system for morning
-assembly and school events.</p>
-<p>Members will learn how to operate the school’s PA system.</p>
+<p></p>
+<p>Duties include setting up of the school's PA system for morning assembly
+and school events. Pupils will learn how to operate the school's PA system.
+Pupils need to be in school by 7.10am.</p>
+<p>Pupils who are interested can select PA as an additional service to the
+school. This is considered a service to school and not considered a traditional
+CCA.</p>

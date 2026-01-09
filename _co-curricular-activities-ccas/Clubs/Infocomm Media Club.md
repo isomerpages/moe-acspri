@@ -61,43 +61,36 @@ variant: tiptap
 <p><a href="mailto:koh_chaik_khoon@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_chaik_khoon@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>WED
 <br>14:15 - 16:15</p>
+<p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4E</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mdm Chen Xiao Xiao</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:chen_xiaoxiao@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_xiaoxiao@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <h4><strong>Programme/ Development</strong></h4>
-<ul>
-<li>
-<p>Creating a Virtual Reality spaces using Cospaces</p>
-</li>
-<li>
-<p>Photography and Photo-Editing Skills using Adobe Lightroom Classic</p>
-</li>
-<li>
-<p>Videography and Video-Editing Skills using CapCut/Kinemaster</p>
-</li>
-</ul>
+<p>Infocomm Media Club aims to develop in our pupils an interest in mass
+media employing digital technology.</p>
 <h4><strong>Competition</strong></h4>
 <ul>
 <li>

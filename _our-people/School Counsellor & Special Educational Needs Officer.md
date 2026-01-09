@@ -72,13 +72,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior SEN Officer</p>
+<p>SEN Officer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Daphne Heng Syn Yee</p>
+<p>Mr Elton Lim Zhan Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_syn_yee_daphne@moe.edu.sg" rel="noopener nofollow" target="_blank">heng_syn_yee_daphne@moe.edu.sg</a>
+<p><a href="mailto:lim_zhan_kuan_elton@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_zhan_kuan_elton@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -88,10 +89,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Elton Lim Zhan Kuan</p>
+<p>Miss Sabirah @ Sunitha d/o Vijayan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_zhan_kuan_elton@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_zhan_kuan_elton@moe.edu.sg</a>
+<p><a href="mailto:Sabirah@moe.edu.sg" rel="noopener nofollow" target="_blank">Sabirah@moe.edu.sg</a>
 </p>
 </td>
 </tr>

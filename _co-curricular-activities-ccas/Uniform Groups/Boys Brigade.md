@@ -60,11 +60,11 @@ variant: tiptap
 <p><a href="mailto:kum_kin_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_kin_meng@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>WED
 <br>14:15 - 16:15&nbsp;</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>3E, 3F</p>
 </td>
 </tr>
@@ -79,10 +79,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joanne Ong</p>
+<p>Ms Chia Jia Yu Chloe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ling_siew_choon_joanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_siew_choon_joanne@moe.edu.sg</a>
+<p><a href="mailto:Chia_Jie_Yu_Chloe@moe.edu.sg" rel="noopener nofollow" target="_blank">Chia_Jie_Yu_Chloe@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Sue-Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_SueAnn_A@moe.edu.sg" rel="noopener nofollow" target="_blank">Tan_SueAnn_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -102,12 +111,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <h4><strong>Programme Development</strong></h4>
-<p>The BB aims to advance Christ’s Kingdom and the promotion of habits of
-obedience, reverence, discipline and self-respect. Activities include a
-fun camp during the June holidays, drills, community service activities,
-First Aid and knot activities. Boys are also given opportunities to participate
+<p>The Boys’ Brigade aims to develop the character of its members based on
+Biblical values and teachings such as obedience, reverence, discipline
+and self-respect. Activities include camps, drills, community service activities,
+First Aid and many others. Boys are also given the opportunities to participate
 in Brigade-wide competitions such as Character Quest and Adventure Quest.
 Pupils need not be a Christian to join.</p>
 <h4><strong>Competition</strong></h4>
