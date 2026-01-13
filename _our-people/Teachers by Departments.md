@@ -869,7 +869,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -935,7 +935,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mrs Jean Lui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_gek_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_gek_lan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -997,6 +1006,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:panneer_selvam_karuppiah@moe.edu.sg" rel="noopener nofollow" target="_blank">panneer_selvam_karuppiah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Revathi d/o Rajan Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:revathi_raja_krishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">revathi_raja_krishnan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
