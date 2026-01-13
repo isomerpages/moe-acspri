@@ -890,7 +890,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -907,6 +907,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hu_biying@moe.edu.sg" rel="noopener nofollow" target="_blank">hu_biying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MrAlvin Ananthan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alvin_ananthan@schools.gov.sg" rel="noopener nofollow" target="_blank">alvin_ananthan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
