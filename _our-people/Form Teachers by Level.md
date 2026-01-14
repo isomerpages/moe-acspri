@@ -912,7 +912,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MrAlvin Ananthan</p>
+<p>Mr Alvin Ananthan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alvin_ananthan@schools.gov.sg" rel="noopener nofollow" target="_blank">alvin_ananthan@schools.gov.sg</a>
