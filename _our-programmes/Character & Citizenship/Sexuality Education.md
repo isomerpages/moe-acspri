@@ -32,7 +32,7 @@ that are premised on the family as the basic unit of society.</p>
 </li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>a) Love and respect yourself as you love and respect others;</p>
+<p>a) Love and respect yourself as you love and respect others.</p>
 <p>b) Build positive relationships based on love and respect (which are the
 foundation for strong families);</p>
 <p>c) Make responsible decisions for yourself, your family and society; and</p>
