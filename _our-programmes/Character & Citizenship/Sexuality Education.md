@@ -44,7 +44,7 @@ ones.</p>
 MOE Sexuality Education.</p>
 </li>
 </ol>
-<h4><strong>OVERVIEW OF ANGLO CHINESE SCHOOL’S (PRIMARY) SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF ANGLO CHINESE SCHOOL’S (PRIMARY) SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -84,7 +84,7 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <p></p>
-<h3><strong>At Anglo-Chinese School (Primary), the following Sexuality Education lessons will be taught in 2025.</strong></h3>
+<h3><strong>At Anglo-Chinese School (Primary), the following Sexuality Education lessons will be taught in 2026.</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/School_Logo/MOE_logo.png">
@@ -377,7 +377,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This option form will be communicated
 to parents at the start of the year via Parent Gateway. The completed opt-out
-form is to be submitted by 22 January 2025.</p>
+form is to be submitted by 30 January 2026.</p>
 </li>
 <li>
 <p>Parents can contact Mr Caleb Chua at <a href="mailto:caleb_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">caleb_chua@moe.edu.sg</a> to seek clarification
