@@ -83,6 +83,24 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
+<h4><strong>INFORMATION FOR PARENTS</strong></h4>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This option form will be communicated
+to parents at the start of the year via Parent Gateway. The completed opt-out
+form is to be submitted by 30 January 2026.</p>
+</li>
+<li>
+<p>Parents can contact Mr Caleb Chua at <a href="mailto:caleb_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">caleb_chua@moe.edu.sg</a> to seek clarification
+about the school’s Sexuality Education programme.</p>
+</li>
+</ol>
+<p></p>
 <p></p>
 <h3><strong>At Anglo-Chinese School (Primary), the following Sexuality Education lessons will be taught in 2026.</strong></h3>
 <p></p>
@@ -367,21 +385,5 @@ and learn to behave maturely towards each other.</p>
 </table>
 <p></p>
 <p></p>
-<h4>&nbsp;<strong>INFORMATION FOR PARENTS</strong></h4>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p>Parents may opt their children out of Sexuality Education lessons, and/or
-supplementary Sexuality Education programmes by MOE-approved external providers.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This option form will be communicated
-to parents at the start of the year via Parent Gateway. The completed opt-out
-form is to be submitted by 30 January 2026.</p>
-</li>
-<li>
-<p>Parents can contact Mr Caleb Chua at <a href="mailto:caleb_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">caleb_chua@moe.edu.sg</a> to seek clarification
-about the school’s Sexuality Education programme.</p>
-</li>
-</ol>
+<h4>&nbsp;</h4>
 <p></p>
