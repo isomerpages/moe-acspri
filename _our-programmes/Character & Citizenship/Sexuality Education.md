@@ -380,8 +380,9 @@ to parents at the start of the year via Parent Gateway. The completed opt-out
 form is to be submitted by 30 January 2026.</p>
 </li>
 <li>
-<p>Parents can contact Mr Caleb Chua at <a href="mailto:caleb_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">caleb_chua@moe.edu.sg</a> to seek clarification
-about the school’s Sexuality Education programme.</p>
+<p>Parents can contact Mr Caleb Chua at <a href="Mailto:caleb_chua@moe.edu.sg" rel="noopener nofollow" target="_blank">caleb_chua@moe.edu.sg</a> or Ms Chua
+Xin Rong (HOD CCE) at <a href="mailto:chua_xin_rong@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_xin_rong@moe.edu.sg</a>to
+seek clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
 <p></p>
