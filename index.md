@@ -40,16 +40,16 @@ sections:
       title: Announcements
       id: textcards
       cards:
-        - title: Card
+        - title: Distinguished CL Teachers Awards 2026
           description: ""
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+          url: https://acspri.sg/distinguished-chinese-language-teachers-awards-2026/
+        - title: Most Inspiring Tamil Teacher 2026
+          description: ""
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+          url: https://acspri.sg/most-inspiring-tamil-teacher-2026/
+        - title: Arif Budiman Malay Language Teachers Award 2026
+          description: ""
           linktext: Learn more
-          url: ""
+          url: https://acspri.sg/arif-budiman-malay-language-teachers-award-2026/
 ---
