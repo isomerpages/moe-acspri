@@ -1,5 +1,4 @@
 collections:
   mt-teachers-awards-2026:
     output: true
-    order:
-      - 2026.md
+    order: []
