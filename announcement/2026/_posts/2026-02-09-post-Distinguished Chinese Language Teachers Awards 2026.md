@@ -14,9 +14,12 @@ year. The awards also recognise the efforts of teachers who have successfully
 fostered in their students an appreciation for Chinese language and culture.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT Teachers Awards 2026/CL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT Teachers Awards 2026/2026POSTERMOE260204.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MT Teachers Awards 2026/QR_code_DCLTA_2026_Nomination_Final.jpg">
+</div>
 <p>The Distinguished Chinese Language Teachers Awards 2026 is co-organised
 by Singapore Centre for Chinese Language, The Society of Chinese Education
 Singapore, Singapore Chinese Teachers’ Union and Singapore Middle School
