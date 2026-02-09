@@ -36,20 +36,4 @@ sections:
       alt: AskGov
       url: https://ask.gov.sg/acps
       image: /images/acps-askgov.png
-  - textcards:
-      title: Announcements
-      id: textcards
-      cards:
-        - title: Distinguished CL Teachers Awards 2026
-          description: ""
-          linktext: Learn more
-          url: https://acspri.sg/distinguished-chinese-language-teachers-awards-2026/
-        - title: Most Inspiring Tamil Teacher 2026
-          description: ""
-          linktext: Learn more
-          url: https://acspri.sg/most-inspiring-tamil-teacher-2026/
-        - title: Arif Budiman Malay Language Teachers Award 2026
-          description: ""
-          linktext: Learn more
-          url: https://acspri.sg/arif-budiman-malay-language-teachers-award-2026/
 ---
