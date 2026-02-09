@@ -21,5 +21,6 @@ following nomination form. &nbsp; &nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT Teachers Awards 2026/2__AGAB_2026_Poster.jpg">
 </div>
 <p></p>
-<p></p>
+<p>For more information, click <a href="https://www.moe.gov.sg/news/press-releases/20260202-nominations-open-for-arif-budiman-malay-language-teacher-award-2026" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p></p>
