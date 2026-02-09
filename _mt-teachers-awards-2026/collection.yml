@@ -1,4 +1,5 @@
 collections:
   mt-teachers-awards-2026:
     output: true
-    order: []
+    order:
+      - Arif Budiman Malay Language Teachers Award 2026.md
