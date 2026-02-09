@@ -25,7 +25,7 @@ sections:
       button: click here to read more
       url: /acs-brand-of-education/
   - resources:
-      title: Announcement
+      title: "2026"
       id: resources
       button: Read More
   - infopic:
