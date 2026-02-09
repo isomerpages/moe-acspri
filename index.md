@@ -37,17 +37,16 @@ sections:
       url: https://ask.gov.sg/acps
       image: /images/acps-askgov.png
   - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
+      title: test
       id: infocols
       linktext: Learn more
       infoboxes:
-        - title: Infobox
+        - title: resr1
           description: Infobox description
+        - title: vfsedagtegwe
+          description: ""
+        - title: wca frcq4
+          description: ""
         - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+          description: t3wfty34yt4
 ---
