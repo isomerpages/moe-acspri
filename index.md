@@ -19,7 +19,7 @@ sections:
           url: /for-parents/admin-matters/forms/
       background: /images/School_Logo/Web_Main140_1_3.gif
   - resources:
-      title: Announcement
+      title: Announcements
       id: resources
       button: Read More
   - infobar:
