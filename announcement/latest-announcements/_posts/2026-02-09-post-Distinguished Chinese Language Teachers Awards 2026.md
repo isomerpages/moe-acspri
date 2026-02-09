@@ -13,7 +13,6 @@ efforts towards the teaching of Chinese language and culture over the past
 year. The awards also recognise the efforts of teachers who have successfully
 fostered in their students an appreciation for Chinese language and culture.</p>
 <p>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT Teachers Awards 2026/CL.jpg">
 </div>
