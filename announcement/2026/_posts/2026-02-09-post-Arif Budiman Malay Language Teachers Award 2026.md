@@ -5,7 +5,7 @@ date: 2026-02-09
 layout: post
 description: Learn more
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p>The Arif Budiman Malay Language Teacher Award (AGAB) 2026 recognises the
 contributions of Malay Language teachers in the teaching and learning of
