@@ -50,3 +50,7 @@ encouraged to nominate the teachers via the nomination forms.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT Teachers Awards 2026/2__MITT_2026_Poster.jpg">
 </div>
 <p></p>
+<p></p>
+<p></p>
+<p>For more information, <a href="https://www.moe.gov.sg/news/press-releases/20190219-open-for-nominations-most-inspiring-tamil-teachers-award-2019" rel="noopener nofollow" target="_blank">here</a>
+</p>
