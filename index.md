@@ -36,17 +36,24 @@ sections:
       alt: AskGov
       url: https://ask.gov.sg/acps
       image: /images/acps-askgov.png
-  - infocols:
-      title: test
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: resr1
-          description: Infobox description
-        - title: vfsedagtegwe
-          description: ""
-        - title: wca frcq4
-          description: ""
-        - title: Infobox
-          description: t3wfty34yt4
+  - textcards:
+      title: LATEST ANNOUNCEMENTS
+      id: textcards
+      cards:
+        - title: "2026"
+          description: Most Inspiring Tamil Teacher 2026
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
