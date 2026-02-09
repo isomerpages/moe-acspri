@@ -17,7 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/admin-matters/forms/
-      background: /images/School_Logo/Web_Main140_1_3.gif
+      background: /images/School_Logo/Web_Main140_1.gif
   - resources:
       title: Announcements
       id: resources
