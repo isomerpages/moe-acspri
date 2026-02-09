@@ -25,3 +25,6 @@ and junior colleges are eligible for nomination (except for past winners).</p>
 <p>Nominations can be made online at <a href="https://zb.sg/dclta2026" rel="noopener nofollow" target="_blank">https://zb.sg/dclta2026</a><a href="http://dclta2021.sphevents.com.sg/%23inbox/_blank" rel="noopener noreferrer nofollow" target="_blank"> </a>or
 by scanning of QR code included in the posters. The closing date for nominations
 is 30 April 2026 (Thursday).</p>
+<p></p>
+<p>For more information, click <a href="https://www.moe.gov.sg/news/press-releases/20260202-nominations-open-for-arif-budiman-malay-language-teacher-award-2026" rel="noopener nofollow" target="_blank">here</a>
+</p>
