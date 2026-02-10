@@ -1011,7 +1011,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Revathi d/o Rajan Krishnan</p>
+<p>Mdm Revathi d/o Raja Krishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:revathi_raja_krishnan@moe.edu.sg" rel="noopener nofollow" target="_blank">revathi_raja_krishnan@moe.edu.sg</a>

@@ -17,17 +17,17 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/admin-matters/forms/
-      background: /images/School_Logo/Web_Main140_1_3.gif
+      background: /images/School_Logo/Web_Main140_4.gif
+  - resources:
+      title: LATEST ANNOUNCEMENTS
+      id: resources
+      button: Read More
   - infobar:
       title: The ACS(P) Brand of Education
       description: The ACS(P) brand of education is anchored on our Founder, Bishop
         Oldham’s vision of the ACS philosophy of education.
       button: click here to read more
       url: /acs-brand-of-education/
-  - resources:
-      title: Announcement
-      id: resources
-      button: Read More
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a question?

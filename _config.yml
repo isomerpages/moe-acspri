@@ -3,18 +3,18 @@ url: https://acspri.sg
 favicon: /images/logo.jpg
 colors:
   primary-color: "#2a3677"
-  secondary-color: "#9a0000"
+  secondary-color: "#2a3677"
   media-colors:
     - title: media-color-one
       color: "#2a3677"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#2a3677"
     - title: media-color-three
-      color: "#00838f"
+      color: "#2a3677"
     - title: media-color-four
-      color: "#00838f"
+      color: "#2a3677"
     - title: media-color-five
-      color: "#00838f"
+      color: "#2a3677"
 description: ""
 permalink: none
 baseurl: ""
