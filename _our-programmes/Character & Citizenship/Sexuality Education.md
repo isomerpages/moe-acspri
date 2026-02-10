@@ -156,8 +156,8 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 10</p>
+<p>Term 1
+<br>Week 8</p>
 </td>
 </tr>
 <tr>
@@ -176,8 +176,8 @@ own responses when they encounter pornography by applying the strategy
 so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4
-<br>Week 10</p>
+<p>Term 3
+<br>Week 5</p>
 </td>
 </tr>
 <tr>
@@ -194,8 +194,8 @@ and how to seek help for themselves and their friends.</p>
 so that the students will feel more comfortable during the discussions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4
-<br>Week 3</p>
+<p>Term 3
+<br>Week 8</p>
 </td>
 </tr>
 <tr>
@@ -263,31 +263,6 @@ so that the students will feel more comfortable during the discussions</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -306,7 +281,7 @@ healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1
-<br>Week 7</p>
+<br>Week 9</p>
 </td>
 </tr>
 <tr>
@@ -323,8 +298,8 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1
-<br>Week 8</p>
+<p>Term 2</p>
+<p>Week 2</p>
 </td>
 </tr>
 <tr>
