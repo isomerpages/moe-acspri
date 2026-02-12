@@ -1,9 +1,9 @@
 ---
-title: Most Inspiring Tamil Teacher 2026
-permalink: /most-inspiring-tamil-teacher-2026/
-date: 2026-02-09
+title: Most Inspiring Tamil Teachers’ Award 2026
+permalink: /most-inspiring-tamil-teachers-award-2026/
+date: 2026-02-12
 layout: post
-description: Learn more
+description: ""
 image: ""
 variant: tiptap
 ---

@@ -1,5 +1,5 @@
 ---
-title: Most Inspiring Tamil Teacher 2026
+title: Most Inspiring Tamil Teachers’ Award’ 2026
 permalink: /most-inspiring-tamil-teacher-2026/
 variant: tiptap
 description: ""
