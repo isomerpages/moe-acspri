@@ -1,8 +1,4 @@
 contact_us: /contact-us/
 show_reach: false
 faq: /faq/
-social_media:
-  facebook: https://www.facebook.com/YourFBPage
-  linkedin: https://www.linkedin.com/company/YourAgency
-  twitter: https://www.twitter.com/YourTwitter
-  instagram: https://www.instagram.com/your.insta/
+social_media: {}
