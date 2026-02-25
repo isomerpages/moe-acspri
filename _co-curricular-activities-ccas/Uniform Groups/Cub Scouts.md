@@ -6,8 +6,10 @@ third_nav_title: Uniform Groups
 variant: tiptap
 ---
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Cub_Scouts_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Website.jpg">
 </div>
 <table style="minWidth: 100px">
 <colgroup>
