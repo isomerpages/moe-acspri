@@ -32,3 +32,6 @@ variant: markdown
 
 
 ##### [Transport Pair Chat Assistant](https://pair.gov.sg/share/asst/assistant_189e164c-3419-4311-8d01-9c8b3e76be27)
+
+
+##### [Procurement Pair Chat Assistant](https://pair.gov.sg/share/asst/assistant_c741a12d-d79d-42c0-b597-cbdea9f9452b)
