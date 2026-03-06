@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong>Type of Stall: Chinese Noodle</strong>
 </p>
-<p><strong>Closing Date: 27 Feb 2026</strong>
+<p><strong>Closing Date: 22 Mar 2026</strong>
 </p>
 <p><strong>Requirements: Any Asian Cuisine (Non-Halal)</strong>
 </p>
