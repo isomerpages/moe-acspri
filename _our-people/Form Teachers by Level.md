@@ -254,7 +254,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,6 +271,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_zong_yang_charles@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Swee Kun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Swee_Kun@moe.edu.sg" rel="noopener nofollow" target="_blank">Tan_Swee_Kun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -300,10 +309,10 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Bao Wen Mark</p>
+<p>Mrs Shirlena Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_bao_wen_mark@moe.edu.sg" rel="noopener nofollow" target="_blank">leong_bao_wen_mark@moe.edu.sg</a>
+<p><a href="mailto:yap_siew_cheng_shirlena@moe.edu.sg" rel="noopener nofollow" target="_blank">yap_siew_cheng_shirlena@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -848,7 +857,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -865,6 +874,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aravinthan_a_karuppiah@moe.edu.sg" rel="noopener nofollow" target="_blank">aravinthan_a_karuppiah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kumaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="" rel="noopener nofollow" target="_blank">kumaran_veerapandian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
