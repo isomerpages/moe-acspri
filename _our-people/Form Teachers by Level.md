@@ -882,7 +882,8 @@ variant: tiptap
 <p>Mr Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="" rel="noopener nofollow" target="_blank">kumaran_veerapandian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
