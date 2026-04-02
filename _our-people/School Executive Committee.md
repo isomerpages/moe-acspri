@@ -240,68 +240,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Year Head/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Janis Pavia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head/Upper Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kumaran Veerapandian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="kumaran_veerapandian@moe.edu.sg" rel="noopener nofollow" target="_blank">kumaran_veerapandian@moe.edu.sg</a>
+<p><a href="mailto:lau_kah_ling_janis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kah_ling_janis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -319,25 +264,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head/Lower Primary</p>
+<p>Year Head/Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Janis Pavia</p>
+<p>Mr Kumaran Veerapandian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_kah_ling_janis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kah_ling_janis@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head/Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Dawn Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_seow_seah_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_seow_seah_dawn@moe.edu.sg</a>
+<p><a href="kumaran_veerapandian@moe.edu.sg" rel="noopener nofollow" target="_blank">kumaran_veerapandian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -350,6 +283,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoong_xiu_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">hoong_xiu_qin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head/Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Dawn Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_seow_seah_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_seow_seah_dawn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -415,6 +360,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Ting Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Megumi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_megumi@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_megumi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head/Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,26 +420,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Mathematics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Ting Ting</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_ting_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_ting_ting@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Mathematics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Megumi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_megumi@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_megumi@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
