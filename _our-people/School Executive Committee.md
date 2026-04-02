@@ -111,10 +111,10 @@ variant: tiptap
 <p>Head of Department/Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kathleen Chan</p>
+<p>Mdm Josephine See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_yin_hong_kathleen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yin_hong_kathleen@moe.edu.sg</a>
+<p><a href="mailto:see_kwan_hui_josephine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_kwan_hui_josephine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -123,10 +123,10 @@ variant: tiptap
 <p>Head of Department/Gifted Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Josephine See</p>
+<p>Mdm Kathleen Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:see_kwan_hui_josephine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_kwan_hui_josephine@moe.edu.sg</a>
+<p><a href="mailto:chan_yin_hong_kathleen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yin_hong_kathleen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -139,18 +139,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:heng_siok_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_siok_pheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Acting Head of Department / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Pei Khim Aubrey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>ong_pei_khim_aubrey@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -180,18 +168,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Science (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Tai Yao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>chan_tai_yao@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Head of Department/Special Educational Needs &amp; Values-In-Action</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -211,6 +187,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_loon_kiat_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_loon_kiat_edwin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department/Science (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Tai Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>chan_tai_yao@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -300,6 +288,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Acting Head of Department / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Pei Khim Aubrey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>ong_pei_khim_aubrey@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -343,6 +343,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head/English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Su Xinhui Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -427,18 +439,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_hwee_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head/English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Su Xinhui Sarah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:su_xinhui_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_xinhui_sarah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
