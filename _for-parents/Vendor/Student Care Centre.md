@@ -1,5 +1,5 @@
 ---
-title: 2025 Student Care Centre
+title: Student Care Centre
 permalink: /for-parents/vendor/student-care-centre/
 description: ""
 third_nav_title: Vendor
