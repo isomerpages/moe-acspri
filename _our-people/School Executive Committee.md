@@ -72,18 +72,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Xin Rong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_xin_rong@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_xin_rong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Head of Department/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,13 +84,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Science (Covering)</p>
+<p>Head of Department/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Tai Yao</p>
+<p>Ms Chua Xin Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>chan_tai_yao@moe.edu.sg</u></a>
+<p><a href="mailto:chua_xin_rong@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_xin_rong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -115,18 +103,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jasmine_kaur@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_kaur@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Acting Head of Department / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Pei Khim Aubrey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>ong_pei_khim_aubrey@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -168,6 +144,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Acting Head of Department / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Pei Khim Aubrey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_pei_khim_aubrey@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>ong_pei_khim_aubrey@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Head of Department/Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,6 +175,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wee_meng_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wee_meng_kelvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department/Science (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Tai Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_tai_yao@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>chan_tai_yao@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -236,6 +236,61 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kogilavani_vathumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kogilavani_vathumalai@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
