@@ -339,7 +339,7 @@ variant: tiptap
 <p>Subject Head/Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Neo Lin Li</p>
+<p>Mrs Tan Neo Lin Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
@@ -427,18 +427,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_cui_yun@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_cui_yun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head/Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chiew Hwee Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chiew_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_hwee_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
