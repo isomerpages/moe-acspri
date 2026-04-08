@@ -60,7 +60,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="4" colspan="1">
-<p>MON 14:15 - 16.15 (SCHOOL TEAM)</p>
+<p>MON 14:15 - 16:15 (SCHOOL TEAM)</p>
 <p></p>
 </td>
 <td rowspan="4" colspan="1">
