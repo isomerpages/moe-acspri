@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Badminton.jpeg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Bedminton1.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -106,7 +106,7 @@ variant: tiptap
 <p>WED 14:15-16:15 (SCHOOL &amp; RECREATIONAL TEAM)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>SPORTS HALL</p>
+<p>ISH</p>
 </td>
 </tr>
 <tr>
