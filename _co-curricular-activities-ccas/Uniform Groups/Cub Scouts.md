@@ -59,12 +59,12 @@ variant: tiptap
 <p><a href="mailto:loh_su_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_su_hian@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>WED
 <br>&nbsp;14:15 - 16:15&nbsp;</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>3A</p>
+<td rowspan="4" colspan="1">
+<p>6F</p>
 </td>
 </tr>
 <tr>
@@ -82,6 +82,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hu_biying@moe.edu.sg" rel="noopener nofollow" target="_blank">hu_biying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Shirlena Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_siew_cheng_shirlena@moe.edu.sg" rel="noopener nofollow" target="_blank">yap_siew_cheng_shirlena@moe.edu.sg</a>
 </p>
 </td>
 </tr>
