@@ -87,7 +87,8 @@ variant: tiptap
 <p>Mdm Lu Youge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Mailto:lu_youge@moe.edu.sg" rel="noopener nofollow" target="_blank">lu_youge@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>MON 14:30-16:30</p>
@@ -120,8 +121,7 @@ variant: tiptap
 <p>Mdm Bavani D/O Balasubarammany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">Bavani_balasubarammany@moe.edu.sg</a>
-<a href="mailto:lu_youge@moe.edu.sg" rel="noopener nofollow" target="_blank">lu_youge@moe.edu.sg</a>
+<p><a href="Mailto:Bavani_balasubarammany@moe.edu.sg" rel="noopener nofollow" target="_blank">Bavani_balasubarammany@moe.edu.sg</a>
 </p>
 </td>
 </tr>
