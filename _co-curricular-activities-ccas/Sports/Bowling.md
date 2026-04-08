@@ -91,10 +91,10 @@ variant: tiptap
 </td>
 <td rowspan="4" colspan="1">
 <p>MON 14:30-16:30</p>
-<p>WED 14:30-16:60 (SCHOOL TEAM)</p>
+<p>WED 14:30-16:30 (SCHOOL TEAM)</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>NSG VENUE</p>
+<p>TPY SAFRA and Mount Faber SAFRA</p>
 </td>
 </tr>
 <tr>
