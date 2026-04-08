@@ -106,7 +106,7 @@ variant: tiptap
 <p>WED 14:15-16:15 (SCHOOL &amp; RECREATIONAL TEAM)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>SPORTS HALL</p>
+<p>ISH</p>
 </td>
 </tr>
 <tr>
