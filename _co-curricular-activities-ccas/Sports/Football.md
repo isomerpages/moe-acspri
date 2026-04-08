@@ -83,7 +83,7 @@ variant: tiptap
 <p>Ms Megumi Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:megumi_soh@moe.gov.sg" rel="noopener nofollow" target="_blank">megumi_soh@moe.gov.sg</a>
+<p><a href="mailto:soh_megumi@moe.edu.sg" rel="noopener nofollow" target="_blank">soh_megumi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
