@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Badminton.jpeg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Bedminton1.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
