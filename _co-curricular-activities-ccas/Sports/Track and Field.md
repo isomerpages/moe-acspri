@@ -58,12 +58,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="7" colspan="1">
-<p>MON 14:30 - 16:30 (School Team)
+<p>MON 14:15 - 16:15 (School Team)
 <br>
-<br>&nbsp;WED 14:30 - 16:30 &nbsp;(Recreational)</p>
+<br>&nbsp;WED 14:15 - 16:15 &nbsp;(Recreational)</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>TPY STADIUM</p>
+<p>ACJC</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>ACSP</p>
+<p></p>
 </td>
 </tr>
 <tr>
