@@ -60,21 +60,16 @@ variant: tiptap
 <td rowspan="7" colspan="1">
 <p>MON 14:15 - 16:15 (School Team)
 <br>
+</p>
+<p></p>
+<p></p>
+<p>
 <br>&nbsp;WED 14:15 - 16:15 &nbsp;(Recreational)</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="2" colspan="1">
 <p>ACJC</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>ACSP</p>
 <p></p>
 </td>
 </tr>
@@ -94,6 +89,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anbazhagansuja_a@moe.edu.sg" rel="noopener nofollow" target="_blank">anbazhagansuja_a@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="5" colspan="1">
+<p>ACSP</p>
 </td>
 </tr>
 <tr>
