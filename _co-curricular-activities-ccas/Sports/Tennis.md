@@ -131,7 +131,33 @@ Schools Sports Council (SSSC) in both the Senior and Junior Divisions.</p>
 <p>National School Games 2022 Tennis Senior Division (2nd)</p>
 </li>
 <li>
-<p>National School Games 2021 Tennis Senior Division (1st)</p>
+<p>National School Games 2021 Tennis Senior Division (1st)
+<br>
+</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Tennis1.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Tennis2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Tennis4.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_photos/Tennis3.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
