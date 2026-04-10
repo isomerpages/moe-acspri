@@ -61,7 +61,7 @@ variant: tiptap
 <p>MON&nbsp;14:15 - 16:15
 <br>(Recreational Team)
 <br>&nbsp;WED 14:15 - 17:15
-<br>(School Team)</p>
+<br>(School Team training squad)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>BARKER TENNIS COURTS</p>
