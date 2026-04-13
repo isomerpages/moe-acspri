@@ -65,7 +65,7 @@ variant: tiptap
 <br>14:15 - 16:15&nbsp;</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>3E, 3F</p>
+<p>PAL Room</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Jia Yu Chloe</p>
+<p>Ms Chia Jie Yu Chloe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Chia_Jie_Yu_Chloe@moe.edu.sg" rel="noopener nofollow" target="_blank">Chia_Jie_Yu_Chloe@moe.edu.sg</a>
