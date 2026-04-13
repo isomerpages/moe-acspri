@@ -65,7 +65,7 @@ variant: tiptap
 <br>14:15 - 16:15&nbsp;</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>3E, 3F</p>
+<p>PAL Room</p>
 </td>
 </tr>
 <tr>
