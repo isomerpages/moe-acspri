@@ -2,4 +2,4 @@ collections:
   standby:
     output: true
     order:
-      - Example Title.md
+      - School Canteen Advertisement.md
