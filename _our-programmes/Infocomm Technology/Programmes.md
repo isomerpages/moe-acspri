@@ -43,13 +43,18 @@ of digital technologies. Through our key programmes, we focus on developing
 <p></p>
 <p><strong>Key ICT Programmes</strong>
 </p>
-<p><strong>ICT Baseline Programme (P1–6):</strong> Interactive lessons and
-online self-directed learning covering essential technological skills including
-touch typing, document processing, and presentation applications.</p>
-<p><strong>Cyber Wellness:</strong> Interactive programmes that teach students
+<p><strong>ICT Baseline Programme (P1–6): </strong>Interactive lessons and
+online self-directed learning covering essential technological skills.
+These serve as a roadmap for students to develop their digital skills progressively.
+Skills include touch typing, document processing applications, and presentation
+applications.</p>
+<p><strong>Cyber Wellness</strong>: Interactive programmes that teach students
 online etiquette, cyberbullying awareness, and personal information protection.</p>
 <p><strong>Coding &amp; Computational Thinking (P4 &amp; 5):</strong> Students
-learn block-based coding and develop computational thinking skills.</p>
+learn block-based coding and develop computational thinking skills. The
+programme also introduces students to current technology trends, including
+Artificial Intelligence (AI) concepts and introduction to the Internet
+of Things (IoT).</p>
 <p>At ACS(P), we leverage ICT to inspire curiosity, collaboration, and innovation,
 preparing students as effective and responsible digital learners for an
 ever-evolving digital future.</p>
