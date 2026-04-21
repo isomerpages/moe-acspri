@@ -6,8 +6,9 @@ third_nav_title: Infocomm Technology
 variant: tiptap
 ---
 <h3><strong>Vision</strong></h3>
-<p>To build digitally ready ACSians of Capability, Character and Creativity,
-harnessing ICT to go beyond.</p>
+<p>Empowering our students through <strong>innovative teaching and learning</strong>,
+dedicated to nurturing<strong> Future-ready, Responsible Digital Learners </strong>and <strong>Creative Collaborators.</strong>
+</p>
 <h3><strong>Mission</strong></h3>
 <p>In line with MOE EdTech Masterplan 2030, the four pillars of our mission
 are:</p>
