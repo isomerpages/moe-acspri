@@ -37,6 +37,9 @@ of digital technologies. Through our key programmes, we focus on developing
 9 core digital competencies, aligned with the EdTech Masterplan 2030's
 "Find, Think, Apply, Create" framework.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Digital Literacy and Technological Skills - 9 Digital Competencies" src="/images/School_Logo/DLTS.png">
+</div>
 <p></p>
 <p><strong>Key ICT Programmes</strong>
 </p>
