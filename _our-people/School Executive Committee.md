@@ -39,10 +39,10 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jachin Huang</p>
+<p>Mrs Jeanne Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_junxian@schools.gov.sg" rel="noopener nofollow" target="_blank">huang_junxian@schools.gov.sg</a>
+<p><a href="mailto:teh_hsiao_chuin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_hsiao_chuin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -51,10 +51,10 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jeanne Wan</p>
+<p>Mr Jachin Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teh_hsiao_chuin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_hsiao_chuin@schools.gov.sg</a>
+<p><a href="mailto:huang_junxian@schools.gov.sg" rel="noopener nofollow" target="_blank">huang_junxian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
