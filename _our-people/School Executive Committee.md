@@ -339,7 +339,7 @@ variant: tiptap
 <p>Subject Head/Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Neo Lin Li</p>
+<p>Mrs Neo Lin Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lin_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_li@moe.edu.sg</a>
