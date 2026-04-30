@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - 2027 P1 registration Infosheet.md
       - Admin Matters/P1 Registration Information.md
       - Admin Matters/.keep
       - Admin Matters/Forms.md
