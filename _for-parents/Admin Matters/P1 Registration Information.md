@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Admin Matters
 ---
-<h3><strong>2026 P1 ADMINISTRATIVE DETAILS – ANNEX A</strong></h3>
+<h3><strong>P1 ADMINISTRATIVE DETAILS – ANNEX A</strong></h3>
 <p></p>
 <p><a href="/files/P1_admin_2026/1a_On.pdf" rel="noopener nofollow" target="_blank">1a. One-Time On-Boarding PG Info Sheet.pdf</a>
 </p>
