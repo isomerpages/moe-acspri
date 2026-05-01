@@ -2,12 +2,13 @@ collections:
   for-parents:
     output: true
     order:
+      - 2027 P1 Registration Infosheet.md
+      - Admin Matters/P1 Registration Information.md
       - Admin Matters/.keep
       - Admin Matters/Forms.md
       - Admin Matters/Group Personal Accident (GPA) Insurance Plan.md
       - Admin Matters/SimplyGo Hotline.md
       - School Booklist 2026.md
-      - P1 Registration Information.md
       - Personal Data Protection/.keep
       - Personal Data Protection/Personal Data Protection Policy.md
       - Personal Data Protection/Privacy Policy.md

@@ -3,8 +3,9 @@ title: P1 Registration Information
 permalink: /for-parents/p1-registration-information/
 description: ""
 variant: tiptap
+third_nav_title: Admin Matters
 ---
-<h3><strong>2026 P1 ADMINISTRATIVE DETAILS – ANNEX A</strong></h3>
+<h3><strong>P1 ADMINISTRATIVE DETAILS – ANNEX A</strong></h3>
 <p></p>
 <p><a href="/files/P1_admin_2026/1a_On.pdf" rel="noopener nofollow" target="_blank">1a. One-Time On-Boarding PG Info Sheet.pdf</a>
 </p>
@@ -52,6 +53,7 @@ variant: tiptap
 </p>
 <p><a href="/files/P1_admin_2026/P1Handbook_update.pdf" rel="noopener nofollow" target="_blank">P1 Handbook for Parents 2026</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
