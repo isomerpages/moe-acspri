@@ -1,5 +1,5 @@
 ---
-title: P1 Registration Information
+title: P1 Admin Information
 permalink: /for-parents/p1-registration-information/
 description: ""
 variant: tiptap
