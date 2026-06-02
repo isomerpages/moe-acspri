@@ -39,7 +39,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teoh Tiong Ann</p>
+<p>Mr Tan Chin Han Adam</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Adam Tan Chin Han</p>
+<p>Dr Teoh Tiong Ann</p>
 </td>
 </tr>
 <tr>
@@ -63,31 +63,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Seow</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rev Kenneth Huang Teng Han</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rev Dr Aaron Tay Tian Yeow</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Teck Yin</p>
+<p>Rev Dr Tay Tian Yeow Aaron</p>
 </td>
 </tr>
 <tr>
@@ -96,14 +72,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Prof Ong Biauw Chi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Hugh Lim</p>
 </td>
 </tr>
 <tr>
@@ -120,6 +88,38 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Wong Chiang Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hugh Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Lung Nien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Hin Pkin Wendell</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Tan Tin Wee</p>
 </td>
 </tr>
 <tr>
