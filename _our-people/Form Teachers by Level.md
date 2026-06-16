@@ -254,7 +254,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,15 +271,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_zong_yang_charles@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_zong_yang_charles@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Swee Kun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Swee_Kun@moe.edu.sg" rel="noopener nofollow" target="_blank">Tan_Swee_Kun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
