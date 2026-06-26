@@ -72,6 +72,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jamie Chaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lo_hwee_ling_jamie@moe.edu.sg" rel="noopener nofollow" target="_blank">lo_hwee_ling_jamie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Head of Department/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
