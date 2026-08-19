@@ -160,7 +160,7 @@ variant: tiptap
 <p>Acting Senior Teacher/Lower Primary Learners</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Chan Wai Ying, Elyse</p>
+<p>Ms Chan Wai Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="MAILTO:Chan_wai_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">Chan_wai_ying@moe.edu.sg</a>
