@@ -50,41 +50,14 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p></p>
-<p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-<a href="" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[EF(1]</a>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-<a href="" rel="noopener noreferrer nofollow" target="_blank">Application Form for Business</a><a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[EF(2]</a>&nbsp;</p>
+<p><a href="/files/Canteen Adv/Application_Form_For_Individual.pdf" rel="noopener nofollow" target="_blank">Application Form for individual stallholder[EF(1]&nbsp;</a>
+</p>
+<p><a href="/files/Canteen Adv/Application_Form_For_Business_Entity.pdf" rel="noopener nofollow" target="_blank">Application Form for Business[EF(2]</a>
+</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
+<p>Attached the following documents together with the Application Form:</p>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For Business</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Attached the following documents tog</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>ether with the Application Form:</p>
 </li>
 </ol>
 <table style="minWidth: 50px">
@@ -98,7 +71,7 @@ General Office.</p>
 <p>For Individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>For Business</p>
 </td>
 </tr>
 <tr>
@@ -169,10 +142,10 @@ School’s General Office by the closing date.</p>
 </li>
 <li>
 <p>Bus number: 48, 67, 170, 960, 960e, 972M</p>
-</li>
-</ul>
 <p><strong>&nbsp;</strong>
 </p>
+</li>
+</ul>
 <p><strong>Interested applicants must meet the following criteria:</strong>
 </p>
 <table style="minWidth: 50px">
