@@ -177,7 +177,7 @@ Prices will be determined in consultation with the school.</p>
 <li>
 <p>Able to provide cooked food/drinks&nbsp; that meets the health / nutritional
 standards set by the Health Promotion Board (HPB) under the “Healthy Meals
-in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme/" rel="noopener nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene. This
@@ -209,7 +209,7 @@ Prices will be determined in consultation with the school.</p>
 <li>
 <p>Able to provide cooked food/drinks that meets the health / nutritional
 standards set by the Health Promotion Board (HPB) under the “Healthy Meals
-in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+in Schools Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme/" rel="noopener nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene. This
