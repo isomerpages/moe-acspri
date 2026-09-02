@@ -93,11 +93,10 @@ etc</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>iness Information</p>
+<p>ACRA’s Business Information</p>
 </li>
 <li>
-<p>List o</p>
-<p>ACRA’s Busf proposed food/drinks items and selling prices for all items</p>
+<p>List of proposed food/drinks items and selling prices for all items</p>
 </li>
 <li>
 <p>Photocopy of relevant certificates such as SFA licence for the existing
