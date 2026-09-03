@@ -634,7 +634,7 @@ variant: tiptap
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Arina Binte Khaharudin</p>
+<p>Miss Arina Binte Khaharuddin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:arina_khaharuddin@moe.edu.sg" rel="noopener nofollow" target="_blank">arina_khaharuddin@moe.edu.sg</a>
